@@ -1,5 +1,6 @@
 """
 Goals:
+- WE ALSO HAVE TO LOAD TESTING DATA INTO IOB FORMAT
 - Load training data (two folders: original text & corresponding annotations)
 - Tokenize on whitespace
 - Convert tokens to IOB sequences
@@ -66,13 +67,16 @@ class DataLoader:
 def main():
     ### load small example training data (just to test out code on small subset)
     example = DataLoader(sys.argv[1], sys.argv[2])
-    df = example.data()
+    train_df = example.data()
+    train_df['type'] = 'train'
 
     # # load beth training data
     # beth = DataLoader(sys.argv[3], sys.argv[4])
     # # load partners training data
     # partners = DataLoader(sys.argv[5], sys.argv[6])
-    # # merge beth and partners dataframes into one
+    # # run pipeline on test data
+    # test = DataLoader(sys.argv[7], sys.argv[8])
+    # # merge beth, partners, and test dataframes into one
 
     ### pickle or SQL???
 
