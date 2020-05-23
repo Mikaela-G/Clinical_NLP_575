@@ -17,16 +17,18 @@ import sys
 
 class DataLoader:
 
-    def __init__(self, txt_folder, concept_folder):
+    def __init__(self, txt_folder, concept_folder, data_type):
         """
         Initialize class variables.
 
         :param txt_folder: str containing filepath to unstructured txt folder
         :param concept_folder: str containing filepath to folder
                                 with corresponding concept annotation files
+        :param data_type: str containing whether data is train or test
         """
         self.txt_folder = txt_folder
         self.concept_folder = concept_folder
+        self.data_type = data_type
         
         self.data = self.process_txt_folder()
         self.process_concept_folder()
@@ -36,7 +38,8 @@ class DataLoader:
         Process all files in folder with raw training data.
         """
         df = {'token':[], 'IOB':[],
-                'doc_ID':[], 'sent_ID':[], 'word_ID':[]}
+                'doc_ID':[], 'sent_ID':[], 'word_ID':[],
+                'data_type':[]}
 
         for filename in os.listdir(self.txt_folder):
             filepath = os.path.join(self.txt_folder, filename)
@@ -65,6 +68,7 @@ class DataLoader:
                     df['doc_ID'].append(doc_ID)
                     df['sent_ID'].append(sent_ID)
                     df['word_ID'].append(idx)
+                    df['data_type'].append(self.data_type)
                 sent_ID += 1
 
     def process_concept_folder(self):
@@ -82,23 +86,19 @@ class DataLoader:
 
 def main():
     ### load small example training data (just to test out code on small subset)
-    example = DataLoader(sys.argv[1], sys.argv[2])
+    example = DataLoader(sys.argv[1], sys.argv[2], 'train')
     train_df = example.data
-    train_df['type'] = 'train'
     ### print(train_df)
 
     # # load beth training data
-    # beth = DataLoader(sys.argv[3], sys.argv[4])
+    # beth = DataLoader(sys.argv[3], sys.argv[4], 'train')
     # beth_df = beth.data
-    # beth_df['type'] = 'train'
     # # load partners training data
-    # partners = DataLoader(sys.argv[5], sys.argv[6])
+    # partners = DataLoader(sys.argv[5], sys.argv[6], 'train')
     # partners_df = partners.data
-    # partners_df['type'] = 'train'
     # # run pipeline on test data
-    # test = DataLoader(sys.argv[7], sys.argv[8])
+    # test = DataLoader(sys.argv[7], sys.argv[8], 'test')
     # test_df = test.data
-    # test_df['type'] = 'test'
     # # merge beth, partners, and test dataframes into one
 
     ### pickle or SQL???
