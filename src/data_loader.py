@@ -12,6 +12,8 @@ Goals:
 import pandas as pd
 ###import pymysql
 ###import argparse???
+import os
+import sys
 
 class DataLoader:
 
@@ -33,23 +35,37 @@ class DataLoader:
         """
         Process all files in folder with raw training data.
         """
-        df = pd.DataFrame(columns=['token', 'IOB',
-                                'doc_ID', 'sent_ID', 'word_ID'])
-        ### iterate through each file in self.txt_folder
-            ### call parse_txt_file() on each file
-            
+        df = {'token':[], 'IOB':[],
+                'doc_ID':[], 'sent_ID':[], 'word_ID':[]}
+
+        for filename in os.listdir(self.txt_folder):
+            filepath = os.path.join(self.txt_folder, filename)
+            self.parse_txt_file(filename, filepath, df)
+        
+        df = pd.DataFrame.from_dict(df)
         return df
 
-    def parse_txt_file(self, filepath):
+    def parse_txt_file(self, filename, filepath, df):
         """
         Process training data file.
         Store tokens, doc_ID, sent_ID, and word_ID in dataframe.
+
+        :param filename: str containing filename sans .txt
+        :param filepath: str containing absolute path
+        :param df: dict with (key, val) as (str, list)
         """
-        doc_ID = filepath
-        ### open file
-            ### iterate through each sentence
-                ### iterate through each word
-                    ### store entry in dataframe
+        doc_ID = filename.split('.')[0]
+        with open(filepath, 'r') as f:
+            sent_ID = 0
+            for sent in f:
+                sent = sent.rstrip().split()
+                for idx, word in enumerate(sent):
+                    df['token'].append(word)
+                    df['IOB'].append('<NONE>') ###
+                    df['doc_ID'].append(doc_ID)
+                    df['sent_ID'].append(sent_ID)
+                    df['word_ID'].append(idx)
+                sent_ID += 1
 
     def process_concept_folder(self):
         """
@@ -67,15 +83,22 @@ class DataLoader:
 def main():
     ### load small example training data (just to test out code on small subset)
     example = DataLoader(sys.argv[1], sys.argv[2])
-    train_df = example.data()
+    train_df = example.data
     train_df['type'] = 'train'
+    ### print(train_df)
 
     # # load beth training data
     # beth = DataLoader(sys.argv[3], sys.argv[4])
+    # beth_df = beth.data
+    # beth_df['type'] = 'train'
     # # load partners training data
     # partners = DataLoader(sys.argv[5], sys.argv[6])
+    # partners_df = partners.data
+    # partners_df['type'] = 'train'
     # # run pipeline on test data
     # test = DataLoader(sys.argv[7], sys.argv[8])
+    # test_df = test.data
+    # test_df['type'] = 'test'
     # # merge beth, partners, and test dataframes into one
 
     ### pickle or SQL???

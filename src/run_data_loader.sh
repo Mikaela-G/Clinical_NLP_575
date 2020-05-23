@@ -1,5 +1,5 @@
 #!/bin/sh
-python3 load_data.py \
+python3 data_loader.py \
     /home2/mguerr20/i2b2_data/small_examples/txt \
     /home2/mguerr20/i2b2_data/small_examples/concept #\
     # /home2/mguerr20/i2b2_data/concept_assertion_relation_training_data/beth/txt \
