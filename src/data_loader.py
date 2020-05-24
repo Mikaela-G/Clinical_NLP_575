@@ -14,6 +14,7 @@ import pandas as pd
 ###import argparse???
 import os
 import sys
+import re
 
 class DataLoader:
 
@@ -36,27 +37,28 @@ class DataLoader:
     def process_txt_folder(self):
         """
         Process all files in folder with raw training data.
+        Store tokens, doc_ID, sent_ID, and word_ID in dataframe.
         """
-        print('Started process_txt_folder()') ###
+        print('Started process_txt_folder()')
 
         df = {'token':[], 'IOB':[],
                 'doc_ID':[], 'sent_ID':[], 'word_ID':[],
                 'data_type':[]}
 
-        for filename in os.listdir(self.txt_folder):
+        for filename in sorted(os.listdir(self.txt_folder)):
             filepath = os.path.join(self.txt_folder, filename)
             self.parse_txt_file(filename, filepath, df)
         
         df = pd.DataFrame.from_dict(df)
 
-        print('Completed process_txt_folder()') ###
+        print('Completed process_txt_folder()')
         
         return df
 
     def parse_txt_file(self, filename, filepath, df):
         """
         Process training data file.
-        Store tokens, doc_ID, sent_ID, and word_ID in dataframe.
+        Generate tokens, doc_ID, sent_ID, and word_ID and store in dictionary.
 
         :param filename: str containing filename sans .txt
         :param filepath: str containing absolute path
@@ -80,27 +82,28 @@ class DataLoader:
         """
         Process all files in folder with training data annotations.
         """
-        print('Started process_con_folder()') ###
+        print('Started process_con_folder()')
 
-        for filename in os.listdir(self.con_folder):
+        for filename in sorted(os.listdir(self.con_folder)):
             filepath = os.path.join(self.con_folder, filename)
             self.parse_con_file(filename, filepath)
-            print('|||PARSED CON FILE') ###
+            print('|||PARSED CON FILE')
 
-        print('Completed process_con_folder()') ###
+        print('Completed process_con_folder()')
     
     def parse_con_file(self, filename, filepath):
         """
         Process training data annotation file.
-        Generate IOB tags for concepts and insert in dataframe.
+        Generate IOB tags for concepts and store in dataframe.
         """
         doc_ID = filename.split('.')[0]
+
         with open(filepath, 'r') as f:
             for annotation in f:
-                annotation = annotation.rstrip().split('||t=')
                 # create list of tokens in concept
-                concept = annotation[0].split('"')[1].split()
+                concept = re.search('(?<=c=")[^|]*(?=")', annotation).group(0).split()
                 # get concept span
+                annotation = annotation.rstrip().split('||t=')
                 span = annotation[0].split()[-2:]
                 span = [tag.split(':') for tag in span]
                 sent_ID, word_ID_start, word_ID_end = int(span[0][0])-1, int(span[0][1]), int(span[1][1])
@@ -109,6 +112,8 @@ class DataLoader:
                 # create list of IOB tags
                 IOB_tags = ['I-'+concept_type for token in concept]
                 IOB_tags[0] = 'B-'+concept_type
+
+                ## THIS NEXT PARAGRAPH IS SUPER SLOW
                 # update self.data for each token in concept
                 IOB_idx = 0
                 for i in range(word_ID_start, word_ID_end+1):
@@ -132,10 +137,11 @@ def main():
     # merge training and test into one dataframe
     df = pd.concat([beth.data, partners.data, test.data]).reset_index(drop=True)
 
-    print('---COMPLETED LOADING DATA FROM ALL SOURCES---') ###
-    print(df.head(20)) ###
+    print('---COMPLETED LOADING DATA FROM ALL SOURCES---')
+    print(df.head(20))
 
     ### EXPORTING/STORING DF: pickle or SQL???
-
+    df.to_pickle('./df.pkl')
+    
 if __name__ == "__main__":
     main()
