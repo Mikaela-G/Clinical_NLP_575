@@ -1,16 +1,21 @@
 """
 Goals:
-- WE ALSO HAVE TO LOAD TESTING DATA INTO IOB FORMAT
-- Load training data (two folders: original text & corresponding annotations)
+- Load all data
+    - (two folders each: original text & corresponding annotations)
 - Tokenize on whitespace
 - Convert tokens to IOB sequences
 - Store each token as row in Pandas dataframe with these columns:
-    - token, IOB, doc_ID (filename), sent_ID (sentence number in document), word_ID (word number in document)
-- Insert Pandas dataframe into SQL database? or into pickle?
+    - token
+    - IOB
+    - doc_ID (filename)
+    - sent_ID (sentence number in document)
+    - word_ID (word number in document)
+    - data_type (train or test)
+- Export Pandas dataframe to pickle file
 """
 
 import pandas as pd
-###import pymysql
+###import pymysql???
 ###import argparse???
 import os
 import sys
@@ -37,7 +42,7 @@ class DataLoader:
     def process_txt_folder(self):
         """
         Process all files in folder with raw training data.
-        Store tokens, doc_ID, sent_ID, and word_ID in dataframe.
+        Store tokens, doc_ID, sent_ID, word_ID, and data_type in dataframe.
         """
         print('Started process_txt_folder()')
 
@@ -124,15 +129,15 @@ class DataLoader:
 
 def main():
 
-    # ### load small example training data (just to test out code on small subset)
+    # ## load small example training data (just to test out code on small subset)
     # example = DataLoader(sys.argv[1], sys.argv[2], 'train')
     # df = example.data
-    # ###print(df.loc[train_df['doc_ID']=='doc1'])
+    # ##print(df.loc[train_df['doc_ID']=='doc1'])
 
     # load training data
     beth = DataLoader(sys.argv[1], sys.argv[2], 'train')
     partners = DataLoader(sys.argv[3], sys.argv[4], 'train')
-    # loda test data
+    # load test data
     test = DataLoader(sys.argv[5], sys.argv[6], 'test')
     # merge training and test into one dataframe
     df = pd.concat([beth.data, partners.data, test.data]).reset_index(drop=True)
@@ -140,7 +145,7 @@ def main():
     print('---COMPLETED LOADING DATA FROM ALL SOURCES---')
     print(df.head(20))
 
-    ### EXPORTING/STORING DF: pickle or SQL???
+    # export dataframe to pickle
     df.to_pickle('./df.pkl')
     
 if __name__ == "__main__":
