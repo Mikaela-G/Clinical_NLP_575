@@ -58,6 +58,8 @@ def main():
     # convert features and IOB labels to expected python-crfsuite format
     train = df.loc[df['data_type']=='train']
     test = df.loc[df['data_type']=='test']
+    ### format_df creates memory errors right now because dictionaries are too big
+    ### instead of current structure, load dictionaries using generator?
     X_train, y_train = format_df(train, 'grammatical')
     X_test, y_test = format_df(test, 'grammatical')
     ##print(X_train[:10])
