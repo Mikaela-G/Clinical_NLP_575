@@ -29,7 +29,24 @@ class FeatureExtractor:
         self.skipgram_feats()
 
     def morph_feats(self):
-        pass ###
+        tokens = list(self.data['token'])
+        prefix_list = []
+        suffix_list = []
+        capitalized = []
+        contains_special = []
+
+        for token in tokens:
+            if token[0].isupper():
+                capitalized.append('True')
+            else:
+                capitalized.append('False')
+            if not re.match(r'^\w+$', token):
+                contains_special.append('True')
+            else: 
+                contains_special.append('False')
+
+        self.data['Capitalizations'] = capitalized
+        self.data['Special Characters'] = contains_special 
 
     
     def gram_feats(self):
