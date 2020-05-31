@@ -29,11 +29,8 @@ class FeatureExtractor:
         self.skipgram_feats()
 
     def morph_feats(self):
-        # get suffixes/prefixes
-        # check if token is capitalized (True/False)
-        # check if special characters in token (True/False)
-        ## WordAsClass??
         pass ###
+
     
     def gram_feats(self):
         # tag tokens for POS
@@ -43,7 +40,37 @@ class FeatureExtractor:
         self.data['POS'] = pos_list
     
     def cont_feats(self):
-        pass ###
+        # get tokens from dataframe as list
+        tokens = list(self.data['token'])
+        # set up list for context features
+        prev2_list = []
+        prev_list = []
+        next_list = []
+        next2_list = []
+        
+        for i in range(len(tokens)):
+            if i > 0:
+                prev_list.append(tokens[i-1])
+            else:
+                prev_list.append('')
+            if i > 1:
+                prev2_list.append(tokens[i-2])
+            else:
+                prev2_list.append('')
+            if i < len(tokens) - 1:
+                next_list.append(tokens[i+1])
+            else:
+                next_list.append('')
+            if i < len(tokens) - 2:
+                next2_list.append(tokens[i+2])
+            else:
+                next2_list.append('')
+
+        self.data['Prev2'] = prev2_list
+        self.data['Prev'] = prev_list
+        self.data['Next'] = next_list
+        self.data['Next2'] = next2_list
+
     
     def metamap_feats(self):
         pass ###

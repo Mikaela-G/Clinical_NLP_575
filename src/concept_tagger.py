@@ -52,8 +52,9 @@ def main():
     # extract features and store in original dataframe
     features = FeatureExtractor(df)
     df = features.data 
-
-    ##print(df.head(5))
+    
+    #pd.set_option('display.max_columns', None)
+    #print(df.head(5))
 
     # convert features and IOB labels to expected python-crfsuite format
     train = df.loc[df['data_type']=='train']
