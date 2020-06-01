@@ -21,9 +21,9 @@ class FeatureExtractor:
         self.data = data
         # convert tokens column to list
         self.tokens = list(self.data['token'])        
-        ### extract features & update df with results of each function
+        # extract features & update df with results of each function
         self.morph_feats()
-        ###self.gram_feats() ### temporarily commented out bc slow
+        self.gram_feats()
         self.cont_feats()
         self.metamap_feats()
         self.sent_feats()
