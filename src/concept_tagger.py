@@ -26,9 +26,11 @@ def format_df(data, feature_set):
 
     # group data
     grouped = data.groupby(['doc_ID', 'sent_ID'])
+    
 
     # create list with one dataframe per sentence
     sent_dfs = [sent for _, sent in grouped]
+    #print(len(sent_dfs))
 
     # create list of lists of IOB tags
     IOB_tags = [list(sent_df['IOB']) for sent_df in sent_dfs]
@@ -36,10 +38,10 @@ def format_df(data, feature_set):
     # drop columns which do not represent features
     # (token, IOB, doc_ID, sent_ID, word_ID, data_type)
     ### INSERT CODE FOR DOING THIS THAT IS NOT SUPER SLOW
-    # sent_dfs = [sent_df.drop(['token','IOB',
-    #                         'doc_ID','sent_ID','word_ID',
-    #                         'data_type'], axis=1, inplace=True)
-    #                         for sent_df in sent_dfs]
+    sent_dfs = [sent_df.drop(['token','IOB',
+                             'doc_ID','sent_ID','word_ID',
+                             'data_type'], axis=1)
+                             for sent_df in sent_dfs]
 
     # create list of lists of feature dicts
     feat_dicts = [sent_df.to_dict('records') for sent_df in sent_dfs]
@@ -73,8 +75,7 @@ def main():
     # generate predictions
     labels = list(crf.classes_)
     y_pred = crf.predict(X_test)
-    print(metrics.flat_f1_score(y_test, y_pred,
-                      average='weighted', labels=labels))
+    print('f-score' + str(metrics.flat_f1_score(y_test, y_pred, average='weighted', labels=labels)))
 
 if __name__ == "__main__":
     main()

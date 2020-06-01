@@ -8,6 +8,7 @@ Methods:
 - Extract skip-gram features
 """
 import nltk
+import re
 
 class FeatureExtractor:
 
