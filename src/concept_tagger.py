@@ -128,6 +128,18 @@ def main():
     y_pred = crf.predict(X_test)
     print('final eval f-score: ' + str(metrics.flat_f1_score(y_test, y_pred, average='weighted', labels=labels)))
 
+    # evaluate best model performance on all tags
+    print('ALL CLASSES:')
+    print(metrics.flat_classification_report(y_test, y_pred, labels=labels))
+
+    # evaluate best model performance on problem, treatment, and test (B and I tags combined)
+    combined_labels = ['problem', 'treatment', 'test']
+    combined_y_test = [[tag.replace('B-', '') for tag in sent] for sent in y_test]
+    combined_y_test = [[tag.replace('I-', '') for tag in sent] for sent in combined_y_test]
+    combined_y_pred = [[tag.replace('B-', '') for tag in sent] for sent in y_pred]
+    combined_y_pred = [[tag.replace('I-', '') for tag in sent] for sent in combined_y_pred]    
+    print('COMBINED CLASSES:')
+    print(metrics.flat_classification_report(combined_y_test, combined_y_pred, labels=combined_labels))
 
 if __name__ == "__main__":
     main()
