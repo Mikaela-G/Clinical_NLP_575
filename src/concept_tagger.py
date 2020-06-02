@@ -45,9 +45,11 @@ def format_df(data, feature_set):
     if 'grammatical' in feature_set:
         columns_to_keep.append('POS')
     if 'morphological' in feature_set:
-        columns_to_keep.extend(['Capitalizations', 'Special Characters'])
+        columns_to_keep.extend(['Prefixes1', 'Prefixes2', 'Prefixes3', 'Prefixes4', 'Suffixes1', 'Suffixes2', 'Suffixes3', 'Suffixes4', 'Capitalizations', 'Special Characters'])
     if 'context-based' in feature_set:
         columns_to_keep.extend(['Prev2', 'Prev', 'Next', 'Next2'])
+    if 'lemma' in feature_set:
+        columns_to_keep.append('Lemmas')
 
 
     drop_list = []
@@ -83,19 +85,23 @@ def main():
     train = df.loc[df['data_type']=='train']
     test = df.loc[df['data_type']=='test']
    
-    #baseline
+    # baseline -> preliminary features
     X_train_base, y_train_base = format_df(train, ['context-based', 'morphological'])
     X_test, y_test = format_df(test, ['context-based', 'morphological'])
     ##print(X_train[:10])
     ##print(y_train[:10])
 
-    #model 2
-    X_train, y_train = format_df(train, ['grammatical', 'context-based', 'morphological'])
-    #X_test, y_test = format_df(test, ['grammatical', 'context-based', 'morphological'])
+    # model 2 -> preliminary features + POS
+    X_train2, y_train2 = format_df(train, ['grammatical', 'context-based', 'morphological'])
+
+    # model 3 -> preliminary features + POS + Lemma
+    X_train3, y_train3 = format_df(train, ['grammatical', 'context-based', 'morphological', 'lemma'])
+
+    # model 4 -> preliminary features + POS + Lemma + MetaMap-based
 
 
-    X_train_sets = [X_train_base, X_train]
-    y_train_sets = [y_train_base, y_train]
+    X_train_sets = [X_train_base, X_train2, X_train3]
+    y_train_sets = [y_train_base, y_train2, y_train3]
     cross_validation_scores = [] #for multiple models with different feature sets
 
     

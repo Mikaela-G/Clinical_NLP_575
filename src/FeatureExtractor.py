@@ -8,6 +8,8 @@ Methods:
 - Extract skip-gram features
 """
 import nltk
+from nltk.stem import WordNetLemmatizer
+from nltk.corpus import wordnet
 import re
 
 class FeatureExtractor:
@@ -31,12 +33,51 @@ class FeatureExtractor:
 
     def morph_feats(self):
         tokens = list(self.data['token'])
-        prefix_list = []
-        suffix_list = []
+        prefix_lists = [[] for i in range(4)] 
+        suffix_lists = [[] for i in range(4)] 
+        lemma_list = []
         capitalized = []
         contains_special = []
 
+        # for lemmas
+        lemmatizer = WordNetLemmatizer()
+
+        #map pos tags to format for lemmatizer
+        def get_wordnet_pos(word): 
+            tag = nltk.pos_tag([word])[0][1][0].upper()
+            tag_dict = {"J": wordnet.ADJ,
+                        "N": wordnet.NOUN,
+                        "V": wordnet.VERB,
+                        "R": wordnet.ADV}
+
+            return tag_dict.get(tag, wordnet.NOUN)
+
+        i = 0
         for token in tokens:
+            # get lemmas for each word
+            lemma = lemmatizer.lemmatize(token, get_wordnet_pos(token))
+            i+=1
+            lemma_list.append(lemma)
+
+            # get prefix/suffix features for each word
+            prefs = []
+            sufs = []
+            if len(token) > 1 and re.match(r'^[a-zA-Z]+$', token):
+                prefs = [token[:j] for j in range(1, 5) if j <= len(token)]
+                sufs = [token[-j:] for j in range(1, 5) if j <= len(token)]
+
+            for k in range(len(prefix_lists)):
+                if k < len(prefs):
+                    prefix_lists[k].append(prefs[k])
+                else:
+                    prefix_lists[k].append('')
+            for k in range(len(suffix_lists)):
+                if k < len(sufs):
+                    suffix_lists[k].append(sufs[k])
+                else:
+                    suffix_lists[k].append('')
+
+            # get capitalization and special character features
             if token[0].isupper():
                 capitalized.append('True')
             else:
@@ -46,6 +87,16 @@ class FeatureExtractor:
             else: 
                 contains_special.append('False')
 
+        # add all morphological features to dataframe
+        self.data['Prefixes1'] = prefix_lists[0]
+        self.data['Prefixes2'] = prefix_lists[1]
+        self.data['Prefixes3'] = prefix_lists[2]
+        self.data['Prefixes4'] = prefix_lists[3]
+        self.data['Suffixes1'] = suffix_lists[0]
+        self.data['Suffixes2'] = suffix_lists[1]
+        self.data['Suffixes3'] = suffix_lists[2]
+        self.data['Suffixes4'] = suffix_lists[3]
+        self.data['Lemmas'] = lemma_list
         self.data['Capitalizations'] = capitalized
         self.data['Special Characters'] = contains_special 
 
@@ -66,6 +117,7 @@ class FeatureExtractor:
         next_list = []
         next2_list = []
         
+        # get context features for each token
         for i in range(len(tokens)):
             if i > 0:
                 prev_list.append(tokens[i-1])
@@ -84,6 +136,7 @@ class FeatureExtractor:
             else:
                 next2_list.append('')
 
+        #add all context features to dataframe
         self.data['Prev2'] = prev2_list
         self.data['Prev'] = prev_list
         self.data['Next'] = next_list
