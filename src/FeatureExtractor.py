@@ -28,8 +28,8 @@ class FeatureExtractor:
         self.gram_feats()
         self.cont_feats()
         self.metamap_feats()
-        self.sent_feats()
-        self.skipgram_feats()
+        self.sent_feats() ## delete
+        self.skipgram_feats() ## delete
 
     def morph_feats(self):
         #tokens = list(self.data['token'])
@@ -42,7 +42,7 @@ class FeatureExtractor:
         # for lemmas
         lemmatizer = WordNetLemmatizer()
 
-        #map pos tags to format for lemmatizer
+        # map pos tags to format for lemmatizer
         def get_wordnet_pos(word): 
             tag = nltk.pos_tag([word])[0][1][0].upper()
             tag_dict = {"J": wordnet.ADJ,
@@ -120,19 +120,19 @@ class FeatureExtractor:
         # get context features for each token
         for i in range(len(self.tokens)):
             if i > 0:
-                prev_list.append(tokens[i-1])
+                prev_list.append(self.tokens[i-1]) ##
             else:
                 prev_list.append('')
             if i > 1:
-                prev2_list.append(tokens[i-2])
+                prev2_list.append(self.tokens[i-2]) ##
             else:
                 prev2_list.append('')
-            if i < len(tokens) - 1:
-                next_list.append(tokens[i+1])
+            if i < len(self.tokens) - 1: ##
+                next_list.append(self.tokens[i+1]) ##
             else:
                 next_list.append('')
-            if i < len(tokens) - 2:
-                next2_list.append(tokens[i+2])
+            if i < len(self.tokens) - 2: ##
+                next2_list.append(self.tokens[i+2]) ##
             else:
                 next2_list.append('')
 
@@ -144,7 +144,18 @@ class FeatureExtractor:
 
     
     def metamap_feats(self):
-        pass ###
+        # read in metamap concepts as list
+        with open('concepts.txt', 'r') as f:
+            metamap_concepts = []
+            # strip newlines and separate concepts into individual tokens
+            for concept in f:
+                concept = concept.rstrip()
+                concept = concept.split()
+                metamap_concepts.extend(concept)
+            # convert to set
+            metamap_concepts = set(metamap_concepts)
+        # mark True/False if token is exact match for any metamap concept token
+        self.data['MetaMap'] = self.data['token'].isin(metamap_concepts)
     
     def sent_feats(self):
         pass ###

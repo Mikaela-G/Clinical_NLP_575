@@ -23,9 +23,6 @@ def format_df(data, feature_set):
     :param data: Pandas dataframe
     :param feature_set: str that declares which feature set(s) to use
     """
-    # drop feature columns depending on feature set(s) chosen
-    ### INSERT CODE FOR DOING THIS
-    
 
     # group data
     grouped = data.groupby(['doc_ID', 'sent_ID'])
@@ -40,7 +37,6 @@ def format_df(data, feature_set):
 
     # drop columns which do not represent features
     # (token, IOB, doc_ID, sent_ID, word_ID, data_type)
-    ### INSERT CODE FOR DOING THIS THAT IS NOT SUPER SLOW
     columns_to_keep = []
     if 'grammatical' in feature_set:
         columns_to_keep.append('POS')
@@ -50,6 +46,8 @@ def format_df(data, feature_set):
         columns_to_keep.extend(['Prev2', 'Prev', 'Next', 'Next2'])
     if 'lemma' in feature_set:
         columns_to_keep.append('Lemmas')
+    if 'metamap' in feature_set:
+        columns_to_keep.append('MetaMap')
 
 
     drop_list = []
@@ -60,11 +58,6 @@ def format_df(data, feature_set):
 
     sent_dfs = [sent_df.drop(drop_list, axis=1)
                              for sent_df in sent_dfs]
-
-    #sent_dfs = [sent_df.drop(['token','IOB',
-    #                         'doc_ID','sent_ID','word_ID',
-    #                         'data_type'], axis=1)
-    #                         for sent_df in sent_dfs]
 
     # create list of lists of feature dicts
     feat_dicts = [sent_df.to_dict('records') for sent_df in sent_dfs]
@@ -88,8 +81,6 @@ def main():
     # baseline -> preliminary features
     X_train_base, y_train_base = format_df(train, ['context-based', 'morphological'])
     X_test, y_test = format_df(test, ['context-based', 'morphological'])
-    ##print(X_train[:10])
-    ##print(y_train[:10])
 
     # model 2 -> preliminary features + POS
     X_train2, y_train2 = format_df(train, ['grammatical', 'context-based', 'morphological'])
@@ -98,10 +89,11 @@ def main():
     X_train3, y_train3 = format_df(train, ['grammatical', 'context-based', 'morphological', 'lemma'])
 
     # model 4 -> preliminary features + POS + Lemma + MetaMap-based
+    X_train4, y_train4 = format_df(train, ['grammatical', 'context-based', 'morphological', 'lemma', 'metamap'])
+    
 
-
-    X_train_sets = [X_train_base, X_train2, X_train3]
-    y_train_sets = [y_train_base, y_train2, y_train3]
+    X_train_sets = [X_train_base, X_train2, X_train3, X_train4]
+    y_train_sets = [y_train_base, y_train2, y_train3, y_train4]
     cross_validation_scores = [] #for multiple models with different feature sets
 
     
