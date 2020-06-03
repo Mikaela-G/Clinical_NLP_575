@@ -1,0 +1,543 @@
+044687343_ELMVH.txt|MMI|33.28|Patient Discharge|C0030685|[hlca]|"Discharge"-text-53-"DISCHARGE"-NNP-0,"Discharge"-text-94-"DISCHARGE"-NNP-0,"Discharge"-text-300-"DISCHARGE"-NN-0|text|155/9;261/9;5005/9|N04.590.233.727.210.125;E02.760.169.125;N02.421.585.169.125;E02.760.400.610;N02.421.585.400.610|
+044687343_ELMVH.txt|MMI|13.88|ipratropium|C0027235|[orch, phsu]|"ipratropium"-text-184-"IPRATROPIUM"-NN-0|text|2262/11|D02.145.074.722.229.400;D03.605.869.229.400;D03.132.760.180.572.400;D03.132.889.180.648.400;D03.605.084.500.722.229.400|
+044687343_ELMVH.txt|MMI|13.33|Chronic Obstructive Airway Disease|C0024117|[dsyn]|"COPD"-text-8-"COPD"-VBN-0,"COPD"-text-0-"COPD"-NNP-0,"COPD"-text-6-"COPD"-NNP-0,"CHRONIC OBSTRUCTIVE PULMONARY DISEASE"-text-16-"chronic obstructive pulmonary disease"-NN-0,"COPD"-text-0-"COPD"-NNP-0,"COPD"-text-20-"COPD"-NN-0,"COPD"-text-244-"COPD"-NNP-0|text|55/4;2842/4;2940/4;2947/37;3476/4;4298/4;4869/4|C08.381.495.389|
+044687343_ELMVH.txt|MMI|12.95|water|C0043047|[inch, phsu]|"water"-text-268-"water"-NN-0|text|2475/5|D01.045.250.875;D01.248.497.158.459.650;D01.650.550.925;D01.045.250.875;D01.248.497.158.459.650;D01.650.550.925|
+044687343_ELMVH.txt|MMI|12.62|Iron deficiency anemia|C0162316|[dsyn]|"Iron deficiency anemia"-text-34-"iron deficiency anemia"-NN-0,"Iron deficiency anemia"-text-42-"iron deficiency anemia"-NN-0,"fe deficiency anemia"-text-200-"Fe deficiency anemia"-NNP-0|text|3007/22;3032/22;4748/20|C15.378.071.196.300;C18.452.565.100|
+044687343_ELMVH.txt|MMI|12.03|Heme|C0018966|[bacs, orch]|"Heme"-text-190-"Heme"-NNP-0|text|4733/4|D03.633.400.909.500.640.587;D04.345.783.500.640.587;D23.767.727.640.587;D03.383.129.578.840.500.640.587|
+044687343_ELMVH.txt|MMI|11.18|isoniazid|C0022209|[orch, phsu]|"INH"-text-198-"INH"-IN-0,"INH"-text-282-"INH"-NNP-0|text|2305/3;2511/3|D03.066.349.410;D03.383.725.394.582;D02.442.436|
+044687343_ELMVH.txt|MMI|11.11|Drinking Water|C0599638|[sbst]|"WATER"-text-268-"water"-NN-0|text|2475/5|D01.650.550.925.199;J02.200.418;G07.203.100.418;D01.045.250.875.300;D01.248.497.158.459.650.300|
+044687343_ELMVH.txt|MMI|11.11|iron|C0302583|[bacs, elii, phsu]|"iron"-text-206-"iron"-NN-0|text|4776/4|D01.268.956.287;D01.552.544.412;D01.268.556.412;D01.268.956.287;D01.552.544.412;D01.268.556.412|
+044687343_ELMVH.txt|MMI|10.11|Andorra|C0002838|[geoa]|"AND"-text-0-"and"-CC-0,"AND"-text-10-"and"-CC-0,"AND"-text-142-"and"-CC-0,"AND"-text-186-"AND"-CC-0,"AND"-text-48-"and"-CC-0,"AND"-text-22-"and"-CC-0,"AND"-text-328-"and"-CC-0|text|1564/3;1766/3;2163/3;2274/3;3066/3;3810/3;5064/3|Z01.542.049|
+044687343_ELMVH.txt|MMI|8.41|Primary Care Physicians|C0033131|[prog]|"PCP"-text-40-"PCP"-NNP-0,"PCP"-text-326-"PCP"-NNP-0|text|2680/3;5060/3|N02.360.810.795;M01.526.485.810.800|
+044687343_ELMVH.txt|MMI|7.89|Urinary Stress Incontinence|C0042025|[dsyn]|"stress incontinence"-text-150-"stress incontinence"-NN-0|text|4614/19|C23.888.942.343.800.500;C13.351.968.934.814.500;C12.777.934.852.249|
+044687343_ELMVH.txt|MMI|7.49|Pentachlorophenol|C0030855|[hops, orch]|"PCP"-text-40-"PCP"-NNP-0,"PCP"-text-326-"PCP"-NNP-0|text|2680/3;5060/3|D02.455.426.559.389.657.190.633|
+044687343_ELMVH.txt|MMI|7.43|insulin, regular, human|C0795635|[horm, aapp, phsu]|"INSULIN"-text-216-"insulin"-NN-0|text|4794/7|D06.472.699.587.200.500.625.500;D12.644.548.586.200.500.625.500|
+044687343_ELMVH.txt|MMI|7.43|pantoprazole|C0081876|[orch, phsu]|"pantoprazole"-text-168-"PANTOPRAZOLE"-NN-0|text|2220/12|D03.633.100.103.034.625;D03.383.725.024.625;D02.886.640.074.625|
+044687343_ELMVH.txt|MMI|7.41|Air Movements|C0001868|[npop]|"Air Movement"-text-17-"air movement"-NN-0|text|3704/12|G16.500.275.063.725.154;N06.230.300.100.150.185;G16.500.175.249|
+044687343_ELMVH.txt|MMI|7.10|Food|C0016452|[food]|"Food"-text-0-"food"-NN-0,"Food"-text-12-"food"-NN-0,"Food"-text-218-"Food"-NNP-0|text|1568/4;1770/4;2352/4|G07.203.300;J02.500|
+044687343_ELMVH.txt|MMI|6.81|Give - dosing instruction imperative|C1947971|[ftcn]|"Give"-text-0-"Give"-VB-0,"Give"-text-0-"give"-VB-0,"Give"-text-0-"give"-VB-0,"Give"-text-0-"give"-VB-0,"Give"-text-2-"give"-VB-0,"Give"-text-24-"give"-VBP-0,"Give"-text-46-"give"-VB-0,"Give"-text-68-"give"-VB-0,"Give"-text-90-"give"-VBP-0,"Give"-text-112-"give"-VB-0,"Give"-text-134-"give"-VB-0,"Give"-text-228-"Give"-VB-0,"Give"-text-240-"give"-VB-0|text|1086/4;1113/4;1537/4;1698/4;1822/4;1874/4;1926/4;1978/4;2030/4;2082/4;2134/4;2388/4;2415/4||
+044687343_ELMVH.txt|MMI|6.57|Eating|C0013470|[orgf]|"Eat"-text-0-"eat"-VB-0,"Eat"-text-8-"eat"-VB-0|text|1560/3;1762/3|G07.203.650.283;G10.261.330|
+044687343_ELMVH.txt|MMI|6.51|Insulin|C0021641|[horm, aapp, phsu]|"Insulin"-text-216-"insulin"-NN-0|text|4794/7|D06.472.699.587.200.500.625;D12.644.548.586.200.500.625|
+044687343_ELMVH.txt|MMI|6.51|Insulin Aspart|C1708521|[horm, aapp, phsu]|"Insulin Aspart"-text-0-"INSULIN ASPART"-NN-0|text|1600/14|D06.472.699.587.200.400.100;D12.644.548.586.200.400.100|
+044687343_ELMVH.txt|MMI|6.05|Bronchitis|C0006277|[dsyn]|"Bronchitis"-text-72-"bronchitis"-NN-0|text|4447/10|C01.748.099;C08.730.099;C08.127.446;C08.381.495.146|
+044687343_ELMVH.txt|MMI|5.65|ADENOSINE DEAMINASE|C0001457|[enzy, aapp]|"ADA"-text-0-"ADA"-NNP-0,"ADA"-text-252-"ADA"-NNP-0|text|2575/3;4886/3|D08.811.277.151.486.075|
+044687343_ELMVH.txt|MMI|5.65|azithromycin|C0052796|[antb, orch]|"azithromycin"-text-66-"azithromycin"-NN-0,"azithromycin"-text-240-"Azithromycin"-NNP-0|text|4421/12;4852/12|D02.540.576.500.992.050|
+044687343_ELMVH.txt|MMI|5.59|Cicatrix|C2004491|[patf]|"Scarring"-text-82-"scarring"-NN-0|text|3962/8|C23.550.355.274;G16.762.891.249;A10.165.450.300|
+044687343_ELMVH.txt|MMI|5.59|Poverty|C0032854|[grpa]|"Poor"-text-13-"poor"-JJ-0|text|3699/4|I01.880.853.996.535;I01.880.735.634;N01.824.600|
+044687343_ELMVH.txt|MMI|5.13|Sleep Apnea, Obstructive|C0520679|[dsyn]|"OSA"-text-60-"osa"-NN-0|text|3088/3|C08.618.085.852.850;C10.886.425.800.750.850|
+044687343_ELMVH.txt|MMI|5.13|rosiglitazone|C0289313|[orch, phsu]|"ROS"-text-0-"ROS"-NNP-0|text|3489/3|D03.383.129.708.933.500;D02.886.675.933.500|
+044687343_ELMVH.txt|MMI|4.73|American Dental Association|C0002456|[pros]|"ADA"-text-0-"ADA"-NNP-0,"ADA"-text-252-"ADA"-NNP-0|text|2575/3;4886/3|N03.540.828.506.274|
+044687343_ELMVH.txt|MMI|4.69|Diet therapy|C0012159|[hlca]|"Diet"-text-286-"DIET"-NNP-0,"Diet"-text-254-"diet"-NN-0|text|2521/4;4890/4|E02.642.249;Y11.010|
+044687343_ELMVH.txt|MMI|4.67|Continuous Positive Airway Pressure|C0199451|[topp]|"CPAP"-text-104-"CPAP"-NNP-0|text|4522/4|E02.041.625.790.259;E02.880.820.790.259|
+044687343_ELMVH.txt|MMI|4.67|Leukocytes|C0023516|[cell]|"WBC"-text-232-"wbc"-NN-0|text|4835/3|A15.382.490;A15.145.229.637;A11.118.637|
+044687343_ELMVH.txt|MMI|4.27|Volition|C0042950|[menp]|"Will"-text-124-"WILL"-MD-1,"Will"-text-0-"will"-MD-0,"Will"-text-6-"will"-MD-0|text|336/4;1555/4;1757/4|F02.463.902|
+044687343_ELMVH.txt|MMI|4.21|Electrocardiography|C1623258|[diap]|"EKG"-text-48-"EKG"-RB-0|text|3880/3|E01.370.405.240;E01.370.370.380.240|
+044687343_ELMVH.txt|MMI|4.21|Respiratory rate|C0231832|[clna]|"RESP"-text-16-"Resp"-NN-0|text|4291/4|E01.370.600.875.875;G09.772.705.730|
+044687343_ELMVH.txt|MMI|4.21|Sleep Apnea Syndromes|C0037315|[dsyn]|"Sleep apnea"-text-66-"sleep apnea"-NN-0|text|3094/11|C08.618.085.852;C10.886.425.800.750|
+044687343_ELMVH.txt|MMI|4.21|Urinary tract infection|C0042029|[dsyn]|"UTI"-text-170-"uti"-NNS-1|text|4684/3|C01.915;C12.777.892;C13.351.968.892|
+044687343_ELMVH.txt|MMI|4.21|aspirin|C0004057|[orch, phsu]|"ASA"-text-0-"ASA"-NNP-0|text|4239/3|D02.455.426.559.389.657.410.595.176|
+044687343_ELMVH.txt|MMI|3.81|NovoLog|C0939412|[aapp, phsu]|"NovoLog"-text-0-"NOVOLOG"-NNP-0,"NovoLog"-text-0-"novolog"-NN-0|text|1590/7;1736/7|x.x.x.x|
+044687343_ELMVH.txt|MMI|3.81|PROGRESSIVE ENCEPHALOMYELITIS WITH RIGIDITY|C1861457|[dsyn]|"PER"-text-16-"per"-IN-0,"PER"-text-0-"Per"-IN-0|text|2622/3;3433/3|x.x.x.x|
+044687343_ELMVH.txt|MMI|3.81|Papillary craniopharyngioma|C0431128|[neop]|"PCP"-text-40-"PCP"-NNP-0,"PCP"-text-326-"PCP"-NNP-0|text|2680/3;5060/3|x.x.x.x|
+044687343_ELMVH.txt|MMI|3.81|Peru|C0031238|[geoa]|"PER"-text-16-"per"-IN-0,"PER"-text-0-"Per"-IN-0|text|2622/3;3433/3|Z01.107.757.702|
+044687343_ELMVH.txt|MMI|3.81|Phencyclidine|C0031381|[orch, phsu]|"PCP"-text-40-"PCP"-NNP-0,"PCP"-text-326-"PCP"-NNP-0|text|2680/3;5060/3|D03.383.621.699|
+044687343_ELMVH.txt|MMI|3.81|SAT1 protein, human|C2744672|[enzy, aapp]|"SAT"-text-302-"sat"-VBD-0,"SAT"-text-92-"sat"-VBN-0|text|2551/3;4495/3|x.x.x.x|
+044687343_ELMVH.txt|MMI|3.81|Singulair|C0595724|[orch, phsu]|"Singulair"-text-14-"SINGULAIR"-NN-0,"Singulair"-text-56-"singulair"-NN-0|text|1149/9;4390/9|x.x.x.x|
+044687343_ELMVH.txt|MMI|3.81|Spiriva|C0905678|[orch, phsu]|"Spiriva"-text-270-"SPIRIVA"-NNP-0,"Spiriva"-text-60-"spiriva"-NN-0|text|2481/7;4402/7|x.x.x.x|
+044687343_ELMVH.txt|MMI|3.81|Stomach|C0038351|[bpoc]|"Stomach"-text-0-"stomach"-NN-0,"Stomach"-text-236-"stomach"-NN-0|text|1103/7;2405/7|A03.556.875.875|
+044687343_ELMVH.txt|MMI|3.81|Symptoms|C1457887|[sosy]|"Symptoms"-text-0-"symptoms"-NNS-0,"Symptoms"-text-154-"symptoms"-NNS-0|text|3452/8;4637/8|x.x.x.x|
+044687343_ELMVH.txt|MMI|3.77|Diet|C0012155|[food]|"Diet"-text-286-"DIET"-NNP-0,"Diet"-text-254-"diet"-NN-0|text|2521/4;4890/4|G07.203.650.240|
+044687343_ELMVH.txt|MMI|3.66|And|C1515981|[idcn]|"And"-text-0-"and"-CC-0,"And"-text-10-"and"-CC-0,"And"-text-142-"and"-CC-0,"And"-text-186-"AND"-CC-0,"And"-text-48-"and"-CC-0,"And"-text-22-"and"-CC-0,"And"-text-328-"and"-CC-0|text|1564/3;1766/3;2163/3;2274/3;3066/3;3810/3;5064/3||
+044687343_ELMVH.txt|MMI|3.66|And - dosing instruction fragment|C1706368|[inpr]|"And"-text-0-"and"-CC-0,"And"-text-10-"and"-CC-0,"And"-text-142-"and"-CC-0,"And"-text-186-"AND"-CC-0,"And"-text-48-"and"-CC-0,"And"-text-22-"and"-CC-0,"And"-text-328-"and"-CC-0|text|1564/3;1766/3;2163/3;2274/3;3066/3;3810/3;5064/3||
+044687343_ELMVH.txt|MMI|3.66|In addition to|C0332287|[ftcn]|"In addition to"-text-0-"in addition to"-IN-0,"With"-text-258-"with"-IN-0,"With"-text-12-"with"-IN-0,"With"-text-156-"with"-IN-0,"With"-text-218-"with"-IN-0,"With"-text-324-"with"-IN-0,"With"-text-347-"with"-IN-0|text|1703/14;2456/4;2610/4;4646/4;4802/4;5055/4;5105/4||
+044687343_ELMVH.txt|MMI|3.66|RelationshipConjunction - and|C1550557|[inpr]|"and"-text-0-"and"-CC-0,"and"-text-10-"and"-CC-0,"and"-text-142-"and"-CC-0,"and"-text-186-"AND"-CC-0,"and"-text-48-"and"-CC-0,"and"-text-22-"and"-CC-0,"and"-text-328-"and"-CC-0|text|1564/3;1766/3;2163/3;2274/3;3066/3;3810/3;5064/3||
+044687343_ELMVH.txt|MMI|3.66|Then|C1883708|[tmco]|"Then"-text-0-"then"-RB-0,"Then"-text-22-"then"-RB-0,"Then"-text-44-"then"-RB-0,"Then"-text-66-"then"-RB-0,"Then"-text-88-"then"-RB-0,"Then"-text-110-"then"-RB-0,"Then"-text-132-"then"-RB-0|text|1817/4;1869/4;1921/4;1973/4;2025/4;2077/4;2129/4||
+044687343_ELMVH.txt|MMI|3.66|Then - dosing instruction fragment|C1720594|[inpr]|"Then"-text-0-"then"-RB-0,"Then"-text-22-"then"-RB-0,"Then"-text-44-"then"-RB-0,"Then"-text-66-"then"-RB-0,"Then"-text-88-"then"-RB-0,"Then"-text-110-"then"-RB-0,"Then"-text-132-"then"-RB-0|text|1817/4;1869/4;1921/4;1973/4;2025/4;2077/4;2129/4||
+044687343_ELMVH.txt|MMI|3.66|Unit|C0439148|[qnco]|"Units"-text-6-"units"-NNS-0,"Units"-text-28-"units"-NNS-0,"Units"-text-50-"units"-NNS-0,"Units"-text-72-"units"-NNS-0,"Units"-text-94-"units"-NNS-0,"Units"-text-116-"units"-NNS-0,"Units"-text-138-"units"-NNS-0|text|1829/5;1881/5;1933/5;1985/5;2037/5;2089/5;2142/5||
+044687343_ELMVH.txt|MMI|3.66|Unit - NCI Thesaurus Property|C3853603|[qnco]|"Units"-text-6-"units"-NNS-0,"Units"-text-28-"units"-NNS-0,"Units"-text-50-"units"-NNS-0,"Units"-text-72-"units"-NNS-0,"Units"-text-94-"units"-NNS-0,"Units"-text-116-"units"-NNS-0,"Units"-text-138-"units"-NNS-0|text|1829/5;1881/5;1933/5;1985/5;2037/5;2089/5;2142/5||
+044687343_ELMVH.txt|MMI|3.66|Unit of Measure|C1519795|[qnco]|"Units"-text-6-"units"-NNS-0,"Units"-text-28-"units"-NNS-0,"Units"-text-50-"units"-NNS-0,"Units"-text-72-"units"-NNS-0,"Units"-text-94-"units"-NNS-0,"Units"-text-116-"units"-NNS-0,"Units"-text-138-"units"-NNS-0|text|1829/5;1881/5;1933/5;1985/5;2037/5;2089/5;2142/5||
+044687343_ELMVH.txt|MMI|3.29|Cutaneous Fistula|C0423772|[anab]|"Sinus"-text-50-"sinus"-IN-0|text|3884/5|C17.800.135;C23.300.575.150|
+044687343_ELMVH.txt|MMI|3.29|Dyspnea|C0013404|[sosy]|"SOB"-text-351-"sob"-JJ-0|text|5120/3|C08.618.326;C23.888.852.371|
+044687343_ELMVH.txt|MMI|3.29|Physical activity|C0026606|[dora]|"activity"-text-6-"ACTIVITY"-NNP-0|text|2594/8|G11.427.410.698.277;I03.350|
+044687343_ELMVH.txt|MMI|3.29|arsenic trioxide|C0052416|[hops, inch, phsu]|"ATO"-text-128-"ato"-TO-0|text|4578/3|D01.075.038;D01.650.550.125|
+044687343_ELMVH.txt|MMI|3.29|prednisone|C0032952|[horm, orch, phsu]|"prednisone"-text-32-"prednisone"-NN-0|text|4327/10|D04.210.500.745.432.719.702|
+044687343_ELMVH.txt|MMI|3.14|ARCN1 gene|C1412502|[gngm]|"COPD"-text-8-"COPD"-VBN-0,"COPD"-text-0-"COPD"-NNP-0,"COPD"-text-6-"COPD"-NNP-0,"COPD"-text-0-"COPD"-NNP-0,"COPD"-text-20-"COPD"-NN-0,"COPD"-text-244-"COPD"-NNP-0|text|55/4;2842/4;2940/4;3476/4;4298/4;4869/4||
+044687343_ELMVH.txt|MMI|3.14|Chronic obstructive pulmonary disease of horses|C3714496|[dsyn]|"COPD"-text-8-"COPD"-VBN-0,"COPD"-text-0-"COPD"-NNP-0,"COPD"-text-6-"COPD"-NNP-0,"COPD"-text-0-"COPD"-NNP-0,"COPD"-text-20-"COPD"-NN-0,"COPD"-text-244-"COPD"-NNP-0|text|55/4;2842/4;2940/4;3476/4;4298/4;4869/4||
+044687343_ELMVH.txt|MMI|3.14|With - dosing instruction fragment|C1705690|[inpr]|"With"-text-258-"with"-IN-0,"With"-text-12-"with"-IN-0,"With"-text-156-"with"-IN-0,"With"-text-218-"with"-IN-0,"With"-text-324-"with"-IN-0,"With"-text-347-"with"-IN-0|text|2456/4;2610/4;4646/4;4802/4;5055/4;5105/4||
+044687343_ELMVH.txt|MMI|2.95|Patients|C0030705|[podg]|"Patient"-text-96-"PATIENT"-NNP-0,"Patient"-text-0-"patient"-NN-0,"Patient"-text-4-"patient"-NN-0|text|271/7;1547/7;1749/7|M01.643|
+044687343_ELMVH.txt|MMI|2.89|Disease|C0012634|[dsyn]|"DIS"-text-12-"DIS"-NNS-0,"condition"-text-302-"CONDITION"-NN-0|text|66/3;5015/9|C23.550.288|
+044687343_ELMVH.txt|MMI|2.89|Edema|C0013604|[patf]|"Edema"-text-16-"edema"-NN-1,"Edema"-text-74-"edema"-NN-1|text|3796/5;3941/5|C23.888.277|
+044687343_ELMVH.txt|MMI|2.89|Postprandial Period|C0376674|[tmco]|"After food"-text-10-"after food"-IN-0,"After food"-text-252-"after food"-IN-0|text|1136/10;2438/10|G10.261.700|
+044687343_ELMVH.txt|MMI|2.89|Steroids|C0038317|[orch, phsu]|"Steroids"-text-26-"steroids"-NNS-0,"Steroids"-text-220-"steroids"-NNS-0|text|4311/8;4807/8|D04.210.500|
+044687343_ELMVH.txt|MMI|2.89|Stomach Diseases|C0038354|[dsyn]|"Stomach"-text-0-"stomach"-NN-0,"Stomach"-text-236-"stomach"-NN-0|text|1103/7;2405/7|C06.405.748|
+044687343_ELMVH.txt|MMI|2.83|Reactive Oxygen Species|C0162772|[bacs, elii]|"ROS"-text-0-"ROS"-NNP-0|text|3489/3|D01.650.775;D01.339.431|
+044687343_ELMVH.txt|MMI|2.62|Exacerbation of cGVHD|C3540542|[fndg]|"Flare"-text-10-"flare"-NN-0,"Flare"-text-2-"flare"-NN-0,"Flare"-text-2-"flare"-NN-0,"Flare"-text-22-"flare"-NN-0,"Flare"-text-246-"flare"-NN-0|text|60/5;2847/5;3481/5;4303/5;4874/5||
+044687343_ELMVH.txt|MMI|2.62|Flare|C1517205|[sosy]|"Flare"-text-10-"flare"-NN-0,"Flare"-text-2-"flare"-NN-0,"Flare"-text-2-"flare"-NN-0,"Flare"-text-22-"flare"-NN-0,"Flare"-text-246-"flare"-NN-0|text|60/5;2847/5;3481/5;4303/5;4874/5||
+044687343_ELMVH.txt|MMI|2.37|Proton Pump Inhibitors|C0358591|[phsu]|"PPI"-text-264-"PPI"-NNP-0|text|4911/3|D27.505.519.389.848|
+044687343_ELMVH.txt|MMI|2.37|United Arab Emirates|C0041698|[geoa]|"ARE"-text-0-"are"-VBP-0|text|3461/3|Z01.252.245.500.900|
+044687343_ELMVH.txt|MMI|2.37|alendronate|C0102118|[orch, phsu]|"alendronate"-text-206-"ALENDRONATE"-NN-0|text|2323/11|D02.705.429.500.100|
+044687343_ELMVH.txt|MMI|2.37|lisinopril|C0065374|[aapp, phsu]|"lisinopril"-text-2-"lisinopril"-NN-0|text|4245/10|D12.644.456.345.600|
+044687343_ELMVH.txt|MMI|2.09|Home environment|C0442519|[spco]|"house"-text-290-"House"-NNP-0,"house"-text-0-"House"-NNP-0,"Home"-text-100-"home"-NN-0,"house"-text-112-"house"-NN-0|text|2528/5;2567/5;4507/4;4544/5||
+044687343_ELMVH.txt|MMI|1.97|Diagnosis|C0011900|[diap]|"Diagnosis"-text-75-"DIAGNOSIS"-NNP-0,"Diagnosis"-text-6-"DIAGNOSIS"-NNP-0|text|2739/9;2859/9|E01;Y04|
+044687343_ELMVH.txt|MMI|1.97|Neck|C0027530|[blor]|"Cervical"-text-22-"cervical"-JJ-0,"Cervical"-text-46-"cervical"-JJ-0|text|2990/8;3057/8|A01.598|
+044687343_ELMVH.txt|MMI|1.90|Advair|C0965130|[orch, phsu]|"Advair"-text-52-"advair"-NN-0|text|4381/6|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|Advair Diskus|C0939246|[orch, phsu]|"Advair Diskus"-text-32-"ADVAIR DISKUS"-NNP-0|text|1192/13|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|Allergic Reaction|C1527304|[patf]|"Allergy"-text-67-"ALLERGY"-NNP-0|text|2719/7|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|Allergy Specialty|C0002111|[bmod]|"Allergy"-text-67-"ALLERGY"-NNP-0|text|2719/7|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|Appointments|C0003629|[tmco]|"Appointment"-text-26-"APPOINTMENT"-NNP-0|text|2644/11|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|BaseLine dental cement|C0168634|[bodm]|"baseline"-text-134-"baseline"-NN-0|text|4588/8|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|Christmas Island|C0006888|[geoa]|"CXR"-text-64-"CXR"-NN-0|text|3911/3|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|Cicatrization|C0008767|[patf]|"Scarring"-text-82-"scarring"-NN-0|text|3962/8|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|Claritin|C0701055|[orch, phsu]|"Claritin"-text-64-"claritin"-NN-0|text|4412/8|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|Combivent|C0591282|[orch, phsu]|"Combivent"-text-180-"COMBIVENT"-NNP-0|text|2250/9|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|Consultation|C0009818|[hlca]|"consulted"-text-286-"consulted"-VBD-0|text|4963/9|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|Daughter|C0011011|[famg]|"Daughter"-text-0-"daughter"-NN-0|text|3437/8|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|Deafness, Sensorineural, And Male Infertility|C1970187|[dsyn]|"DIS"-text-12-"DIS"-NNS-0|text|66/3|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|Drug Interactions|C0687133|[patf]|"Drug interaction"-text-224-"Drug Interaction"-NNP-0|text|2359/16|G07.690.773.968|
+044687343_ELMVH.txt|MMI|1.90|Dysplastic Nevus|C0205748|[neop]|"NAD"-text-0-"NAD"-NNP-0|text|3649/3|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|Electrocardiogram|C0013798|[diap]|"EKG"-text-48-"EKG"-RB-0|text|3880/3|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|Endometriosis|C0014175|[dsyn]|"Endo"-text-208-"Endo"-NNP-0|text|4781/4|C13.351.500.163|
+044687343_ELMVH.txt|MMI|1.90|Fosamax|C0376569|[orch, phsu]|"Fosamax"-text-202-"FOSAMAX"-NNP-0|text|2313/7|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|Gonadotropin-Resistant Ovary Syndrome|C0086367|[dsyn]|"ROS"-text-0-"ROS"-NNP-0|text|3489/3|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|Helping Behavior|C0018896|[socb]|"assist"-text-14-"assist"-VB-0|text|2615/6|F01.145.813.225|
+044687343_ELMVH.txt|MMI|1.90|Infantile Neuroaxonal Dystrophy|C0270724|[dsyn]|"PLAN"-text-314-"PLAN"-NNP-0|text|5042/4|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|Lovenox|C0728963|[orch, phsu]|"Lovenox"-text-260-"Lovenox"-NNP-0|text|4901/7|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|Lumbar Region|C0024090|[blor]|"Lumbar"-text-50-"lumbar"-JJ-0|text|3070/6|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|NEUTROPHIL ACTIN DYSFUNCTION|C1850380|[dsyn]|"NAD"-text-0-"NAD"-NNP-0|text|3649/3|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|Neuroaxonal Dystrophies|C0338473|[dsyn]|"NAD"-text-0-"NAD"-NNP-0|text|3649/3|C10.228.140.744|
+044687343_ELMVH.txt|MMI|1.90|OSA protein, Drosophila|C0764906|[bacs, aapp]|"OSA"-text-60-"osa"-NN-0|text|3088/3|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|Protonix|C0876139|[orch, phsu]|"Protonix"-text-164-"PROTONIX"-NNS-0|text|2209/8|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|Rales|C0034642|[fndg]|"Rales"-text-0-"rales"-NNS-1|text|3756/5|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|Solu-Medrol|C0701466|[orch, phsu]|"Solumedrol"-text-0-"solumedrol"-JJ-0|text|3559/10|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|Theses|C0039828|[inpr]|"these"-text-0-"these"-DT-0|text|3446/5|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|Training|C0220931|[edac]|"Instruction"-text-226-"Instruction"-NNP-0|text|2376/11|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|Treatment Protocols|C0040808|[topp]|"Regimen"-text-188-"regimen"-VB-0|text|4725/7|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|ZDHHC2 protein, human|C2606415|[enzy, aapp]|"Rec"-text-0-"REc"-NNP-0|text|3538/3|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|albuterol sulfate|C0543495|[orch, phsu]|"albuterol sulfate"-text-190-"ALBUTEROL SULFATE"-JJ-0|text|2278/17|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|fluticasone propionate|C0117996|[orch, phsu]|"fluticasone propionate"-text-42-"FLUTICASONE PROPIONATE"-NNP-0|text|1215/22|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|montelukast|C0298130|[orch, phsu]|"montelukast"-text-18-"MONTELUKAST"-NN-0|text|1161/11|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|tiotropium|C0213771|[orch, phsu]|"tiotropium"-text-274-"TIOTROPIUM"-NN-0|text|2491/10|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.90|urinastatin|C0077906|[aapp, phsu]|"UTI"-text-170-"uti"-NNS-1|text|4684/3|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.88|Coding|C0009219|[ocac]|"code"-text-288-"Code"-NNP-0|text|4973/4|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.88|Patient Monitoring|C0030695|[hlca]|"monitor"-text-180-"monitor"-VB-0|text|4706/7|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.88|Standing position|C0231472|[spco]|"Standing"-text-0-"standing"-VBG-0|text|1718/8|G11.427.695.600|
+044687343_ELMVH.txt|MMI|1.88|Wheezing|C0043144|[sosy]|"wheezes"-text-0-"wheezes"-NNS-1|text|3745/7|x.x.x.x|
+044687343_ELMVH.txt|MMI|1.57|Disabled Person Code - Patient|C1578486|[inpr]|"Patient"-text-96-"PATIENT"-NNP-0,"Patient"-text-0-"patient"-NN-0,"Patient"-text-4-"patient"-NN-0|text|271/7;1547/7;1749/7||
+044687343_ELMVH.txt|MMI|1.57|Facilitated oscillatory release technique|C1562169|[topp]|"FOR"-text-0-"for"-IN-0,"FOR"-text-68-"for"-IN-0,"FOR"-text-242-"for"-IN-0|text|2818/3;4434/3;4865/3||
+044687343_ELMVH.txt|MMI|1.57|Food allergenic extracts|C3540798|[imft, phsu]|"food"-text-0-"food"-NN-0,"food"-text-12-"food"-NN-0,"food"-text-218-"Food"-NNP-0|text|1568/4;1770/4;2352/4||
+044687343_ELMVH.txt|MMI|1.57|Hospital admission|C0184666|[hlca]|"Admit"-text-73-"ADMIT"-NNP-0,"Admission"-text-0-"Admission"-NNP-0,"Admission"-text-0-"Admission"-NNP-0|text|2733/5;2830/9;3514/9||
+044687343_ELMVH.txt|MMI|1.57|House (environment)|C2003847|[mnob]|"House"-text-290-"House"-NNP-0,"House"-text-0-"House"-NNP-0,"House"-text-112-"house"-NN-0|text|2528/5;2567/5;4544/5||
+044687343_ELMVH.txt|MMI|1.57|MMP-7 activity|C1150186|[moft]|"PUMP"-text-53-"Pump"-NNP-0,"PUMP"-text-4-"Pump"-NN-0,"PUMP"-text-333-"Pump"-NNP-0|text|2699/4;4256/4;5072/4||
+044687343_ELMVH.txt|MMI|1.57|Mail Claim Party - Patient|C1578481|[idcn]|"Patient"-text-96-"PATIENT"-NNP-0,"Patient"-text-0-"patient"-NN-0,"Patient"-text-4-"patient"-NN-0|text|271/7;1547/7;1749/7||
+044687343_ELMVH.txt|MMI|1.57|Preposition For|C0521125|[qlco]|"For"-text-0-"for"-IN-0,"For"-text-68-"for"-IN-0,"For"-text-242-"for"-IN-0|text|2818/3;4434/3;4865/3||
+044687343_ELMVH.txt|MMI|1.57|Pump Dosing Unit|C1556080|[qnco]|"Pump"-text-53-"Pump"-NNP-0,"Pump"-text-4-"Pump"-NN-0,"Pump"-text-333-"Pump"-NNP-0|text|2699/4;4256/4;5072/4||
+044687343_ELMVH.txt|MMI|1.57|Relationship modifier - Patient|C1578484|[idcn]|"Patient"-text-96-"PATIENT"-NNP-0,"Patient"-text-0-"patient"-NN-0,"Patient"-text-4-"patient"-NN-0|text|271/7;1547/7;1749/7||
+044687343_ELMVH.txt|MMI|1.57|Report source - Patient|C1578483|[idcn]|"Patient"-text-96-"PATIENT"-NNP-0,"Patient"-text-0-"patient"-NN-0,"Patient"-text-4-"patient"-NN-0|text|271/7;1547/7;1749/7||
+044687343_ELMVH.txt|MMI|1.57|Room|C1547703|[spco]|"Room"-text-80-"Room"-NNP-0,"Room"-text-6-"room"-NN-0,"Room"-text-20-"room"-NN-0|text|232/4;1583/4;1785/4||
+044687343_ELMVH.txt|MMI|1.57|Room - Patient location type|C1547120|[spco]|"Room"-text-80-"Room"-NNP-0,"Room"-text-6-"room"-NN-0,"Room"-text-20-"room"-NN-0|text|232/4;1583/4;1785/4||
+044687343_ELMVH.txt|MMI|1.57|Specimen Source Codes - Patient|C1578485|[inpr]|"Patient"-text-96-"PATIENT"-NNP-0,"Patient"-text-0-"patient"-NN-0,"Patient"-text-4-"patient"-NN-0|text|271/7;1547/7;1749/7||
+044687343_ELMVH.txt|MMI|1.57|Specimen Type - Patient|C1550655|[bdsu]|"Patient"-text-96-"PATIENT"-NNP-0,"Patient"-text-0-"patient"-NN-0,"Patient"-text-4-"patient"-NN-0|text|271/7;1547/7;1749/7||
+044687343_ELMVH.txt|MMI|1.57|Subject Continuance|C2826258|[evnt]|"CONT"-text-30-"cont"-NN-0,"CONT"-text-174-"cont"-NN-0,"CONT"-text-204-"cont"-VBN-0|text|4322/4;4690/4;4771/4||
+044687343_ELMVH.txt|MMI|1.57|Therapeutic procedure|C0087111|[topp]|"Treatment"-text-0-"Treatment"-NNP-0,"Treatment"-text-78-"treatment"-NN-0,"Treatments"-text-96-"TREATMENTS"-NNP-0|text|2923/9;3117/9;3167/10||
+044687343_ELMVH.txt|MMI|1.57|Veterinary Patient|C1705908|[orgm]|"Patient"-text-96-"PATIENT"-NNP-0,"Patient"-text-0-"patient"-NN-0,"Patient"-text-4-"patient"-NN-0|text|271/7;1547/7;1749/7||
+044687343_ELMVH.txt|MMI|1.57|WWOX gene|C1421525|[gngm]|"FOR"-text-0-"for"-IN-0,"FOR"-text-68-"for"-IN-0,"FOR"-text-242-"for"-IN-0|text|2818/3;4434/3;4865/3||
+044687343_ELMVH.txt|MMI|1.57|WWOX wt Allele|C4321252|[gngm]|"FOR"-text-0-"for"-IN-0,"FOR"-text-68-"for"-IN-0,"FOR"-text-242-"for"-IN-0|text|2818/3;4434/3;4865/3||
+044687343_ELMVH.txt|MMI|1.57|When (temporal qualifier)|C1948054|[tmco]|"When"-text-0-"when"-WRB-0,"When"-text-2-"when"-WRB-0,"When"-text-274-"when"-WRB-0|text|1542/4;1744/4;4932/4||
+044687343_ELMVH.txt|MMI|1.57|When - dosing instruction fragment|C1720477|[qlco]|"When"-text-0-"when"-WRB-0,"When"-text-2-"when"-WRB-0,"When"-text-274-"when"-WRB-0|text|1542/4;1744/4;4932/4||
+044687343_ELMVH.txt|MMI|1.57|pump (device)|C0182537|[medd]|"Pump"-text-53-"Pump"-NNP-0,"Pump"-text-4-"Pump"-NN-0,"Pump"-text-333-"Pump"-NNP-0|text|2699/4;4256/4;5072/4||
+044687343_ELMVH.txt|MMI|1.51|125|C4319551|[qnco]|"125"-text-0-"125"-CD-0,"125"-text-16-"125"-CD-0,"125"-text-0-"125"-CD-0|text|1811/3;1859/3;3570/3||
+044687343_ELMVH.txt|MMI|1.51|Body Fluid Discharge|C0012621|[bdsu]|"Discharge"-text-53-"DISCHARGE"-NNP-0,"Discharge"-text-94-"DISCHARGE"-NNP-0,"Discharge"-text-300-"DISCHARGE"-NN-0|text|155/9;261/9;5005/9||
+044687343_ELMVH.txt|MMI|1.51|Daily|C0332173|[tmco]|"Daily"-text-178-"DAILY"-NNP-0,"Daily"-text-284-"DAILY"-NNP-0,"Day"-text-82-"day"-NN-0|text|2244/5;2515/5;4474/3||
+044687343_ELMVH.txt|MMI|1.51|Discharge, Body Substance, Sample|C0600083|[bdsu]|"Discharge"-text-53-"DISCHARGE"-NNP-0,"Discharge"-text-94-"DISCHARGE"-NNP-0,"Discharge"-text-300-"DISCHARGE"-NN-0|text|155/9;261/9;5005/9||
+044687343_ELMVH.txt|MMI|1.51|Discharge, body substance|C2926602|[sosy]|"Discharge"-text-53-"DISCHARGE"-NNP-0,"Discharge"-text-94-"DISCHARGE"-NNP-0,"Discharge"-text-300-"DISCHARGE"-NN-0|text|155/9;261/9;5005/9||
+044687343_ELMVH.txt|MMI|1.51|Specimen Source Codes - Discharge|C1546601|[inpr]|"Discharge"-text-53-"DISCHARGE"-NNP-0,"Discharge"-text-94-"DISCHARGE"-NNP-0,"Discharge"-text-300-"DISCHARGE"-NN-0|text|155/9;261/9;5005/9||
+044687343_ELMVH.txt|MMI|1.44|Abdomen|C0000726|[blor]|"abd"-text-8-"abd"-NN-0|text|3780/3|A01.923.047|
+044687343_ELMVH.txt|MMI|1.44|Dietary Iron|C0376520|[inch]|"Iron"-text-206-"iron"-NN-0|text|4776/4|D01.490.600|
+044687343_ELMVH.txt|MMI|1.44|Intestines|C0021853|[bpoc]|"Bowel"-text-186-"Bowel"-NNP-0|text|4719/5|A03.556.124|
+044687343_ELMVH.txt|MMI|1.44|Ischemia|C0022116|[patf]|"Ischemia"-text-0-"Ischemia"-NNP-0|text|4230/8|C23.550.513|
+044687343_ELMVH.txt|MMI|1.42|Kidney|C0022646|[bpoc]|"Renal"-text-136-"Renal"-NNP-0|text|4597/5|A05.810.453|
+044687343_ELMVH.txt|MMI|1.05|ADA gene|C1412179|[gngm]|"ADA"-text-0-"ADA"-NNP-0,"ADA"-text-252-"ADA"-NNP-0|text|2575/3;4886/3||
+044687343_ELMVH.txt|MMI|1.05|Adangme language|C0574493|[lang]|"ADA"-text-0-"ADA"-NNP-0,"ADA"-text-252-"ADA"-NNP-0|text|2575/3;4886/3||
+044687343_ELMVH.txt|MMI|1.05|Administration procedure|C1533734|[topp]|"Treatment"-text-0-"Treatment"-NNP-0,"Treatment"-text-78-"treatment"-NN-0|text|2923/9;3117/9||
+044687343_ELMVH.txt|MMI|1.05|Admission activity|C0809949|[hlca]|"Admission"-text-0-"Admission"-NNP-0,"Admission"-text-0-"Admission"-NNP-0|text|2830/9;3514/9||
+044687343_ELMVH.txt|MMI|1.05|American Diabetes Association|C1705019|[pros]|"ADA"-text-0-"ADA"-NNP-0,"ADA"-text-252-"ADA"-NNP-0|text|2575/3;4886/3||
+044687343_ELMVH.txt|MMI|1.05|Anti-Drug Antibody|C3811629|[imft, aapp]|"ADA"-text-0-"ADA"-NNP-0,"ADA"-text-252-"ADA"-NNP-0|text|2575/3;4886/3||
+044687343_ELMVH.txt|MMI|1.05|Before|C0332152|[tmco]|"Before"-text-2-"before"-IN-0,"Before"-text-244-"before"-IN-0|text|1122/6;2424/6||
+044687343_ELMVH.txt|MMI|1.05|Before - dosing instruction fragment|C1705850|[inpr]|"Before"-text-2-"before"-IN-0,"Before"-text-244-"before"-IN-0|text|1122/6;2424/6||
+044687343_ELMVH.txt|MMI|1.05|Biomaterial Treatment|C1705169|[cnce]|"Treatment"-text-0-"Treatment"-NNP-0,"Treatment"-text-78-"treatment"-NN-0|text|2923/9;3117/9||
+044687343_ELMVH.txt|MMI|1.05|CHL1 gene|C1413393|[gngm]|"CALL"-text-144-"call"-VB-0,"CALL"-text-148-"Call"-NNP-0|text|2167/4;2175/4||
+044687343_ELMVH.txt|MMI|1.05|Call (Instruction)|C1947967|[ftcn]|"Call"-text-144-"call"-VB-0,"Call"-text-148-"Call"-NNP-0|text|2167/4;2175/4||
+044687343_ELMVH.txt|MMI|1.05|Call - dosing instruction fragment|C1720420|[inpr]|"Call"-text-144-"call"-VB-0,"Call"-text-148-"Call"-NNP-0|text|2167/4;2175/4||
+044687343_ELMVH.txt|MMI|1.05|Cervical|C0205064|[spco]|"Cervical"-text-22-"cervical"-JJ-0,"Cervical"-text-46-"cervical"-JJ-0|text|2990/8;3057/8||
+044687343_ELMVH.txt|MMI|1.05|College Entrance Examination Board Scholastic Aptitude Test|C0871290|[inpr]|"sat"-text-302-"sat"-VBD-0,"sat"-text-92-"sat"-VBN-0|text|2551/3;4495/3||
+044687343_ELMVH.txt|MMI|1.05|Cough Frequency|C4084727|[inpr]|"Cough"-text-160-"cough"-NN-0,"Cough"-text-357-"cough"-NN-0|text|4661/5;5137/5||
+044687343_ELMVH.txt|MMI|1.05|Cough, CTCAE|C1961131|[fndg]|"Cough"-text-160-"cough"-NN-0,"Cough"-text-357-"cough"-NN-0|text|4661/5;5137/5||
+044687343_ELMVH.txt|MMI|1.05|Coughing|C0010200|[sosy]|"Cough"-text-160-"cough"-NN-0,"Cough"-text-357-"cough"-NN-0|text|4661/5;5137/5||
+044687343_ELMVH.txt|MMI|1.05|Decision|C0679006|[menp]|"Call"-text-144-"call"-VB-0,"Call"-text-148-"Call"-NNP-0|text|2167/4;2175/4||
+044687343_ELMVH.txt|MMI|1.05|Degenerative polyarthritis|C0029408|[dsyn]|"DJD"-text-24-"DJD"-NN-0,"DJD"-text-52-"djd"-NN-0|text|2999/3;3077/3||
+044687343_ELMVH.txt|MMI|1.05|Diagnosis Classification - Diagnosis|C1546899|[clas]|"Diagnosis"-text-75-"DIAGNOSIS"-NNP-0,"Diagnosis"-text-6-"DIAGNOSIS"-NNP-0|text|2739/9;2859/9||
+044687343_ELMVH.txt|MMI|1.05|Diagnosis Code|C1550350|[inpr]|"DIAGNOSIS"-text-75-"DIAGNOSIS"-NNP-0,"DIAGNOSIS"-text-6-"DIAGNOSIS"-NNP-0|text|2739/9;2859/9||
+044687343_ELMVH.txt|MMI|1.05|Diagnosis Study|C1704656|[resa]|"DIAGNOSIS"-text-75-"DIAGNOSIS"-NNP-0,"DIAGNOSIS"-text-6-"DIAGNOSIS"-NNP-0|text|2739/9;2859/9||
+044687343_ELMVH.txt|MMI|1.05|Diagnosis:Impression/interpretation of study:Point in time:^Patient:Nominal|C0945731|[clna]|"Diagnosis"-text-75-"DIAGNOSIS"-NNP-0,"Diagnosis"-text-6-"DIAGNOSIS"-NNP-0|text|2739/9;2859/9||
+044687343_ELMVH.txt|MMI|1.05|Edema:Finding:Point in time:^Patient:Ordinal|C1717255|[clna]|"Edema"-text-16-"edema"-NN-1,"Edema"-text-74-"edema"-NN-1|text|3796/5;3941/5||
+044687343_ELMVH.txt|MMI|1.05|Empty (qualifier)|C1880497|[qlco]|"Empty"-text-0-"empty"-JJ-0,"Empty"-text-234-"empty"-JJ-0|text|1097/5;2399/5||
+044687343_ELMVH.txt|MMI|1.05|Entire stomach|C1278920|[bpoc]|"Stomach"-text-0-"stomach"-NN-0,"Stomach"-text-236-"stomach"-NN-0|text|1103/7;2405/7||
+044687343_ELMVH.txt|MMI|1.05|Focal|C0205234|[spco]|"Focal"-text-34-"focal"-JJ-0,"Focal"-text-68-"focal"-JJ-0|text|3840/5;3918/5||
+044687343_ELMVH.txt|MMI|1.05|Follow|C4281991|[ftcn]|"Per"-text-16-"per"-IN-0,"Per"-text-0-"Per"-IN-0|text|2622/3;3433/3||
+044687343_ELMVH.txt|MMI|1.05|Genus Ada|C1060325|[plnt]|"Ada"-text-0-"ADA"-NNP-0,"Ada"-text-252-"ADA"-NNP-0|text|2575/3;4886/3||
+044687343_ELMVH.txt|MMI|1.05|Have Been Coughing|C3274924|[inpr]|"Cough"-text-160-"cough"-NN-0,"Cough"-text-357-"cough"-NN-0|text|4661/5;5137/5||
+044687343_ELMVH.txt|MMI|1.05|How Much Distress Cough|C4084726|[inpr]|"Cough"-text-160-"cough"-NN-0,"Cough"-text-357-"cough"-NN-0|text|4661/5;5137/5||
+044687343_ELMVH.txt|MMI|1.05|INJECTION, AZITHROMYCIN, 500 MG ADMINISTERED|C0812732|[clnd]|"Azithromycin"-text-66-"azithromycin"-NN-0,"Azithromycin"-text-240-"Azithromycin"-NNP-0|text|4421/12;4852/12||
+044687343_ELMVH.txt|MMI|1.05|Increase|C0442805|[ftcn]|"Increased"-text-158-"increased"-JJ-0,"Increased"-text-355-"increased"-JJ-0|text|4651/9;5127/9||
+044687343_ELMVH.txt|MMI|1.05|Increased|C0205217|[qlco]|"Increased"-text-158-"increased"-JJ-0,"Increased"-text-355-"increased"-JJ-0|text|4651/9;5127/9||
+044687343_ELMVH.txt|MMI|1.05|Ingush language|C0574226|[lang]|"INH"-text-198-"INH"-IN-0,"INH"-text-282-"INH"-NNP-0|text|2305/3;2511/3||
+044687343_ELMVH.txt|MMI|1.05|Inhalant dose form|C0598322|[bodm]|"Inh"-text-198-"INH"-IN-0,"Inh"-text-282-"INH"-NNP-0|text|2305/3;2511/3||
+044687343_ELMVH.txt|MMI|1.05|Inhalation Dosing Unit|C1705211|[qnco]|"INH"-text-198-"INH"-IN-0,"INH"-text-282-"INH"-NNP-0|text|2305/3;2511/3||
+044687343_ELMVH.txt|MMI|1.05|Inhalation Route of Drug Administration|C0205535|[ftcn]|"INH"-text-198-"INH"-IN-0,"INH"-text-282-"INH"-NNP-0|text|2305/3;2511/3||
+044687343_ELMVH.txt|MMI|1.05|Instruction [Publication Type]|C0302828|[inpr]|"instructions"-text-10-"Instructions"-NNP-0,"Instruction"-text-226-"Instruction"-NNP-0|text|1656/12;2376/11||
+044687343_ELMVH.txt|MMI|1.05|Instructions|C1442085|[inpr]|"Instructions"-text-10-"Instructions"-NNP-0,"instruction"-text-226-"Instruction"-NNP-0|text|1656/12;2376/11||
+044687343_ELMVH.txt|MMI|1.05|NR4A2 gene|C1417836|[gngm]|"NOT"-text-104-"NOT"-NNP-0,"NOT"-text-106-"not"-RB-0|text|3193/3;4527/3||
+044687343_ELMVH.txt|MMI|1.05|Negation|C1518422|[ftcn]|"Not"-text-104-"NOT"-NNP-0,"Not"-text-106-"not"-RB-0|text|3193/3;4527/3||
+044687343_ELMVH.txt|MMI|1.05|PCP - Hallucinogen-Related Disorder|C2919094|[mobd]|"PCP"-text-40-"PCP"-NNP-0,"PCP"-text-326-"PCP"-NNP-0|text|2680/3;5060/3||
+044687343_ELMVH.txt|MMI|1.05|PER tumor staging notation|C0449201|[blor]|"PER"-text-16-"per"-IN-0,"PER"-text-0-"Per"-IN-0|text|2622/3;3433/3||
+044687343_ELMVH.txt|MMI|1.05|PER1 gene|C1418464|[gngm]|"PER"-text-16-"per"-IN-0,"PER"-text-0-"Per"-IN-0|text|2622/3;3433/3||
+044687343_ELMVH.txt|MMI|1.05|PER1 wt Allele|C3273590|[gngm]|"PER"-text-16-"per"-IN-0,"PER"-text-0-"Per"-IN-0|text|2622/3;3433/3||
+044687343_ELMVH.txt|MMI|1.05|PGPEP1 gene|C1422070|[gngm]|"PCP"-text-40-"PCP"-NNP-0,"PCP"-text-326-"PCP"-NNP-0|text|2680/3;5060/3||
+044687343_ELMVH.txt|MMI|1.05|PRCP gene|C1418873|[gngm]|"PCP"-text-40-"PCP"-NNP-0,"PCP"-text-326-"PCP"-NNP-0|text|2680/3;5060/3||
+044687343_ELMVH.txt|MMI|1.05|Per (qualifier)|C3887962|[qlco]|"Per"-text-16-"per"-IN-0,"Per"-text-0-"Per"-IN-0|text|2622/3;3433/3||
+044687343_ELMVH.txt|MMI|1.05|Per - dosing instruction fragment|C1704764|[inpr]|"Per"-text-16-"per"-IN-0,"Per"-text-0-"Per"-IN-0|text|2622/3;3433/3||
+044687343_ELMVH.txt|MMI|1.05|Phencyclidine measurement|C0202445|[lbpr]|"PCP"-text-40-"PCP"-NNP-0,"PCP"-text-326-"PCP"-NNP-0|text|2680/3;5060/3||
+044687343_ELMVH.txt|MMI|1.05|Pneumocystis jiroveci pneumonia|C1535939|[dsyn]|"PCP"-text-40-"PCP"-NNP-0,"PCP"-text-326-"PCP"-NNP-0|text|2680/3;5060/3||
+044687343_ELMVH.txt|MMI|1.05|SAT1 wt Allele|C1705827|[gngm]|"SAT"-text-302-"sat"-VBD-0,"SAT"-text-92-"sat"-VBN-0|text|2551/3;4495/3||
+044687343_ELMVH.txt|MMI|1.05|Santali language|C0574418|[lang]|"SAT"-text-302-"sat"-VBD-0,"SAT"-text-92-"sat"-VBN-0|text|2551/3;4495/3||
+044687343_ELMVH.txt|MMI|1.05|Scientific Study|C0947630|[lbpr]|"Study"-text-0-"Study"-NNP-0,"studies"-text-42-"Studies"-NNS-0|text|2812/5;3868/7||
+044687343_ELMVH.txt|MMI|1.05|Stomach structure|C3714551|[bpoc]|"Stomach"-text-0-"stomach"-NN-0,"Stomach"-text-236-"stomach"-NN-0|text|1103/7;2405/7||
+044687343_ELMVH.txt|MMI|1.05|Summary (document)|C1706244|[inpr]|"Summary"-text-148-"SUMMARY"-NNP-0,"Summary"-text-369-"summary"-NN-0|text|374/7;5176/7||
+044687343_ELMVH.txt|MMI|1.05|Symptoms aspect|C0683368|[ftcn]|"symptoms"-text-0-"symptoms"-NNS-0,"symptoms"-text-154-"symptoms"-NNS-0|text|3452/8;4637/8||
+044687343_ELMVH.txt|MMI|1.05|Treating|C1522326|[ftcn]|"Treatment"-text-0-"Treatment"-NNP-0,"Treatment"-text-78-"treatment"-NN-0|text|2923/9;3117/9||
+044687343_ELMVH.txt|MMI|1.05|Treatment Epoch|C3538994|[resa]|"TREATMENT"-text-0-"Treatment"-NNP-0,"TREATMENT"-text-78-"treatment"-NN-0|text|2923/9;3117/9||
+044687343_ELMVH.txt|MMI|1.05|Treatment Study|C3161471|[resa]|"TREATMENT"-text-0-"Treatment"-NNP-0,"TREATMENT"-text-78-"treatment"-NN-0|text|2923/9;3117/9||
+044687343_ELMVH.txt|MMI|1.05|Usual Severity Cough|C4084725|[inpr]|"Cough"-text-160-"cough"-NN-0,"Cough"-text-357-"cough"-NN-0|text|4661/5;5137/5||
+044687343_ELMVH.txt|MMI|1.05|acetaldehyde dehydrogenase (acetylating) activity|C1151644|[moft]|"ADA"-text-0-"ADA"-NNP-0,"ADA"-text-252-"ADA"-NNP-0|text|2575/3;4886/3||
+044687343_ELMVH.txt|MMI|1.05|diagnosis aspect|C1704338|[ftcn]|"diagnosis"-text-75-"DIAGNOSIS"-NNP-0,"diagnosis"-text-6-"DIAGNOSIS"-NNP-0|text|2739/9;2859/9||
+044687343_ELMVH.txt|MMI|1.05|serine-type Pro-X carboxypeptidase activity|C1744653|[moft]|"PCP"-text-40-"PCP"-NNP-0,"PCP"-text-326-"PCP"-NNP-0|text|2680/3;5060/3||
+044687343_ELMVH.txt|MMI|1.05|summary - ActRelationshipSubset|C1552616|[inpr]|"summary"-text-148-"SUMMARY"-NNP-0,"summary"-text-369-"summary"-NN-0|text|374/7;5176/7||
+044687343_ELMVH.txt|MMI|1.05|therapeutic aspects|C0039798|[ftcn]|"treatment"-text-0-"Treatment"-NNP-0,"treatment"-text-78-"treatment"-NN-0|text|2923/9;3117/9||
+044687343_ELMVH.txt|MMI|1.05|treatment - ActInformationManagementReason|C3887704|[hlca]|"treatment"-text-0-"Treatment"-NNP-0,"treatment"-text-78-"treatment"-NN-0|text|2923/9;3117/9||
+044687343_ELMVH.txt|MMI|1.01|400|C3816746|[qnco]|"400"-text-128-"400"-CD-0,"400"-text-162-"400"-CD-0|text|2123/3;2205/3||
+044687343_ELMVH.txt|MMI|1.01|Basal Diet|C2983588|[food]|"DIET"-text-286-"DIET"-NNP-0,"DIET"-text-254-"diet"-NN-0|text|2521/4;4890/4||
+044687343_ELMVH.txt|MMI|1.01|Complete|C0205197|[qlco]|"Complete"-text-7-"complete"-JJ-0,"Complete"-text-76-"complete"-VB-0|text|3678/8;4461/8||
+044687343_ELMVH.txt|MMI|1.01|Complete Pharyngeal Contraction|C4283785|[fndg]|"Complete"-text-7-"complete"-JJ-0,"Complete"-text-76-"complete"-VB-0|text|3678/8;4461/8||
+044687343_ELMVH.txt|MMI|1.01|Completion Status for valid values - Complete|C1548561|[idcn]|"Complete"-text-7-"complete"-JJ-0,"Complete"-text-76-"complete"-VB-0|text|3678/8;4461/8||
+044687343_ELMVH.txt|MMI|1.01|Data operation - complete|C3853530|[ftcn]|"complete"-text-7-"complete"-JJ-0,"complete"-text-76-"complete"-VB-0|text|3678/8;4461/8||
+044687343_ELMVH.txt|MMI|1.01|Diet (animal life circumstance)|C3668949|[food]|"Diet"-text-286-"DIET"-NNP-0,"Diet"-text-254-"diet"-NN-0|text|2521/4;4890/4||
+044687343_ELMVH.txt|MMI|1.01|Finish - dosing instruction imperative|C1706059|[ftcn]|"Complete"-text-7-"complete"-JJ-0,"Complete"-text-76-"complete"-VB-0|text|3678/8;4461/8||
+044687343_ELMVH.txt|MMI|1.01|IPSS Risk Category Low|C4522223|[inpr]|"Low"-text-294-"Low"-NNP-0,"Low"-text-300-"low"-JJ-0|text|2536/3;2547/3||
+044687343_ELMVH.txt|MMI|1.01|IPSS-R Risk Category Low|C5203106|[fndg]|"Low"-text-294-"Low"-NNP-0,"Low"-text-300-"low"-JJ-0|text|2536/3;2547/3||
+044687343_ELMVH.txt|MMI|1.01|Low - MessageWaitingPriority|C1619811|[qlco]|"Low"-text-294-"Low"-NNP-0,"Low"-text-300-"low"-JJ-0|text|2536/3;2547/3||
+044687343_ELMVH.txt|MMI|1.01|Low - observation|C1611820|[qnco]|"Low"-text-294-"Low"-NNP-0,"Low"-text-300-"low"-JJ-0|text|2536/3;2547/3||
+044687343_ELMVH.txt|MMI|1.01|Low Level|C4321351|[fndg]|"Low"-text-294-"Low"-NNP-0,"Low"-text-300-"low"-JJ-0|text|2536/3;2547/3||
+044687343_ELMVH.txt|MMI|1.01|Low Mitosis-Karyorrhexis Index|C3890211|[qnco]|"Low"-text-294-"Low"-NNP-0,"Low"-text-300-"low"-JJ-0|text|2536/3;2547/3||
+044687343_ELMVH.txt|MMI|1.01|No evidence of|C0332125|[qlco]|"No evidence of"-text-10-"no evidence of"-DT-0,"No evidence of"-text-168-"no evidence of"-DT-0|text|4261/14;4669/14||
+044687343_ELMVH.txt|MMI|1.01|Special Diet Therapy|C1519433|[topp]|"DIET"-text-286-"DIET"-NNP-0,"DIET"-text-254-"diet"-NN-0|text|2521/4;4890/4||
+044687343_ELMVH.txt|MMI|1.01|Value Below Reference Range|C2700150|[inpr]|"Low"-text-294-"Low"-NNP-0,"Low"-text-300-"low"-JJ-0|text|2536/3;2547/3||
+044687343_ELMVH.txt|MMI|1.01|diet - supply|C1549512|[ftcn]|"diet"-text-286-"DIET"-NNP-0,"diet"-text-254-"diet"-NN-0|text|2521/4;4890/4||
+044687343_ELMVH.txt|MMI|1.01|low|C0205251|[qlco]|"low"-text-294-"Low"-NNP-0,"low"-text-300-"low"-JJ-0|text|2536/3;2547/3||
+044687343_ELMVH.txt|MMI|1.01|low confidentiality|C1550472|[inpr]|"low"-text-294-"Low"-NNP-0,"low"-text-300-"low"-JJ-0|text|2536/3;2547/3||
+044687343_ELMVH.txt|MMI|1.01|low exposure|C4048187|[qlco]|"low"-text-294-"Low"-NNP-0,"low"-text-300-"low"-JJ-0|text|2536/3;2547/3||
+044687343_ELMVH.txt|MMI|1.01|pre-meal|C1546096|[tmco]|"pre-meal"-text-16-"pre-meal"-VB-0,"pre-meal"-text-0-"pre-meal"-JJ-0|text|1671/8;1727/8||
+044687343_ELMVH.txt|MMI|0.98|Hypersensitivity|C0020517|[patf]|"Allergy"-text-67-"ALLERGY"-NNP-0|text|2719/7|C20.543|
+044687343_ELMVH.txt|MMI|0.96|Time|C0040223|[tmco]|"times"-text-26-"times"-NNS-0|text|3823/5|G01.910|
+044687343_ELMVH.txt|MMI|0.52|A1BG gene|C1412045|[gngm]|"ABG"-text-84-"ABG"-NNP-0|text|3971/3||
+044687343_ELMVH.txt|MMI|0.52|ABD tumor staging notation|C0449202|[inpr]|"ABD"-text-8-"abd"-NN-0|text|3780/3||
+044687343_ELMVH.txt|MMI|0.52|AMBP gene|C1412376|[gngm]|"UTI"-text-170-"uti"-NNS-1|text|4684/3||
+044687343_ELMVH.txt|MMI|0.52|Absence of Biallelic TCRgamma Deletion|C3811055|[comd]|"ABD"-text-8-"abd"-NN-0|text|3780/3||
+044687343_ELMVH.txt|MMI|0.52|ActInformationPrivacyReason <service>|C3245478|[idcn]|"service"-text-88-"Service"-NNP-0|text|247/7||
+044687343_ELMVH.txt|MMI|0.52|Active|C0205177|[qlco]|"Activity"-text-6-"ACTIVITY"-NNP-0|text|2594/8||
+044687343_ELMVH.txt|MMI|0.52|Activities|C0441655|[acty]|"Activity"-text-6-"ACTIVITY"-NNP-0|text|2594/8||
+044687343_ELMVH.txt|MMI|0.52|Activity (animal life circumstance)|C3668946|[fndg]|"Activity"-text-6-"ACTIVITY"-NNP-0|text|2594/8||
+044687343_ELMVH.txt|MMI|0.52|Additional comments|C1830770|[fndg]|"Additional comments"-text-296-"ADDITIONAL COMMENTS"-NNP-0|text|4983/19||
+044687343_ELMVH.txt|MMI|0.52|Address type - Home|C1549632|[idcn]|"Home"-text-100-"home"-NN-0|text|4507/4||
+044687343_ELMVH.txt|MMI|0.52|Administrative Sex - Not applicable|C1549103|[orga]|"Not applicable"-text-122-"Not Applicable"-RB-0|text|321/14||
+044687343_ELMVH.txt|MMI|0.52|Admission Level of Care Code - Improved|C1561611|[inpr]|"Improved"-text-280-"improved"-VBD-0|text|4949/8||
+044687343_ELMVH.txt|MMI|0.52|Admission date:Time Stamp -- Date and Time:Point in time:^Patient:Quantitative|C2598112|[clna]|"Admission date"-text-16-"Admission Date"-NNP-0|text|70/14||
+044687343_ELMVH.txt|MMI|0.52|Adverse drug interaction|C0678798|[patf]|"Drug interaction"-text-224-"Drug Interaction"-NNP-0|text|2359/16||
+044687343_ELMVH.txt|MMI|0.52|Affecting|C0392760|[ftcn]|"Affecting"-text-0-"affecting"-VBG-0|text|2913/9||
+044687343_ELMVH.txt|MMI|0.52|Allergic disposition|C3539909|[fndg]|"Allergy"-text-67-"ALLERGY"-NNP-0|text|2719/7||
+044687343_ELMVH.txt|MMI|0.52|Allergy - Charge Type Reason|C1547542|[idcn]|"Allergy"-text-67-"ALLERGY"-NNP-0|text|2719/7||
+044687343_ELMVH.txt|MMI|0.52|American Stop Smoking Intervention for Cancer Prevention|C1515950|[hcro]|"ASSIST"-text-14-"assist"-VB-0|text|2615/6||
+044687343_ELMVH.txt|MMI|0.52|Analysis of arterial blood gases and pH|C0150411|[lbpr]|"ABG"-text-84-"ABG"-NNP-0|text|3971/3||
+044687343_ELMVH.txt|MMI|0.52|Androgen Response Element|C1515984|[nusq]|"ARE"-text-0-"are"-VBP-0|text|3461/3||
+044687343_ELMVH.txt|MMI|0.52|Apyrexial|C0277797|[fndg]|"Afebrile"-text-226-"afebrile"-NN-0|text|4821/8||
+044687343_ELMVH.txt|MMI|0.52|Arylsulfatase A, human|C3853627|[enzy, aapp]|"ASA"-text-0-"ASA"-NNP-0|text|4239/3||
+044687343_ELMVH.txt|MMI|0.52|Assisted (qualifier value)|C1269765|[qlco]|"Assist"-text-14-"assist"-VB-0|text|2615/6||
+044687343_ELMVH.txt|MMI|0.52|Assisting (procedure)|C0557034|[hlca]|"assist"-text-14-"assist"-VB-0|text|2615/6||
+044687343_ELMVH.txt|MMI|0.52|Attending (action)|C1999232|[ftcn]|"attending"-text-154-"Attending"-NNP-0|text|388/9||
+044687343_ELMVH.txt|MMI|0.52|Attending (provider role)|C1547429|[prog]|"Attending"-text-154-"Attending"-NNP-0|text|388/9||
+044687343_ELMVH.txt|MMI|0.52|Baseline|C1442488|[qnco]|"Baseline"-text-134-"baseline"-NN-0|text|4588/8||
+044687343_ELMVH.txt|MMI|0.52|Basilar Rales|C0240859|[fndg]|"Rales"-text-0-"rales"-NNS-1|text|3756/5||
+044687343_ELMVH.txt|MMI|0.52|Bedtime (qualifier value)|C0521112|[tmco]|"Bedtime"-text-28-"BEDTIME"-NNP-0|text|1184/7||
+044687343_ELMVH.txt|MMI|0.52|Benign|C0205183|[qlco]|"Benign"-text-10-"benign"-JJ-0|text|3784/6||
+044687343_ELMVH.txt|MMI|0.52|Better|C0332272|[qlco]|"Improved"-text-280-"improved"-VBD-0|text|4949/8||
+044687343_ELMVH.txt|MMI|0.52|CA8 gene|C1413051|[gngm]|"CALS"-text-0-"cals"-NNS-0|text|2584/4||
+044687343_ELMVH.txt|MMI|0.52|CDISC SDTM Evaluator Terminology|C2698624|[inpr]|"EVAL"-text-20-"eval"-NN-0|text|2629/4||
+044687343_ELMVH.txt|MMI|0.52|CENPJ gene|C1424863|[gngm]|"CPAP"-text-104-"CPAP"-NNP-0|text|4522/4||
+044687343_ELMVH.txt|MMI|0.52|COL9A2 gene|C1413596|[gngm]|"MED"-text-92-"MED"-NNP-0|text|257/3||
+044687343_ELMVH.txt|MMI|0.52|COL9A3 gene|C1413597|[gngm]|"MED"-text-92-"MED"-NNP-0|text|257/3||
+044687343_ELMVH.txt|MMI|0.52|COMP gene|C1456376|[gngm]|"MED"-text-92-"MED"-NNP-0|text|257/3||
+044687343_ELMVH.txt|MMI|0.52|COMP wt Allele|C4321267|[gngm]|"MED"-text-92-"MED"-NNP-0|text|257/3||
+044687343_ELMVH.txt|MMI|0.52|CWE statuses - Not applicable|C1611147|[idcn]|"Not applicable"-text-122-"Not Applicable"-RB-0|text|321/14||
+044687343_ELMVH.txt|MMI|0.52|Causing|C0678227|[ftcn]|"Causing"-text-0-"Causing"-NNP-0|text|2822/7||
+044687343_ELMVH.txt|MMI|0.52|Changed status|C0443172|[qnco]|"changes"-text-60-"changes"-NNS-0|text|3901/7||
+044687343_ELMVH.txt|MMI|0.52|Changing|C0392747|[ftcn]|"changes"-text-60-"changes"-NNS-0|text|3901/7||
+044687343_ELMVH.txt|MMI|0.52|Cholesterol measurement test|C0201950|[lbpr]|"CHOL"-text-296-"chol"-NN-0|text|2540/4||
+044687343_ELMVH.txt|MMI|0.52|Clinical Research|C0008972|[resa]|"Study"-text-0-"Study"-NNP-0|text|2812/5||
+044687343_ELMVH.txt|MMI|0.52|Complication|C0009566|[patf]|"Complications"-text-0-"Complications"-NNP-0|text|2897/13||
+044687343_ELMVH.txt|MMI|0.52|Complication Aspects|C1171258|[ftcn]|"complications"-text-0-"Complications"-NNP-0|text|2897/13||
+044687343_ELMVH.txt|MMI|0.52|Complications:Type:Duration of the study:^Patient:Nominal|C0802632|[clna]|"Complications"-text-0-"Complications"-NNP-0|text|2897/13||
+044687343_ELMVH.txt|MMI|0.52|Condition|C0348080|[qlco]|"Condition"-text-302-"CONDITION"-NN-0|text|5015/9||
+044687343_ELMVH.txt|MMI|0.52|Condition Domain|C4722256|[inpr]|"CONDITION"-text-302-"CONDITION"-NN-0|text|5015/9||
+044687343_ELMVH.txt|MMI|0.52|Condition:Find:Pt:^Patient:Nom|C3864998|[clna]|"Condition"-text-302-"CONDITION"-NN-0|text|5015/9||
+044687343_ELMVH.txt|MMI|0.52|Conditional|C1701901|[qlco]|"Contingent"-text-116-"CONTINGENT"-NNP-0|text|305/10||
+044687343_ELMVH.txt|MMI|0.52|Consolidation|C0702116|[qlco]|"Consolidation"-text-70-"consolidation"-NN-1|text|3924/13||
+044687343_ELMVH.txt|MMI|0.52|Consolidation Clinical Trial Setting|C4722412|[mnob, hcro]|"CONSOLIDATION"-text-70-"consolidation"-NN-1|text|3924/13||
+044687343_ELMVH.txt|MMI|0.52|Correction (change)|C1947976|[ftcn]|"Correction"-text-18-"correction"-NN-0|text|1680/10||
+044687343_ELMVH.txt|MMI|0.52|Correction - Report timing|C1546923|[tmco]|"Correction"-text-18-"correction"-NN-0|text|1680/10||
+044687343_ELMVH.txt|MMI|0.52|Correction Report|C1705565|[inpr]|"CORRECTION"-text-18-"correction"-NN-0|text|1680/10||
+044687343_ELMVH.txt|MMI|0.52|Course|C0750729|[tmco]|"Course"-text-84-"course"-NN-0|text|4478/6||
+044687343_ELMVH.txt|MMI|0.52|DICOM Study|C1880229|[resa]|"Study"-text-0-"Study"-NNP-0|text|2812/5||
+044687343_ELMVH.txt|MMI|0.52|Date of admission|C1302393|[tmco]|"Admission date"-text-16-"Admission Date"-NNP-0|text|70/14||
+044687343_ELMVH.txt|MMI|0.52|Deficit|C2987487|[qlco]|"deficits"-text-36-"deficits"-NNS-0|text|3846/8||
+044687343_ELMVH.txt|MMI|0.52|Derived specimen - Not Applicable|C1610044|[idcn]|"Not Applicable"-text-122-"Not Applicable"-RB-0|text|321/14||
+044687343_ELMVH.txt|MMI|0.52|Diagnostic interview schedule|C0451119|[inpr]|"DIS"-text-12-"DIS"-NNS-0|text|66/3||
+044687343_ELMVH.txt|MMI|0.52|Discontinued|C1444662|[fndg]|"DIS"-text-12-"DIS"-NNS-0|text|66/3||
+044687343_ELMVH.txt|MMI|0.52|Distant|C0443203|[spco]|"Distant"-text-4-"distant"-JJ-0|text|3770/7||
+044687343_ELMVH.txt|MMI|0.52|Do (activity)|C2828361|[acty]|"Does"-text-116-"does"-VBZ-1|text|4552/4||
+044687343_ELMVH.txt|MMI|0.52|Does - Ability interpretation value|C1272751|[fndg]|"Does"-text-116-"does"-VBZ-1|text|4552/4||
+044687343_ELMVH.txt|MMI|0.52|Dosage Form Not Applicable|C1705113|[qlco]|"Not Applicable"-text-122-"Not Applicable"-RB-0|text|321/14||
+044687343_ELMVH.txt|MMI|0.52|Education - action|C1292796|[ftcn]|"Instruction"-text-226-"Instruction"-NNP-0|text|2376/11||
+044687343_ELMVH.txt|MMI|0.52|Educational process of instructing|C0039401|[edac]|"Instruction"-text-226-"Instruction"-NNP-0|text|2376/11||
+044687343_ELMVH.txt|MMI|0.52|Entered|C1521975|[qlco]|"Entered"-text-371-"ENTERED"-NNP-0|text|5184/7||
+044687343_ELMVH.txt|MMI|0.52|Evaluator - personnel|C1707957|[prog]|"EVAL"-text-20-"eval"-NN-0|text|2629/4||
+044687343_ELMVH.txt|MMI|0.52|Exam|C4284036|[ftcn]|"Exam"-text-0-"Exam"-NNP-0|text|3642/4||
+044687343_ELMVH.txt|MMI|0.52|Expanded yes/no indicator - not applicable|C1619691|[idcn]|"not applicable"-text-122-"Not Applicable"-RB-0|text|321/14||
+044687343_ELMVH.txt|MMI|0.52|FDA Establishment Activity Terminology|C4049939|[inpr]|"ACTIVITY"-text-6-"ACTIVITY"-NNP-0|text|2594/8||
+044687343_ELMVH.txt|MMI|0.52|Failure|C5200924|[idcn]|"Failure"-text-12-"failure"-NN-0|text|4276/7||
+044687343_ELMVH.txt|MMI|0.52|Failure (biologic function)|C0231174|[ftcn]|"Failure"-text-12-"failure"-NN-0|text|4276/7||
+044687343_ELMVH.txt|MMI|0.52|Ferrum metallicum, Homeopathic preparation|C1166521|[phsu]|"iron"-text-206-"iron"-NN-0|text|4776/4||
+044687343_ELMVH.txt|MMI|0.52|Follow-Up Information|C4745114|[inpr]|"Follow Up"-text-24-"FOLLOW UP"-NNP-0|text|2634/9||
+044687343_ELMVH.txt|MMI|0.52|Follow-up status|C0589120|[fndg]|"follow up"-text-24-"FOLLOW UP"-NNP-0|text|2634/9||
+044687343_ELMVH.txt|MMI|0.52|Four times daily|C0585291|[tmco]|"QID"-text-200-"QID"-NNP-0|text|2309/3||
+044687343_ELMVH.txt|MMI|0.52|Good|C0205170|[qlco]|"Well"-text-118-"well"-RB-1|text|4557/4||
+044687343_ELMVH.txt|MMI|0.52|Greater Than|C0439093|[qnco]|"Greater Than"-text-160-"greater than"-JJR-0|text|2192/12||
+044687343_ELMVH.txt|MMI|0.52|INS gene|C1337112|[gngm]|"INSULIN"-text-216-"insulin"-NN-0|text|4794/7||
+044687343_ELMVH.txt|MMI|0.52|INS protein, human|C4721402|[horm, aapp]|"Insulin"-text-216-"insulin"-NN-0|text|4794/7||
+044687343_ELMVH.txt|MMI|0.52|Identity May Be Divulged - Not applicable|C1610595|[idcn]|"Not applicable"-text-122-"Not Applicable"-RB-0|text|321/14||
+044687343_ELMVH.txt|MMI|0.52|Improved|C0184511|[fndg]|"Improved"-text-280-"improved"-VBD-0|text|4949/8||
+044687343_ELMVH.txt|MMI|0.52|Improved - answer to question|C4084203|[fndg]|"Improved"-text-280-"improved"-VBD-0|text|4949/8||
+044687343_ELMVH.txt|MMI|0.52|Infection|C3714514|[patf]|"Infections"-text-0-"Infections"-NNP-0|text|2884/10|C01|
+044687343_ELMVH.txt|MMI|0.52|Infections of musculoskeletal system|C0851162|[dsyn]|"Infections"-text-0-"Infections"-NNP-0|text|2884/10||
+044687343_ELMVH.txt|MMI|0.52|Infections:-:Point in time:^Patient:-|C2707258|[clna]|"Infections"-text-0-"Infections"-NNP-0|text|2884/10||
+044687343_ELMVH.txt|MMI|0.52|Inorganic Pyrophosphate Measurement|C5202570|[lbpr]|"PPI"-text-264-"PPI"-NNP-0|text|4911/3||
+044687343_ELMVH.txt|MMI|0.52|Instructions:Text:Point in time:^Patient:Narrative|C3263700|[clna]|"Instructions"-text-10-"Instructions"-NNP-0|text|1656/12||
+044687343_ELMVH.txt|MMI|0.52|Insulin Drug Class|C3714501|[horm, phsu]|"INSULIN"-text-216-"insulin"-NN-0|text|4794/7||
+044687343_ELMVH.txt|MMI|0.52|Insulin [EPC]|C1579433|[phsu]|"Insulin"-text-216-"insulin"-NN-0|text|4794/7||
+044687343_ELMVH.txt|MMI|0.52|Insulin measurement|C0202098|[lbpr]|"Insulin"-text-216-"insulin"-NN-0|text|4794/7||
+044687343_ELMVH.txt|MMI|0.52|International Metastatic Renal Cell Carcinoma Database Consortium (IMDC) Criteria - Poor-Risk Group|C4723750|[inpr]|"Poor"-text-13-"poor"-JJ-0|text|3699/4||
+044687343_ELMVH.txt|MMI|0.52|Interventional procedure|C0184661|[topp]|"Procedures"-text-100-"PROCEDURES"-NNS-0|text|3180/10||
+044687343_ELMVH.txt|MMI|0.52|Involvement with|C1314939|[ftcn]|"Affecting"-text-0-"affecting"-VBG-0|text|2913/9||
+044687343_ELMVH.txt|MMI|0.52|Iron Drug Class|C3714701|[phsu]|"IRON"-text-206-"iron"-NN-0|text|4776/4||
+044687343_ELMVH.txt|MMI|0.52|Iron measurement|C0337439|[lbpr]|"Iron"-text-206-"iron"-NN-0|text|4776/4||
+044687343_ELMVH.txt|MMI|0.52|Ischemia Procedure|C4321499|[topp]|"Ischemia"-text-0-"Ischemia"-NNP-0|text|4230/8||
+044687343_ELMVH.txt|MMI|0.52|Language Proficiency - Poor|C1561558|[qlco]|"Poor"-text-13-"poor"-JJ-0|text|3699/4||
+044687343_ELMVH.txt|MMI|0.52|Less Than|C0439092|[qnco]|"Less Than"-text-0-"less than"-RBR-0|text|1801/9||
+044687343_ELMVH.txt|MMI|0.52|Logical Condition|C1705253|[cnce]|"Condition"-text-302-"CONDITION"-NN-0|text|5015/9||
+044687343_ELMVH.txt|MMI|0.52|Lung consolidation|C0521530|[dsyn]|"Consolidation"-text-70-"consolidation"-NN-1|text|3924/13||
+044687343_ELMVH.txt|MMI|0.52|MANEA gene|C1427293|[gngm]|"ENDO"-text-208-"Endo"-NNP-0|text|4781/4||
+044687343_ELMVH.txt|MMI|0.52|MCM8 gene|C1424025|[gngm]|"REC"-text-0-"REc"-NNP-0|text|3538/3||
+044687343_ELMVH.txt|MMI|0.52|Master of Education|C1549978|[inpr]|"MEd"-text-92-"MED"-NNP-0|text|257/3||
+044687343_ELMVH.txt|MMI|0.52|Medical Examination|C0582103|[hlca]|"Exam"-text-0-"Exam"-NNP-0|text|3642/4||
+044687343_ELMVH.txt|MMI|0.52|Methods aspects|C0025664|[ftcn]|"procedures"-text-100-"PROCEDURES"-NNS-0|text|3180/10||
+044687343_ELMVH.txt|MMI|0.52|Microplate Well|C4283957|[spco]|"Well"-text-118-"well"-RB-1|text|4557/4||
+044687343_ELMVH.txt|MMI|0.52|Nasal sinus|C0030471|[bsoj]|"Sinus"-text-50-"sinus"-IN-0|text|3884/5||
+044687343_ELMVH.txt|MMI|0.52|Night time|C0240526|[tmco]|"Nocturnal"-text-102-"nocturnal"-JJ-0|text|4512/9||
+044687343_ELMVH.txt|MMI|0.52|No Application Type|C1546968|[idcn]|"Not Applicable"-text-122-"Not Applicable"-RB-0|text|321/14||
+044687343_ELMVH.txt|MMI|0.52|Not Applicable|C1272460|[qlco]|"Not Applicable"-text-122-"Not Applicable"-RB-0|text|321/14||
+044687343_ELMVH.txt|MMI|0.52|Nutrition, Calories|C1556156|[qnco]|"cals"-text-0-"cals"-NNS-0|text|2584/4||
+044687343_ELMVH.txt|MMI|0.52|Old|C0580836|[tmco]|"Old"-text-78-"old"-JJ-0|text|3949/3||
+044687343_ELMVH.txt|MMI|0.52|Old episode|C0677546|[tmco]|"Old"-text-78-"old"-JJ-0|text|3949/3||
+044687343_ELMVH.txt|MMI|0.52|Once a day, at bedtime|C1275563|[tmco]|"Bedtime"-text-28-"BEDTIME"-NNP-0|text|1184/7||
+044687343_ELMVH.txt|MMI|0.52|Operations and procedures|C1576866|[hlca]|"Operations and procedures"-text-90-"OPERATIONS AND PROCEDURES"-NNPS-0|text|3133/25||
+044687343_ELMVH.txt|MMI|0.52|Order (action)|C1705178|[acty]|"Order"-text-132-"ORDER"-NNP-0|text|347/5||
+044687343_ELMVH.txt|MMI|0.52|Order (arrangement)|C1705176|[qlco]|"Order"-text-132-"ORDER"-NNP-0|text|347/5||
+044687343_ELMVH.txt|MMI|0.52|Order (document)|C1705175|[inpr]|"Order"-text-132-"ORDER"-NNP-0|text|347/5||
+044687343_ELMVH.txt|MMI|0.52|Order (record artifact)|C4284072|[inpr]|"Order"-text-132-"ORDER"-NNP-0|text|347/5||
+044687343_ELMVH.txt|MMI|0.52|Order (taxonomic)|C1705177|[clas]|"Order"-text-132-"ORDER"-NNP-0|text|347/5||
+044687343_ELMVH.txt|MMI|0.52|Order [PK]|C1373200|[npop]|"Order"-text-132-"ORDER"-NNP-0|text|347/5||
+044687343_ELMVH.txt|MMI|0.52|Organization unit type - Home|C1547197|[orgt]|"Home"-text-100-"home"-NN-0|text|4507/4||
+044687343_ELMVH.txt|MMI|0.52|Osa <plant>|C1656862|[plnt]|"Osa"-text-60-"osa"-NN-0|text|3088/3||
+044687343_ELMVH.txt|MMI|0.52|Osage language|C0574594|[lang]|"OSA"-text-60-"osa"-NN-0|text|3088/3||
+044687343_ELMVH.txt|MMI|0.52|PPP4C gene|C1418850|[gngm]|"PPX"-text-256-"PPx"-NNP-0|text|4895/3||
+044687343_ELMVH.txt|MMI|0.52|PROBLEM LIST|C0552582|[inpr]|"PROBLEM LIST"-text-0-"Problem List"-NNP-0|text|4210/12||
+044687343_ELMVH.txt|MMI|0.52|Package Type Not Applicable|C4049872|[ftcn]|"Not Applicable"-text-122-"Not Applicable"-RB-0|text|321/14||
+044687343_ELMVH.txt|MMI|0.52|Patient Class - Not Applicable|C1609491|[idcn]|"Not Applicable"-text-122-"Not Applicable"-RB-0|text|321/14||
+044687343_ELMVH.txt|MMI|0.52|Patient Condition Code - Poor|C1547310|[inpr]|"Poor"-text-13-"poor"-JJ-0|text|3699/4||
+044687343_ELMVH.txt|MMI|0.52|Patient Condition Code - Stable|C1547311|[inpr]|"Stable"-text-306-"Stable"-JJ-0|text|5027/6||
+044687343_ELMVH.txt|MMI|0.52|Patient Outcome - Worsening|C1546960|[idcn]|"Worsening"-text-349-"worsening"-VBG-0|text|5110/9||
+044687343_ELMVH.txt|MMI|0.52|Pattern of Bowel Movements Question|C4083257|[inpr]|"Bowel"-text-186-"Bowel"-NNP-0|text|4719/5||
+044687343_ELMVH.txt|MMI|0.52|Permutation|C1882348|[qlco]|"Order"-text-132-"ORDER"-NNP-0|text|347/5||
+044687343_ELMVH.txt|MMI|0.52|Person location type - Home|C1548530|[spco]|"Home"-text-100-"home"-NN-0|text|4507/4||
+044687343_ELMVH.txt|MMI|0.52|Personal failure|C0680095|[inbe]|"failure"-text-12-"failure"-NN-0|text|4276/7||
+044687343_ELMVH.txt|MMI|0.52|Physical Activity Measurement|C4049938|[lbpr]|"Activity"-text-6-"ACTIVITY"-NNP-0|text|2594/8||
+044687343_ELMVH.txt|MMI|0.52|Picofarad (unit of measure)|C1882376|[qnco]|"Puff"-text-196-"PUFF"-NN-0|text|2300/4||
+044687343_ELMVH.txt|MMI|0.52|Pixels per Inch|C3811894|[qnco]|"PPI"-text-264-"PPI"-NNP-0|text|4911/3||
+044687343_ELMVH.txt|MMI|0.52|Plain chest X-ray|C0039985|[diap]|"cxr"-text-64-"CXR"-NN-0|text|3911/3||
+044687343_ELMVH.txt|MMI|0.52|Planned|C1301732|[ftcn]|"Plan"-text-314-"PLAN"-NNP-0|text|5042/4||
+044687343_ELMVH.txt|MMI|0.52|Pleasant|C2987187|[menp]|"Pleasant"-text-0-"pleasant"-JJ-0|text|3655/8||
+044687343_ELMVH.txt|MMI|0.52|Poor - grade value|C0542537|[qlco]|"Poor"-text-13-"poor"-JJ-0|text|3699/4||
+044687343_ELMVH.txt|MMI|0.52|Poor - qualifier|C2700379|[qlco]|"Poor"-text-13-"poor"-JJ-0|text|3699/4||
+044687343_ELMVH.txt|MMI|0.52|Post|C0687676|[tmco]|"After"-text-0-"After"-IN-0|text|2806/5||
+044687343_ELMVH.txt|MMI|0.52|Potency Not Applicable|C1705112|[qlco]|"NOT APPLICABLE"-text-122-"Not Applicable"-RB-0|text|321/14||
+044687343_ELMVH.txt|MMI|0.52|Precision - day|C1561539|[idcn]|"day"-text-82-"day"-NN-0|text|4474/3||
+044687343_ELMVH.txt|MMI|0.52|Procedure (set of actions)|C2700391|[ftcn]|"Procedures"-text-100-"PROCEDURES"-NNS-0|text|3180/10||
+044687343_ELMVH.txt|MMI|0.52|Procedure Code|C1550373|[inpr]|"PROCEDURES"-text-100-"PROCEDURES"-NNS-0|text|3180/10||
+044687343_ELMVH.txt|MMI|0.52|Procedure Domain|C3538935|[inpr]|"Procedures"-text-100-"PROCEDURES"-NNS-0|text|3180/10||
+044687343_ELMVH.txt|MMI|0.52|Production Class Code - Not Applicable|C1547280|[inpr]|"Not Applicable"-text-122-"Not Applicable"-RB-0|text|321/14||
+044687343_ELMVH.txt|MMI|0.52|Puff unit dose|C1533107|[qnco]|"Puff"-text-196-"PUFF"-NN-0|text|2300/4||
+044687343_ELMVH.txt|MMI|0.52|ROS1 gene|C0812281|[gngm]|"ROS"-text-0-"ROS"-NNP-0|text|3489/3||
+044687343_ELMVH.txt|MMI|0.52|ROS1 wt Allele|C1709820|[gngm]|"ROS"-text-0-"ROS"-NNP-0|text|3489/3||
+044687343_ELMVH.txt|MMI|0.52|Regimen - CHV concept|C2945654|[inpr]|"regimen"-text-188-"regimen"-VB-0|text|4725/7||
+044687343_ELMVH.txt|MMI|0.52|Rehabilitation therapy|C0034991|[topp]|"Rehab"-text-272-"rehab"-VB-0|text|4926/5||
+044687343_ELMVH.txt|MMI|0.52|Report status (finding)|C0586177|[fndg]|"Report status"-text-28-"Report Status"-NNP-0|text|98/13||
+044687343_ELMVH.txt|MMI|0.52|Report status:Type:Point in time:Report:Nominal|C4760061|[clna]|"Report status"-text-28-"Report Status"-NNP-0|text|98/13||
+044687343_ELMVH.txt|MMI|0.52|Respiratory status:Finding:Point in time:^Patient:Nominal|C2598485|[clna]|"Resp status"-text-278-"resp status"-NN-0|text|4937/11||
+044687343_ELMVH.txt|MMI|0.52|Response to antigens|C1314973|[phsf]|"ALLERGY"-text-67-"ALLERGY"-NNP-0|text|2719/7||
+044687343_ELMVH.txt|MMI|0.52|Responsible to|C1273518|[fndg]|"responsible"-text-0-"Responsible"-JJ-0|text|2794/11||
+044687343_ELMVH.txt|MMI|0.52|Retained|C0333118|[ftcn]|"Keep"-text-88-"keep"-VB-0|text|4487/4||
+044687343_ELMVH.txt|MMI|0.52|Return to ED|C4264559|[fndg]|"Return to ED"-text-345-"return to ED"-VB-0|text|5092/12||
+044687343_ELMVH.txt|MMI|0.52|Review of systems (procedure)|C0489633|[hlca]|"ROS"-text-0-"ROS"-NNP-0|text|3489/3||
+044687343_ELMVH.txt|MMI|0.52|Rhythm|C0871269|[fndg]|"Rhythm"-text-14-"Rhythm"-NN-1|text|4284/6||
+044687343_ELMVH.txt|MMI|0.52|Room of building - Study|C0557651|[mnob]|"Study"-text-0-"Study"-NNP-0|text|2812/5||
+044687343_ELMVH.txt|MMI|0.52|Route of Administration Not Applicable|C1705512|[idcn]|"NOT APPLICABLE"-text-122-"Not Applicable"-RB-0|text|321/14||
+044687343_ELMVH.txt|MMI|0.52|SLEEP APNEA (device)|C3496180|[medd]|"SLEEP APNEA"-text-66-"sleep apnea"-NN-0|text|3094/11||
+044687343_ELMVH.txt|MMI|0.52|Schedule (document type)|C0086960|[inpr]|"Scheduled"-text-337-"scheduled"-VBN-0|text|5080/9||
+044687343_ELMVH.txt|MMI|0.52|Scheduled - priority|C1571999|[tmco]|"Scheduled"-text-337-"scheduled"-VBN-0|text|5080/9||
+044687343_ELMVH.txt|MMI|0.52|Scheduled - procedure status|C0205539|[qlco]|"Scheduled"-text-337-"scheduled"-VBN-0|text|5080/9||
+044687343_ELMVH.txt|MMI|0.52|Sentence|C0876929|[inpr]|"sentences"-text-9-"sentences"-NNS-0|text|3687/9||
+044687343_ELMVH.txt|MMI|0.52|Sequence of Planned Assessment Schedule|C3889825|[inpr]|"ORDER"-text-132-"ORDER"-NNP-0|text|347/5||
+044687343_ELMVH.txt|MMI|0.52|Services|C0557854|[ocac]|"service"-text-88-"Service"-NNP-0|text|247/7||
+044687343_ELMVH.txt|MMI|0.52|Sinus - general anatomical term|C1305231|[bsoj]|"Sinus"-text-50-"sinus"-IN-0|text|3884/5||
+044687343_ELMVH.txt|MMI|0.52|Sleep Apnea, CTCAE|C4555214|[fndg]|"Sleep apnea"-text-66-"sleep apnea"-NN-0|text|3094/11||
+044687343_ELMVH.txt|MMI|0.52|Slow|C0439834|[qlco]|"Slowly"-text-40-"slowly"-RB-0|text|4349/6||
+044687343_ELMVH.txt|MMI|0.52|Software Service|C2825316|[mnob]|"Service"-text-88-"Service"-NNP-0|text|247/7||
+044687343_ELMVH.txt|MMI|0.52|Speaking (activity)|C0234856|[dora]|"Speaking"-text-3-"speaking"-VBG-0|text|3666/8||
+044687343_ELMVH.txt|MMI|0.52|Specimen Quality - Poor|C1561559|[qlco]|"Poor"-text-13-"poor"-JJ-0|text|3699/4||
+044687343_ELMVH.txt|MMI|0.52|Sputum production|C0242104|[ortf]|"Sputum production"-text-363-"sputum production"-NN-0|text|5146/17||
+044687343_ELMVH.txt|MMI|0.52|Stable status|C0205360|[qlco]|"Stable"-text-306-"Stable"-JJ-0|text|5027/6||
+044687343_ELMVH.txt|MMI|0.52|Started|C1272689|[qlco]|"Started"-text-236-"started"-VBD-0|text|4841/7||
+044687343_ELMVH.txt|MMI|0.52|Status|C0449438|[qlco]|"Status"-text-0-"Status"-NNP-0|text|3524/6||
+044687343_ELMVH.txt|MMI|0.52|Status post|C0231290|[tmco]|"After"-text-0-"After"-IN-0|text|2806/5||
+044687343_ELMVH.txt|MMI|0.52|Study|C2603343|[resa]|"Study"-text-0-"Study"-NNP-0|text|2812/5||
+044687343_ELMVH.txt|MMI|0.52|Study Object|C1705923|[cnce]|"Study"-text-0-"Study"-NNP-0|text|2812/5||
+044687343_ELMVH.txt|MMI|0.52|TAC1 wt Allele|C1705924|[gngm]|"NKA"-text-71-"NKA"-NNP-0|text|2729/3||
+044687343_ELMVH.txt|MMI|0.52|Take|C1515187|[hlca]|"Take"-text-256-"Take"-VBP-0|text|2451/4||
+044687343_ELMVH.txt|MMI|0.52|Tapering - action|C0441640|[hlca]|"taper"-text-38-"taper"-NN-0|text|4343/5||
+044687343_ELMVH.txt|MMI|0.52|Therapeutic Insulin|C1533581|[horm, aapp, phsu]|"Insulin"-text-216-"insulin"-NN-0|text|4794/7||
+044687343_ELMVH.txt|MMI|0.52|Transaction counts and value totals - day|C1561538|[inpr]|"day"-text-82-"day"-NN-0|text|4474/3||
+044687343_ELMVH.txt|MMI|0.52|Treatment Plan|C0599880|[inpr]|"Plan"-text-314-"PLAN"-NNP-0|text|5042/4||
+044687343_ELMVH.txt|MMI|0.52|Upon - dosing instruction fragment|C1720176|[ftcn]|"Upon"-text-118-"UPON"-NNP-0|text|316/4||
+044687343_ELMVH.txt|MMI|0.52|Used by|C1273517|[fndg]|"used"-text-136-"USED"-VBN-0|text|356/4||
+044687343_ELMVH.txt|MMI|0.52|Usual|C3538928|[qlco]|"Typical"-text-0-"typical"-JJ-0|text|3465/7||
+044687343_ELMVH.txt|MMI|0.52|Visit User Code - Home|C1548341|[inpr]|"Home"-text-100-"home"-NN-0|text|4507/4||
+044687343_ELMVH.txt|MMI|0.52|Water - Specimen Source Codes|C1547961|[inpr]|"Water"-text-268-"water"-NN-0|text|2475/5||
+044687343_ELMVH.txt|MMI|0.52|Water Specimen|C1550678|[inch]|"Water"-text-268-"water"-NN-0|text|2475/5||
+044687343_ELMVH.txt|MMI|0.52|Well|C3146287|[mnob]|"Well"-text-118-"well"-RB-1|text|4557/4||
+044687343_ELMVH.txt|MMI|0.52|Well Marginated Nodule|C4761387|[fndg]|"Well"-text-118-"well"-RB-1|text|4557/4||
+044687343_ELMVH.txt|MMI|0.52|What subject filter - Order|C1546465|[idcn]|"Order"-text-132-"ORDER"-NNP-0|text|347/5||
+044687343_ELMVH.txt|MMI|0.52|What subject filter - Status|C1546481|[idcn]|"Status"-text-0-"Status"-NNP-0|text|3524/6||
+044687343_ELMVH.txt|MMI|0.52|White Blood Cell Count procedure|C0023508|[lbpr]|"WBC"-text-232-"wbc"-NN-0|text|4835/3||
+044687343_ELMVH.txt|MMI|0.52|Worse|C1457868|[fndg]|"Worsening"-text-349-"worsening"-VBG-0|text|5110/9||
+044687343_ELMVH.txt|MMI|0.52|Worsening pattern|C0332271|[qlco]|"Worsening"-text-349-"worsening"-VBG-0|text|5110/9||
+044687343_ELMVH.txt|MMI|0.52|YES Portal|C5202962|[mnob]|"YES"-text-152-"YES"-NNP-0|text|384/3||
+044687343_ELMVH.txt|MMI|0.52|YES1 gene|C0919479|[gngm]|"Yes"-text-152-"YES"-NNP-0|text|384/3||
+044687343_ELMVH.txt|MMI|0.52|YES1 wt Allele|C1710701|[gngm]|"Yes"-text-152-"YES"-NNP-0|text|384/3||
+044687343_ELMVH.txt|MMI|0.52|Yes (indicator)|C1705108|[fndg]|"Yes"-text-152-"YES"-NNP-0|text|384/3||
+044687343_ELMVH.txt|MMI|0.52|Yes - Assignment of Benefits|C1549443|[idcn]|"Yes"-text-152-"YES"-NNP-0|text|384/3||
+044687343_ELMVH.txt|MMI|0.52|Yes - Event Expected|C1546947|[idcn]|"Yes"-text-152-"YES"-NNP-0|text|384/3||
+044687343_ELMVH.txt|MMI|0.52|Yes - Event Seriousness|C1546945|[qlco]|"Yes"-text-152-"YES"-NNP-0|text|384/3||
+044687343_ELMVH.txt|MMI|0.52|Yes - Expanded yes/no indicator|C1549060|[idcn]|"Yes"-text-152-"YES"-NNP-0|text|384/3||
+044687343_ELMVH.txt|MMI|0.52|Yes - Identity May Be Divulged|C1546969|[idcn]|"Yes"-text-152-"YES"-NNP-0|text|384/3||
+044687343_ELMVH.txt|MMI|0.52|Yes - Notify Clergy Code|C1549065|[inpr]|"Yes"-text-152-"YES"-NNP-0|text|384/3||
+044687343_ELMVH.txt|MMI|0.52|Yes - Presence findings|C1298907|[fndg]|"Yes"-text-152-"YES"-NNP-0|text|384/3||
+044687343_ELMVH.txt|MMI|0.52|Yes - Release Information|C1548171|[idcn]|"Yes"-text-152-"YES"-NNP-0|text|384/3||
+044687343_ELMVH.txt|MMI|0.52|Yes - Yes/no indicator|C1549445|[idcn]|"Yes"-text-152-"YES"-NNP-0|text|384/3||
+044687343_ELMVH.txt|MMI|0.52|are unit of measure|C1551058|[qnco]|"Are"-text-0-"are"-VBP-0|text|3461/3||
+044687343_ELMVH.txt|MMI|0.52|baseline - TableCellVerticalAlign|C1552824|[idcn]|"BASELINE"-text-134-"baseline"-NN-0|text|4588/8||
+044687343_ELMVH.txt|MMI|0.52|day|C0439228|[tmco]|"day"-text-82-"day"-NN-0|text|4474/3||
+044687343_ELMVH.txt|MMI|0.52|dictated - DocumentCompletion|C1609990|[idcn]|"dictated"-text-367-"dictated"-VBD-0|text|5167/8||
+044687343_ELMVH.txt|MMI|0.52|dictated - ParticipationMode|C1548384|[ftcn]|"dictated"-text-367-"dictated"-VBD-0|text|5167/8||
+044687343_ELMVH.txt|MMI|0.52|follow-up|C1522577|[hlca]|"Follow Up"-text-24-"FOLLOW UP"-NNP-0|text|2634/9||
+044687343_ELMVH.txt|MMI|0.52|home health encounter|C1553498|[hlca]|"Home"-text-100-"home"-NN-0|text|4507/4||
+044687343_ELMVH.txt|MMI|0.52|insulin activity|C1145751|[moft]|"insulin"-text-216-"insulin"-NN-0|text|4794/7||
+044687343_ELMVH.txt|MMI|0.52|insulin aspart, human|C0123677|[horm, aapp, phsu]|"Insulin aspart"-text-0-"INSULIN ASPART"-NN-0|text|1600/14||
+044687343_ELMVH.txt|MMI|0.52|microgram|C0439211|[qnco]|"mcg"-text-280-"MCG"-NNP-0|text|2507/3||
+044687343_ELMVH.txt|MMI|0.52|miscellaneous Crenarchaeota group|C3463985|[arch]|"MCG"-text-280-"MCG"-NNP-0|text|2507/3||
+044687343_ELMVH.txt|MMI|0.52|nicotinamide adenine dinucleotide (NAD)|C0027270|[bacs, nnon, phsu]|"NAD"-text-0-"NAD"-NNP-0|text|3649/3||
+044687343_ELMVH.txt|MMI|0.52|orders - HL7PublishingDomain|C3244315|[inpr]|"orders"-text-55-"ORDERS"-NNP-0|text|165/6||
+044687343_ELMVH.txt|MMI|0.52|pathologic fistula|C0016169|[anab]|"Sinus"-text-50-"sinus"-IN-0|text|3884/5||
+044687343_ELMVH.txt|MMI|0.52|prepulse inhibition activity|C0871125|[phsf]|"PPI"-text-264-"PPI"-NNP-0|text|4911/3||
+044687343_ELMVH.txt|MMI|0.52|problem list - observation|C1553895|[inpr]|"problem list"-text-0-"Problem List"-NNP-0|text|4210/12||
+044687343_ELMVH.txt|MMI|0.52|rhythmic process (biological)|C1523018|[phsf]|"rhythm"-text-14-"Rhythm"-NN-1|text|4284/6||
+044687343_ELMVH.txt|MMI|0.52|short-acting thyroid stimulator|C0312448|[horm, aapp]|"SATS"-text-24-"sats"-NNS-0|text|3621/4||
+044687343_ELMVH.txt|MMI|0.52|sliding scale|C2937251|[topp]|"sliding scale"-text-0-"Sliding Scale"-NN-0|text|1617/13||
+044687343_ELMVH.txt|MMI|0.50|0.8|C4517481|[qnco]|"0.8"-text-144-"0.8"-CD-0|text|4608/3||
+044687343_ELMVH.txt|MMI|0.50|130|C4319552|[qnco]|"130"-text-46-"130"-CD-0|text|2689/3||
+044687343_ELMVH.txt|MMI|0.50|200|C4319558|[qnco]|"200"-text-40-"200"-CD-0|text|1915/3||
+044687343_ELMVH.txt|MMI|0.50|300|C4319604|[qnco]|"300"-text-84-"300"-CD-0|text|2019/3||
+044687343_ELMVH.txt|MMI|0.50|350|C4517735|[qnco]|"350"-text-106-"350"-CD-0|text|2071/3||
+044687343_ELMVH.txt|MMI|0.50|500|C3816747|[qnco]|"500"-text-34-"500"-CD-0|text|1206/3||
+044687343_ELMVH.txt|MMI|0.50|770|C4517873|[qnco]|"770"-text-70-"770"-CD-0|text|216/3||
+044687343_ELMVH.txt|MMI|0.50|A Codes|C0919279|[inpr]|"code"-text-288-"Code"-NNP-0|text|4973/4||
+044687343_ELMVH.txt|MMI|0.50|Alert|C3665546|[ftcn]|"Alert"-text-20-"alert"-JJ-1|text|3804/5||
+044687343_ELMVH.txt|MMI|0.50|Alert note|C2004580|[inpr]|"Alert"-text-20-"alert"-JJ-1|text|3804/5||
+044687343_ELMVH.txt|MMI|0.50|Alert:Type:Point in time:^Patient:Nominal|C3669039|[clna]|"Alert"-text-20-"alert"-JJ-1|text|3804/5||
+044687343_ELMVH.txt|MMI|0.50|Atypical|C0205182|[qlco]|"Atypical"-text-70-"atypical"-JJ-0|text|4438/8||
+044687343_ELMVH.txt|MMI|0.50|Chronic - Admission Level of Care Code|C1547296|[inpr]|"Chronic"-text-194-"Chronic"-NNP-0|text|4740/7||
+044687343_ELMVH.txt|MMI|0.50|Code|C0805701|[inpr]|"Code"-text-288-"Code"-NNP-0|text|4973/4||
+044687343_ELMVH.txt|MMI|0.50|Consciousness clear|C0239110|[fndg]|"alert"-text-20-"alert"-JJ-1|text|3804/5||
+044687343_ELMVH.txt|MMI|0.50|Diagnosis Type - Final|C1546485|[idcn]|"Final"-text-51-"FINAL"-NNP-0|text|149/5||
+044687343_ELMVH.txt|MMI|0.50|Discharge date|C2361123|[tmco]|"Discharge date"-text-34-"Discharge Date"-NNP-0|text|114/14||
+044687343_ELMVH.txt|MMI|0.50|Discharge date:Time Stamp -- Date and Time:Point in time:^Patient:Quantitative|C2361122|[clna]|"Discharge date"-text-34-"Discharge Date"-NNP-0|text|114/14||
+044687343_ELMVH.txt|MMI|0.50|Dosage|C0178602|[qnco]|"Dose"-text-20-"dose"-NN-0|text|1691/4||
+044687343_ELMVH.txt|MMI|0.50|End-stage|C0205088|[qlco]|"Final"-text-51-"FINAL"-NNP-0|text|149/5||
+044687343_ELMVH.txt|MMI|0.50|Fat diet|C0301585|[topp]|"Fat diet"-text-0-"fat
+DIET"-JJ-0|text|2556/8||
+044687343_ELMVH.txt|MMI|0.50|Final|C3853528|[tmco]|"Final"-text-51-"FINAL"-NNP-0|text|149/5||
+044687343_ELMVH.txt|MMI|0.50|Final Study Report|C4761599|[inpr]|"FINAL"-text-51-"FINAL"-NNP-0|text|149/5||
+044687343_ELMVH.txt|MMI|0.50|How True Feel Alert Right Now|C4084853|[inpr]|"Alert"-text-20-"alert"-JJ-1|text|3804/5||
+044687343_ELMVH.txt|MMI|0.50|MDF Attribute Type - Code|C1554100|[inpr]|"Code"-text-288-"Code"-NNP-0|text|4973/4||
+044687343_ELMVH.txt|MMI|0.50|Monitor Device|C0181904|[medd]|"Monitor"-text-180-"monitor"-VB-0|text|4706/7||
+044687343_ELMVH.txt|MMI|0.50|Monitor brand of insecticide|C0728873|[hops, orch]|"MONITOR"-text-180-"monitor"-VB-0|text|4706/7||
+044687343_ELMVH.txt|MMI|0.50|Monitor, occupation|C1521743|[prog]|"Monitor"-text-180-"monitor"-VB-0|text|4706/7||
+044687343_ELMVH.txt|MMI|0.50|Monitoring Device|C0596972|[medd]|"Monitor"-text-180-"monitor"-VB-0|text|4706/7||
+044687343_ELMVH.txt|MMI|0.50|Negative|C0205160|[fndg]|"Negative"-text-0-"negative"-JJ-0|text|3503/8||
+044687343_ELMVH.txt|MMI|0.50|Negative - answer|C3853545|[qlco]|"Negative"-text-0-"negative"-JJ-0|text|3503/8||
+044687343_ELMVH.txt|MMI|0.50|Negative Charge|C2825491|[qlco]|"Negative"-text-0-"negative"-JJ-0|text|3503/8||
+044687343_ELMVH.txt|MMI|0.50|Negative Finding|C1513916|[fndg]|"Negative"-text-0-"negative"-JJ-0|text|3503/8||
+044687343_ELMVH.txt|MMI|0.50|Negative Number|C2825415|[cnce]|"Negative"-text-0-"negative"-JJ-0|text|3503/8||
+044687343_ELMVH.txt|MMI|0.50|O32|C1548706|[inpr]|"O32"-text-78-"O32"-CD-0|text|228/3||
+044687343_ELMVH.txt|MMI|0.50|One Hundred Fifty|C4321486|[qnco]|"150"-text-18-"150"-CD-0|text|1863/3||
+044687343_ELMVH.txt|MMI|0.50|Orientation (spatial)|C1704322|[spco]|"Oriented"-text-24-"oriented"-JJ-1|text|3814/8||
+044687343_ELMVH.txt|MMI|0.50|Oriented to place|C1961028|[fndg]|"Oriented"-text-24-"oriented"-JJ-1|text|3814/8||
+044687343_ELMVH.txt|MMI|0.50|Preventive monitoring|C0150369|[hlca]|"monitor"-text-180-"monitor"-VB-0|text|4706/7||
+044687343_ELMVH.txt|MMI|0.50|Provision of recurring care for chronic illness|C1555457|[hlca]|"Chronic"-text-194-"Chronic"-NNP-0|text|4740/7||
+044687343_ELMVH.txt|MMI|0.50|System Alert|C4553014|[cnce]|"alert"-text-20-"alert"-JJ-1|text|3804/5||
+044687343_ELMVH.txt|MMI|0.50|Three|C0205449|[qnco]|"Three"-text-28-"three"-CD-0|text|3829/5||
+044687343_ELMVH.txt|MMI|0.50|Three (answer to question)|C5201107|[fndg]|"Three"-text-28-"three"-CD-0|text|3829/5||
+044687343_ELMVH.txt|MMI|0.50|Times|C1632851|[qnco]|"Times"-text-26-"times"-NNS-0|text|3823/5||
+044687343_ELMVH.txt|MMI|0.50|Two Hundred Fifty|C2348831|[qnco]|"250"-text-62-"250"-CD-0|text|1967/3||
+044687343_ELMVH.txt|MMI|0.50|Unit dose|C0869039|[qnco]|"Dose"-text-20-"dose"-NN-0|text|1691/4||
+044687343_ELMVH.txt|MMI|0.50|Walking (activity)|C0080331|[dora]|"Walk"-text-10-"walk"-VB-0|text|2605/4||
+044687343_ELMVH.txt|MMI|0.50|atypia morphology|C0741302|[fndg]|"Atypical"-text-70-"atypical"-JJ-0|text|4438/8||
+044687343_ELMVH.txt|MMI|0.50|chronic|C0205191|[tmco]|"chronic"-text-194-"Chronic"-NNP-0|text|4740/7||
+044687343_ELMVH.txt|MMI|0.50|eTMF Content Model Code|C3889831|[inpr]|"Code"-text-288-"Code"-NNP-0|text|4973/4||

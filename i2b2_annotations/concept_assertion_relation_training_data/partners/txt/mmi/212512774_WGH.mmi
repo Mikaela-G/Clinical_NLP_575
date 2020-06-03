@@ -1,0 +1,387 @@
+212512774_WGH.txt|MMI|44.45|Patient Discharge|C0030685|[hlca]|"Discharged"-text-0-"discharged"-VBN-0,"Discharge"-text-0-"DISCHARGE"-NN-0,"Discharge"-text-12-"DISCHARGE"-JJ-0,"Discharge"-text-50-"Discharge"-NNP-0|text|2038/10;2095/9;2171/9;2296/9|N04.590.233.727.210.125;E02.760.169.125;N02.421.585.169.125;E02.760.400.610;N02.421.585.400.610|
+212512774_WGH.txt|MMI|32.36|Wiskott-Aldrich Syndrome|C0043194|[dsyn]|"WAS"-text-30-"was"-VBD-0,"WAS"-text-0-"was"-VBD-0|text|1459/3;2034/3|C20.673.627.900;C15.378.553.546.605.900;C16.320.798.875;C20.673.795.875;C16.320.322.937;C15.378.463.960;C16.320.099.970;C15.378.100.100.970|
+212512774_WGH.txt|MMI|24.07|Crotoxin|C0010377|[enzy, hops, aapp]|"CTX"-text-0-"ctx"-NN-0,"CTX"-text-0-"Ctx"-NN-0|text|987/3;1329/3|D20.888.850.960.200.210;D23.946.833.850.960.200.210;D20.888.850.960.200.210;D23.946.833.850.960.200.210|
+212512774_WGH.txt|MMI|13.94|Xanthomatosis, Cerebrotendinous|C0238052|[dsyn]|"CTX"-text-0-"ctx"-NN-0,"CTX"-text-0-"Ctx"-NN-0|text|987/3;1329/3|C16.320.565.398.925;C18.452.584.750.975;C18.452.648.398.925|
+212512774_WGH.txt|MMI|13.42|Electronic Health Records|C2362543|[inpr]|"EMR"-text-30-"EMR"-NNP-0|text|117/3|E05.318.308.940.968.625.500;N06.850.520.308.940.968.625.250;N05.715.360.300.715.500.530.250;N04.452.859.564.650.125|
+212512774_WGH.txt|MMI|13.00|Postpartum Period|C0086839|[tmco]|"Postpartum"-text-18-"POSTPARTUM"-NNP-0,"Postpartum"-text-28-"POSTPARTUM"-NNP-0,"Postpartum"-text-40-"POSTPARTUM"-NNP-0,"post partum"-text-50-"Post Partum"-NNP-0,"Postpartum"-text-0-"Postpartum"-NNP-0,"Postpartum"-text-32-"POSTPARTUM"-NNP-0,"Postpartum"-text-68-"POSTPARTUM"-NNP-0,"Postpartum"-text-96-"POSTPARTUM"-NNP-0,"Postpartum"-text-110-"POSTPARTUM"-NNP-0|text|532/10;572/10;619/10;650/11;1961/10;2241/10;2353/10;2431/10;2477/10|G08.686.702|
+212512774_WGH.txt|MMI|12.49|Rho(D) immune globulin|C0073188|[imft, aapp, phsu]|"Rh Immune Globulin"-text-102-"RH IMMUNE GLOBULIN"-NNP-0|text|2442/18|D12.776.377.715.548.114.619.393.700;D12.776.124.486.485.114.619.393.700;D12.776.124.790.651.114.619.393.700|
+212512774_WGH.txt|MMI|11.18|cyclophosphamide|C0010583|[orch, phsu]|"CTX"-text-0-"ctx"-NN-0,"CTX"-text-0-"Ctx"-NN-0|text|987/3;1329/3|D02.705.672.500.243;D02.455.526.728.650.730.243|
+212512774_WGH.txt|MMI|11.11|Endoscopic mucosal resection|C1700928|[topp]|"EMR"-text-30-"EMR"-NNP-0|text|117/3|E04.502.250.250.250.230;E01.370.388.250.250.250.230;E04.210.240.250.230;E01.370.372.250.250.250|
+212512774_WGH.txt|MMI|10.11|Andorra|C0002838|[geoa]|"AND"-text-34-"and"-CC-0,"AND"-text-56-"AND"-CC-0,"AND"-text-0-"and"-CC-0,"AND"-text-0-"and"-CC-0,"AND"-text-26-"and"-CC-0,"AND"-text-34-"and"-CC-0,"AND"-text-146-"And"-CC-0|text|123/3;675/3;1106/3;1130/3;1699/3;1712/3;2584/3|Z01.542.049|
+212512774_WGH.txt|MMI|8.81|Vision|C0042789|[orgf]|"see"-text-16-"see"-VBP-0|text|1216/3|F02.830.816.964;G02.111.820.480.900;G11.561.790.964;G14.935;G04.835.480.900|
+212512774_WGH.txt|MMI|8.79|Breast Feeding|C0006147|[orgf]|"Breast Feeding"-text-86-"BREAST FEEDING"-NN-0|text|2397/14|F01.145.407.199;G07.203.650.353.199;G07.203.650.220.500.500;G07.203.650.195|
+212512774_WGH.txt|MMI|6.97|Postnatal Care|C0032782|[hlca]|"Postpartum Care"-text-56-"POSTPARTUM CARE"-NNP-0|text|2308/15|N02.421.585.703.500;N02.421.143.620.550.500;E02.760.703.500|
+212512774_WGH.txt|MMI|6.05|Mumps|C0026780|[dsyn]|"Mumps"-text-116-"MUMPS"-NNP-1|text|2498/5|C01.925.782.580.600.680.500;C07.465.815.470.800.630|
+212512774_WGH.txt|MMI|6.05|Parity|C0030563|[fndg]|"Para"-text-26-"Para"-NNP-0|text|1449/4|G08.686.677;N06.850.490.812.600;G08.686.784.769.472|
+212512774_WGH.txt|MMI|4.02|Skin appearance normal (finding)|C0558145|[fndg]|"NORMAL"-text-94-"NORMAL"-NNP-0,"NORMAL"-text-110-"NORMAL"-NNP-1,"NORMAL"-text-124-"NORMAL"-NNP-0,"Normal skin"-text-0-"NORMAL SKIN"-NNP-0,"Skin normal"-text-0-"SKIN NORMAL"-NNP-0,"NORMAL"-text-0-"NORMAL"-NNP-0,"NORMAL"-text-14-"NORMAL"-RB-0,"NORMAL"-text-22-"NORMAL"-NNP-0|text|803/6;856/6;892/6;1000/11;1007/11;1025/6;1209/6;1234/6||
+212512774_WGH.txt|MMI|3.81|C-telopeptide|C0631180|[aapp]|"CTX"-text-0-"ctx"-NN-0,"CTX"-text-0-"Ctx"-NN-0|text|987/3;1329/3|x.x.x.x|
+212512774_WGH.txt|MMI|3.81|Chlorotoxin|C0293227|[hops, aapp, phsu]|"CTX"-text-0-"ctx"-NN-0,"CTX"-text-0-"Ctx"-NN-0|text|987/3;1329/3|x.x.x.x|
+212512774_WGH.txt|MMI|3.81|Uterus|C0042149|[bpoc]|"Uterus"-text-38-"UTERUS"-NNP-0,"Uterine"-text-0-"UTERINE"-NNP-0|text|1270/6;1346/7|A05.360.319.679|
+212512774_WGH.txt|MMI|3.81|WAS protein, human|C1565156|[bacs, aapp]|"WAS"-text-30-"was"-VBD-0,"WAS"-text-0-"was"-VBD-0|text|1459/3;2034/3|x.x.x.x|
+212512774_WGH.txt|MMI|3.77|Fetal Membranes, Premature Rupture|C0015944|[patf]|"Premature rupture of membranes"-text-72-"Premature Rupture Of Membranes"-NNP-0,"Premature rupture of membranes"-text-86-"premature rupture of membranes"-JJ-0|text|708/30;1579/30|C13.703.420.339|
+212512774_WGH.txt|MMI|3.66|And|C1515981|[idcn]|"And"-text-34-"and"-CC-0,"And"-text-56-"AND"-CC-0,"And"-text-0-"and"-CC-0,"And"-text-0-"and"-CC-0,"And"-text-26-"and"-CC-0,"And"-text-34-"and"-CC-0,"And"-text-146-"And"-CC-0|text|123/3;675/3;1106/3;1130/3;1699/3;1712/3;2584/3||
+212512774_WGH.txt|MMI|3.66|And - dosing instruction fragment|C1706368|[inpr]|"And"-text-34-"and"-CC-0,"And"-text-56-"AND"-CC-0,"And"-text-0-"and"-CC-0,"And"-text-0-"and"-CC-0,"And"-text-26-"and"-CC-0,"And"-text-34-"and"-CC-0,"And"-text-146-"And"-CC-0|text|123/3;675/3;1106/3;1130/3;1699/3;1712/3;2584/3||
+212512774_WGH.txt|MMI|3.66|RelationshipConjunction - and|C1550557|[inpr]|"and"-text-34-"and"-CC-0,"and"-text-56-"AND"-CC-0,"and"-text-0-"and"-CC-0,"and"-text-0-"and"-CC-0,"and"-text-26-"and"-CC-0,"and"-text-34-"and"-CC-0,"and"-text-146-"And"-CC-0|text|123/3;675/3;1106/3;1130/3;1699/3;1712/3;2584/3||
+212512774_WGH.txt|MMI|3.29|Electromagnetic Radiation|C0034519|[npop]|"EMR"-text-30-"EMR"-NNP-0|text|117/3|G01.750.250;G01.358.500.505|
+212512774_WGH.txt|MMI|3.29|Ferns|C0331729|[plnt]|"fern"-text-0-"fern"-JJ-0|text|1110/4|B01.650.940.800.575.912.063|
+212512774_WGH.txt|MMI|3.29|Measles|C0025007|[dsyn]|"Measles"-text-112-"MEASLES"-NNP-1|text|2488/7|C01.925.782.580.600.500.500|
+212512774_WGH.txt|MMI|3.29|Physical activity|C0026606|[dora]|"activity"-text-14-"ACTIVITY"-NNP-0|text|2181/8|G11.427.410.698.277;I03.350|
+212512774_WGH.txt|MMI|3.02|How Often Felt Normal question|C4553972|[inpr]|"Normal"-text-94-"NORMAL"-NNP-0,"Normal"-text-110-"NORMAL"-NNP-1,"Normal"-text-124-"NORMAL"-NNP-0,"Normal"-text-0-"NORMAL"-NNP-0,"Normal"-text-14-"NORMAL"-RB-0,"Normal"-text-22-"NORMAL"-NNP-0|text|803/6;856/6;892/6;1025/6;1209/6;1234/6||
+212512774_WGH.txt|MMI|3.02|Normal|C0205307|[qlco]|"Normal"-text-94-"NORMAL"-NNP-0,"Normal"-text-110-"NORMAL"-NNP-1,"Normal"-text-124-"NORMAL"-NNP-0,"Normal"-text-0-"NORMAL"-NNP-0,"Normal"-text-14-"NORMAL"-RB-0,"Normal"-text-22-"NORMAL"-NNP-0|text|803/6;856/6;892/6;1025/6;1209/6;1234/6||
+212512774_WGH.txt|MMI|3.02|Normal Gait|C5200925|[fndg]|"Normal"-text-94-"NORMAL"-NNP-0,"Normal"-text-110-"NORMAL"-NNP-1,"Normal"-text-124-"NORMAL"-NNP-0,"Normal"-text-0-"NORMAL"-NNP-0,"Normal"-text-14-"NORMAL"-RB-0,"Normal"-text-22-"NORMAL"-NNP-0|text|803/6;856/6;892/6;1025/6;1209/6;1234/6||
+212512774_WGH.txt|MMI|3.02|Normal Immune Presence|C5202633|[fndg]|"Normal"-text-94-"NORMAL"-NNP-0,"Normal"-text-110-"NORMAL"-NNP-1,"Normal"-text-124-"NORMAL"-NNP-0,"Normal"-text-0-"NORMAL"-NNP-0,"Normal"-text-14-"NORMAL"-RB-0,"Normal"-text-22-"NORMAL"-NNP-0|text|803/6;856/6;892/6;1025/6;1209/6;1234/6||
+212512774_WGH.txt|MMI|3.02|Normal Observation Interpretation|C1550457|[fndg]|"Normal"-text-94-"NORMAL"-NNP-0,"Normal"-text-110-"NORMAL"-NNP-1,"Normal"-text-124-"NORMAL"-NNP-0,"Normal"-text-0-"NORMAL"-NNP-0,"Normal"-text-14-"NORMAL"-RB-0,"Normal"-text-22-"NORMAL"-NNP-0|text|803/6;856/6;892/6;1025/6;1209/6;1234/6||
+212512774_WGH.txt|MMI|3.02|Normal Reference Range|C2698497|[inpr]|"Normal"-text-94-"NORMAL"-NNP-0,"Normal"-text-110-"NORMAL"-NNP-1,"Normal"-text-124-"NORMAL"-NNP-0,"Normal"-text-0-"NORMAL"-NNP-0,"Normal"-text-14-"NORMAL"-RB-0,"Normal"-text-22-"NORMAL"-NNP-0|text|803/6;856/6;892/6;1025/6;1209/6;1234/6||
+212512774_WGH.txt|MMI|3.02|Normal assessment finding|C1873497|[fndg]|"Normal"-text-94-"NORMAL"-NNP-0,"Normal"-text-110-"NORMAL"-NNP-1,"Normal"-text-124-"NORMAL"-NNP-0,"Normal"-text-0-"NORMAL"-NNP-0,"Normal"-text-14-"NORMAL"-RB-0,"Normal"-text-22-"NORMAL"-NNP-0|text|803/6;856/6;892/6;1025/6;1209/6;1234/6||
+212512774_WGH.txt|MMI|3.02|Normal, Unit of Concentration|C1704701|[qnco]|"Normal"-text-94-"NORMAL"-NNP-0,"Normal"-text-110-"NORMAL"-NNP-1,"Normal"-text-124-"NORMAL"-NNP-0,"Normal"-text-0-"NORMAL"-NNP-0,"Normal"-text-14-"NORMAL"-RB-0,"Normal"-text-22-"NORMAL"-NNP-0|text|803/6;856/6;892/6;1025/6;1209/6;1234/6||
+212512774_WGH.txt|MMI|3.02|normal Act Status|C1553386|[inpr]|"normal"-text-94-"NORMAL"-NNP-0,"normal"-text-110-"NORMAL"-NNP-1,"normal"-text-124-"NORMAL"-NNP-0,"normal"-text-0-"NORMAL"-NNP-0,"normal"-text-14-"NORMAL"-RB-0,"normal"-text-22-"NORMAL"-NNP-0|text|803/6;856/6;892/6;1025/6;1209/6;1234/6||
+212512774_WGH.txt|MMI|3.02|normal Confidentiality|C1550469|[idcn]|"normal"-text-94-"NORMAL"-NNP-0,"normal"-text-110-"NORMAL"-NNP-1,"normal"-text-124-"NORMAL"-NNP-0,"normal"-text-0-"NORMAL"-NNP-0,"normal"-text-14-"NORMAL"-RB-0,"normal"-text-22-"NORMAL"-NNP-0|text|803/6;856/6;892/6;1025/6;1209/6;1234/6||
+212512774_WGH.txt|MMI|3.02|normal Device Alert Level|C1551394|[fndg]|"Normal"-text-94-"NORMAL"-NNP-0,"Normal"-text-110-"NORMAL"-NNP-1,"Normal"-text-124-"NORMAL"-NNP-0,"Normal"-text-0-"NORMAL"-NNP-0,"Normal"-text-14-"NORMAL"-RB-0,"Normal"-text-22-"NORMAL"-NNP-0|text|803/6;856/6;892/6;1025/6;1209/6;1234/6||
+212512774_WGH.txt|MMI|3.02|normal Entity Status|C1553406|[qlco]|"normal"-text-94-"NORMAL"-NNP-0,"normal"-text-110-"NORMAL"-NNP-1,"normal"-text-124-"NORMAL"-NNP-0,"normal"-text-0-"NORMAL"-NNP-0,"normal"-text-14-"NORMAL"-RB-0,"normal"-text-22-"NORMAL"-NNP-0|text|803/6;856/6;892/6;1025/6;1209/6;1234/6||
+212512774_WGH.txt|MMI|3.02|normal Managed Participation Status|C1553399|[idcn]|"normal"-text-94-"NORMAL"-NNP-0,"normal"-text-110-"NORMAL"-NNP-1,"normal"-text-124-"NORMAL"-NNP-0,"normal"-text-0-"NORMAL"-NNP-0,"normal"-text-14-"NORMAL"-RB-0,"normal"-text-22-"NORMAL"-NNP-0|text|803/6;856/6;892/6;1025/6;1209/6;1234/6||
+212512774_WGH.txt|MMI|3.02|normal Role Status|C1553402|[idcn]|"normal"-text-94-"NORMAL"-NNP-0,"normal"-text-110-"NORMAL"-NNP-1,"normal"-text-124-"NORMAL"-NNP-0,"normal"-text-0-"NORMAL"-NNP-0,"normal"-text-14-"NORMAL"-RB-0,"normal"-text-22-"NORMAL"-NNP-0|text|803/6;856/6;892/6;1025/6;1209/6;1234/6||
+212512774_WGH.txt|MMI|2.89|Disease|C0012634|[dsyn]|"DIS"-text-18-"DIS"-NNPS-0,"condition"-text-12-"condition"-NN-0|text|87/3;2083/9|C23.550.288|
+212512774_WGH.txt|MMI|2.62|No Effort|C5202819|[fndg]|"None"-text-26-"None"-NN-0,"None"-text-36-"None"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-6-"none"-NN-0|text|567/4;608/4;1876/4;1954/4;2023/4||
+212512774_WGH.txt|MMI|2.62|No Hand Mobility|C4050154|[inpr]|"None"-text-26-"None"-NN-0,"None"-text-36-"None"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-6-"none"-NN-0|text|567/4;608/4;1876/4;1954/4;2023/4||
+212512774_WGH.txt|MMI|2.62|No Support Needed|C4050155|[inpr]|"None"-text-26-"None"-NN-0,"None"-text-36-"None"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-6-"none"-NN-0|text|567/4;608/4;1876/4;1954/4;2023/4||
+212512774_WGH.txt|MMI|2.62|None|C0549184|[fndg]|"None"-text-26-"None"-NN-0,"None"-text-36-"None"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-6-"none"-NN-0|text|567/4;608/4;1876/4;1954/4;2023/4||
+212512774_WGH.txt|MMI|2.62|None (no infant feeding)|C5200984|[fndg]|"None"-text-26-"None"-NN-0,"None"-text-36-"None"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-6-"none"-NN-0|text|567/4;608/4;1876/4;1954/4;2023/4||
+212512774_WGH.txt|MMI|2.62|None - Action Taken in Response to the Event|C1556148|[ftcn]|"None"-text-26-"None"-NN-0,"None"-text-36-"None"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-6-"none"-NN-0|text|567/4;608/4;1876/4;1954/4;2023/4||
+212512774_WGH.txt|MMI|2.62|None - Additive/Preservative|C1556152|[ftcn]|"None"-text-26-"None"-NN-0,"None"-text-36-"None"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-6-"none"-NN-0|text|567/4;608/4;1876/4;1954/4;2023/4||
+212512774_WGH.txt|MMI|2.62|None - ContainerSeparator|C1551387|[ftcn]|"None"-text-26-"None"-NN-0,"None"-text-36-"None"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-6-"none"-NN-0|text|567/4;608/4;1876/4;1954/4;2023/4||
+212512774_WGH.txt|MMI|2.62|None - Eligibility Source|C1556147|[idcn]|"None"-text-26-"None"-NN-0,"None"-text-36-"None"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-6-"none"-NN-0|text|567/4;608/4;1876/4;1954/4;2023/4||
+212512774_WGH.txt|MMI|2.62|None - Language Proficiency|C1556151|[ftcn]|"None"-text-26-"None"-NN-0,"None"-text-36-"None"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-6-"none"-NN-0|text|567/4;608/4;1876/4;1954/4;2023/4||
+212512774_WGH.txt|MMI|2.62|None - ObservationValue|C1556150|[idcn]|"None"-text-26-"None"-NN-0,"None"-text-36-"None"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-6-"none"-NN-0|text|567/4;608/4;1876/4;1954/4;2023/4||
+212512774_WGH.txt|MMI|2.62|None - Relationship|C1556146|[idcn]|"None"-text-26-"None"-NN-0,"None"-text-36-"None"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-6-"none"-NN-0|text|567/4;608/4;1876/4;1954/4;2023/4||
+212512774_WGH.txt|MMI|2.62|None - Sequencing|C1550437|[ftcn]|"None"-text-26-"None"-NN-0,"None"-text-36-"None"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-6-"none"-NN-0|text|567/4;608/4;1876/4;1954/4;2023/4||
+212512774_WGH.txt|MMI|2.62|None - Specimen Additive|C1550083|[inpr]|"None"-text-26-"None"-NN-0,"None"-text-36-"None"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-6-"none"-NN-0|text|567/4;608/4;1876/4;1954/4;2023/4||
+212512774_WGH.txt|MMI|2.62|None Device|C1706277|[mnob]|"None"-text-26-"None"-NN-0,"None"-text-36-"None"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-6-"none"-NN-0|text|567/4;608/4;1876/4;1954/4;2023/4||
+212512774_WGH.txt|MMI|2.62|Null Value|C0456148|[qnco]|"None"-text-26-"None"-NN-0,"None"-text-36-"None"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-10-"none"-NN-0,"None"-text-6-"none"-NN-0|text|567/4;608/4;1876/4;1954/4;2023/4||
+212512774_WGH.txt|MMI|2.62|SHE gene|C1822717|[gngm]|"SHE"-text-0-"She"-PRP-0,"SHE"-text-0-"she"-PRP-0,"SHE"-text-0-"she"-PRP-0,"SHE"-text-0-"she"-PRP-0,"SHE"-text-0-"She"-PRP-0|text|1612/3;1825/3;1903/3;1972/3;2030/3||
+212512774_WGH.txt|MMI|2.62|She Chinese|C4761447|[popg]|"SHE"-text-0-"She"-PRP-0,"SHE"-text-0-"she"-PRP-0,"SHE"-text-0-"she"-PRP-0,"SHE"-text-0-"she"-PRP-0,"SHE"-text-0-"She"-PRP-0|text|1612/3;1825/3;1903/3;1972/3;2030/3||
+212512774_WGH.txt|MMI|2.62|none - ResponseLevel|C1547191|[qlco]|"none"-text-26-"None"-NN-0,"none"-text-36-"None"-NN-0,"none"-text-10-"none"-NN-0,"none"-text-10-"none"-NN-0,"none"-text-6-"none"-NN-0|text|567/4;608/4;1876/4;1954/4;2023/4||
+212512774_WGH.txt|MMI|2.62|none - SubstanceAdminSubstitution|C1553523|[fndg]|"none"-text-26-"None"-NN-0,"none"-text-36-"None"-NN-0,"none"-text-10-"none"-NN-0,"none"-text-10-"none"-NN-0,"none"-text-6-"none"-NN-0|text|567/4;608/4;1876/4;1954/4;2023/4||
+212512774_WGH.txt|MMI|2.62|none - TableRules|C1546509|[qnco]|"none"-text-26-"None"-NN-0,"none"-text-36-"None"-NN-0,"none"-text-10-"none"-NN-0,"none"-text-10-"none"-NN-0,"none"-text-6-"none"-NN-0|text|567/4;608/4;1876/4;1954/4;2023/4||
+212512774_WGH.txt|MMI|2.37|Cervix Uteri|C0007874|[bpoc]|"Cervix"-text-0-"CERVIX"-NNP-0|text|1156/6|A05.360.319.679.256|
+212512774_WGH.txt|MMI|2.37|Local Area Networks|C0023933|[mnob]|"LAN"-text-160-"Lan"-NNP-0|text|2626/3|L01.224.230.110.600|
+212512774_WGH.txt|MMI|2.37|Measles Vaccine|C0025010|[imft, phsu]|"measles"-text-112-"MEASLES"-NNP-1|text|2488/7|D20.215.894.899.404|
+212512774_WGH.txt|MMI|2.37|Mumps Vaccine|C0026782|[imft, phsu]|"mumps"-text-116-"MUMPS"-NNP-1|text|2498/5|D20.215.894.899.488|
+212512774_WGH.txt|MMI|2.34|Name|C0027365|[inpr]|"Name"-text-42-"NAME"-NNP-0|text|147/4|L01.559.598.400.556|
+212512774_WGH.txt|MMI|2.09|Complication|C0009566|[patf]|"Complications"-text-4-"complications"-NNS-0,"Complication"-text-0-"complication"-NN-0,"Complication"-text-0-"complication"-NN-0,"Complication"-text-0-"complication"-NN-0|text|1397/13;1855/12;1933/12;2002/12||
+212512774_WGH.txt|MMI|1.90|Abdominal Cavity|C0230168|[blor]|"Abdomen"-text-134-"ABDOMEN"-NNP-0|text|915/7|A01.923.047.025|
+212512774_WGH.txt|MMI|1.90|Apgar Score|C0003533|[orga]|"apgar scores"-text-20-"apgar scores"-JJ-0|text|1681/12|E01.370.600.050|
+212512774_WGH.txt|MMI|1.90|Appointments|C0003629|[tmco]|"Appointment"-text-72-"APPOINTMENT"-NNP-0|text|2371/11|x.x.x.x|
+212512774_WGH.txt|MMI|1.90|Childbirth|C1148523|[orgf]|"Delivery"-text-0-"delivery"-NN-0|text|1894/8|x.x.x.x|
+212512774_WGH.txt|MMI|1.90|Deafness, Sensorineural, And Male Infertility|C1970187|[dsyn]|"DIS"-text-18-"DIS"-NNPS-0|text|87/3|x.x.x.x|
+212512774_WGH.txt|MMI|1.90|Hospitals, Community|C0020003|[mnob, hcro]|"Community Hospital"-text-66-"Community Hospital"-NNP-0|text|2334/18|N02.278.421.306|
+212512774_WGH.txt|MMI|1.90|Rh Immune Globulin|C4553477|[imft, aapp, phsu]|"Rh Immune Globulin"-text-102-"RH IMMUNE GLOBULIN"-NNP-0|text|2442/18|x.x.x.x|
+212512774_WGH.txt|MMI|1.90|Uterine Diseases|C0042131|[dsyn]|"uterus"-text-38-"UTERUS"-NNP-0|text|1270/6|C13.351.500.852|
+212512774_WGH.txt|MMI|1.90|cordycepin|C0056331|[nnon, phsu]|"COR"-text-122-"COR"-JJ-0|text|888/3|x.x.x.x|
+212512774_WGH.txt|MMI|1.90|folate|C0178638|[vita, orch, phsu]|"folate"-text-148-"Folate"-NNP-0|text|2588/6|x.x.x.x|
+212512774_WGH.txt|MMI|1.88|Follow-Up Care|C3899107|[hlca]|"Follow-Up Care"-text-6-"follow-up care"-VB-0|text|2152/14|x.x.x.x|
+212512774_WGH.txt|MMI|1.88|Males|C0086582|[orga]|"Male"-text-0-"male"-NN-0|text|1638/4|x.x.x.x|
+212512774_WGH.txt|MMI|1.88|Wheezing|C0043144|[sosy]|"Wheezing"-text-120-"wheezing"-,-0|text|879/8|x.x.x.x|
+212512774_WGH.txt|MMI|1.57|Complication (attribute)|C2362589|[idcn]|"Complication"-text-0-"complication"-NN-0,"Complication"-text-0-"complication"-NN-0,"Complication"-text-0-"complication"-NN-0|text|1855/12;1933/12;2002/12||
+212512774_WGH.txt|MMI|1.57|Following|C0332282|[tmco]|"Following"-text-0-"following"-VBG-0,"Following"-text-0-"following"-VBG-0,"Following"-text-0-"following"-VBG-0|text|1845/9;1923/9;1992/9||
+212512774_WGH.txt|MMI|1.57|In addition to|C0332287|[ftcn]|"With"-text-92-"With"-IN-0,"With"-text-16-"with"-IN-0,"With"-text-40-"With"-IN-0|text|302/4;1676/4;2271/4||
+212512774_WGH.txt|MMI|1.57|Interventional procedure|C0184661|[topp]|"Procedure"-text-0-"PROCEDURE"-NNP-0,"Procedures"-text-10-"PROCEDURES"-NNP-0,"Procedures"-text-32-"PROCEDURES"-NNP-0|text|433/9;505/10;595/10||
+212512774_WGH.txt|MMI|1.57|Procedure (set of actions)|C2700391|[ftcn]|"Procedure"-text-0-"PROCEDURE"-NNP-0,"Procedures"-text-10-"PROCEDURES"-NNP-0,"Procedures"-text-32-"PROCEDURES"-NNP-0|text|433/9;505/10;595/10||
+212512774_WGH.txt|MMI|1.57|Signature|C1519316|[inpr]|"Signed"-text-16-"Signed"-NNP-0,"Signed"-text-26-"Signed"-VBN-0,"Signed"-text-152-"Signed"-NNP-0|text|80/6;107/6;2610/6||
+212512774_WGH.txt|MMI|1.57|Status post|C0231290|[tmco]|"Following"-text-0-"following"-VBG-0,"Following"-text-0-"following"-VBG-0,"Following"-text-0-"following"-VBG-0|text|1845/9;1923/9;1992/9||
+212512774_WGH.txt|MMI|1.57|With - dosing instruction fragment|C1705690|[inpr]|"With"-text-92-"With"-IN-0,"With"-text-16-"with"-IN-0,"With"-text-40-"With"-IN-0|text|302/4;1676/4;2271/4||
+212512774_WGH.txt|MMI|1.57|signed - ParticipationSignature|C1561610|[inpr]|"signed"-text-16-"Signed"-NNP-0,"signed"-text-26-"Signed"-VBN-0,"signed"-text-152-"Signed"-NNP-0|text|80/6;107/6;2610/6||
+212512774_WGH.txt|MMI|1.51|Body Fluid Discharge|C0012621|[bdsu]|"Discharge"-text-0-"DISCHARGE"-NN-0,"Discharge"-text-12-"DISCHARGE"-JJ-0,"Discharge"-text-50-"Discharge"-NNP-0|text|2095/9;2171/9;2296/9||
+212512774_WGH.txt|MMI|1.51|Discharge, Body Substance, Sample|C0600083|[bdsu]|"Discharge"-text-0-"DISCHARGE"-NN-0,"Discharge"-text-12-"DISCHARGE"-JJ-0,"Discharge"-text-50-"Discharge"-NNP-0|text|2095/9;2171/9;2296/9||
+212512774_WGH.txt|MMI|1.51|Discharge, body substance|C2926602|[sosy]|"Discharge"-text-0-"DISCHARGE"-NN-0,"Discharge"-text-12-"DISCHARGE"-JJ-0,"Discharge"-text-50-"Discharge"-NNP-0|text|2095/9;2171/9;2296/9||
+212512774_WGH.txt|MMI|1.51|Specimen Source Codes - Discharge|C1546601|[inpr]|"Discharge"-text-0-"DISCHARGE"-NN-0,"Discharge"-text-12-"DISCHARGE"-JJ-0,"Discharge"-text-50-"Discharge"-NNP-0|text|2095/9;2171/9;2296/9||
+212512774_WGH.txt|MMI|1.44|Abdomen|C0000726|[blor]|"Abdomen"-text-134-"ABDOMEN"-NNP-0|text|915/7|A01.923.047|
+212512774_WGH.txt|MMI|1.44|Chest|C0817096|[blor]|"Chest"-text-108-"CHEST"-NNP-0|text|850/5|A01.923.761|
+212512774_WGH.txt|MMI|1.44|Heart murmur|C0018808|[fndg]|"Murmur"-text-132-"murmur"-NN-1|text|908/6|C23.888.447|
+212512774_WGH.txt|MMI|1.44|History|C0019664|[ocdi]|"History"-text-54-"HISTORY"-NNP-0|text|667/7|K01.400;Y27|
+212512774_WGH.txt|MMI|1.44|Infant|C0021270|[aggp]|"Infant"-text-0-"infant"-NN-0|text|1643/6|M01.060.703|
+212512774_WGH.txt|MMI|1.44|Life|C0376558|[idcn]|"Life"-text-38-"Life"-NNP-0|text|1479/4|K01.752.400|
+212512774_WGH.txt|MMI|1.44|Obstetric Delivery|C0011209|[topp]|"Delivery"-text-0-"delivery"-NN-0|text|1894/8|E04.520.252|
+212512774_WGH.txt|MMI|1.44|Physical Examination|C0031809|[hlca]|"Physical Examination"-text-76-"PHYSICAL EXAMINATION"-NNP-0|text|739/20|E01.370.600|
+212512774_WGH.txt|MMI|1.05|Associated with|C0332281|[qlco]|"associated"-text-100-"ASSOCIATED"-NNP-0,"associated"-text-8-"ASSOCIATED"-NNP-0|text|332/10;494/10||
+212512774_WGH.txt|MMI|1.05|CYP27A1 gene|C1413864|[gngm]|"CTX"-text-0-"ctx"-NN-0,"CTX"-text-0-"Ctx"-NN-0|text|987/3;1329/3||
+212512774_WGH.txt|MMI|1.05|CYP27A1 wt Allele|C3539598|[gngm]|"CTX"-text-0-"ctx"-NN-0,"CTX"-text-0-"Ctx"-NN-0|text|987/3;1329/3||
+212512774_WGH.txt|MMI|1.05|Deferred|C0205421|[tmco]|"Deferred"-text-0-"deferred"-VBN-0,"Deferred"-text-2-"deferred"-VBN-0|text|1147/8;1176/8||
+212512774_WGH.txt|MMI|1.05|Digit structure|C0582802|[bpoc]|"Digital"-text-0-"digital"-JJ-0,"Digital"-text-0-"digital"-JJ-0|text|1134/7;1163/7||
+212512774_WGH.txt|MMI|1.05|Digital|C1883674|[qlco]|"Digital"-text-0-"digital"-JJ-0,"Digital"-text-0-"digital"-JJ-0|text|1134/7;1163/7||
+212512774_WGH.txt|MMI|1.05|Digital X-ray|C0442015|[inpr]|"Digital"-text-0-"digital"-JJ-0,"Digital"-text-0-"digital"-JJ-0|text|1134/7;1163/7||
+212512774_WGH.txt|MMI|1.05|During|C0347984|[tmco]|"During"-text-0-"During"-IN-0,"During"-text-0-"During"-IN-0|text|1808/6;1883/6||
+212512774_WGH.txt|MMI|1.05|During - dosing instruction fragment|C1706551|[inpr]|"During"-text-0-"During"-IN-0,"During"-text-0-"During"-IN-0|text|1808/6;1883/6||
+212512774_WGH.txt|MMI|1.05|Exam|C4284036|[ftcn]|"Exam"-text-0-"exam"-NN-0,"Exam"-text-0-"exam"-NN-0|text|1142/4;1171/4||
+212512774_WGH.txt|MMI|1.05|Herero language|C0574443|[lang]|"HER"-text-0-"her"-PRP-0,"HER"-text-0-"her"-PRP-0|text|1815/3;1890/3||
+212512774_WGH.txt|MMI|1.05|Medical Examination|C0582103|[hlca]|"Exam"-text-0-"exam"-NN-0,"Exam"-text-0-"exam"-NN-0|text|1142/4;1171/4||
+212512774_WGH.txt|MMI|1.05|Medications|C4284232|[inpr]|"Medications"-text-0-"medications"-NNS-0,"Medication"-text-130-"MEDICATION"-NNP-0|text|2114/11;2538/10||
+212512774_WGH.txt|MMI|1.05|Methods aspects|C0025664|[ftcn]|"procedures"-text-10-"PROCEDURES"-NNP-0,"procedures"-text-32-"PROCEDURES"-NNP-0|text|505/10;595/10||
+212512774_WGH.txt|MMI|1.05|No Extremity Functional Restrictions|C4054353|[inpr]|"No restrictions"-text-20-"No Restrictions"-DT-0,"No restrictions"-text-30-"No Restrictions"-DT-0|text|2192/15;2225/15||
+212512774_WGH.txt|MMI|1.05|Not indicated|C1444655|[fndg]|"Not indicated"-text-108-"Not Indicated"-RB-1,"Not indicated"-text-128-"Not Indicated"-RB-1|text|2463/13;2524/13||
+212512774_WGH.txt|MMI|1.05|Patient currently pregnant|C0549206|[fndg]|"Gravid"-text-136-"Gravid"-NNP-1,"Gravid"-text-40-"Gravid"-NNP-0|text|923/6;1277/6||
+212512774_WGH.txt|MMI|1.05|Pharmaceutical Preparations|C0013227|[phsu]|"medications"-text-0-"medications"-NNS-0,"Medication"-text-130-"MEDICATION"-NNP-0|text|2114/11;2538/10|D26|
+212512774_WGH.txt|MMI|1.05|Procedure Code|C1550373|[inpr]|"PROCEDURES"-text-10-"PROCEDURES"-NNP-0,"PROCEDURES"-text-32-"PROCEDURES"-NNP-0|text|505/10;595/10||
+212512774_WGH.txt|MMI|1.05|Procedure Domain|C3538935|[inpr]|"Procedures"-text-10-"PROCEDURES"-NNP-0,"Procedures"-text-32-"PROCEDURES"-NNP-0|text|505/10;595/10||
+212512774_WGH.txt|MMI|1.05|Protocol Deferred|C2347710|[ftcn]|"Deferred"-text-0-"deferred"-VBN-0,"Deferred"-text-2-"deferred"-VBN-0|text|1147/8;1176/8||
+212512774_WGH.txt|MMI|1.05|Query Priority - Deferred|C1554180|[inpr]|"Deferred"-text-0-"deferred"-VBN-0,"Deferred"-text-2-"deferred"-VBN-0|text|1147/8;1176/8||
+212512774_WGH.txt|MMI|1.05|Reaction|C0443286|[ftcn]|"Reactivity"-text-0-"reactivity"-NN-0,"Reactivity"-text-0-"reactivity"-NN-0|text|962/10;1316/10||
+212512774_WGH.txt|MMI|1.05|Therapeutic procedure|C0087111|[topp]|"Therapeutic"-text-30-"THERAPEUTIC"-NNP-0,"therapies"-text-42-"THERAPIES"-NNS-0|text|583/11;630/9||
+212512774_WGH.txt|MMI|1.05|Transfer Technique|C1705822|[ftcn]|"Delivered"-text-0-"delivered"-VBD-0,"Delivery"-text-0-"delivery"-NN-0|text|1616/9;1894/8||
+212512774_WGH.txt|MMI|1.05|Valley|C0563004|[spco]|"Valley"-text-50-"VALLEY"-NNP-0,"Valley"-text-40-"Valley"-NNP-0|text|170/6;1484/6||
+212512774_WGH.txt|MMI|1.05|WAS gene|C1421478|[gngm]|"WAS"-text-30-"was"-VBD-0,"WAS"-text-0-"was"-VBD-0|text|1459/3;2034/3||
+212512774_WGH.txt|MMI|1.05|Washoe language|C1555640|[lang]|"WAS"-text-30-"was"-VBD-0,"WAS"-text-0-"was"-VBD-0|text|1459/3;2034/3||
+212512774_WGH.txt|MMI|1.05|deferred - ResponseMode|C1697785|[ftcn]|"deferred"-text-0-"deferred"-VBN-0,"deferred"-text-2-"deferred"-VBN-0|text|1147/8;1176/8||
+212512774_WGH.txt|MMI|1.01|Admission Type - Routine|C1546402|[idcn]|"Routine"-text-46-"Routine"-NNP-0,"Routine"-text-48-"Routine"-NNP-0|text|642/7;2288/7||
+212512774_WGH.txt|MMI|1.01|Discharge summarization note:Finding:Point in time:{Setting}:Document:{Provider}|C0801840|[clna]|"Discharge summary"-text-14-"Discharge Summary"-NNP-0,"Discharge summary"-text-40-"DISCHARGE SUMMARY"-NNP-0|text|62/17;129/17||
+212512774_WGH.txt|MMI|1.01|Discharge summary|C0743221|[inpr]|"Discharge summary"-text-14-"Discharge Summary"-NNP-0,"Discharge summary"-text-40-"DISCHARGE SUMMARY"-NNP-0|text|62/17;129/17||
+212512774_WGH.txt|MMI|1.01|Extended Priority Codes - Routine|C1547582|[inpr]|"Routine"-text-46-"Routine"-NNP-0,"Routine"-text-48-"Routine"-NNP-0|text|642/7;2288/7||
+212512774_WGH.txt|MMI|1.01|Level of Care - Routine|C1547137|[idcn]|"Routine"-text-46-"Routine"-NNP-0,"Routine"-text-48-"Routine"-NNP-0|text|642/7;2288/7||
+212512774_WGH.txt|MMI|1.01|No mouth problem|C0426486|[fndg]|"normal mouth"-text-88-"NORMAL MOUTH"-NNP-0,"Mouth normal"-text-90-"MOUTH NORMAL"-NNP-0|text|778/12;785/12||
+212512774_WGH.txt|MMI|1.01|Primary|C0205225|[qlco]|"Principal"-text-80-"PRINCIPAL"-NNP-0,"Principal"-text-0-"PRINCIPAL"-NNP-0|text|253/9;423/9||
+212512774_WGH.txt|MMI|1.01|Priority - Routine|C1546438|[tmco]|"routine"-text-46-"Routine"-NNP-0,"routine"-text-48-"Routine"-NNP-0|text|642/7;2288/7||
+212512774_WGH.txt|MMI|1.01|Processing priority - Routine|C1549563|[idcn]|"Routine"-text-46-"Routine"-NNP-0,"Routine"-text-48-"Routine"-NNP-0|text|642/7;2288/7||
+212512774_WGH.txt|MMI|1.01|Referral priority - Routine|C1548424|[idcn]|"Routine"-text-46-"Routine"-NNP-0,"Routine"-text-48-"Routine"-NNP-0|text|642/7;2288/7||
+212512774_WGH.txt|MMI|1.01|Report priority - Routine|C1561591|[idcn]|"Routine"-text-46-"Routine"-NNP-0,"Routine"-text-48-"Routine"-NNP-0|text|642/7;2288/7||
+212512774_WGH.txt|MMI|1.01|Routine|C0205547|[qlco]|"Routine"-text-46-"Routine"-NNP-0,"Routine"-text-48-"Routine"-NNP-0|text|642/7;2288/7||
+212512774_WGH.txt|MMI|1.01|Teaching principal|C0401925|[prog]|"Principal"-text-80-"PRINCIPAL"-NNP-0,"Principal"-text-0-"PRINCIPAL"-NNP-0|text|253/9;423/9||
+212512774_WGH.txt|MMI|1.01|Vaginal delivery (finding)|C0566690|[fndg]|"Vaginal delivery"-text-90-"Vaginal Delivery"-JJ-0,"Vaginal delivery"-text-6-"Vaginal Delivery"-NNP-0|text|285/16;477/16||
+212512774_WGH.txt|MMI|1.01|Vaginal delivery procedure|C1541822|[topp]|"Vaginal Delivery"-text-90-"Vaginal Delivery"-JJ-0,"Vaginal Delivery"-text-6-"Vaginal Delivery"-NNP-0|text|285/16;477/16||
+212512774_WGH.txt|MMI|0.98|Body Fluids|C0005889|[bdsu]|"FLUID"-text-0-"Fluid"-JJ-0|text|1090/5|A12.207|
+212512774_WGH.txt|MMI|0.98|Heart|C0018787|[bpoc]|"Cor"-text-122-"COR"-JJ-0|text|888/3|A07.541|
+212512774_WGH.txt|MMI|0.98|Neck|C0027530|[blor]|"Neck"-text-92-"NECK"-NNP-0|text|798/4|A01.598|
+212512774_WGH.txt|MMI|0.98|Patients|C0030705|[podg]|"Patient"-text-0-"patient"-NN-0|text|2142/7|M01.643|
+212512774_WGH.txt|MMI|0.96|Diagnosis|C0011900|[diap]|"Diagnoses"-text-102-"DIAGNOSES"-NNP-0|text|343/9|E01;Y04|
+212512774_WGH.txt|MMI|0.96|Time|C0040223|[tmco]|"Time"-text-6-"time"-NN-0|text|1188/4|G01.910|
+212512774_WGH.txt|MMI|0.96|Work|C0043227|[ocac]|"Labor"-text-0-"labor"-NN-0|text|1819/5|I03.946|
+212512774_WGH.txt|MMI|0.52|ABCB6 wt Allele|C1704926|[gngm]|"LAN"-text-160-"Lan"-NNP-0|text|2626/3||
+212512774_WGH.txt|MMI|0.52|ALPP gene|C1412365|[gngm]|"PALP"-text-26-"palp"-NN-0|text|1245/4||
+212512774_WGH.txt|MMI|0.52|ALPP wt Allele|C3812647|[gngm]|"PALP"-text-26-"palp"-NN-0|text|1245/4||
+212512774_WGH.txt|MMI|0.52|Abdominopelvic structure|C1508499|[blor]|"Abdomen"-text-134-"ABDOMEN"-NNP-0|text|915/7||
+212512774_WGH.txt|MMI|0.52|Act Class - procedure|C1546467|[ocac]|"procedure"-text-0-"PROCEDURE"-NNP-0|text|433/9||
+212512774_WGH.txt|MMI|0.52|ActInformationPrivacyReason <operations>|C3244305|[ftcn]|"operations"-text-14-"OPERATIONS"-NNS-0|text|519/10||
+212512774_WGH.txt|MMI|0.52|ActInformationPrivacyReason <service>|C3245478|[idcn]|"service"-text-48-"service"-NN-0|text|1518/7||
+212512774_WGH.txt|MMI|0.52|Active|C0205177|[qlco]|"Activity"-text-14-"ACTIVITY"-NNP-0|text|2181/8||
+212512774_WGH.txt|MMI|0.52|Activities|C0441655|[acty]|"Activity"-text-14-"ACTIVITY"-NNP-0|text|2181/8||
+212512774_WGH.txt|MMI|0.52|Activity (animal life circumstance)|C3668946|[fndg]|"Activity"-text-14-"ACTIVITY"-NNP-0|text|2181/8||
+212512774_WGH.txt|MMI|0.52|Address type - Home|C1549632|[idcn]|"Home"-text-38-"Home"-NNP-0|text|2266/4||
+212512774_WGH.txt|MMI|0.52|Admission activity|C0809949|[hlca]|"Admission"-text-10-"admission"-NN-0|text|1196/9||
+212512774_WGH.txt|MMI|0.52|Admission date:Time Stamp -- Date and Time:Point in time:^Patient:Quantitative|C2598112|[clna]|"Admission date"-text-66-"ADMISSION DATE"-NN-0|text|201/14||
+212512774_WGH.txt|MMI|0.52|Admitted to|C4482331|[hlca]|"Admitted to"-text-34-"admitted to"-VBN-0|text|1463/11||
+212512774_WGH.txt|MMI|0.52|Advanced phase|C0205179|[qlco]|"Advanced"-text-34-"advanced"-VBD-0|text|1256/8||
+212512774_WGH.txt|MMI|0.52|Anatomic Node|C0746922|[bpoc]|"nodes"-text-0-"NODES"-NNP-0|text|1019/5||
+212512774_WGH.txt|MMI|0.52|Anterior thoracic region|C1527391|[blor]|"Chest"-text-108-"CHEST"-NNP-0|text|850/5||
+212512774_WGH.txt|MMI|0.52|Any|C1552551|[qlco]|"Any"-text-8-"any"-DT-0|text|1414/3||
+212512774_WGH.txt|MMI|0.52|Any Data Type|C3272371|[inpr]|"ANY"-text-8-"any"-DT-0|text|1414/3||
+212512774_WGH.txt|MMI|0.52|BLOOD GROUP, LANGEREIS SYSTEM|C3276339|[bdsy]|"LAN"-text-160-"Lan"-NNP-0|text|2626/3||
+212512774_WGH.txt|MMI|0.52|CDISC SDTM Procedure Terminology|C3539779|[inpr]|"Procedure"-text-0-"PROCEDURE"-NNP-0|text|433/9||
+212512774_WGH.txt|MMI|0.52|CDISC SDTM Size Terminology|C1879945|[inpr]|"SIZE"-text-0-"SIZE"-NNP-0|text|1354/4||
+212512774_WGH.txt|MMI|0.52|CDISC SDTM Unit of Measure Terminology|C2347274|[inpr]|"UNIT"-text-52-"UNIT"-NNP-0|text|177/4||
+212512774_WGH.txt|MMI|0.52|CERNA3 gene|C4554671|[gngm]|"CTA"-text-112-"CTA"-NNP-0|text|863/3||
+212512774_WGH.txt|MMI|0.52|Cancer/Testis Antigen|C3813556|[aapp]|"CTA"-text-112-"CTA"-NNP-0|text|863/3||
+212512774_WGH.txt|MMI|0.52|Candidiasis of vagina|C0006852|[dsyn]|"MONILIAL VAGINITIS"-text-0-"Monilial Vaginitis"-NNP-0|text|404/18||
+212512774_WGH.txt|MMI|0.52|Cardiac Computerized Tomographic Angiography|C3272310|[diap]|"CTA"-text-112-"CTA"-NNP-0|text|863/3||
+212512774_WGH.txt|MMI|0.52|Cervix Specimen|C1550623|[bdsu]|"Cervix"-text-0-"CERVIX"-NNP-0|text|1156/6||
+212512774_WGH.txt|MMI|0.52|Cervix Specimen Code|C1546592|[inpr]|"Cervix"-text-0-"CERVIX"-NNP-0|text|1156/6||
+212512774_WGH.txt|MMI|0.52|Clear fluid|C0453847|[food]|"Clear fluid"-text-12-"clear fluid"-JJ-0|text|1076/11||
+212512774_WGH.txt|MMI|0.52|Complication Aspects|C1171258|[ftcn]|"complications"-text-4-"complications"-NNS-0|text|1397/13||
+212512774_WGH.txt|MMI|0.52|Complications:Type:Duration of the study:^Patient:Nominal|C0802632|[clna]|"Complications"-text-4-"complications"-NNS-0|text|1397/13||
+212512774_WGH.txt|MMI|0.52|Computer Operation|C1880161|[mcha]|"Operation"-text-0-"OPERATION"-NNP-0|text|446/9||
+212512774_WGH.txt|MMI|0.52|Concept History|C1705255|[cnce]|"History"-text-54-"HISTORY"-NNP-0|text|667/7||
+212512774_WGH.txt|MMI|0.52|Condition|C0348080|[qlco]|"Condition"-text-12-"condition"-NN-0|text|2083/9||
+212512774_WGH.txt|MMI|0.52|Condition Domain|C4722256|[inpr]|"CONDITION"-text-12-"condition"-NN-0|text|2083/9||
+212512774_WGH.txt|MMI|0.52|Condition:Find:Pt:^Patient:Nom|C3864998|[clna]|"Condition"-text-12-"condition"-NN-0|text|2083/9||
+212512774_WGH.txt|MMI|0.52|Continuity Assessment Record and Evaluation|C2362566|[inpr]|"CARE"-text-52-"Care"-NNP-0|text|662/4||
+212512774_WGH.txt|MMI|0.52|Copious|C3845930|[fndg]|"Copious"-text-6-"copious"-JJ-0|text|1060/7||
+212512774_WGH.txt|MMI|0.52|Cornish language|C0682388|[lang]|"COR"-text-122-"COR"-JJ-0|text|888/3||
+212512774_WGH.txt|MMI|0.52|Count of entities|C0449788|[qnco]|"number"-text-54-"NUMBER"-NNP-0|text|182/6||
+212512774_WGH.txt|MMI|0.52|DGCR2 gene|C1414026|[gngm]|"LAN"-text-160-"Lan"-NNP-0|text|2626/3||
+212512774_WGH.txt|MMI|0.52|Date of admission|C1302393|[tmco]|"Admission date"-text-66-"ADMISSION DATE"-NN-0|text|201/14||
+212512774_WGH.txt|MMI|0.52|Diagnostic interview schedule|C0451119|[inpr]|"DIS"-text-18-"DIS"-NNPS-0|text|87/3||
+212512774_WGH.txt|MMI|0.52|Disabled Person Code - Patient|C1578486|[inpr]|"Patient"-text-0-"patient"-NN-0|text|2142/7||
+212512774_WGH.txt|MMI|0.52|Discipline of obstetrics|C0028773|[bmod]|"Obstetrical"-text-46-"Obstetrical"-JJ-0|text|1506/11||
+212512774_WGH.txt|MMI|0.52|Discontinued|C1444662|[fndg]|"DIS"-text-18-"DIS"-NNPS-0|text|87/3||
+212512774_WGH.txt|MMI|0.52|Entire abdomen|C1281594|[bpoc]|"Abdomen"-text-134-"ABDOMEN"-NNP-0|text|915/7||
+212512774_WGH.txt|MMI|0.52|Entire neck|C1281592|[bpoc]|"Neck"-text-92-"NECK"-NNP-0|text|798/4||
+212512774_WGH.txt|MMI|0.52|Entire uterus|C1269032|[bpoc]|"Uterus"-text-38-"UTERUS"-NNP-0|text|1270/6||
+212512774_WGH.txt|MMI|0.52|Enzyme Unit|C1880519|[qnco]|"Unit"-text-52-"UNIT"-NNP-0|text|177/4||
+212512774_WGH.txt|MMI|0.52|Epidermal cGVHD Score 2|C4761314|[inpr]|"Mild"-text-0-"Mild"-NNP-0|text|975/4||
+212512774_WGH.txt|MMI|0.52|FDA Establishment Activity Terminology|C4049939|[inpr]|"ACTIVITY"-text-14-"ACTIVITY"-NNP-0|text|2181/8||
+212512774_WGH.txt|MMI|0.52|Facilitated oscillatory release technique|C1562169|[topp]|"FOR"-text-66-"for"-IN-0|text|1552/3||
+212512774_WGH.txt|MMI|0.52|Fluid Specimen Code|C1546638|[inpr]|"Fluid"-text-0-"Fluid"-JJ-0|text|1090/5||
+212512774_WGH.txt|MMI|0.52|Fluid behavior|C0444611|[qlco]|"Fluid"-text-0-"Fluid"-JJ-0|text|1090/5||
+212512774_WGH.txt|MMI|0.52|Folic acid measurement|C0523631|[lbpr]|"Folate"-text-148-"Folate"-NNP-0|text|2588/6||
+212512774_WGH.txt|MMI|0.52|Front of neck|C0446455|[blor]|"Cervix"-text-0-"CERVIX"-NNP-0|text|1156/6||
+212512774_WGH.txt|MMI|0.52|Graph Node|C2697524|[cnce]|"Vertex"-text-2-"Vertex"-NNP-0|text|470/6||
+212512774_WGH.txt|MMI|0.52|HEENT|C1512338|[blor]|"HEENT"-text-84-"HEENT"-NNP-0|text|772/5||
+212512774_WGH.txt|MMI|0.52|HL7PublishingSubSection <operations>|C3244306|[inpr]|"operations"-text-14-"OPERATIONS"-NNS-0|text|519/10||
+212512774_WGH.txt|MMI|0.52|Height|C0489786|[orga]|"Height"-text-80-"HEIGHT"-NNP-0|text|762/6||
+212512774_WGH.txt|MMI|0.52|Historical aspects qualifier|C0019665|[ftcn]|"history"-text-54-"HISTORY"-NNP-0|text|667/7||
+212512774_WGH.txt|MMI|0.52|History of present illness|C0262512|[fndg]|"history"-text-54-"HISTORY"-NNP-0|text|667/7||
+212512774_WGH.txt|MMI|0.52|History of previous events|C2004062|[fndg]|"History"-text-54-"HISTORY"-NNP-0|text|667/7||
+212512774_WGH.txt|MMI|0.52|Home environment|C0442519|[spco]|"Home"-text-38-"Home"-NNP-0|text|2266/4||
+212512774_WGH.txt|MMI|0.52|Hospital admission|C0184666|[hlca]|"Admission"-text-10-"admission"-NN-0|text|1196/9||
+212512774_WGH.txt|MMI|0.52|Hospital course|C0489547|[fndg]|"Hospital course"-text-0-"HOSPITAL COURSE"-NN-0|text|1371/15||
+212512774_WGH.txt|MMI|0.52|Hospital course:Finding:Point in time:^Patient:Narrative|C0488549|[clna]|"Hospital course"-text-0-"HOSPITAL COURSE"-NN-0|text|1371/15||
+212512774_WGH.txt|MMI|0.52|Include (action)|C2700399|[acty]|"Include"-text-2-"include"-VBP-0|text|1389/7||
+212512774_WGH.txt|MMI|0.52|Including (qualifier)|C0332257|[ftcn]|"include"-text-2-"include"-VBP-0|text|1389/7||
+212512774_WGH.txt|MMI|0.52|Indication|C3146298|[idcn]|"Indication"-text-70-"indication"-NN-0|text|1560/10||
+212512774_WGH.txt|MMI|0.52|Indication of (contextual qualifier)|C0392360|[idcn]|"indication"-text-70-"indication"-NN-0|text|1560/10||
+212512774_WGH.txt|MMI|0.52|Instruction [Publication Type]|C0302828|[inpr]|"instructions"-text-0-"instructions"-NNS-0|text|2126/12||
+212512774_WGH.txt|MMI|0.52|Instructions|C1442085|[inpr]|"Instructions"-text-0-"instructions"-NNS-0|text|2126/12||
+212512774_WGH.txt|MMI|0.52|Instructions:Text:Point in time:^Patient:Narrative|C3263700|[clna]|"Instructions"-text-0-"instructions"-NNS-0|text|2126/12||
+212512774_WGH.txt|MMI|0.52|International Unit|C0439453|[qnco]|"Unit"-text-52-"UNIT"-NNP-0|text|177/4||
+212512774_WGH.txt|MMI|0.52|LAN Antibody|C3175678|[imft, aapp]|"LAN"-text-160-"Lan"-NNP-0|text|2626/3||
+212512774_WGH.txt|MMI|0.52|Laser-Induced Fluorescence Endoscopy|C1522684|[diap]|"LIFE"-text-38-"Life"-NNP-0|text|1479/4||
+212512774_WGH.txt|MMI|0.52|Leaking|C0332234|[ftcn]|"Leaking"-text-4-"Leaking"-VBG-0|text|1052/7||
+212512774_WGH.txt|MMI|0.52|Liquid substance|C0302908|[sbst]|"fluid"-text-0-"Fluid"-JJ-0|text|1090/5||
+212512774_WGH.txt|MMI|0.52|Logical Condition|C1705253|[cnce]|"Condition"-text-12-"condition"-NN-0|text|2083/9||
+212512774_WGH.txt|MMI|0.52|MDF AttributeType - Number|C1554106|[idcn]|"Number"-text-54-"NUMBER"-NNP-0|text|182/6||
+212512774_WGH.txt|MMI|0.52|Mail Claim Party - Patient|C1578481|[idcn]|"Patient"-text-0-"patient"-NN-0|text|2142/7||
+212512774_WGH.txt|MMI|0.52|Medical History|C0262926|[fndg]|"History"-text-54-"HISTORY"-NNP-0|text|667/7||
+212512774_WGH.txt|MMI|0.52|Medications:-:Point in time:^Patient:-|C2598133|[clna]|"Medications"-text-0-"medications"-NNS-0|text|2114/11||
+212512774_WGH.txt|MMI|0.52|Medications:Presence or Identity:Duration of the study:^Patient:Nominal|C0802604|[clna]|"Medications"-text-0-"medications"-NNS-0|text|2114/11||
+212512774_WGH.txt|MMI|0.52|Mild (qualifier value)|C2945599|[qlco]|"Mild"-text-0-"Mild"-NNP-0|text|975/4||
+212512774_WGH.txt|MMI|0.52|Mild Adverse Event|C1513302|[fndg]|"MILD"-text-0-"Mild"-NNP-0|text|975/4||
+212512774_WGH.txt|MMI|0.52|Mild Allergy Severity|C1563320|[qlco]|"Mild"-text-0-"Mild"-NNP-0|text|975/4||
+212512774_WGH.txt|MMI|0.52|Mild Hallucination|C4722210|[fndg]|"Mild"-text-0-"Mild"-NNP-0|text|975/4||
+212512774_WGH.txt|MMI|0.52|Mild Severity of Illness Code|C1547225|[inpr]|"Mild"-text-0-"Mild"-NNP-0|text|975/4||
+212512774_WGH.txt|MMI|0.52|Minute (diminutive)|C1282918|[qnco]|"minutes"-text-38-"minutes"-NNS-0|text|1721/7||
+212512774_WGH.txt|MMI|0.52|Minute of time|C0439232|[tmco]|"minutes"-text-38-"minutes"-NNS-0|text|1721/7||
+212512774_WGH.txt|MMI|0.52|Mouse Uterus|C1519876|[tisu]|"Uterus"-text-38-"UTERUS"-NNP-0|text|1270/6||
+212512774_WGH.txt|MMI|0.52|Multivitamin Drug Class|C3714835|[vita, phsu]|"MULTIVITAMINS"-text-144-"Multivitamins"-NNP-0|text|2570/13||
+212512774_WGH.txt|MMI|0.52|Multivitamin preparation|C0301532|[vita, orch, phsu]|"MULTIVITAMINS"-text-144-"Multivitamins"-NNP-0|text|2570/13||
+212512774_WGH.txt|MMI|0.52|NADPH:sulfur oxidoreductase activity|C2700623|[moft]|"NSR"-text-126-"NSR"-NNP-0|text|899/3||
+212512774_WGH.txt|MMI|0.52|Neck of pancreas|C0447556|[blor]|"Neck"-text-92-"NECK"-NNP-0|text|798/4||
+212512774_WGH.txt|MMI|0.52|Neck of urinary bladder|C0227716|[bpoc]|"Neck"-text-92-"NECK"-NNP-0|text|798/4||
+212512774_WGH.txt|MMI|0.52|Negative - answer|C3853545|[qlco]|"NEG"-text-118-"neg"-NN-0|text|875/3||
+212512774_WGH.txt|MMI|0.52|Neutral Sidebent Rotated|C1704493|[patf]|"NSR"-text-126-"NSR"-NNP-0|text|899/3||
+212512774_WGH.txt|MMI|0.52|Non-human parturition, function|C1314680|[orgf]|"Delivery"-text-0-"delivery"-NN-0|text|1894/8||
+212512774_WGH.txt|MMI|0.52|Numbers|C0237753|[qnco]|"Number"-text-54-"NUMBER"-NNP-0|text|182/6||
+212512774_WGH.txt|MMI|0.52|Obstetrical|C0205484|[ftcn]|"Obstetrical"-text-46-"Obstetrical"-JJ-0|text|1506/11||
+212512774_WGH.txt|MMI|0.52|Old|C0580836|[tmco]|"Old"-text-20-"old"-JJ-0|text|1435/3||
+212512774_WGH.txt|MMI|0.52|Old episode|C0677546|[tmco]|"Old"-text-20-"old"-JJ-0|text|1435/3||
+212512774_WGH.txt|MMI|0.52|Operation Activity|C3241922|[acty]|"Operation"-text-0-"OPERATION"-NNP-0|text|446/9||
+212512774_WGH.txt|MMI|0.52|Operative Surgical Procedures|C0543467|[topp]|"Operation"-text-0-"OPERATION"-NNP-0|text|446/9|E04|
+212512774_WGH.txt|MMI|0.52|Organization unit type - Home|C1547197|[orgt]|"Home"-text-38-"Home"-NNP-0|text|2266/4||
+212512774_WGH.txt|MMI|0.52|PCYT1A wt Allele|C3540513|[gngm]|"CTA"-text-112-"CTA"-NNP-0|text|863/3||
+212512774_WGH.txt|MMI|0.52|Palp - CHV concept|C2945620|[cnce]|"palp"-text-26-"palp"-NN-0|text|1245/4||
+212512774_WGH.txt|MMI|0.52|Para (geographic area)|C4722300|[geoa]|"Para"-text-26-"Para"-NNP-0|text|1449/4||
+212512774_WGH.txt|MMI|0.52|Person location type - Home|C1548530|[spco]|"Home"-text-38-"Home"-NNP-0|text|2266/4||
+212512774_WGH.txt|MMI|0.52|Physical Activity Measurement|C4049938|[lbpr]|"Activity"-text-14-"ACTIVITY"-NNP-0|text|2181/8||
+212512774_WGH.txt|MMI|0.52|Physical Exam Domain|C1744699|[inpr]|"Physical Examination"-text-76-"PHYSICAL EXAMINATION"-NNP-0|text|739/20||
+212512774_WGH.txt|MMI|0.52|Physical Medical Procedure|C3274430|[hlca]|"PROCEDURE"-text-0-"PROCEDURE"-NNP-0|text|433/9||
+212512774_WGH.txt|MMI|0.52|Precision - year|C1561544|[idcn]|"year"-text-18-"year"-NN-0|text|1430/4||
+212512774_WGH.txt|MMI|0.52|Preposition For|C0521125|[qlco]|"For"-text-66-"for"-IN-0|text|1552/3||
+212512774_WGH.txt|MMI|0.52|Procedure:Type:Point in time:^Patient:Narrative|C0945766|[clna]|"Procedure"-text-0-"PROCEDURE"-NNP-0|text|433/9||
+212512774_WGH.txt|MMI|0.52|Quantity|C1265611|[qnco]|"amounts"-text-8-"amounts"-NNS-0|text|1068/7||
+212512774_WGH.txt|MMI|0.52|Reason for hospitalization|C1830395|[inpr]|"Reason for hospitalization"-text-62-"REASON FOR HOSPITALIZATION"-NNP-0|text|679/26||
+212512774_WGH.txt|MMI|0.52|Reason for hospitalization:Type:Pt:^Patient:Nom|C4522174|[clna]|"Reason for hospitalization"-text-62-"REASON FOR HOSPITALIZATION"-NNP-0|text|679/26||
+212512774_WGH.txt|MMI|0.52|Relationship modifier - Patient|C1578484|[idcn]|"Patient"-text-0-"patient"-NN-0|text|2142/7||
+212512774_WGH.txt|MMI|0.52|Report source - Patient|C1578483|[idcn]|"Patient"-text-0-"patient"-NN-0|text|2142/7||
+212512774_WGH.txt|MMI|0.52|Report status (finding)|C0586177|[fndg]|"Report status"-text-22-"Report Status"-NNP-0|text|91/13||
+212512774_WGH.txt|MMI|0.52|Report status:Type:Point in time:Report:Nominal|C4760061|[clna]|"Report status"-text-22-"Report Status"-NNP-0|text|91/13||
+212512774_WGH.txt|MMI|0.52|Return to (contextual qualifier) (qualifier value)|C0332156|[qlco]|"Return"-text-70-"RETURN"-NNP-0|text|2364/6||
+212512774_WGH.txt|MMI|0.52|Rh Immune Globulin Consent Type|C1548910|[hlca]|"Rh Immune Globulin"-text-102-"RH IMMUNE GLOBULIN"-NNP-0|text|2442/18||
+212512774_WGH.txt|MMI|0.52|Rubella virus vaccine|C0035923|[imft, aapp, phsu]|"Rubella Vaccine"-text-122-"RUBELLA VACCINE"-NNP-0|text|2506/15||
+212512774_WGH.txt|MMI|0.52|See|C1947903|[acty]|"See"-text-16-"see"-VBP-0|text|1216/3||
+212512774_WGH.txt|MMI|0.52|Services|C0557854|[ocac]|"service"-text-48-"service"-NN-0|text|1518/7||
+212512774_WGH.txt|MMI|0.52|Site of care|C0337950|[spco]|"care site"-text-58-"CARE SITE"-NNP-0|text|2319/9||
+212512774_WGH.txt|MMI|0.52|Small|C0700321|[qnco]|"minutes"-text-38-"minutes"-NNS-0|text|1721/7||
+212512774_WGH.txt|MMI|0.52|Software Service|C2825316|[mnob]|"Service"-text-48-"service"-NN-0|text|1518/7||
+212512774_WGH.txt|MMI|0.52|Specimen Source Codes - Patient|C1578485|[inpr]|"Patient"-text-0-"patient"-NN-0|text|2142/7||
+212512774_WGH.txt|MMI|0.52|Specimen Type - Patient|C1550655|[bdsu]|"Patient"-text-0-"patient"-NN-0|text|2142/7||
+212512774_WGH.txt|MMI|0.52|Spontaneous|C0205359|[ftcn]|"Spontaneous"-text-0-"Spontaneous"-JJ-0|text|458/11||
+212512774_WGH.txt|MMI|0.52|Storage Unit|C1704753|[mnob]|"Unit"-text-52-"UNIT"-NNP-0|text|177/4||
+212512774_WGH.txt|MMI|0.52|Streaming SIMD Extensions|C1883173|[inpr]|"SSE"-text-0-"SSE"-NNP-0|text|1126/3||
+212512774_WGH.txt|MMI|0.52|Surgical aspects|C0038895|[ftcn]|"operations"-text-14-"OPERATIONS"-NNS-0|text|519/10||
+212512774_WGH.txt|MMI|0.52|Table Frame - above|C1552828|[idcn]|"above"-text-18-"above"-IN-0|text|1220/5||
+212512774_WGH.txt|MMI|0.52|Therapeutic|C0302350|[ftcn]|"Therapeutic"-text-30-"THERAPEUTIC"-NNP-0|text|583/11|E02|
+212512774_WGH.txt|MMI|0.52|Therapeutic - Location Service Code|C1547427|[inpr]|"Therapeutic"-text-30-"THERAPEUTIC"-NNP-0|text|583/11||
+212512774_WGH.txt|MMI|0.52|Therapeutic brand of coal tar|C0723712|[orch, phsu]|"Therapeutic"-text-30-"THERAPEUTIC"-NNP-0|text|583/11||
+212512774_WGH.txt|MMI|0.52|This (eukaryote)|C1080058|[euka]|"This"-text-14-"This"-DT-0|text|1422/4||
+212512774_WGH.txt|MMI|0.52|Transaction counts and value totals - year|C1561543|[inpr]|"year"-text-18-"year"-NN-0|text|1430/4||
+212512774_WGH.txt|MMI|0.52|Unit|C0439148|[qnco]|"Unit"-text-52-"UNIT"-NNP-0|text|177/4||
+212512774_WGH.txt|MMI|0.52|Unit - NCI Thesaurus Property|C3853603|[qnco]|"Unit"-text-52-"UNIT"-NNP-0|text|177/4||
+212512774_WGH.txt|MMI|0.52|Unit device|C1509845|[medd]|"Unit"-text-52-"UNIT"-NNP-0|text|177/4||
+212512774_WGH.txt|MMI|0.52|Unit of Measure|C1519795|[qnco]|"Unit"-text-52-"UNIT"-NNP-0|text|177/4||
+212512774_WGH.txt|MMI|0.52|Upper|C1282910|[spco]|"Above"-text-18-"above"-IN-0|text|1220/5||
+212512774_WGH.txt|MMI|0.52|Vertex|C0230003|[blor]|"Vertex"-text-2-"Vertex"-NNP-0|text|470/6||
+212512774_WGH.txt|MMI|0.52|Veterinary Patient|C1705908|[orgm]|"Patient"-text-0-"patient"-NN-0|text|2142/7||
+212512774_WGH.txt|MMI|0.52|Visit User Code - Home|C1548341|[inpr]|"Home"-text-38-"Home"-NNP-0|text|2266/4||
+212512774_WGH.txt|MMI|0.52|WWOX gene|C1421525|[gngm]|"FOR"-text-66-"for"-IN-0|text|1552/3||
+212512774_WGH.txt|MMI|0.52|WWOX wt Allele|C4321252|[gngm]|"FOR"-text-66-"for"-IN-0|text|1552/3||
+212512774_WGH.txt|MMI|0.52|YES Portal|C5202962|[mnob]|"YES"-text-94-"Yes"-RB-0|text|2427/3||
+212512774_WGH.txt|MMI|0.52|YES1 gene|C0919479|[gngm]|"Yes"-text-94-"Yes"-RB-0|text|2427/3||
+212512774_WGH.txt|MMI|0.52|YES1 wt Allele|C1710701|[gngm]|"Yes"-text-94-"Yes"-RB-0|text|2427/3||
+212512774_WGH.txt|MMI|0.52|Yes (indicator)|C1705108|[fndg]|"Yes"-text-94-"Yes"-RB-0|text|2427/3||
+212512774_WGH.txt|MMI|0.52|Yes - Assignment of Benefits|C1549443|[idcn]|"Yes"-text-94-"Yes"-RB-0|text|2427/3||
+212512774_WGH.txt|MMI|0.52|Yes - Event Expected|C1546947|[idcn]|"Yes"-text-94-"Yes"-RB-0|text|2427/3||
+212512774_WGH.txt|MMI|0.52|Yes - Event Seriousness|C1546945|[qlco]|"Yes"-text-94-"Yes"-RB-0|text|2427/3||
+212512774_WGH.txt|MMI|0.52|Yes - Expanded yes/no indicator|C1549060|[idcn]|"Yes"-text-94-"Yes"-RB-0|text|2427/3||
+212512774_WGH.txt|MMI|0.52|Yes - Identity May Be Divulged|C1546969|[idcn]|"Yes"-text-94-"Yes"-RB-0|text|2427/3||
+212512774_WGH.txt|MMI|0.52|Yes - Notify Clergy Code|C1549065|[inpr]|"Yes"-text-94-"Yes"-RB-0|text|2427/3||
+212512774_WGH.txt|MMI|0.52|Yes - Presence findings|C1298907|[fndg]|"Yes"-text-94-"Yes"-RB-0|text|2427/3||
+212512774_WGH.txt|MMI|0.52|Yes - Release Information|C1548171|[idcn]|"Yes"-text-94-"Yes"-RB-0|text|2427/3||
+212512774_WGH.txt|MMI|0.52|Yes - Yes/no indicator|C1549445|[idcn]|"Yes"-text-94-"Yes"-RB-0|text|2427/3||
+212512774_WGH.txt|MMI|0.52|care activity|C1947933|[acty]|"Care"-text-52-"Care"-NNP-0|text|662/4||
+212512774_WGH.txt|MMI|0.52|day|C0439228|[tmco]|"Days"-text-76-"DAYS"-NNP-0|text|2385/4||
+212512774_WGH.txt|MMI|0.52|dendritic spine neck|C3159206|[celc]|"neck"-text-92-"NECK"-NNP-0|text|798/4||
+212512774_WGH.txt|MMI|0.52|fluid - substance|C1704353|[sbst]|"Fluid"-text-0-"Fluid"-JJ-0|text|1090/5||
+212512774_WGH.txt|MMI|0.52|gram|C0439208|[qnco]|"gram"-text-0-"gram"-NN-0|text|1633/4||
+212512774_WGH.txt|MMI|0.52|home health encounter|C1553498|[hlca]|"Home"-text-38-"Home"-NNP-0|text|2266/4||
+212512774_WGH.txt|MMI|0.52|include - SetOperator|C1552866|[idcn]|"include"-text-2-"include"-VBP-0|text|1389/7||
+212512774_WGH.txt|MMI|0.52|medication - HL7 publishing domain|C3244316|[inpr]|"medication"-text-130-"MEDICATION"-NNP-0|text|2538/10||
+212512774_WGH.txt|MMI|0.52|orders - HL7PublishingDomain|C3244315|[inpr]|"orders"-text-0-"ORDERS"-NNS-0|text|2105/6||
+212512774_WGH.txt|MMI|0.52|size|C0456389|[spco]|"size"-text-0-"SIZE"-NNP-0|text|1354/4||
+212512774_WGH.txt|MMI|0.52|size - solid dosage form|C1552077|[qnco]|"size"-text-0-"SIZE"-NNP-0|text|1354/4||
+212512774_WGH.txt|MMI|0.52|week|C0439230|[tmco]|"Weeks"-text-0-"WEEKS"-NNP-0|text|1362/5||
+212512774_WGH.txt|MMI|0.52|year|C0439234|[tmco]|"year"-text-18-"year"-NN-0|text|1430/4||
+212512774_WGH.txt|MMI|0.50|1 (finding)|C5201140|[fndg]|"One"-text-32-"one"-CD-0|text|1708/3||
+212512774_WGH.txt|MMI|0.50|130|C4319552|[qnco]|"130"-text-58-"130"-CD-0|text|191/3||
+212512774_WGH.txt|MMI|0.50|Abnormal cervical smear|C0476427|[fndg]|"Abnormal PAP Test"-text-0-"Abnormal Pap Test"-JJ-0|text|384/17||
+212512774_WGH.txt|MMI|0.50|At discharge|C3871203|[tmco]|"At discharge"-text-90-"AT DISCHARGE"-WDT-0|text|2412/12||
+212512774_WGH.txt|MMI|0.50|BRAF Gene Rearrangement|C4727483|[comd]|"Positive"-text-0-"positive"-JJ-0|text|1115/8||
+212512774_WGH.txt|MMI|0.50|Breast normal|C0567498|[fndg]|"breasts normal"-text-98-"BREASTS NORMAL"-NNP-0|text|810/14||
+212512774_WGH.txt|MMI|0.50|Breastfeeding (infant)|C1623041|[fndg]|"Breast feeding"-text-86-"BREAST FEEDING"-NN-0|text|2397/14||
+212512774_WGH.txt|MMI|0.50|Breastfeeding (mother)|C1623040|[fndg]|"Breast feeding"-text-86-"BREAST FEEDING"-NN-0|text|2397/14||
+212512774_WGH.txt|MMI|0.50|Cares for self|C3872897|[fndg]|"self-care"-text-44-"Self-Care"-NNP-0|text|2276/9||
+212512774_WGH.txt|MMI|0.50|Data types - Time|C1547403|[idcn]|"Time"-text-6-"time"-NN-0|text|1188/4||
+212512774_WGH.txt|MMI|0.50|Dioscorea trifida|C1018834|[plnt]|"name"-text-42-"NAME"-NNP-0|text|147/4||
+212512774_WGH.txt|MMI|0.50|Discharge date|C2361123|[tmco]|"Discharge date"-text-74-"DISCHARGE DATE"-NN-0|text|227/14||
+212512774_WGH.txt|MMI|0.50|Discharge date:Time Stamp -- Date and Time:Point in time:^Patient:Quantitative|C2361122|[clna]|"Discharge date"-text-74-"DISCHARGE DATE"-NN-0|text|227/14||
+212512774_WGH.txt|MMI|0.50|Discharge diet|C1657597|[topp]|"Discharge diet"-text-24-"DISCHARGE DIET"-NNP-0|text|2208/14||
+212512774_WGH.txt|MMI|0.50|Five|C0205451|[qnco]|"Five"-text-36-"five"-CD-0|text|1716/4||
+212512774_WGH.txt|MMI|0.50|Good|C0205170|[qlco]|"Good"-text-10-"good"-JJ-0|text|2078/4||
+212512774_WGH.txt|MMI|0.50|Labor (Childbirth)|C0022864|[orgf]|"Labor"-text-0-"labor"-NN-0|text|1819/5||
+212512774_WGH.txt|MMI|0.50|Laboratory test result abnormal|C0438215|[lbtr]|"ABNORMAL LABORATORY RESULT"-text-110-"Abnormal Laboratory Result"-JJ-0|text|355/26||
+212512774_WGH.txt|MMI|0.50|Language Ability Proficiency - Good|C1551023|[idcn]|"Good"-text-10-"good"-JJ-0|text|2078/4||
+212512774_WGH.txt|MMI|0.50|Language Proficiency - Good|C1610541|[idcn]|"Good"-text-10-"good"-JJ-0|text|2078/4||
+212512774_WGH.txt|MMI|0.50|MDF Attribute Type - Name|C1554107|[inpr]|"Name"-text-42-"NAME"-NNP-0|text|147/4||
+212512774_WGH.txt|MMI|0.50|Male Gender, Self Report|C1706180|[qlco]|"Male"-text-0-"male"-NN-0|text|1638/4||
+212512774_WGH.txt|MMI|0.50|Male Phenotype|C1706428|[qlco]|"Male"-text-0-"male"-NN-0|text|1638/4||
+212512774_WGH.txt|MMI|0.50|Male, Self-Reported|C1706429|[orga]|"Male"-text-0-"male"-NN-0|text|1638/4||
+212512774_WGH.txt|MMI|0.50|Medical center|C0565990|[mnob, hcro]|"Medical center"-text-44-"Medical Center"-NNP-0|text|1491/14||
+212512774_WGH.txt|MMI|0.50|NON Mouse|C1513853|[mamm]|"NON"-text-24-"non"-FW-0|text|1241/3||
+212512774_WGH.txt|MMI|0.50|Name (property) (qualifier value)|C4522128|[qlco]|"Name"-text-42-"NAME"-NNP-0|text|147/4||
+212512774_WGH.txt|MMI|0.50|Name:Patient number:Point in time:^Patient:Nominal|C2599456|[clna]|"Name"-text-42-"NAME"-NNP-0|text|147/4||
+212512774_WGH.txt|MMI|0.50|Negation|C1518422|[ftcn]|"Non"-text-24-"non"-FW-0|text|1241/3||
+212512774_WGH.txt|MMI|0.50|Nipple normal|C0567529|[fndg]|"nipples normal"-text-106-"NIPPLES NORMAL"-NNP-1|text|835/14||
+212512774_WGH.txt|MMI|0.50|On discharge|C1548175|[tmco]|"On discharge"-text-140-"ON DISCHARGE"-IN-0|text|2555/12||
+212512774_WGH.txt|MMI|0.50|One|C0205447|[qnco]|"One"-text-32-"one"-CD-0|text|1708/3||
+212512774_WGH.txt|MMI|0.50|Person Name|C1547383|[inpr]|"Name"-text-42-"NAME"-NNP-0|text|147/4||
+212512774_WGH.txt|MMI|0.50|Positive|C1446409|[fndg]|"Positive"-text-0-"positive"-JJ-0|text|1115/8||
+212512774_WGH.txt|MMI|0.50|Positive Charge|C2825490|[qlco]|"Positive"-text-0-"positive"-JJ-0|text|1115/8||
+212512774_WGH.txt|MMI|0.50|Positive Finding|C1514241|[fndg]|"Positive"-text-0-"positive"-JJ-0|text|1115/8||
+212512774_WGH.txt|MMI|0.50|Positive Number|C3812269|[qnco]|"Positive"-text-0-"positive"-JJ-0|text|1115/8||
+212512774_WGH.txt|MMI|0.50|Primigravida|C0860096|[fndg]|"Gravida 1"-text-24-"Gravida 1"-NNP-0|text|1439/9||
+212512774_WGH.txt|MMI|0.50|Second degree laceration|C5191062|[inpo]|"Second degree laceration"-text-98-"Second Degree Laceration"-NNP-0|text|307/24||
+212512774_WGH.txt|MMI|0.50|Self-care interventions|C0036592|[dora]|"self-care"-text-44-"Self-Care"-NNP-0|text|2276/9||
+212512774_WGH.txt|MMI|0.50|Specimen Quality - Good|C1561563|[qlco]|"Good"-text-10-"good"-JJ-0|text|2078/4||
+212512774_WGH.txt|MMI|0.50|Time (foundation metadata concept)|C3541383|[tmco]|"Time"-text-6-"time"-NN-0|text|1188/4||
+212512774_WGH.txt|MMI|0.50|Vagina normal|C0567027|[fndg]|"normal vagina"-text-2-"NORMAL VAGINA"-NNP-0|text|1038/13||
+212512774_WGH.txt|MMI|0.50|Value type - Time|C1548318|[idcn]|"Time"-text-6-"time"-NN-0|text|1188/4||
+212512774_WGH.txt|MMI|0.50|Vulva normal|C0566928|[fndg]|"Vulva normal"-text-0-"VULVA NORMAL"-NNP-0|text|1032/12||
+212512774_WGH.txt|MMI|0.50|Wheezing, CTCAE|C4553925|[fndg]|"Wheezing"-text-120-"wheezing"-,-0|text|879/8||
+212512774_WGH.txt|MMI|0.50|diagnostic procedure|C0430022|[diap]|"Diagnostic procedures"-text-22-"DIAGNOSTIC PROCEDURES"-NNP-0|text|543/21||
+212512774_WGH.txt|MMI|0.50|discharge diagnosis|C1555319|[fndg]|"discharge diagnosis"-text-84-"DISCHARGE DIAGNOSIS"-NNP-0|text|263/19||
+212512774_WGH.txt|MMI|0.50|rnrx personal care (treatment)|C4721475|[hlca]|"self-care"-text-44-"Self-Care"-NNP-0|text|2276/9||

@@ -1,0 +1,316 @@
+405868244_YC.txt|MMI|33.28|Patient Discharge|C0030685|[hlca]|"Discharge"-text-51-"DISCHARGE"-NNP-0,"Discharge"-text-92-"DISCHARGE"-NNP-0,"Discharge"-text-221-"DISCHARGE"-NN-0|text|153/9;241/9;1621/9|N04.590.233.727.210.125;E02.760.169.125;N02.421.585.169.125;E02.760.400.610;N02.421.585.400.610|
+405868244_YC.txt|MMI|11.57|Body Weight|C0005910|[orga]|"Weight"-text-193-"Weight"-NNP-0|text|1555/6|G07.100.100.160.120;E05.041.124.160.750;G07.345.249.314.120;E01.370.600.115.100.160.120;C23.888.144|
+405868244_YC.txt|MMI|5.57|Pain|C0030193|[sosy]|"Pain"-text-213-"Pain"-NNP-0|text|533/4|G11.561.790.444;F02.830.816.444;C23.888.592.612|
+405868244_YC.txt|MMI|4.33|Disease|C0012634|[dsyn]|"DIS"-text-10-"DIS"-NNPS-0,"condition"-text-46-"Condition"-NNP-0,"condition"-text-223-"CONDITION"-NN-0|text|64/3;1186/9;1631/9|C23.550.288|
+405868244_YC.txt|MMI|4.33|Postpartum Period|C0086839|[tmco]|"Postpartum"-text-8-"POSTPARTUM"-NNPS-0,"Postpartum"-text-0-"POSTPARTUM"-NNP-0,"Postpartum"-text-6-"postpartum"-NN-0|text|53/10;949/10;1047/10|G08.686.702|
+405868244_YC.txt|MMI|3.75|Coitus|C0009253|[orgf]|"Sex"-text-209-"Sex"-NN-0|text|1586/3|G08.686.784.041;F01.145.802.188|
+405868244_YC.txt|MMI|3.29|Physical activity|C0026606|[dora]|"activity"-text-285-"ACTIVITY"-NNP-1|text|737/8|G11.427.410.698.277;I03.350|
+405868244_YC.txt|MMI|2.37|Food|C0016452|[food]|"Food"-text-215-"Food"-NNP-0|text|538/4|G07.203.300;J02.500|
+405868244_YC.txt|MMI|2.37|ibuprofen|C0020740|[orch, phsu]|"ibuprofen"-text-199-"IBUPROFEN"-NNP-0|text|501/9|D02.241.223.701.430|
+405868244_YC.txt|MMI|2.34|Diet therapy|C0012159|[hlca]|"Diet"-text-277-"DIET"-NNP-0|text|714/4|E02.642.249;Y11.010|
+405868244_YC.txt|MMI|1.97|Diagnosis|C0011900|[diap]|"Diagnosis"-text-325-"DIAGNOSIS"-NNP-0,"Diagnosis"-text-4-"DIAGNOSIS"-.-0|text|840/9;966/9|E01;Y04|
+405868244_YC.txt|MMI|1.90|Allergic Reaction|C1527304|[patf]|"Allergy"-text-317-"ALLERGY"-NNP-0|text|820/7|x.x.x.x|
+405868244_YC.txt|MMI|1.90|Allergy Specialty|C0002111|[bmod]|"Allergy"-text-317-"ALLERGY"-NNP-0|text|820/7|x.x.x.x|
+405868244_YC.txt|MMI|1.90|Appointments|C0003629|[tmco]|"Appointment"-text-299-"APPOINTMENT"-NNP-0|text|782/11|x.x.x.x|
+405868244_YC.txt|MMI|1.90|BID protein, human|C1530795|[bacs, aapp]|"BID"-text-193-"BID"-NNP-0|text|480/3|x.x.x.x|
+405868244_YC.txt|MMI|1.90|Childbirth|C1148523|[orgf]|"Delivery"-text-40-"Delivery"-NN-0|text|1163/8|x.x.x.x|
+405868244_YC.txt|MMI|1.90|Constipation|C0009806|[sosy]|"Constipation"-text-197-"Constipation"-NNP-0|text|488/12|C23.888.821.150|
+405868244_YC.txt|MMI|1.90|Deafness, Sensorineural, And Male Infertility|C1970187|[dsyn]|"DIS"-text-10-"DIS"-NNPS-0|text|64/3|x.x.x.x|
+405868244_YC.txt|MMI|1.90|Drug Interactions|C0687133|[patf]|"Drug interaction"-text-221-"Drug Interaction"-NNP-0|text|545/16|G07.690.773.968|
+405868244_YC.txt|MMI|1.90|Gender|C0079399|[orga]|"sex"-text-209-"Sex"-NN-0|text|1586/3|x.x.x.x|
+405868244_YC.txt|MMI|1.90|Infantile Neuroaxonal Dystrophy|C0270724|[dsyn]|"PLAN"-text-235-"PLAN"-NNP-0|text|1658/4|x.x.x.x|
+405868244_YC.txt|MMI|1.90|Maalox|C0065461|[inch, phsu]|"Maalox"-text-249-"MAALOX"-NNP-0|text|640/6|x.x.x.x|
+405868244_YC.txt|MMI|1.90|Training|C0220931|[edac]|"Instruction"-text-223-"Instruction"-NNP-0|text|562/11|x.x.x.x|
+405868244_YC.txt|MMI|1.90|ethylene dichloride|C0015081|[hops, orch]|"EDC"-text-127-"EDC"-NNP-0|text|1401/3|x.x.x.x|
+405868244_YC.txt|MMI|1.88|Diet|C0012155|[food]|"Diet"-text-277-"DIET"-NNP-0|text|714/4|G07.203.650.240|
+405868244_YC.txt|MMI|1.88|Females|C0086287|[orga]|"Female"-text-213-"Female"-NNP-0|text|1592/6|x.x.x.x|
+405868244_YC.txt|MMI|1.88|Infant, Newborn|C0021289|[aggp]|"Newborn"-text-147-"newborn"-JJ-1|text|1447/7|M01.060.703.520|
+405868244_YC.txt|MMI|1.57|As required|C0558288|[tmco]|"prn"-text-195-"PRN"-NNP-0,"prn"-text-211-"PRN"-NNP-0,"prn"-text-271-"PRN"-NNP-0|text|484/3;529/3;696/3||
+405868244_YC.txt|MMI|1.57|CIAO3 gene|C1422467|[gngm]|"PRN"-text-195-"PRN"-NNP-0,"PRN"-text-211-"PRN"-NNP-0,"PRN"-text-271-"PRN"-NNP-0|text|484/3;529/3;696/3||
+405868244_YC.txt|MMI|1.57|Certified Nurse Midwife|C3853634|[prog]|"CNM"-text-118-"cnm"-IN-0,"Certified Nurse Midwife"-text-56-"Certified Nurse Midwife"-JJ-0,"CNM"-text-68-"CNM"-NNP-0|text|301/3;1205/23;1249/3||
+405868244_YC.txt|MMI|1.57|PRN (schedule frequency)|C1879745|[qlco]|"PRN"-text-195-"PRN"-NNP-0,"PRN"-text-211-"PRN"-NNP-0,"PRN"-text-271-"PRN"-NNP-0|text|484/3;529/3;696/3||
+405868244_YC.txt|MMI|1.57|Tablet Dosage Form|C0039225|[bodm]|"tab"-text-243-"TAB"-NNP-0,"Tablets"-text-251-"TABLETS"-VBZ-0,"tab"-text-265-"TAB"-NN-0|text|630/3;647/7;685/3||
+405868244_YC.txt|MMI|1.51|Body Fluid Discharge|C0012621|[bdsu]|"Discharge"-text-51-"DISCHARGE"-NNP-0,"Discharge"-text-92-"DISCHARGE"-NNP-0,"Discharge"-text-221-"DISCHARGE"-NN-0|text|153/9;241/9;1621/9||
+405868244_YC.txt|MMI|1.51|Discharge, Body Substance, Sample|C0600083|[bdsu]|"Discharge"-text-51-"DISCHARGE"-NNP-0,"Discharge"-text-92-"DISCHARGE"-NNP-0,"Discharge"-text-221-"DISCHARGE"-NN-0|text|153/9;241/9;1621/9||
+405868244_YC.txt|MMI|1.51|Discharge, body substance|C2926602|[sosy]|"Discharge"-text-51-"DISCHARGE"-NNP-0,"Discharge"-text-92-"DISCHARGE"-NNP-0,"Discharge"-text-221-"DISCHARGE"-NN-0|text|153/9;241/9;1621/9||
+405868244_YC.txt|MMI|1.51|Specimen Source Codes - Discharge|C1546601|[inpr]|"Discharge"-text-51-"DISCHARGE"-NNP-0,"Discharge"-text-92-"DISCHARGE"-NNP-0,"Discharge"-text-221-"DISCHARGE"-NN-0|text|153/9;241/9;1621/9||
+405868244_YC.txt|MMI|1.44|Infant|C0021270|[aggp]|"Baby"-text-159-"Baby"-NNP-0|text|1488/4|M01.060.703|
+405868244_YC.txt|MMI|1.44|Obstetric Delivery|C0011209|[topp]|"Delivery"-text-40-"Delivery"-NN-0|text|1163/8|E04.520.252|
+405868244_YC.txt|MMI|1.44|Sex Behavior|C0036864|[bhvr]|"Sex"-text-209-"Sex"-NN-0|text|1586/3|F01.145.802|
+405868244_YC.txt|MMI|1.44|sex|C1522384|[orga]|"sex"-text-209-"Sex"-NN-0|text|1586/3|G08.686.810|
+405868244_YC.txt|MMI|1.42|Volition|C0042950|[menp]|"Will"-text-122-"WILL"-MD-0|text|316/4|F02.463.902|
+405868244_YC.txt|MMI|1.42|Wound Healing|C0043240|[orgf]|"Repair"-text-91-"repair"-NN-0|text|1299/6|G16.762.891|
+405868244_YC.txt|MMI|1.05|Condition|C0348080|[qlco]|"Condition"-text-46-"Condition"-NNP-0,"Condition"-text-223-"CONDITION"-NN-0|text|1186/9;1631/9||
+405868244_YC.txt|MMI|1.05|Condition Domain|C4722256|[inpr]|"CONDITION"-text-46-"Condition"-NNP-0,"CONDITION"-text-223-"CONDITION"-NN-0|text|1186/9;1631/9||
+405868244_YC.txt|MMI|1.05|Condition:Find:Pt:^Patient:Nom|C3864998|[clna]|"Condition"-text-46-"Condition"-NNP-0,"Condition"-text-223-"CONDITION"-NN-0|text|1186/9;1631/9||
+405868244_YC.txt|MMI|1.05|Curriculum Vitae|C1880201|[inpr]|"Resume"-text-289-"Resume"-NNP-0,"Resume"-text-105-"RESUME"-NN-0|text|748/6;1348/6||
+405868244_YC.txt|MMI|1.05|Diagnosis Classification - Diagnosis|C1546899|[clas]|"Diagnosis"-text-325-"DIAGNOSIS"-NNP-0,"Diagnosis"-text-4-"DIAGNOSIS"-.-0|text|840/9;966/9||
+405868244_YC.txt|MMI|1.05|Diagnosis Code|C1550350|[inpr]|"DIAGNOSIS"-text-325-"DIAGNOSIS"-NNP-0,"DIAGNOSIS"-text-4-"DIAGNOSIS"-.-0|text|840/9;966/9||
+405868244_YC.txt|MMI|1.05|Diagnosis Study|C1704656|[resa]|"DIAGNOSIS"-text-325-"DIAGNOSIS"-NNP-0,"DIAGNOSIS"-text-4-"DIAGNOSIS"-.-0|text|840/9;966/9||
+405868244_YC.txt|MMI|1.05|Diagnosis:Impression/interpretation of study:Point in time:^Patient:Nominal|C0945731|[clna]|"Diagnosis"-text-325-"DIAGNOSIS"-NNP-0,"Diagnosis"-text-4-"DIAGNOSIS"-.-0|text|840/9;966/9||
+405868244_YC.txt|MMI|1.05|Expected Date of Confinement|C2825543|[fndg]|"EDC"-text-127-"EDC"-NNP-0,"delivery date"-text-171-"Delivery date"-NN-0|text|1401/3;1510/13||
+405868244_YC.txt|MMI|1.05|Hospital admission|C0184666|[hlca]|"Admit"-text-323-"ADMIT"-NNP-0,"Admission"-text-0-"Admission"-NNP-0|text|834/5;937/9||
+405868244_YC.txt|MMI|1.05|Logical Condition|C1705253|[cnce]|"Condition"-text-46-"Condition"-NNP-0,"Condition"-text-223-"CONDITION"-NN-0|text|1186/9;1631/9||
+405868244_YC.txt|MMI|1.05|Resume - Remote control command|C1550028|[idcn]|"Resume"-text-289-"Resume"-NNP-0,"Resume"-text-105-"RESUME"-NN-0|text|748/6;1348/6||
+405868244_YC.txt|MMI|1.05|Spontaneous|C0205359|[ftcn]|"Spontaneous"-text-22-"Spontaneous"-NNP-0,"Spontaneous"-text-44-"Spontaneous"-JJ-0|text|1105/11;1174/11||
+405868244_YC.txt|MMI|1.05|Summary (document)|C1706244|[inpr]|"Summary"-text-146-"SUMMARY"-NNP-0,"Summary"-text-243-"summary"-NN-0|text|354/7;1677/7||
+405868244_YC.txt|MMI|1.05|Tablet Dosing Unit|C1705223|[qnco]|"tab"-text-243-"TAB"-NNP-0,"tab"-text-265-"TAB"-NN-0|text|630/3;685/3||
+405868244_YC.txt|MMI|1.05|Therapeutic procedure|C0087111|[topp]|"Treatment"-text-0-"Treatment"-NNP-0,"Treatments"-text-72-"TREATMENTS"-NNP-0|text|1030/9;1259/10||
+405868244_YC.txt|MMI|1.05|Transfer Technique|C1705822|[ftcn]|"Delivery"-text-40-"Delivery"-NN-0,"Transfer"-text-139-"transfer"-NN-0|text|1163/8;1425/8||
+405868244_YC.txt|MMI|1.05|diagnosis aspect|C1704338|[ftcn]|"diagnosis"-text-325-"DIAGNOSIS"-NNP-0,"diagnosis"-text-4-"DIAGNOSIS"-.-0|text|840/9;966/9||
+405868244_YC.txt|MMI|1.05|resume - DataOperation|C3242342|[ftcn]|"resume"-text-289-"Resume"-NNP-0,"resume"-text-105-"RESUME"-NN-0|text|748/6;1348/6||
+405868244_YC.txt|MMI|1.05|summary - ActRelationshipSubset|C1552616|[inpr]|"summary"-text-146-"SUMMARY"-NNP-0,"summary"-text-243-"summary"-NN-0|text|354/7;1677/7||
+405868244_YC.txt|MMI|1.01|Every six hours|C0585325|[tmco]|"Q6H"-text-209-"Q6H"-NNP-0,"Q6H"-text-269-"Q6H"-NNP-0|text|525/3;692/3||
+405868244_YC.txt|MMI|0.98|Congenital Abnormality|C0000768|[cgab]|"Abnormalities"-text-157-"abnormalities"-NNS-1|text|1474/13|C16.131|
+405868244_YC.txt|MMI|0.98|Hypersensitivity|C0020517|[patf]|"Allergy"-text-317-"ALLERGY"-NNP-0|text|820/7|C20.543|
+405868244_YC.txt|MMI|0.98|Laceration|C0043246|[inpo]|"Laceration"-text-24-"Laceration"-NNP-0|text|1117/10|C26.540|
+405868244_YC.txt|MMI|0.98|Patients|C0030705|[podg]|"Patient"-text-94-"PATIENT"-NNP-0|text|251/7|M01.643|
+405868244_YC.txt|MMI|0.98|Placenta|C0032043|[emst]|"Placenta"-text-36-"Placenta"-NNP-0|text|1152/8|A16.710|
+405868244_YC.txt|MMI|0.96|Woman|C0043210|[popg]|"female"-text-213-"Female"-NNP-0|text|1592/6|M01.975|
+405868244_YC.txt|MMI|0.52|Academic degree|C0542560|[inpr]|"Degree"-text-34-"degree"-NN-0|text|1145/6||
+405868244_YC.txt|MMI|0.52|ActClass - transfer|C3244299|[idcn]|"transfer"-text-139-"transfer"-NN-0|text|1425/8||
+405868244_YC.txt|MMI|0.52|ActInformationPrivacyReason <service>|C3245478|[idcn]|"service"-text-86-"Service"-NNP-0|text|227/7||
+405868244_YC.txt|MMI|0.52|Active|C0205177|[qlco]|"Activity"-text-285-"ACTIVITY"-NNP-1|text|737/8||
+405868244_YC.txt|MMI|0.52|Activities|C0441655|[acty]|"Activity"-text-285-"ACTIVITY"-NNP-1|text|737/8||
+405868244_YC.txt|MMI|0.52|Activity (animal life circumstance)|C3668946|[fndg]|"Activity"-text-285-"ACTIVITY"-NNP-1|text|737/8||
+405868244_YC.txt|MMI|0.52|Additional comments|C1830770|[fndg]|"Additional comments"-text-217-"ADDITIONAL COMMENTS"-NNP-0|text|1599/19||
+405868244_YC.txt|MMI|0.52|Address type - Home|C1549632|[idcn]|"Home"-text-175-"Home"-NNP-0|text|425/4||
+405868244_YC.txt|MMI|0.52|Administration procedure|C1533734|[topp]|"Treatment"-text-0-"Treatment"-NNP-0|text|1030/9||
+405868244_YC.txt|MMI|0.52|Admission activity|C0809949|[hlca]|"Admission"-text-0-"Admission"-NNP-0|text|937/9||
+405868244_YC.txt|MMI|0.52|Admission date:Time Stamp -- Date and Time:Point in time:^Patient:Quantitative|C2598112|[clna]|"Admission date"-text-14-"Admission Date"-NNP-0|text|68/14||
+405868244_YC.txt|MMI|0.52|Adverse drug interaction|C0678798|[patf]|"Drug interaction"-text-221-"Drug Interaction"-NNP-0|text|545/16||
+405868244_YC.txt|MMI|0.52|Affecting|C0392760|[ftcn]|"Affecting"-text-0-"affecting"-VBG-0|text|1020/9||
+405868244_YC.txt|MMI|0.52|Allergic disposition|C3539909|[fndg]|"Allergy"-text-317-"ALLERGY"-NNP-0|text|820/7||
+405868244_YC.txt|MMI|0.52|Allergy - Charge Type Reason|C1547542|[idcn]|"Allergy"-text-317-"ALLERGY"-NNP-0|text|820/7||
+405868244_YC.txt|MMI|0.52|Anogenital region|C0031066|[blor]|"Perineal"-text-28-"Perineal"-NNP-0|text|1130/8||
+405868244_YC.txt|MMI|0.52|Attending (action)|C1999232|[ftcn]|"attending"-text-152-"Attending"-NNP-0|text|368/9||
+405868244_YC.txt|MMI|0.52|Attending (provider role)|C1547429|[prog]|"Attending"-text-152-"Attending"-NNP-0|text|368/9||
+405868244_YC.txt|MMI|0.52|BID gene|C1332410|[gngm]|"BID"-text-193-"BID"-NNP-0|text|480/3||
+405868244_YC.txt|MMI|0.52|BRIEF Health Literacy Screening Tool|C4724718|[inpr]|"BRIEF"-text-103-"BRIEF"-NN-0|text|1342/5||
+405868244_YC.txt|MMI|0.52|Behavior Rating Inventory of Executive Function|C4050216|[inpr]|"BRIEF"-text-103-"BRIEF"-NN-0|text|1342/5||
+405868244_YC.txt|MMI|0.52|Biomaterial Treatment|C1705169|[cnce]|"Treatment"-text-0-"Treatment"-NNP-0|text|1030/9||
+405868244_YC.txt|MMI|0.52|Body weight:Mass:Point in time:^Patient:Quantitative|C0944911|[clna]|"Weight"-text-193-"Weight"-NNP-0|text|1555/6||
+405868244_YC.txt|MMI|0.52|Brief|C1879313|[tmco]|"Brief"-text-103-"BRIEF"-NN-0|text|1342/5||
+405868244_YC.txt|MMI|0.52|CDISC SDTM Sex of Individual Terminology|C1879943|[inpr]|"SEX"-text-209-"Sex"-NN-0|text|1586/3||
+405868244_YC.txt|MMI|0.52|Causing|C0678227|[ftcn]|"Causing"-text-0-"Causing"-NNP-0|text|929/7||
+405868244_YC.txt|MMI|0.52|Clinical Research|C0008972|[resa]|"Study"-text-0-"Study"-NNP-0|text|919/5||
+405868244_YC.txt|MMI|0.52|Complication|C0009566|[patf]|"Complications"-text-0-"Complications"-NNP-0|text|1004/13||
+405868244_YC.txt|MMI|0.52|Complication Aspects|C1171258|[ftcn]|"complications"-text-0-"Complications"-NNP-0|text|1004/13||
+405868244_YC.txt|MMI|0.52|Complications:Type:Duration of the study:^Patient:Nominal|C0802632|[clna]|"Complications"-text-0-"Complications"-NNP-0|text|1004/13||
+405868244_YC.txt|MMI|0.52|Conditional|C1701901|[qlco]|"Contingent"-text-114-"CONTINGENT"-NNP-0|text|285/10||
+405868244_YC.txt|MMI|0.52|Constipation, CTCAE|C1963087|[fndg]|"Constipation"-text-197-"Constipation"-NNP-0|text|488/12||
+405868244_YC.txt|MMI|0.52|DICOM Study|C1880229|[resa]|"Study"-text-0-"Study"-NNP-0|text|919/5||
+405868244_YC.txt|MMI|0.52|Date of admission|C1302393|[tmco]|"Admission date"-text-14-"Admission Date"-NNP-0|text|68/14||
+405868244_YC.txt|MMI|0.52|Degree Unit of Plane Angle|C2348088|[qnco]|"Degree"-text-34-"degree"-NN-0|text|1145/6||
+405868244_YC.txt|MMI|0.52|Degree or extent|C0449286|[qnco]|"Degree"-text-34-"degree"-NN-0|text|1145/6||
+405868244_YC.txt|MMI|0.52|Diagnostic interview schedule|C0451119|[inpr]|"DIS"-text-10-"DIS"-NNPS-0|text|64/3||
+405868244_YC.txt|MMI|0.52|Disabled Person Code - Patient|C1578486|[inpr]|"Patient"-text-94-"PATIENT"-NNP-0|text|251/7||
+405868244_YC.txt|MMI|0.52|Discontinued|C1444662|[fndg]|"DIS"-text-10-"DIS"-NNPS-0|text|64/3||
+405868244_YC.txt|MMI|0.52|Dissolve (transformation)|C4521688|[ftcn]|"Dissolve"-text-255-"DISSOLVE"-NNP-0|text|661/8||
+405868244_YC.txt|MMI|0.52|Dissolve - RouteOfAdministration|C1549535|[ftcn]|"Dissolve"-text-255-"DISSOLVE"-NNP-0|text|661/8||
+405868244_YC.txt|MMI|0.52|EPIDERMAL DIFFERENTIATION COMPLEX|C1832097|[dsyn]|"EDC"-text-127-"EDC"-NNP-0|text|1401/3||
+405868244_YC.txt|MMI|0.52|Education - action|C1292796|[ftcn]|"Instruction"-text-223-"Instruction"-NNP-0|text|562/11||
+405868244_YC.txt|MMI|0.52|Educational process of instructing|C0039401|[edac]|"Instruction"-text-223-"Instruction"-NNP-0|text|562/11||
+405868244_YC.txt|MMI|0.52|Electrodesiccation with curettage|C0185058|[topp]|"EDC"-text-127-"EDC"-NNP-0|text|1401/3||
+405868244_YC.txt|MMI|0.52|Electronic Data Capture|C4553958|[cnce]|"EDC"-text-127-"EDC"-NNP-0|text|1401/3||
+405868244_YC.txt|MMI|0.52|Entered|C1521975|[qlco]|"Entered"-text-245-"ENTERED"-NNP-0|text|1685/7||
+405868244_YC.txt|MMI|0.52|Entire placenta|C1278988|[emst]|"Placenta"-text-36-"Placenta"-NNP-0|text|1152/8||
+405868244_YC.txt|MMI|0.52|Estimated|C0750572|[qnco]|"Estimated"-text-125-"Estimated"-JJ-0|text|1391/9||
+405868244_YC.txt|MMI|0.52|Evaluation|C0220825|[hlca]|"Evaluation"-text-120-"evaluation"-NN-0|text|305/10||
+405868244_YC.txt|MMI|0.52|Evaluation procedure|C1261322|[hlca]|"Evaluation"-text-120-"evaluation"-NN-0|text|305/10||
+405868244_YC.txt|MMI|0.52|Exam|C4284036|[ftcn]|"Exam"-text-149-"exam"-NN-0|text|1455/4||
+405868244_YC.txt|MMI|0.52|FDA Establishment Activity Terminology|C4049939|[inpr]|"ACTIVITY"-text-285-"ACTIVITY"-NNP-1|text|737/8||
+405868244_YC.txt|MMI|0.52|Facilitated oscillatory release technique|C1562169|[topp]|"FOR"-text-0-"for"-IN-0|text|925/3||
+405868244_YC.txt|MMI|0.52|First-degree perineal laceration during delivery|C0269863|[inpo]|"First degree perineal laceration"-text-101-"first degree perineal laceration"-JJ-1|text|1309/32||
+405868244_YC.txt|MMI|0.52|Firstly|C1279901|[qlco]|"Initial"-text-145-"Initial"-JJ-0|text|1439/7||
+405868244_YC.txt|MMI|0.52|Follow-Up Information|C4745114|[inpr]|"Follow Up"-text-297-"FOLLOW UP"-NN-0|text|772/9||
+405868244_YC.txt|MMI|0.52|Follow-up status|C0589120|[fndg]|"follow up"-text-297-"FOLLOW UP"-NN-0|text|772/9||
+405868244_YC.txt|MMI|0.52|Food allergenic extracts|C3540798|[imft, phsu]|"food"-text-215-"Food"-NNP-0|text|538/4||
+405868244_YC.txt|MMI|0.52|Gender:Type:Point in time:^Patient:Nominal|C0804628|[clna]|"Sex"-text-209-"Sex"-NN-0|text|1586/3||
+405868244_YC.txt|MMI|0.52|Have Constipation|C3641755|[inpr]|"Constipation"-text-197-"Constipation"-NNP-0|text|488/12||
+405868244_YC.txt|MMI|0.52|Home environment|C0442519|[spco]|"Home"-text-175-"Home"-NNP-0|text|425/4||
+405868244_YC.txt|MMI|0.52|Hospital course|C0489547|[fndg]|"Hospital course"-text-111-"HOSPITAL COURSE"-JJ-0|text|1358/15||
+405868244_YC.txt|MMI|0.52|Hospital course:Finding:Point in time:^Patient:Narrative|C0488549|[clna]|"Hospital course"-text-111-"HOSPITAL COURSE"-JJ-0|text|1358/15||
+405868244_YC.txt|MMI|0.52|How Much Distress Constipation|C4084723|[inpr]|"Constipation"-text-197-"Constipation"-NNP-0|text|488/12||
+405868244_YC.txt|MMI|0.52|How Often Constipation|C4084722|[inpr]|"Constipation"-text-197-"Constipation"-NNP-0|text|488/12||
+405868244_YC.txt|MMI|0.52|Importance Weight|C1705104|[qlco]|"Weight"-text-193-"Weight"-NNP-0|text|1555/6||
+405868244_YC.txt|MMI|0.52|Infection|C3714514|[patf]|"Infections"-text-0-"Infections"-NNP-0|text|991/10|C01|
+405868244_YC.txt|MMI|0.52|Infections of musculoskeletal system|C0851162|[dsyn]|"Infections"-text-0-"Infections"-NNP-0|text|991/10||
+405868244_YC.txt|MMI|0.52|Infections:-:Point in time:^Patient:-|C2707258|[clna]|"Infections"-text-0-"Infections"-NNP-0|text|991/10||
+405868244_YC.txt|MMI|0.52|Initial (abbreviation)|C1555582|[idcn]|"Initial"-text-145-"Initial"-JJ-0|text|1439/7||
+405868244_YC.txt|MMI|0.52|Initial Adverse Event and Product Problem Report|C1705684|[inpr]|"INITIAL"-text-145-"Initial"-JJ-0|text|1439/7||
+405868244_YC.txt|MMI|0.52|Initial Usage|C1705685|[ftcn]|"INITIAL"-text-145-"Initial"-JJ-0|text|1439/7||
+405868244_YC.txt|MMI|0.52|Initially|C0205265|[tmco]|"Initial"-text-145-"Initial"-JJ-0|text|1439/7||
+405868244_YC.txt|MMI|0.52|Instruction [Publication Type]|C0302828|[inpr]|"Instruction"-text-223-"Instruction"-NNP-0|text|562/11||
+405868244_YC.txt|MMI|0.52|Instructions|C1442085|[inpr]|"instruction"-text-223-"Instruction"-NNP-0|text|562/11||
+405868244_YC.txt|MMI|0.52|Interventional procedure|C0184661|[topp]|"Procedures"-text-76-"PROCEDURES"-NNS-0|text|1272/10||
+405868244_YC.txt|MMI|0.52|Involvement with|C1314939|[ftcn]|"Affecting"-text-0-"affecting"-VBG-0|text|1020/9||
+405868244_YC.txt|MMI|0.52|LEP wt Allele|C2986870|[gngm]|"OBS"-text-90-"OBS"-NNP-0|text|237/3||
+405868244_YC.txt|MMI|0.52|Levels (qualifier value)|C0441889|[qlco]|"Degree"-text-34-"degree"-NN-0|text|1145/6||
+405868244_YC.txt|MMI|0.52|Mail Claim Party - Patient|C1578481|[idcn]|"Patient"-text-94-"PATIENT"-NNP-0|text|251/7||
+405868244_YC.txt|MMI|0.52|Maternal|C1858460|[fndg]|"Maternal"-text-137-"Maternal"-NNP-0|text|1416/8||
+405868244_YC.txt|MMI|0.52|Maternal Relative|C2347083|[famg]|"Maternal"-text-137-"Maternal"-NNP-0|text|1416/8||
+405868244_YC.txt|MMI|0.52|Medical Examination|C0582103|[hlca]|"Exam"-text-149-"exam"-NN-0|text|1455/4||
+405868244_YC.txt|MMI|0.52|Medical record number:ID:Pt:^Patient:Nom|C1717139|[clna]|"MRN"-text-163-"MRN"-NNP-0|text|1495/3||
+405868244_YC.txt|MMI|0.52|Methods aspects|C0025664|[ftcn]|"procedures"-text-76-"PROCEDURES"-NNS-0|text|1272/10||
+405868244_YC.txt|MMI|0.52|Mother (person)|C0026591|[famg]|"Maternal"-text-137-"Maternal"-NNP-0|text|1416/8||
+405868244_YC.txt|MMI|0.52|Multivitamin Drug Class|C3714835|[vita, phsu]|"MULTIVITAMINS"-text-233-"MULTIVITAMINS"-NNS-0|text|598/13||
+405868244_YC.txt|MMI|0.52|Multivitamin preparation|C0301532|[vita, orch, phsu]|"MULTIVITAMINS"-text-233-"MULTIVITAMINS"-NNS-0|text|598/13||
+405868244_YC.txt|MMI|0.52|NR4A2 gene|C1417836|[gngm]|"NOT"-text-80-"NOT"-NNP-0|text|1285/3||
+405868244_YC.txt|MMI|0.52|Negation|C1518422|[ftcn]|"Not"-text-80-"NOT"-NNP-0|text|1285/3||
+405868244_YC.txt|MMI|0.52|No Extremity Functional Restrictions|C4054353|[inpr]|"No restrictions"-text-283-"No Restrictions"-DT-0|text|721/15||
+405868244_YC.txt|MMI|0.52|Non-human parturition, function|C1314680|[orgf]|"Delivery"-text-40-"Delivery"-NN-0|text|1163/8||
+405868244_YC.txt|MMI|0.52|Observed|C1441672|[ftcn]|"Observed"-text-155-"observed"-JJ-0|text|1465/8||
+405868244_YC.txt|MMI|0.52|Obstetrics service|C0587597|[hlca]|"Obstetrics service"-text-158-"OBSTETRICS SERVICE"-NNP-0|text|380/18||
+405868244_YC.txt|MMI|0.52|Operations and procedures|C1576866|[hlca]|"Operations and procedures"-text-12-"OPERATIONS AND PROCEDURES"-NNS-0|text|1058/25||
+405868244_YC.txt|MMI|0.52|Order (action)|C1705178|[acty]|"Order"-text-130-"ORDER"-NNP-0|text|327/5||
+405868244_YC.txt|MMI|0.52|Order (arrangement)|C1705176|[qlco]|"Order"-text-130-"ORDER"-NNP-0|text|327/5||
+405868244_YC.txt|MMI|0.52|Order (document)|C1705175|[inpr]|"Order"-text-130-"ORDER"-NNP-0|text|327/5||
+405868244_YC.txt|MMI|0.52|Order (record artifact)|C4284072|[inpr]|"Order"-text-130-"ORDER"-NNP-0|text|327/5||
+405868244_YC.txt|MMI|0.52|Order (taxonomic)|C1705177|[clas]|"Order"-text-130-"ORDER"-NNP-0|text|327/5||
+405868244_YC.txt|MMI|0.52|Order [PK]|C1373200|[npop]|"Order"-text-130-"ORDER"-NNP-0|text|327/5||
+405868244_YC.txt|MMI|0.52|Organization unit type - Home|C1547197|[orgt]|"Home"-text-175-"Home"-NNP-0|text|425/4||
+405868244_YC.txt|MMI|0.52|PLXNA3 gene|C1418662|[gngm]|"SEX"-text-209-"Sex"-NN-0|text|1586/3||
+405868244_YC.txt|MMI|0.52|Participation Type - baby|C1550504|[podg]|"baby"-text-159-"Baby"-NNP-0|text|1488/4||
+405868244_YC.txt|MMI|0.52|Patient Condition Code - Stable|C1547311|[inpr]|"Stable"-text-227-"Stable"-JJ-0|text|1643/6||
+405868244_YC.txt|MMI|0.52|Permutation|C1882348|[qlco]|"Order"-text-130-"ORDER"-NNP-0|text|327/5||
+405868244_YC.txt|MMI|0.52|Person location type - Home|C1548530|[spco]|"Home"-text-175-"Home"-NNP-0|text|425/4||
+405868244_YC.txt|MMI|0.52|Physical Activity Measurement|C4049938|[lbpr]|"Activity"-text-285-"ACTIVITY"-NNP-1|text|737/8||
+405868244_YC.txt|MMI|0.52|Placenta Specimen|C1550656|[bdsu]|"Placenta"-text-36-"Placenta"-NNP-0|text|1152/8||
+405868244_YC.txt|MMI|0.52|Placenta Specimen Code|C1546742|[inpr]|"Placenta"-text-36-"Placenta"-NNP-0|text|1152/8||
+405868244_YC.txt|MMI|0.52|Planned|C1301732|[ftcn]|"Plan"-text-235-"PLAN"-NNP-0|text|1658/4||
+405868244_YC.txt|MMI|0.52|Post|C0687676|[tmco]|"After"-text-0-"After"-IN-0|text|913/5||
+405868244_YC.txt|MMI|0.52|Prenatal (temporal qualifier)|C2828394|[tmco]|"Prenatal"-text-231-"PRENATAL"-JJ-0|text|589/8||
+405868244_YC.txt|MMI|0.52|Prenatal vitamin|C0772413|[vita, phsu]|"Prenatal"-text-231-"PRENATAL"-JJ-0|text|589/8||
+405868244_YC.txt|MMI|0.52|Preposition For|C0521125|[qlco]|"For"-text-0-"for"-IN-0|text|925/3||
+405868244_YC.txt|MMI|0.52|Procedure (set of actions)|C2700391|[ftcn]|"Procedures"-text-76-"PROCEDURES"-NNS-0|text|1272/10||
+405868244_YC.txt|MMI|0.52|Procedure Code|C1550373|[inpr]|"PROCEDURES"-text-76-"PROCEDURES"-NNS-0|text|1272/10||
+405868244_YC.txt|MMI|0.52|Procedure Domain|C3538935|[inpr]|"Procedures"-text-76-"PROCEDURES"-NNS-0|text|1272/10||
+405868244_YC.txt|MMI|0.52|Processing type - Evaluation|C1550157|[idcn]|"Evaluation"-text-120-"evaluation"-NN-0|text|305/10||
+405868244_YC.txt|MMI|0.52|Psychological Transfer|C0040671|[menp]|"TRANSFER"-text-139-"transfer"-NN-0|text|1425/8||
+405868244_YC.txt|MMI|0.52|Rapid|C0456962|[qlco]|"quick"-text-253-"QUICK"-NNP-0|text|655/5||
+405868244_YC.txt|MMI|0.52|Relationship modifier - Patient|C1578484|[idcn]|"Patient"-text-94-"PATIENT"-NNP-0|text|251/7||
+405868244_YC.txt|MMI|0.52|Report source - Patient|C1578483|[idcn]|"Patient"-text-94-"PATIENT"-NNP-0|text|251/7||
+405868244_YC.txt|MMI|0.52|Report status (finding)|C0586177|[fndg]|"Report status"-text-26-"Report Status"-NNP-0|text|96/13||
+405868244_YC.txt|MMI|0.52|Report status:Type:Point in time:Report:Nominal|C4760061|[clna]|"Report status"-text-26-"Report Status"-NNP-0|text|96/13||
+405868244_YC.txt|MMI|0.52|Response to antigens|C1314973|[phsf]|"ALLERGY"-text-317-"ALLERGY"-NNP-0|text|820/7||
+405868244_YC.txt|MMI|0.52|Responsible to|C1273518|[fndg]|"responsible"-text-0-"Responsible"-JJ-0|text|901/11||
+405868244_YC.txt|MMI|0.52|Room|C1547703|[spco]|"Room"-text-78-"Room"-NNP-0|text|209/4||
+405868244_YC.txt|MMI|0.52|Room - Patient location type|C1547120|[spco]|"Room"-text-78-"Room"-NNP-0|text|209/4||
+405868244_YC.txt|MMI|0.52|Room of building - Study|C0557651|[mnob]|"Study"-text-0-"Study"-NNP-0|text|919/5||
+405868244_YC.txt|MMI|0.52|Scientific Study|C0947630|[lbpr]|"Study"-text-0-"Study"-NNP-0|text|919/5||
+405868244_YC.txt|MMI|0.52|Sequence of Planned Assessment Schedule|C3889825|[inpr]|"ORDER"-text-130-"ORDER"-NNP-0|text|327/5||
+405868244_YC.txt|MMI|0.52|Services|C0557854|[ocac]|"service"-text-86-"Service"-NNP-0|text|227/7||
+405868244_YC.txt|MMI|0.52|Sexual intercourse - finding|C1314687|[fndg]|"Sex"-text-209-"Sex"-NN-0|text|1586/3||
+405868244_YC.txt|MMI|0.52|Shortened|C1282927|[qlco]|"brief"-text-103-"BRIEF"-NN-0|text|1342/5||
+405868244_YC.txt|MMI|0.52|Software Service|C2825316|[mnob]|"Service"-text-86-"Service"-NNP-0|text|227/7||
+405868244_YC.txt|MMI|0.52|Specimen Source Codes - Patient|C1578485|[inpr]|"Patient"-text-94-"PATIENT"-NNP-0|text|251/7||
+405868244_YC.txt|MMI|0.52|Specimen Type - Patient|C1550655|[bdsu]|"Patient"-text-94-"PATIENT"-NNP-0|text|251/7||
+405868244_YC.txt|MMI|0.52|Stable status|C0205360|[qlco]|"Stable"-text-227-"Stable"-JJ-0|text|1643/6||
+405868244_YC.txt|MMI|0.52|Status post|C0231290|[tmco]|"After"-text-0-"After"-IN-0|text|913/5||
+405868244_YC.txt|MMI|0.52|Study|C2603343|[resa]|"Study"-text-0-"Study"-NNP-0|text|919/5||
+405868244_YC.txt|MMI|0.52|Study Object|C1705923|[cnce]|"Study"-text-0-"Study"-NNP-0|text|919/5||
+405868244_YC.txt|MMI|0.52|Surgical transfer - action|C0348011|[ftcn]|"Transfer"-text-139-"transfer"-NN-0|text|1425/8||
+405868244_YC.txt|MMI|0.52|TAC1 wt Allele|C1705924|[gngm]|"NKA"-text-321-"NKA"-NNP-0|text|830/3||
+405868244_YC.txt|MMI|0.52|Take|C1515187|[hlca]|"Take"-text-225-"Take"-VB-0|text|574/4||
+405868244_YC.txt|MMI|0.52|Transfer - product ownership|C1555583|[idcn]|"Transfer"-text-139-"transfer"-NN-0|text|1425/8||
+405868244_YC.txt|MMI|0.52|Transfer Ability|C4319192|[inpr]|"Transfer"-text-139-"transfer"-NN-0|text|1425/8||
+405868244_YC.txt|MMI|0.52|Treating|C1522326|[ftcn]|"Treatment"-text-0-"Treatment"-NNP-0|text|1030/9||
+405868244_YC.txt|MMI|0.52|Treatment Epoch|C3538994|[resa]|"TREATMENT"-text-0-"Treatment"-NNP-0|text|1030/9||
+405868244_YC.txt|MMI|0.52|Treatment Plan|C0599880|[inpr]|"Plan"-text-235-"PLAN"-NNP-0|text|1658/4||
+405868244_YC.txt|MMI|0.52|Treatment Study|C3161471|[resa]|"TREATMENT"-text-0-"Treatment"-NNP-0|text|1030/9||
+405868244_YC.txt|MMI|0.52|Twice a day|C0585361|[tmco]|"BID"-text-193-"BID"-NNP-0|text|480/3||
+405868244_YC.txt|MMI|0.52|Upon - dosing instruction fragment|C1720176|[ftcn]|"Upon"-text-116-"UPON"-NNP-0|text|296/4||
+405868244_YC.txt|MMI|0.52|Upset stomach|C0235309|[sosy]|"Upset stomach"-text-275-"Upset Stomach"-NNP-0|text|700/13||
+405868244_YC.txt|MMI|0.52|Used by|C1273517|[fndg]|"used"-text-134-"USED"-VBN-0|text|336/4||
+405868244_YC.txt|MMI|0.52|Usual Severity Constipation|C4084724|[inpr]|"Constipation"-text-197-"Constipation"-NNP-0|text|488/12||
+405868244_YC.txt|MMI|0.52|Veterinary Patient|C1705908|[orgm]|"Patient"-text-94-"PATIENT"-NNP-0|text|251/7||
+405868244_YC.txt|MMI|0.52|Visit User Code - Home|C1548341|[inpr]|"Home"-text-175-"Home"-NNP-0|text|425/4||
+405868244_YC.txt|MMI|0.52|WWOX gene|C1421525|[gngm]|"FOR"-text-0-"for"-IN-0|text|925/3||
+405868244_YC.txt|MMI|0.52|WWOX wt Allele|C4321252|[gngm]|"FOR"-text-0-"for"-IN-0|text|925/3||
+405868244_YC.txt|MMI|0.52|Weighing patient|C1305866|[hlca]|"weight"-text-193-"Weight"-NNP-0|text|1555/6||
+405868244_YC.txt|MMI|0.52|Weight|C0043100|[qnco]|"Weight"-text-193-"Weight"-NNP-0|text|1555/6||
+405868244_YC.txt|MMI|0.52|What subject filter - Order|C1546465|[idcn]|"Order"-text-130-"ORDER"-NNP-0|text|327/5||
+405868244_YC.txt|MMI|0.52|With Food|C1883561|[qlco]|"With Food"-text-229-"with food"-IN-0|text|579/9||
+405868244_YC.txt|MMI|0.52|YES Portal|C5202962|[mnob]|"YES"-text-150-"YES"-NNP-0|text|364/3||
+405868244_YC.txt|MMI|0.52|YES1 gene|C0919479|[gngm]|"Yes"-text-150-"YES"-NNP-0|text|364/3||
+405868244_YC.txt|MMI|0.52|YES1 wt Allele|C1710701|[gngm]|"Yes"-text-150-"YES"-NNP-0|text|364/3||
+405868244_YC.txt|MMI|0.52|Yes (indicator)|C1705108|[fndg]|"Yes"-text-150-"YES"-NNP-0|text|364/3||
+405868244_YC.txt|MMI|0.52|Yes - Assignment of Benefits|C1549443|[idcn]|"Yes"-text-150-"YES"-NNP-0|text|364/3||
+405868244_YC.txt|MMI|0.52|Yes - Event Expected|C1546947|[idcn]|"Yes"-text-150-"YES"-NNP-0|text|364/3||
+405868244_YC.txt|MMI|0.52|Yes - Event Seriousness|C1546945|[qlco]|"Yes"-text-150-"YES"-NNP-0|text|364/3||
+405868244_YC.txt|MMI|0.52|Yes - Expanded yes/no indicator|C1549060|[idcn]|"Yes"-text-150-"YES"-NNP-0|text|364/3||
+405868244_YC.txt|MMI|0.52|Yes - Identity May Be Divulged|C1546969|[idcn]|"Yes"-text-150-"YES"-NNP-0|text|364/3||
+405868244_YC.txt|MMI|0.52|Yes - Notify Clergy Code|C1549065|[inpr]|"Yes"-text-150-"YES"-NNP-0|text|364/3||
+405868244_YC.txt|MMI|0.52|Yes - Presence findings|C1298907|[fndg]|"Yes"-text-150-"YES"-NNP-0|text|364/3||
+405868244_YC.txt|MMI|0.52|Yes - Release Information|C1548171|[idcn]|"Yes"-text-150-"YES"-NNP-0|text|364/3||
+405868244_YC.txt|MMI|0.52|Yes - Yes/no indicator|C1549445|[idcn]|"Yes"-text-150-"YES"-NNP-0|text|364/3||
+405868244_YC.txt|MMI|0.52|apgar|C0741195|[diap]|"apgars"-text-187-"Apgars"-NNP-0|text|1544/6||
+405868244_YC.txt|MMI|0.52|date of delivery (history)|C2053594|[fndg]|"Delivery date"-text-171-"Delivery date"-NN-0|text|1510/13||
+405868244_YC.txt|MMI|0.52|dictated - DocumentCompletion|C1609990|[idcn]|"dictated"-text-241-"dictated"-VBD-0|text|1668/8||
+405868244_YC.txt|MMI|0.52|dictated - ParticipationMode|C1548384|[ftcn]|"dictated"-text-241-"dictated"-VBD-0|text|1668/8||
+405868244_YC.txt|MMI|0.52|follow-up|C1522577|[hlca]|"Follow Up"-text-297-"FOLLOW UP"-NN-0|text|772/9||
+405868244_YC.txt|MMI|0.52|gram|C0439208|[qnco]|"grams"-text-207-"grams"-NNS-0|text|1580/5||
+405868244_YC.txt|MMI|0.52|home health encounter|C1553498|[hlca]|"Home"-text-175-"Home"-NNP-0|text|425/4||
+405868244_YC.txt|MMI|0.52|orders - HL7PublishingDomain|C3244315|[inpr]|"orders"-text-53-"ORDERS"-NNP-0|text|163/6||
+405868244_YC.txt|MMI|0.52|prenatal|C0678804|[aggp]|"prenatal"-text-231-"PRENATAL"-JJ-0|text|589/8||
+405868244_YC.txt|MMI|0.52|teratologic|C0000769|[ftcn]|"abnormalities"-text-157-"abnormalities"-NNS-1|text|1474/13||
+405868244_YC.txt|MMI|0.52|therapeutic aspects|C0039798|[ftcn]|"treatment"-text-0-"Treatment"-NNP-0|text|1030/9||
+405868244_YC.txt|MMI|0.52|treatment - ActInformationManagementReason|C3887704|[hlca]|"treatment"-text-0-"Treatment"-NNP-0|text|1030/9||
+405868244_YC.txt|MMI|0.50|1-2|C3843716|[fndg]|"1-2"-text-263-"1-2"-CD-0|text|681/3||
+405868244_YC.txt|MMI|0.50|4.8|C4517765|[qnco]|"4.8"-text-201-"4.8"-CD-0|text|1568/3||
+405868244_YC.txt|MMI|0.50|400|C3816746|[qnco]|"400"-text-201-"400"-CD-0|text|511/3||
+405868244_YC.txt|MMI|0.50|600|C3816748|[qnco]|"600"-text-203-"600"-CD-0|text|515/3||
+405868244_YC.txt|MMI|0.50|Administration Method - Pain|C1549543|[ftcn]|"Pain"-text-213-"Pain"-NNP-0|text|533/4||
+405868244_YC.txt|MMI|0.50|Adverse Event Associated with Pain|C1557397|[fndg]|"PAIN"-text-213-"Pain"-NNP-0|text|533/4||
+405868244_YC.txt|MMI|0.50|Basal Diet|C2983588|[food]|"DIET"-text-277-"DIET"-NNP-0|text|714/4||
+405868244_YC.txt|MMI|0.50|Degree / license / certificate - Certified Nurse Midwife|C1549959|[inpr]|"Certified Nurse Midwife"-text-56-"Certified Nurse Midwife"-JJ-0|text|1205/23||
+405868244_YC.txt|MMI|0.50|Diagnosis Type - Final|C1546485|[idcn]|"Final"-text-49-"FINAL"-NNP-0|text|147/5||
+405868244_YC.txt|MMI|0.50|Diet (animal life circumstance)|C3668949|[food]|"Diet"-text-277-"DIET"-NNP-0|text|714/4||
+405868244_YC.txt|MMI|0.50|Discharge date|C2361123|[tmco]|"Discharge date"-text-32-"Discharge Date"-NNP-0|text|112/14||
+405868244_YC.txt|MMI|0.50|Discharge date:Time Stamp -- Date and Time:Point in time:^Patient:Quantitative|C2361122|[clna]|"Discharge date"-text-32-"Discharge Date"-NNP-0|text|112/14||
+405868244_YC.txt|MMI|0.50|Docusate Sodium 100 MG|C3153447|[clnd]|"Docusate Sodium 100 MG"-text-189-"DOCUSATE SODIUM 100 MG"-VB-0|text|454/22||
+405868244_YC.txt|MMI|0.50|End-stage|C0205088|[qlco]|"Final"-text-49-"FINAL"-NNP-0|text|147/5||
+405868244_YC.txt|MMI|0.50|Feel Pain|C4554132|[inpr]|"Pain"-text-213-"Pain"-NNP-0|text|533/4||
+405868244_YC.txt|MMI|0.50|Female Phenotype|C1705498|[qlco]|"Female"-text-213-"Female"-NNP-0|text|1592/6||
+405868244_YC.txt|MMI|0.50|Female, Self-Report|C1705497|[qlco]|"Female"-text-213-"Female"-NNP-0|text|1592/6||
+405868244_YC.txt|MMI|0.50|Final|C3853528|[tmco]|"Final"-text-49-"FINAL"-NNP-0|text|147/5||
+405868244_YC.txt|MMI|0.50|Final Study Report|C4761599|[inpr]|"FINAL"-text-49-"FINAL"-NNP-0|text|147/5||
+405868244_YC.txt|MMI|0.50|First (number)|C0205435|[qnco]|"1st"-text-32-"1st"-JJ-0|text|1141/3||
+405868244_YC.txt|MMI|0.50|Frequency of Pain Question|C0518090|[inpr]|"Pain"-text-213-"Pain"-NNP-0|text|533/4||
+405868244_YC.txt|MMI|0.50|Have Pain|C2984058|[inpr]|"Pain"-text-213-"Pain"-NNP-0|text|533/4||
+405868244_YC.txt|MMI|0.50|How Much Distress Pain|C4085212|[inpr]|"Pain"-text-213-"Pain"-NNP-0|text|533/4||
+405868244_YC.txt|MMI|0.50|How Often Felt Normal question|C4553972|[inpr]|"Normal"-text-50-"Normal"-JJ-0|text|1198/6||
+405868244_YC.txt|MMI|0.50|Medication.discharge|C0806915|[fndg]|"Discharge medications"-text-179-"DISCHARGE MEDICATIONS"-NNP-0|text|430/21||
+405868244_YC.txt|MMI|0.50|Neonatal (qualifier value)|C2939425|[tmco]|"Newborn"-text-147-"newborn"-JJ-1|text|1447/7||
+405868244_YC.txt|MMI|0.50|Newborn (finding)|C2239178|[fndg]|"Newborn"-text-147-"newborn"-JJ-1|text|1447/7||
+405868244_YC.txt|MMI|0.50|Newborn Encounter Admission Source|C1551035|[fndg]|"newborn"-text-147-"newborn"-JJ-1|text|1447/7||
+405868244_YC.txt|MMI|0.50|Normal|C0205307|[qlco]|"Normal"-text-50-"Normal"-JJ-0|text|1198/6||
+405868244_YC.txt|MMI|0.50|Normal Gait|C5200925|[fndg]|"Normal"-text-50-"Normal"-JJ-0|text|1198/6||
+405868244_YC.txt|MMI|0.50|Normal Immune Presence|C5202633|[fndg]|"Normal"-text-50-"Normal"-JJ-0|text|1198/6||
+405868244_YC.txt|MMI|0.50|Normal Observation Interpretation|C1550457|[fndg]|"Normal"-text-50-"Normal"-JJ-0|text|1198/6||
+405868244_YC.txt|MMI|0.50|Normal Reference Range|C2698497|[inpr]|"Normal"-text-50-"Normal"-JJ-0|text|1198/6||
+405868244_YC.txt|MMI|0.50|Normal assessment finding|C1873497|[fndg]|"Normal"-text-50-"Normal"-JJ-0|text|1198/6||
+405868244_YC.txt|MMI|0.50|Normal, Unit of Concentration|C1704701|[qnco]|"Normal"-text-50-"Normal"-JJ-0|text|1198/6||
+405868244_YC.txt|MMI|0.50|Pain Distress Question|C4085211|[inpr]|"Pain"-text-213-"Pain"-NNP-0|text|533/4||
+405868244_YC.txt|MMI|0.50|Pain by Anatomic Descriptor, CTCAE|C1882272|[fndg]|"Pain"-text-213-"Pain"-NNP-0|text|533/4||
+405868244_YC.txt|MMI|0.50|Pain, CTCAE|C4553004|[fndg]|"Pain"-text-213-"Pain"-NNP-0|text|533/4||
+405868244_YC.txt|MMI|0.50|Pain:-:Point in time:^Patient:-|C2598155|[clna]|"Pain"-text-213-"Pain"-NNP-0|text|533/4||
+405868244_YC.txt|MMI|0.50|Phase I/II Trial|C1519043|[resa]|"1-2"-text-263-"1-2"-CD-0|text|681/3||
+405868244_YC.txt|MMI|0.50|Procedure Practitioner Identifier Code Type - Certified Nurse Midwife|C1548352|[inpr]|"Certified Nurse Midwife"-text-56-"Certified Nurse Midwife"-JJ-0|text|1205/23||
+405868244_YC.txt|MMI|0.50|Regular exercise (observable entity)|C0582191|[dora]|"Regular exercise"-text-293-"regular exercise"-JJ-0|text|755/16||
+405868244_YC.txt|MMI|0.50|Repair|C4319951|[ftcn]|"Repair"-text-91-"repair"-NN-0|text|1299/6||
+405868244_YC.txt|MMI|0.50|Repair - Remedial Action|C1705181|[hlca]|"Repair"-text-91-"repair"-NN-0|text|1299/6||
+405868244_YC.txt|MMI|0.50|Skin appearance normal (finding)|C0558145|[fndg]|"NORMAL"-text-50-"Normal"-JJ-0|text|1198/6||
+405868244_YC.txt|MMI|0.50|Special Diet Therapy|C1519433|[topp]|"DIET"-text-277-"DIET"-NNP-0|text|714/4||
+405868244_YC.txt|MMI|0.50|Surgical repair|C0374711|[topp]|"Repair"-text-91-"repair"-NN-0|text|1299/6||
+405868244_YC.txt|MMI|0.50|Usual Severity Pain|C4085210|[inpr]|"Pain"-text-213-"Pain"-NNP-0|text|533/4||
+405868244_YC.txt|MMI|0.50|Vaginal delivery (finding)|C0566690|[fndg]|"Vaginal delivery"-text-18-"Vaginal delivery"-JJ-0|text|1086/16||
+405868244_YC.txt|MMI|0.50|Vaginal delivery procedure|C1541822|[topp]|"Vaginal Delivery"-text-18-"Vaginal delivery"-JJ-0|text|1086/16||
+405868244_YC.txt|MMI|0.50|diet - supply|C1549512|[ftcn]|"diet"-text-277-"DIET"-NNP-0|text|714/4||
+405868244_YC.txt|MMI|0.50|normal Act Status|C1553386|[inpr]|"normal"-text-50-"Normal"-JJ-0|text|1198/6||
+405868244_YC.txt|MMI|0.50|normal Confidentiality|C1550469|[idcn]|"normal"-text-50-"Normal"-JJ-0|text|1198/6||
+405868244_YC.txt|MMI|0.50|normal Device Alert Level|C1551394|[fndg]|"Normal"-text-50-"Normal"-JJ-0|text|1198/6||
+405868244_YC.txt|MMI|0.50|normal Entity Status|C1553406|[qlco]|"normal"-text-50-"Normal"-JJ-0|text|1198/6||
+405868244_YC.txt|MMI|0.50|normal Managed Participation Status|C1553399|[idcn]|"normal"-text-50-"Normal"-JJ-0|text|1198/6||
+405868244_YC.txt|MMI|0.50|normal Role Status|C1553402|[idcn]|"normal"-text-50-"Normal"-JJ-0|text|1198/6||

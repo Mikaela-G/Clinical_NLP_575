@@ -32,7 +32,7 @@ class FeatureExtractor:
         self.skipgram_feats()
 
     def morph_feats(self):
-        tokens = list(self.data['token'])
+        #tokens = list(self.data['token'])
         prefix_lists = [[] for i in range(4)] 
         suffix_lists = [[] for i in range(4)] 
         lemma_list = []
@@ -53,7 +53,7 @@ class FeatureExtractor:
             return tag_dict.get(tag, wordnet.NOUN)
 
         i = 0
-        for token in tokens:
+        for token in self.tokens:
             # get lemmas for each word
             lemma = lemmatizer.lemmatize(token, get_wordnet_pos(token))
             i+=1
@@ -110,7 +110,7 @@ class FeatureExtractor:
     
     def cont_feats(self):
         # get tokens from dataframe as list
-        tokens = list(self.data['token'])
+        #tokens = list(self.data['token'])
         # set up list for context features
         prev2_list = []
         prev_list = []
@@ -118,7 +118,7 @@ class FeatureExtractor:
         next2_list = []
         
         # get context features for each token
-        for i in range(len(tokens)):
+        for i in range(len(self.tokens)):
             if i > 0:
                 prev_list.append(tokens[i-1])
             else:

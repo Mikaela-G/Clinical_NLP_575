@@ -1,0 +1,3791 @@
+T1	MMLite 529 538	DISCHARGE
+N1	Reference T1 SemanticType:C2926602:sosy	sosy
+N2	Reference T1 Source:C0600083:NCI	NCI
+N3	Reference T1 Source:C0030685:LNC	LNC
+N4	Reference T1 Source:C0012621:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N5	Reference T1 Source:C0030685:SNMI	SNMI
+N6	Reference T1 SemanticType:C0030685:hlca	hlca
+N7	Reference T1 Source:C0012621:SNOMEDCT_US	SNOMEDCT_US
+N8	Reference T1 Source:C0012621:NCI	NCI
+N9	Reference T1 ConceptId:C0012621	Body Fluid Discharge
+N10	Reference T1 Source:C0030685:SNM	SNM
+N11	Reference T1 Source:C0012621:MTH	MTH
+N12	Reference T1 SemanticType:C1546601:inpr	inpr
+N13	Reference T1 Source:C2926602:LNC	LNC
+N14	Reference T1 Source:C0012621:NCI_FDA	NCI_FDA
+N15	Reference T1 Source:C0030685:MTH	MTH
+N16	Reference T1 ConceptId:C1546601	Specimen Source Codes - Discharge
+N17	Reference T1 Source:C2926602:MTH	MTH
+N18	Reference T1 Source:C2926602:NCI_FDA	NCI_FDA
+N19	Reference T1 Source:C0600083:CHV	CHV
+N20	Reference T1 Source:C2926602:NCI_NICHD	NCI_NICHD
+N21	Reference T1 Source:C2926602:NCI	NCI
+N22	Reference T1 ConceptId:C0030685	Patient Discharge
+N23	Reference T1 Source:C0030685:SNOMEDCT_US	SNOMEDCT_US
+N24	Reference T1 SemanticType:C0012621:bdsu	bdsu
+N25	Reference T1 ConceptId:C2926602	Discharge, body substance
+N26	Reference T1 Source:C0012621:CHV	CHV
+N27	Reference T1 Source:C0030685:MSH	MSH
+N28	Reference T1 ConceptId:C0600083	Discharge, Body Substance, Sample
+N29	Reference T1 Source:C0600083:MTH	MTH
+N30	Reference T1 Source:C0012621:SNM	SNM
+N31	Reference T1 Source:C0030685:CHV	CHV
+N32	Reference T1 Source:C1546601:HL7V2.5	HL7V2.5
+N33	Reference T1 Source:C0030685:NCI	NCI
+N34	Reference T1 Source:C0600083:NCI_CDISC	NCI_CDISC
+N35	Reference T1 Source:C1546601:MTH	MTH
+N36	Reference T1 Source:C0012621:SNMI	SNMI
+N37	Reference T1 SemanticType:C0600083:bdsu	bdsu
+N38	Reference T1 Source:C0600083:SNOMEDCT_US	SNOMEDCT_US
+N39	Reference T1 Source:C0030685:AOD	AOD
+T2	MMLite 863 874	risk factor
+N40	Reference T2 Source:C0035648:CHV	CHV
+N41	Reference T2 Source:C0035648:AOD	AOD
+N42	Reference T2 Source:C0035648:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N43	Reference T2 Source:C0035648:SNOMEDCT_US	SNOMEDCT_US
+N44	Reference T2 SemanticType:C0035648:fndg	fndg
+N45	Reference T2 Source:C0035648:MSH	MSH
+N46	Reference T2 Source:C0035648:MTH	MTH
+N47	Reference T2 Source:C0035648:NCI	NCI
+N48	Reference T2 Source:C0035648:LNC	LNC
+N49	Reference T2 ConceptId:C0035648	risk factors
+N50	Reference T2 Source:C0035648:SNMI	SNMI
+T3	MMLite 678 682	year
+N51	Reference T3 ConceptId:C0439234	year
+N52	Reference T3 Source:C0439234:CHV	CHV
+N53	Reference T3 SemanticType:C1561543:inpr	inpr
+N54	Reference T3 Source:C1561543:HL7V3.0	HL7V3.0
+N55	Reference T3 SemanticType:C1561544:idcn	idcn
+N56	Reference T3 Source:C0439234:NCI_CDISC	NCI_CDISC
+N57	Reference T3 ConceptId:C1561544	Precision - year
+N58	Reference T3 Source:C0439234:SNOMEDCT_US	SNOMEDCT_US
+N59	Reference T3 Source:C0439234:NCI	NCI
+N60	Reference T3 Source:C0439234:NCI_CPTAC	NCI_CPTAC
+N61	Reference T3 Source:C1561543:MTH	MTH
+N62	Reference T3 Source:C1561544:MTH	MTH
+N63	Reference T3 Source:C0439234:MTH	MTH
+N64	Reference T3 Source:C0439234:NCI_NCPDP	NCI_NCPDP
+N65	Reference T3 Source:C0439234:HL7V3.0	HL7V3.0
+N66	Reference T3 Source:C1561544:HL7V2.5	HL7V2.5
+N67	Reference T3 SemanticType:C0439234:tmco	tmco
+N68	Reference T3 ConceptId:C1561543	Transaction counts and value totals - year
+N69	Reference T3 Source:C0439234:NCI_UCUM	NCI_UCUM
+T4	MMLite 2154 2158	from
+N70	Reference T4 Source:C1517320:NCI	NCI
+N71	Reference T4 ConceptId:C1517320	From
+N72	Reference T4 SemanticType:C1517320:qlco	qlco
+T5	MMLite 1701 1720	normal sinus rhythm
+N73	Reference T5 Source:C0232202:NCI	NCI
+N74	Reference T5 ConceptId:C0232202	Normal sinus rhythm
+N75	Reference T5 Source:C0232202:MTH	MTH
+N76	Reference T5 SemanticType:C0232202:fndg	fndg
+N77	Reference T5 Source:C0232202:SNOMEDCT_US	SNOMEDCT_US
+N78	Reference T5 Source:C0232202:CHV	CHV
+N79	Reference T5 Source:C0232202:SNMI	SNMI
+N80	Reference T5 Source:C0232202:NCI_CDISC	NCI_CDISC
+N81	Reference T5 Source:C0232202:SNM	SNM
+T6	MMLite 398 405	October
+N82	Reference T6 ConceptId:C3828732	October
+N83	Reference T6 SemanticType:C3828732:tmco	tmco
+N84	Reference T6 Source:C3828732:NCI	NCI
+N85	Reference T6 Source:C3828732:LNC	LNC
+T7	MMLite 1036 1043	patient
+N86	Reference T7 ConceptId:C0030705	Patients
+N87	Reference T7 Source:C1705908:MTH	MTH
+N88	Reference T7 SemanticType:C1578481:idcn	idcn
+N89	Reference T7 ConceptId:C1578483	Report source - Patient
+N90	Reference T7 ConceptId:C1705908	Veterinary Patient
+N91	Reference T7 Source:C0030705:LNC	LNC
+N92	Reference T7 Source:C1578484:HL7V2.5	HL7V2.5
+N93	Reference T7 Source:C0030705:NCI_DICOM	NCI_DICOM
+N94	Reference T7 Source:C0030705:MTH	MTH
+N95	Reference T7 Source:C1578485:HL7V2.5	HL7V2.5
+N96	Reference T7 ConceptId:C1578481	Mail Claim Party - Patient
+N97	Reference T7 Source:C1578481:HL7V2.5	HL7V2.5
+N98	Reference T7 Source:C1578483:MTH	MTH
+N99	Reference T7 SemanticType:C1578483:idcn	idcn
+N100	Reference T7 ConceptId:C1578485	Specimen Source Codes - Patient
+N101	Reference T7 ConceptId:C1578486	Disabled Person Code - Patient
+N102	Reference T7 ConceptId:C1550655	Specimen Type - Patient
+N103	Reference T7 Source:C0030705:CHV	CHV
+N104	Reference T7 Source:C0030705:SNOMEDCT_US	SNOMEDCT_US
+N105	Reference T7 Source:C0030705:NCI_CDISC-GLOSS	NCI_CDISC-GLOSS
+N106	Reference T7 Source:C1705908:NCI	NCI
+N107	Reference T7 SemanticType:C1578485:inpr	inpr
+N108	Reference T7 Source:C1578486:HL7V2.5	HL7V2.5
+N109	Reference T7 Source:C1578485:MTH	MTH
+N110	Reference T7 Source:C0030705:NCI_FDA	NCI_FDA
+N111	Reference T7 Source:C1578484:MTH	MTH
+N112	Reference T7 Source:C1578486:MTH	MTH
+N113	Reference T7 Source:C0030705:MSH	MSH
+N114	Reference T7 Source:C1578481:MTH	MTH
+N115	Reference T7 Source:C1578483:HL7V2.5	HL7V2.5
+N116	Reference T7 Source:C1550655:HL7V3.0	HL7V3.0
+N117	Reference T7 Source:C0030705:AOD	AOD
+N118	Reference T7 Source:C0030705:LCH	LCH
+N119	Reference T7 SemanticType:C1578484:idcn	idcn
+N120	Reference T7 SemanticType:C1550655:bdsu	bdsu
+N121	Reference T7 ConceptId:C1578484	Relationship modifier - Patient
+N122	Reference T7 SemanticType:C0030705:podg	podg
+N123	Reference T7 Source:C0030705:HL7V3.0	HL7V3.0
+N124	Reference T7 Source:C0030705:LCH_NW	LCH_NW
+N125	Reference T7 Source:C1550655:MTH	MTH
+N126	Reference T7 Source:C0030705:NCI	NCI
+N127	Reference T7 SemanticType:C1705908:orgm	orgm
+N128	Reference T7 SemanticType:C1578486:inpr	inpr
+T8	MMLite 1957 1966	TREATMENT
+N129	Reference T8 Source:C1522326:CHV	CHV
+N130	Reference T8 SemanticType:C0039798:ftcn	ftcn
+N131	Reference T8 Source:C3887704:MTH	MTH
+N132	Reference T8 ConceptId:C1705169	Biomaterial Treatment
+N133	Reference T8 ConceptId:C0039798	therapeutic aspects
+N134	Reference T8 Source:C3538994:NCI_CDISC	NCI_CDISC
+N135	Reference T8 SemanticType:C0087111:topp	topp
+N136	Reference T8 Source:C3161471:NCI_CDISC	NCI_CDISC
+N137	Reference T8 Source:C1533734:LNC	LNC
+N138	Reference T8 Source:C0087111:MSH	MSH
+N139	Reference T8 Source:C0087111:LCH_NW	LCH_NW
+N140	Reference T8 SemanticType:C3161471:resa	resa
+N141	Reference T8 ConceptId:C3887704	treatment - ActInformationManagementReason
+N142	Reference T8 Source:C1522326:NCI	NCI
+N143	Reference T8 Source:C0087111:PDQ	PDQ
+N144	Reference T8 Source:C0039798:MSH	MSH
+N145	Reference T8 Source:C0087111:NCI_CTRP	NCI_CTRP
+N146	Reference T8 ConceptId:C3538994	Treatment Epoch
+N147	Reference T8 Source:C1522326:NCI_CDISC	NCI_CDISC
+N148	Reference T8 Source:C0087111:SNMI	SNMI
+N149	Reference T8 SemanticType:C1522326:ftcn	ftcn
+N150	Reference T8 Source:C3161471:NCI	NCI
+N151	Reference T8 SemanticType:C1705169:cnce	cnce
+N152	Reference T8 Source:C3161471:MTH	MTH
+N153	Reference T8 Source:C0087111:LCH	LCH
+N154	Reference T8 Source:C0087111:AOD	AOD
+N155	Reference T8 ConceptId:C3161471	Treatment Study
+N156	Reference T8 Source:C1533734:NCI	NCI
+N157	Reference T8 SemanticType:C3887704:hlca	hlca
+N158	Reference T8 Source:C1522326:MTH	MTH
+N159	Reference T8 Source:C1705169:MTH	MTH
+N160	Reference T8 Source:C0087111:AOT	AOT
+N161	Reference T8 Source:C3538994:MTH	MTH
+N162	Reference T8 Source:C0087111:NCI_NCI-HL7	NCI_NCI-HL7
+N163	Reference T8 Source:C0087111:NCI_CDISC-GLOSS	NCI_CDISC-GLOSS
+N164	Reference T8 Source:C1533734:ICD10PCS	ICD10PCS
+N165	Reference T8 Source:C0087111:CHV	CHV
+N166	Reference T8 Source:C0039798:MTH	MTH
+N167	Reference T8 Source:C1705169:NCI	NCI
+N168	Reference T8 Source:C0087111:MTHMST	MTHMST
+N169	Reference T8 Source:C0087111:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N170	Reference T8 Source:C1533734:SNOMEDCT_US	SNOMEDCT_US
+N171	Reference T8 ConceptId:C0087111	Therapeutic procedure
+N172	Reference T8 Source:C0087111:MTH	MTH
+N173	Reference T8 Source:C0087111:HL7V2.5	HL7V2.5
+N174	Reference T8 SemanticType:C3538994:resa	resa
+N175	Reference T8 Source:C1533734:MTH	MTH
+N176	Reference T8 Source:C0087111:CSP	CSP
+N177	Reference T8 Source:C0087111:NCI	NCI
+N178	Reference T8 Source:C0087111:HL7V3.0	HL7V3.0
+N179	Reference T8 Source:C3538994:NCI	NCI
+N180	Reference T8 Source:C0087111:NCI_NICHD	NCI_NICHD
+N181	Reference T8 ConceptId:C1522326	Treating
+N182	Reference T8 Source:C0087111:SNOMEDCT_US	SNOMEDCT_US
+N183	Reference T8 Source:C1533734:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N184	Reference T8 Source:C3887704:HL7V3.0	HL7V3.0
+N185	Reference T8 ConceptId:C1533734	Administration procedure
+N186	Reference T8 SemanticType:C1533734:topp	topp
+N187	Reference T8 Source:C0087111:LNC	LNC
+T9	MMLite 3025 3029	back
+N188	Reference T9 Source:C0004600:FMA	FMA
+N189	Reference T9 ConceptId:C1281593	Entire back (surface region)
+N190	Reference T9 Source:C0205095:LNC	LNC
+N191	Reference T9 Source:C0460009:FMA	FMA
+N192	Reference T9 Source:C0004600:SNM	SNM
+N193	Reference T9 SemanticType:C1995000:blor	blor
+N194	Reference T9 Source:C0004600:CHV	CHV
+N195	Reference T9 Source:C0004600:LCH_NW	LCH_NW
+N196	Reference T9 Source:C0205095:UWDA	UWDA
+N197	Reference T9 Source:C0004600:MSH	MSH
+N198	Reference T9 Source:C0460009:UWDA	UWDA
+N199	Reference T9 Source:C0205095:SNMI	SNMI
+N200	Reference T9 Source:C1995000:SNOMEDCT_US	SNOMEDCT_US
+N201	Reference T9 Source:C0205095:NCI	NCI
+N202	Reference T9 ConceptId:C1995000	Back structure, excluding neck
+N203	Reference T9 Source:C0205095:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N204	Reference T9 Source:C1281593:SNOMEDCT_US	SNOMEDCT_US
+N205	Reference T9 Source:C0004600:MTH	MTH
+N206	Reference T9 Source:C0004600:CSP	CSP
+N207	Reference T9 Source:C0004600:HL7V2.5	HL7V2.5
+N208	Reference T9 Source:C0004600:CST	CST
+N209	Reference T9 Source:C1281593:MTH	MTH
+N210	Reference T9 Source:C0205095:NCI_CDISC	NCI_CDISC
+N211	Reference T9 SemanticType:C0004600:blor	blor
+N212	Reference T9 Source:C0004600:UWDA	UWDA
+N213	Reference T9 Source:C0004600:SNMI	SNMI
+N214	Reference T9 SemanticType:C1281593:blor	blor
+N215	Reference T9 Source:C0004600:SNOMEDCT_US	SNOMEDCT_US
+N216	Reference T9 ConceptId:C0205095	Dorsal
+N217	Reference T9 Source:C0205095:CHV	CHV
+N218	Reference T9 Source:C0460009:SNOMEDCT_US	SNOMEDCT_US
+N219	Reference T9 Source:C0460009:SNOMEDCT_VET	SNOMEDCT_VET
+N220	Reference T9 Source:C0205095:HL7V2.5	HL7V2.5
+N221	Reference T9 Source:C0004600:LNC	LNC
+N222	Reference T9 Source:C0205095:FMA	FMA
+N223	Reference T9 ConceptId:C0004600	Back
+N224	Reference T9 SemanticType:C0205095:spco	spco
+N225	Reference T9 Source:C0004600:LCH	LCH
+N226	Reference T9 Source:C0205095:SNOMEDCT_US	SNOMEDCT_US
+N227	Reference T9 Source:C0205095:MTH	MTH
+N228	Reference T9 Source:C0004600:AOD	AOD
+N229	Reference T9 Source:C0460009:MTH	MTH
+N230	Reference T9 Source:C1995000:MTH	MTH
+N231	Reference T9 ConceptId:C0460009	Back structure, including back of neck
+N232	Reference T9 SemanticType:C0460009:blor	blor
+N233	Reference T9 Source:C0004600:NCI	NCI
+T10	MMLite 693 697	male
+N234	Reference T10 Source:C0086582:HL7V3.0	HL7V3.0
+N235	Reference T10 Source:C0086582:SNMI	SNMI
+N236	Reference T10 Source:C0086582:MTH	MTH
+N237	Reference T10 Source:C0086582:DXP	DXP
+N238	Reference T10 Source:C0086582:NCI	NCI
+N239	Reference T10 SemanticType:C1706429:orga	orga
+N240	Reference T10 ConceptId:C1706180	Male Gender, Self Report
+N241	Reference T10 Source:C1706429:NCI	NCI
+N242	Reference T10 Source:C0086582:NCI_FDA	NCI_FDA
+N243	Reference T10 Source:C1706180:MTH	MTH
+N244	Reference T10 Source:C1706428:NCI_CDISC	NCI_CDISC
+N245	Reference T10 Source:C0086582:LNC	LNC
+N246	Reference T10 Source:C1706428:NCI	NCI
+N247	Reference T10 Source:C0086582:QMR	QMR
+N248	Reference T10 SemanticType:C1706428:qlco	qlco
+N249	Reference T10 Source:C0086582:HL7V2.5	HL7V2.5
+N250	Reference T10 Source:C0086582:LCH	LCH
+N251	Reference T10 SemanticType:C0086582:orga	orga
+N252	Reference T10 Source:C0086582:AOD	AOD
+N253	Reference T10 ConceptId:C1706428	Male Phenotype
+N254	Reference T10 ConceptId:C0086582	Males
+N255	Reference T10 Source:C0086582:NCI_NICHD	NCI_NICHD
+N256	Reference T10 Source:C0086582:NCI_CDISC	NCI_CDISC
+N257	Reference T10 Source:C1706428:MTH	MTH
+N258	Reference T10 Source:C0086582:CSP	CSP
+N259	Reference T10 ConceptId:C1706429	Male, Self-Reported
+N260	Reference T10 SemanticType:C1706180:qlco	qlco
+N261	Reference T10 Source:C1706429:MTH	MTH
+N262	Reference T10 Source:C0086582:SNM	SNM
+N263	Reference T10 Source:C0086582:CHV	CHV
+N264	Reference T10 Source:C1706180:NCI	NCI
+N265	Reference T10 Source:C0086582:MSH	MSH
+N266	Reference T10 Source:C0086582:SNOMEDCT_US	SNOMEDCT_US
+T11	MMLite 1287 1292	after
+N267	Reference T11 SemanticType:C0687676:tmco	tmco
+N268	Reference T11 Source:C0231290:SNMI	SNMI
+N269	Reference T11 Source:C0687676:LNC	LNC
+N270	Reference T11 Source:C0231290:MTH	MTH
+N271	Reference T11 Source:C0687676:MTH	MTH
+N272	Reference T11 ConceptId:C0231290	Status post
+N273	Reference T11 Source:C0687676:NCI_CDISC	NCI_CDISC
+N274	Reference T11 Source:C0687676:NCI	NCI
+N275	Reference T11 ConceptId:C0687676	Post
+N276	Reference T11 SemanticType:C0231290:tmco	tmco
+N277	Reference T11 Source:C0231290:SNOMEDCT_US	SNOMEDCT_US
+N278	Reference T11 Source:C0687676:CHV	CHV
+N279	Reference T11 Source:C0231290:SNM	SNM
+N280	Reference T11 Source:C0231290:CHV	CHV
+N281	Reference T11 Source:C0687676:SNOMEDCT_US	SNOMEDCT_US
+T12	MMLite 2353 2357	mild
+N282	Reference T12 Source:C1513302:NCI_CDISC	NCI_CDISC
+N283	Reference T12 ConceptId:C4722210	Mild Hallucination
+N284	Reference T12 Source:C2945599:HPO	HPO
+N285	Reference T12 ConceptId:C1513302	Mild Adverse Event
+N286	Reference T12 Source:C2945599:MTH	MTH
+N287	Reference T12 Source:C4761314:NCI	NCI
+N288	Reference T12 SemanticType:C2945599:qlco	qlco
+N289	Reference T12 Source:C2945599:SNOMEDCT_US	SNOMEDCT_US
+N290	Reference T12 SemanticType:C1563320:qlco	qlco
+N291	Reference T12 ConceptId:C1563320	Mild Allergy Severity
+N292	Reference T12 Source:C4761314:MTH	MTH
+N293	Reference T12 Source:C4722210:MTH	MTH
+N294	Reference T12 Source:C1513302:SNOMEDCT_US	SNOMEDCT_US
+N295	Reference T12 Source:C1513302:MTH	MTH
+N296	Reference T12 Source:C1563320:HL7V2.5	HL7V2.5
+N297	Reference T12 Source:C2945599:LNC	LNC
+N298	Reference T12 Source:C2945599:SNMI	SNMI
+N299	Reference T12 SemanticType:C1513302:fndg	fndg
+N300	Reference T12 ConceptId:C4761314	Epidermal cGVHD Score 2
+N301	Reference T12 SemanticType:C1547225:inpr	inpr
+N302	Reference T12 Source:C4722210:NCI	NCI
+N303	Reference T12 SemanticType:C4761314:inpr	inpr
+N304	Reference T12 Source:C1547225:MTH	MTH
+N305	Reference T12 Source:C1547225:HL7V2.5	HL7V2.5
+N306	Reference T12 SemanticType:C4722210:fndg	fndg
+N307	Reference T12 Source:C2945599:NCI	NCI
+N308	Reference T12 ConceptId:C2945599	Mild (qualifier value)
+N309	Reference T12 Source:C1563320:MTH	MTH
+N310	Reference T12 Source:C2945599:CHV	CHV
+N311	Reference T12 ConceptId:C1547225	Mild Severity of Illness Code
+N312	Reference T12 Source:C1513302:NCI	NCI
+T13	MMLite 590 593	for
+N313	Reference T13 SemanticType:C1421525:gngm	gngm
+N314	Reference T13 ConceptId:C0521125	Preposition For
+N315	Reference T13 Source:C0521125:NCI	NCI
+N316	Reference T13 Source:C1421525:MTH	MTH
+N317	Reference T13 Source:C4321252:MTH	MTH
+N318	Reference T13 Source:C1562169:MTH	MTH
+N319	Reference T13 Source:C1421525:HGNC	HGNC
+N320	Reference T13 ConceptId:C1421525	WWOX gene
+N321	Reference T13 Source:C4321252:NCI	NCI
+N322	Reference T13 Source:C1421525:NCI_NCI-HGNC	NCI_NCI-HGNC
+N323	Reference T13 Source:C1562169:SNOMEDCT_US	SNOMEDCT_US
+N324	Reference T13 SemanticType:C0521125:qlco	qlco
+N325	Reference T13 Source:C0521125:SNOMEDCT_US	SNOMEDCT_US
+N326	Reference T13 ConceptId:C4321252	WWOX wt Allele
+N327	Reference T13 SemanticType:C1562169:topp	topp
+N328	Reference T13 Source:C0521125:SNMI	SNMI
+N329	Reference T13 Source:C1421525:OMIM	OMIM
+N330	Reference T13 Source:C1562169:AOT	AOT
+N331	Reference T13 Source:C1421525:NCI	NCI
+N332	Reference T13 Source:C0521125:MTH	MTH
+N333	Reference T13 ConceptId:C1562169	Facilitated oscillatory release technique
+N334	Reference T13 SemanticType:C4321252:gngm	gngm
+T14	MMLite 1165 1172	unknown
+N335	Reference T14 SemanticType:C1556137:fndg	fndg
+N336	Reference T14 ConceptId:C1548543	Unknown - Living Will Code
+N337	Reference T14 Source:C1556126:HL7V2.5	HL7V2.5
+N338	Reference T14 Source:C1547283:HL7V2.5	HL7V2.5
+N339	Reference T14 SemanticType:C1556122:fndg	fndg
+N340	Reference T14 Source:C1521803:NCI_FDA	NCI_FDA
+N341	Reference T14 ConceptId:C1556128	Unknown - Job Status
+N342	Reference T14 ConceptId:C1556125	Unknown - Transport Arranged
+N343	Reference T14 ConceptId:C1556134	Unknown - Event Expected
+N344	Reference T14 ConceptId:C1547294	Unknown - Recreational Drug Use Code
+N345	Reference T14 ConceptId:C1556129	Unknown - Patient_s Relationship to Insured
+N346	Reference T14 Source:C1549115:HL7V2.5	HL7V2.5
+N347	Reference T14 ConceptId:C3541433	unknown vaccine or immune globulin
+N348	Reference T14 SemanticType:C1548502:imft	imft
+N349	Reference T14 ConceptId:C1556131	Unknown - Container status
+N350	Reference T14 Source:C3541433:MTH	MTH
+N351	Reference T14 ConceptId:C4050014	Unknown GENC
+N352	Reference T14 SemanticType:C3541433:aapp	aapp
+N353	Reference T14 ConceptId:C4724171	Unknown Transformation
+N354	Reference T14 ConceptId:C1609613	unknown - NullFlavor
+N355	Reference T14 SemanticType:C1556132:fndg	fndg
+N356	Reference T14 ConceptId:C1549105	Unknown - Administrative Gender
+N357	Reference T14 Source:C1548502:HL7V2.5	HL7V2.5
+N358	Reference T14 ConceptId:C1556133	Unknown - Expanded yes/no indicator
+N359	Reference T14 Source:C1547312:MTH	MTH
+N360	Reference T14 ConceptId:C1548340	Unknown - Allergy Severity
+N361	Reference T14 ConceptId:C4721936	Unknown Dosage Form Category
+N362	Reference T14 SemanticType:C4724171:qlco	qlco
+N363	Reference T14 ConceptId:C1556132	Unknown - Immunization Registry Status
+N364	Reference T14 Source:C4050014:MTH	MTH
+N365	Reference T14 Source:C1556127:HL7V2.5	HL7V2.5
+N366	Reference T14 Source:C4721936:NCI_CDISC	NCI_CDISC
+N367	Reference T14 Source:C1547306:HL7V2.5	HL7V2.5
+N368	Reference T14 Source:C1556131:HL7V2.5	HL7V2.5
+N369	Reference T14 SemanticType:C4050014:geoa	geoa
+N370	Reference T14 Source:C1548340:MTH	MTH
+N371	Reference T14 Source:C1556132:MTH	MTH
+N372	Reference T14 ConceptId:C1556127	Unknown - Patient Outcome
+N373	Reference T14 Source:C1556121:MTH	MTH
+N374	Reference T14 Source:C1556125:MTH	MTH
+N375	Reference T14 Source:C5203193:NCI_FDA	NCI_FDA
+N376	Reference T14 SemanticType:C1561529:ftcn	ftcn
+N377	Reference T14 Source:C5203193:MTH	MTH
+N378	Reference T14 Source:C1556136:MTH	MTH
+N379	Reference T14 Source:C1549625:MTH	MTH
+N380	Reference T14 Source:C1556120:HL7V2.5	HL7V2.5
+N381	Reference T14 ConceptId:C1547283	Unknown - Production Class Code
+N382	Reference T14 Source:C1556129:MTH	MTH
+N383	Reference T14 SemanticType:C1548543:inpr	inpr
+N384	Reference T14 SemanticType:C4724170:ftcn	ftcn
+N385	Reference T14 Source:C1547312:HL7V2.5	HL7V2.5
+N386	Reference T14 Source:C4050014:NCI	NCI
+N387	Reference T14 ConceptId:C1549115	Marital Status - Unknown
+N388	Reference T14 Source:C1556133:HL7V2.5	HL7V2.5
+N389	Reference T14 Source:C3244285:MTH	MTH
+N390	Reference T14 Source:C5202860:NCI	NCI
+N391	Reference T14 Source:C0439673:LNC	LNC
+N392	Reference T14 ConceptId:C1556123	Unknown - Employment Status
+N393	Reference T14 Source:C1556121:HL7V2.5	HL7V2.5
+N394	Reference T14 Source:C1521803:NCI	NCI
+N395	Reference T14 ConceptId:C1556126	Unknown - Escort Required
+N396	Reference T14 SemanticType:C1556125:fndg	fndg
+N397	Reference T14 SemanticType:C4721936:bodm	bodm
+N398	Reference T14 Source:C4721936:MTH	MTH
+N399	Reference T14 Source:C1547283:MTH	MTH
+N400	Reference T14 Source:C1556124:HL7V2.5	HL7V2.5
+N401	Reference T14 ConceptId:C4724170	Unknown Mechanism of Action
+N402	Reference T14 SemanticType:C0439673:qlco	qlco
+N403	Reference T14 Source:C1556136:HL7V2.5	HL7V2.5
+N404	Reference T14 Source:C4724170:NCI_EDQM-HC	NCI_EDQM-HC
+N405	Reference T14 Source:C1556125:HL7V2.5	HL7V2.5
+N406	Reference T14 SemanticType:C1556126:fndg	fndg
+N407	Reference T14 Source:C3541433:CVX	CVX
+N408	Reference T14 Source:C0439673:MTH	MTH
+N409	Reference T14 ConceptId:C1556122	Unknown - Relationship
+N410	Reference T14 Source:C1548543:HL7V2.5	HL7V2.5
+N411	Reference T14 Source:C1546837:HL7V2.5	HL7V2.5
+N412	Reference T14 Source:C4721936:NCI	NCI
+N413	Reference T14 Source:C4724170:MTH	MTH
+N414	Reference T14 Source:C1549115:MTH	MTH
+N415	Reference T14 Source:C1546841:MTH	MTH
+N416	Reference T14 Source:C1546841:HL7V2.5	HL7V2.5
+N417	Reference T14 Source:C4721936:NCI_EDQM-HC	NCI_EDQM-HC
+N418	Reference T14 SemanticType:C1546841:inpr	inpr
+N419	Reference T14 Source:C1548550:HL7V2.5	HL7V2.5
+N420	Reference T14 Source:C1556132:HL7V2.5	HL7V2.5
+N421	Reference T14 Source:C1556123:MTH	MTH
+N422	Reference T14 SemanticType:C1547283:inpr	inpr
+N423	Reference T14 SemanticType:C1549064:inpr	inpr
+N424	Reference T14 SemanticType:C1521803:ftcn	ftcn
+N425	Reference T14 SemanticType:C5203193:fndg	fndg
+N426	Reference T14 Source:C1548340:HL7V2.5	HL7V2.5
+N427	Reference T14 Source:C1556128:HL7V2.5	HL7V2.5
+N428	Reference T14 Source:C0439673:CHV	CHV
+N429	Reference T14 SemanticType:C1556135:fndg	fndg
+N430	Reference T14 Source:C1521803:MTH	MTH
+N431	Reference T14 Source:C1556134:MTH	MTH
+N432	Reference T14 Source:C0439673:HL7V3.0	HL7V3.0
+N433	Reference T14 Source:C4724170:NCI	NCI
+N434	Reference T14 SemanticType:C1556129:fndg	fndg
+N435	Reference T14 SemanticType:C1547312:inpr	inpr
+N436	Reference T14 SemanticType:C1547306:inpr	inpr
+N437	Reference T14 SemanticType:C1548502:phsu	phsu
+N438	Reference T14 ConceptId:C1548550	Unknown - Organ Donor Code
+N439	Reference T14 SemanticType:C1556131:fndg	fndg
+N440	Reference T14 Source:C1546837:MTH	MTH
+N441	Reference T14 SemanticType:C1556128:fndg	fndg
+N442	Reference T14 ConceptId:C1556121	Unknown - Event reason
+N443	Reference T14 SemanticType:C1549105:fndg	fndg
+N444	Reference T14 Source:C1549625:HL7V2.5	HL7V2.5
+N445	Reference T14 Source:C1548543:MTH	MTH
+N446	Reference T14 ConceptId:C5203193	Device Status Unkown
+N447	Reference T14 SemanticType:C1609613:idcn	idcn
+N448	Reference T14 ConceptId:C5202860	Unknown Data Entry Method
+N449	Reference T14 Source:C1548502:MTH	MTH
+N450	Reference T14 SemanticType:C1548340:qlco	qlco
+N451	Reference T14 Source:C1556135:HL7V2.5	HL7V2.5
+N452	Reference T14 Source:C1556124:MTH	MTH
+N453	Reference T14 ConceptId:C1549625	Unknown - Ethnic Group
+N454	Reference T14 Source:C1556122:MTH	MTH
+N455	Reference T14 Source:C1556126:MTH	MTH
+N456	Reference T14 Source:C1549625:SNOMEDCT_US	SNOMEDCT_US
+N457	Reference T14 Source:C1549064:MTH	MTH
+N458	Reference T14 Source:C5202860:MTH	MTH
+N459	Reference T14 Source:C1556120:MTH	MTH
+N460	Reference T14 Source:C1556123:HL7V2.5	HL7V2.5
+N461	Reference T14 Source:C1556128:MTH	MTH
+N462	Reference T14 SemanticType:C1556121:fndg	fndg
+N463	Reference T14 Source:C1556133:MTH	MTH
+N464	Reference T14 Source:C1556131:MTH	MTH
+N465	Reference T14 Source:C1556137:MTH	MTH
+N466	Reference T14 Source:C1556135:MTH	MTH
+N467	Reference T14 SemanticType:C1549115:fndg	fndg
+N468	Reference T14 ConceptId:C3244284	Unknown - publishing section
+N469	Reference T14 SemanticType:C5202860:fndg	fndg
+N470	Reference T14 ConceptId:C1556136	Unknown - Living Dependency
+N471	Reference T14 Source:C0439673:NCI_UCUM	NCI_UCUM
+N472	Reference T14 Source:C1609613:MTH	MTH
+N473	Reference T14 Source:C1548550:MTH	MTH
+N474	Reference T14 Source:C0439673:NCI_FDA	NCI_FDA
+N475	Reference T14 SemanticType:C1549625:popg	popg
+N476	Reference T14 ConceptId:C1548502	Unknown - Vaccines administered
+N477	Reference T14 ConceptId:C1549064	Unknown - Notify Clergy Code
+N478	Reference T14 ConceptId:C1547312	Unknown - Patient Condition Code
+N479	Reference T14 Source:C1547294:MTH	MTH
+N480	Reference T14 Source:C0439673:SNOMEDCT_US	SNOMEDCT_US
+N481	Reference T14 Source:C4724171:NCI_EDQM-HC	NCI_EDQM-HC
+N482	Reference T14 ConceptId:C1561529	Unknown - mode of arrival code
+N483	Reference T14 ConceptId:C1546837	Unknown - Special Program Code
+N484	Reference T14 Source:C0439673:NCI	NCI
+N485	Reference T14 Source:C1556122:HL7V2.5	HL7V2.5
+N486	Reference T14 SemanticType:C1556136:fndg	fndg
+N487	Reference T14 Source:C1556129:HL7V2.5	HL7V2.5
+N488	Reference T14 ConceptId:C1556135	Unknown - Patient Class
+N489	Reference T14 Source:C0439673:NCI_CDISC	NCI_CDISC
+N490	Reference T14 Source:C0439673:NCI_NCI-HL7	NCI_NCI-HL7
+N491	Reference T14 SemanticType:C1556123:fndg	fndg
+N492	Reference T14 Source:C5203193:NCI	NCI
+N493	Reference T14 Source:C3244284:HL7V3.0	HL7V3.0
+N494	Reference T14 Source:C1549064:HL7V2.5	HL7V2.5
+N495	Reference T14 Source:C3244284:MTH	MTH
+N496	Reference T14 SemanticType:C1556134:fndg	fndg
+N497	Reference T14 Source:C1547306:MTH	MTH
+N498	Reference T14 Source:C1556130:HL7V2.5	HL7V2.5
+N499	Reference T14 SemanticType:C3541433:imft	imft
+N500	Reference T14 SemanticType:C1546837:inpr	inpr
+N501	Reference T14 Source:C3244285:HL7V3.0	HL7V3.0
+N502	Reference T14 Source:C5202860:NCI_FDA	NCI_FDA
+N503	Reference T14 Source:C0439673:NCI_CPTAC	NCI_CPTAC
+N504	Reference T14 ConceptId:C1556120	Unknown - Religion
+N505	Reference T14 Source:C1549105:HL7V2.5	HL7V2.5
+N506	Reference T14 Source:C1609613:HL7V3.0	HL7V3.0
+N507	Reference T14 Source:C1561529:HL7V2.5	HL7V2.5
+N508	Reference T14 ConceptId:C3244285	Unknown - HL7 update mode
+N509	Reference T14 Source:C1549105:MTH	MTH
+N510	Reference T14 Source:C1556137:HL7V2.5	HL7V2.5
+N511	Reference T14 SemanticType:C3244284:inpr	inpr
+N512	Reference T14 Source:C4050014:NCI_GENC	NCI_GENC
+N513	Reference T14 ConceptId:C1556124	Unknown - Living Arrangement
+N514	Reference T14 SemanticType:C1556120:fndg	fndg
+N515	Reference T14 Source:C4724171:NCI	NCI
+N516	Reference T14 ConceptId:C1547306	Unknown - Precaution Code
+N517	Reference T14 Source:C1521803:NCI_CDISC	NCI_CDISC
+N518	Reference T14 ConceptId:C0439673	Unknown
+N519	Reference T14 Source:C1556134:HL7V2.5	HL7V2.5
+N520	Reference T14 Source:C4724171:MTH	MTH
+N521	Reference T14 ConceptId:C1521803	Unknown Route of Drug Administration
+N522	Reference T14 SemanticType:C1556133:fndg	fndg
+N523	Reference T14 SemanticType:C3244285:qlco	qlco
+N524	Reference T14 SemanticType:C1556127:fndg	fndg
+N525	Reference T14 ConceptId:C1556137	Unknown - Contact Role
+N526	Reference T14 SemanticType:C1556124:fndg	fndg
+N527	Reference T14 ConceptId:C1546841	Unknown Publicity Code
+N528	Reference T14 Source:C1556127:MTH	MTH
+N529	Reference T14 SemanticType:C1556130:fndg	fndg
+N530	Reference T14 Source:C1547294:HL7V2.5	HL7V2.5
+N531	Reference T14 Source:C1556130:MTH	MTH
+N532	Reference T14 ConceptId:C1556130	Unknown - CWE statuses
+N533	Reference T14 SemanticType:C1548550:inpr	inpr
+N534	Reference T14 SemanticType:C1547294:inpr	inpr
+N535	Reference T14 Source:C1561529:MTH	MTH
+T15	MMLite 1859 1863	Peak
+N536	Reference T15 Source:C0444505:LNC	LNC
+N537	Reference T15 Source:C0444505:NCI	NCI
+N538	Reference T15 SemanticType:C0444505:qlco	qlco
+N539	Reference T15 Source:C0444505:SNOMEDCT_US	SNOMEDCT_US
+N540	Reference T15 Source:C0444505:CHV	CHV
+N541	Reference T15 ConceptId:C0444505	Peak level
+N542	Reference T15 Source:C0444505:MTH	MTH
+T16	MMLite 124 128	NAME
+N543	Reference T16 Source:C1018834:MTH	MTH
+N544	Reference T16 Source:C1547383:NCI	NCI
+N545	Reference T16 Source:C0027365:MSH	MSH
+N546	Reference T16 Source:C4522128:SNOMEDCT_US	SNOMEDCT_US
+N547	Reference T16 Source:C0027365:LCH	LCH
+N548	Reference T16 Source:C1554107:HL7V3.0	HL7V3.0
+N549	Reference T16 SemanticType:C4522128:qlco	qlco
+N550	Reference T16 ConceptId:C1547383	Person Name
+N551	Reference T16 Source:C0027365:LCH_NW	LCH_NW
+N552	Reference T16 Source:C1547383:NCI_NICHD	NCI_NICHD
+N553	Reference T16 Source:C1547383:NCI_CDISC	NCI_CDISC
+N554	Reference T16 Source:C1547383:HL7V2.5	HL7V2.5
+N555	Reference T16 Source:C1547383:SNOMEDCT_US	SNOMEDCT_US
+N556	Reference T16 Source:C0027365:CHV	CHV
+N557	Reference T16 Source:C1547383:NCI_BRIDG_3_0_3	NCI_BRIDG_3_0_3
+N558	Reference T16 ConceptId:C1018834	Dioscorea trifida
+N559	Reference T16 Source:C0027365:NCI_BRIDG_3_0_3	NCI_BRIDG_3_0_3
+N560	Reference T16 ConceptId:C0027365	Name
+N561	Reference T16 ConceptId:C2599456	Name:Patient number:Point in time:^Patient:Nominal
+N562	Reference T16 Source:C2599456:MTH	MTH
+N563	Reference T16 Source:C0027365:LNC	LNC
+N564	Reference T16 Source:C4522128:MTH	MTH
+N565	Reference T16 ConceptId:C1554107	MDF Attribute Type - Name
+N566	Reference T16 Source:C0027365:MTH	MTH
+N567	Reference T16 Source:C1554107:MTH	MTH
+N568	Reference T16 Source:C1547383:MTH	MTH
+N569	Reference T16 SemanticType:C2599456:clna	clna
+N570	Reference T16 Source:C1547383:NCI_CareLex	NCI_CareLex
+N571	Reference T16 Source:C0027365:NCI	NCI
+N572	Reference T16 SemanticType:C1547383:inpr	inpr
+N573	Reference T16 Source:C1547383:LNC	LNC
+N574	Reference T16 SemanticType:C0027365:inpr	inpr
+N575	Reference T16 ConceptId:C4522128	Name (property) (qualifier value)
+N576	Reference T16 Source:C2599456:LNC	LNC
+N577	Reference T16 SemanticType:C1018834:plnt	plnt
+N578	Reference T16 Source:C1018834:NCBI	NCBI
+N579	Reference T16 Source:C0027365:SNOMEDCT_US	SNOMEDCT_US
+N580	Reference T16 SemanticType:C1554107:inpr	inpr
+T17	MMLite 72 78	Signed
+N581	Reference T17 SemanticType:C1519316:inpr	inpr
+N582	Reference T17 SemanticType:C1561610:inpr	inpr
+N583	Reference T17 Source:C1519316:LNC	LNC
+N584	Reference T17 Source:C1519316:NCI	NCI
+N585	Reference T17 ConceptId:C1561610	signed - ParticipationSignature
+N586	Reference T17 Source:C1561610:HL7V3.0	HL7V3.0
+N587	Reference T17 Source:C1561610:MTH	MTH
+N588	Reference T17 ConceptId:C1519316	Signature
+N589	Reference T17 Source:C1519316:MTH	MTH
+N590	Reference T17 Source:C1519316:NCI_BRIDG_3_0_3	NCI_BRIDG_3_0_3
+T18	MMLite 3209 3212	Acc
+N591	Reference T18 ConceptId:C4724142	Amorphous Calcium Carbonate
+N592	Reference T18 Source:C0175754:MSH	MSH
+N593	Reference T18 SemanticType:C4724142:phsu	phsu
+N594	Reference T18 ConceptId:C0152325	Structure of forceps minor
+N595	Reference T18 SemanticType:C0175754:cgab	cgab
+N596	Reference T18 Source:C0282160:MTH	MTH
+N597	Reference T18 Source:C3541413:NCI	NCI
+N598	Reference T18 Source:C0282160:NCI	NCI
+N599	Reference T18 Source:C0175754:NCI_NICHD	NCI_NICHD
+N600	Reference T18 Source:C0175754:ICD10CM	ICD10CM
+N601	Reference T18 Source:C0282160:NCI_NICHD	NCI_NICHD
+N602	Reference T18 Source:C0175754:SNOMEDCT_US	SNOMEDCT_US
+N603	Reference T18 Source:C3541413:MTH	MTH
+N604	Reference T18 SemanticType:C0282160:cgab	cgab
+N605	Reference T18 Source:C0175754:NCI	NCI
+N606	Reference T18 Source:C0175754:OMIM	OMIM
+N607	Reference T18 ConceptId:C0282160	Aplasia Cutis Congenita
+N608	Reference T18 Source:C0175754:SNMI	SNMI
+N609	Reference T18 Source:C0282160:OMIM	OMIM
+N610	Reference T18 Source:C4724142:MTH	MTH
+N611	Reference T18 Source:C4724142:PDQ	PDQ
+N612	Reference T18 Source:C0152325:MTH	MTH
+N613	Reference T18 Source:C0282160:SNOMEDCT_US	SNOMEDCT_US
+N614	Reference T18 Source:C3541413:NCI_CTRP	NCI_CTRP
+N615	Reference T18 ConceptId:C0175754	Agenesis of corpus callosum
+N616	Reference T18 Source:C0175754:SNM	SNM
+N617	Reference T18 Source:C0152325:SNMI	SNMI
+N618	Reference T18 Source:C0282160:HPO	HPO
+N619	Reference T18 SemanticType:C3541413:gngm	gngm
+N620	Reference T18 Source:C0175754:CHV	CHV
+N621	Reference T18 Source:C0282160:CHV	CHV
+N622	Reference T18 ConceptId:C3541413	ACACA wt Allele
+N623	Reference T18 Source:C0175754:HPO	HPO
+N624	Reference T18 Source:C4724142:NCI	NCI
+N625	Reference T18 Source:C0282160:SNM	SNM
+N626	Reference T18 Source:C0175754:MTH	MTH
+N627	Reference T18 Source:C0175754:DXP	DXP
+N628	Reference T18 Source:C0282160:MSH	MSH
+N629	Reference T18 SemanticType:C0152325:bpoc	bpoc
+N630	Reference T18 Source:C0152325:SNM	SNM
+N631	Reference T18 Source:C0282160:ICD10CM	ICD10CM
+N632	Reference T18 Source:C0282160:SNMI	SNMI
+N633	Reference T18 Source:C0152325:SNOMEDCT_US	SNOMEDCT_US
+N634	Reference T18 Source:C0152325:FMA	FMA
+T19	MMLite 930 937	patient
+N635	Reference T19 ConceptId:C0030705	Patients
+N636	Reference T19 Source:C1705908:MTH	MTH
+N637	Reference T19 SemanticType:C1578481:idcn	idcn
+N638	Reference T19 ConceptId:C1578483	Report source - Patient
+N639	Reference T19 Source:C0030705:LNC	LNC
+N640	Reference T19 Source:C1578484:HL7V2.5	HL7V2.5
+N641	Reference T19 ConceptId:C1705908	Veterinary Patient
+N642	Reference T19 Source:C0030705:NCI_DICOM	NCI_DICOM
+N643	Reference T19 Source:C0030705:MTH	MTH
+N644	Reference T19 Source:C1578485:HL7V2.5	HL7V2.5
+N645	Reference T19 ConceptId:C1578481	Mail Claim Party - Patient
+N646	Reference T19 Source:C1578481:HL7V2.5	HL7V2.5
+N647	Reference T19 Source:C1578483:MTH	MTH
+N648	Reference T19 SemanticType:C1578483:idcn	idcn
+N649	Reference T19 ConceptId:C1578485	Specimen Source Codes - Patient
+N650	Reference T19 ConceptId:C1578486	Disabled Person Code - Patient
+N651	Reference T19 Source:C0030705:CHV	CHV
+N652	Reference T19 Source:C0030705:SNOMEDCT_US	SNOMEDCT_US
+N653	Reference T19 ConceptId:C1550655	Specimen Type - Patient
+N654	Reference T19 Source:C0030705:NCI_CDISC-GLOSS	NCI_CDISC-GLOSS
+N655	Reference T19 Source:C1705908:NCI	NCI
+N656	Reference T19 SemanticType:C1578485:inpr	inpr
+N657	Reference T19 Source:C1578486:HL7V2.5	HL7V2.5
+N658	Reference T19 Source:C1578485:MTH	MTH
+N659	Reference T19 Source:C1578486:MTH	MTH
+N660	Reference T19 Source:C0030705:NCI_FDA	NCI_FDA
+N661	Reference T19 Source:C1578484:MTH	MTH
+N662	Reference T19 Source:C0030705:MSH	MSH
+N663	Reference T19 Source:C1578481:MTH	MTH
+N664	Reference T19 Source:C1578483:HL7V2.5	HL7V2.5
+N665	Reference T19 Source:C0030705:AOD	AOD
+N666	Reference T19 Source:C1550655:HL7V3.0	HL7V3.0
+N667	Reference T19 Source:C0030705:LCH	LCH
+N668	Reference T19 SemanticType:C1578484:idcn	idcn
+N669	Reference T19 ConceptId:C1578484	Relationship modifier - Patient
+N670	Reference T19 SemanticType:C1550655:bdsu	bdsu
+N671	Reference T19 SemanticType:C0030705:podg	podg
+N672	Reference T19 Source:C0030705:HL7V3.0	HL7V3.0
+N673	Reference T19 Source:C0030705:LCH_NW	LCH_NW
+N674	Reference T19 Source:C0030705:NCI	NCI
+N675	Reference T19 Source:C1550655:MTH	MTH
+N676	Reference T19 SemanticType:C1705908:orgm	orgm
+N677	Reference T19 SemanticType:C1578486:inpr	inpr
+T20	MMLite 131 137	FACTOR
+N678	Reference T20 Source:C2827422:NCI	NCI
+N679	Reference T20 Source:C1521761:MTH	MTH
+N680	Reference T20 SemanticType:C2827422:cnce	cnce
+N681	Reference T20 Source:C1521761:NCI	NCI
+N682	Reference T20 Source:C1521761:LNC	LNC
+N683	Reference T20 ConceptId:C1521761	Factor
+N684	Reference T20 ConceptId:C2827422	Mathematical Factor
+N685	Reference T20 SemanticType:C1521761:ftcn	ftcn
+N686	Reference T20 Source:C2827422:MTH	MTH
+T21	MMLite 2384 2393	occlusion
+N687	Reference T21 Source:C0011382:MTH	MTH
+N688	Reference T21 Source:C0001168:SNOMEDCT_US	SNOMEDCT_US
+N689	Reference T21 SemanticType:C0011382:ortf	ortf
+N690	Reference T21 Source:C1947917:NCI	NCI
+N691	Reference T21 Source:C1110554:CHV	CHV
+N692	Reference T21 Source:C0028778:CHV	CHV
+N693	Reference T21 Source:C1110554:CST	CST
+N694	Reference T21 Source:C0011382:SNMI	SNMI
+N695	Reference T21 Source:C0011382:SNOMEDCT_US	SNOMEDCT_US
+N696	Reference T21 SemanticType:C0001168:acab	acab
+N697	Reference T21 Source:C0001168:SNMI	SNMI
+N698	Reference T21 Source:C0441597:MTH	MTH
+N699	Reference T21 ConceptId:C0441597	Occlusion - action
+N700	Reference T21 SemanticType:C0028778:patf	patf
+N701	Reference T21 Source:C0028778:NCI_FDA	NCI_FDA
+N702	Reference T21 Source:C1947917:AOD	AOD
+N703	Reference T21 Source:C0441597:SNOMEDCT_US	SNOMEDCT_US
+N704	Reference T21 Source:C0028778:AOD	AOD
+N705	Reference T21 Source:C0001168:MTH	MTH
+N706	Reference T21 Source:C0028778:MTH	MTH
+N707	Reference T21 Source:C1947917:NCI_FDA	NCI_FDA
+N708	Reference T21 Source:C0028778:NCI_CDISC	NCI_CDISC
+N709	Reference T21 Source:C1947917:SNMI	SNMI
+N710	Reference T21 SemanticType:C0441597:ftcn	ftcn
+N711	Reference T21 Source:C0028778:SNM	SNM
+N712	Reference T21 Source:C0011382:CSP	CSP
+N713	Reference T21 Source:C1947917:MTH	MTH
+N714	Reference T21 Source:C0028778:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N715	Reference T21 SemanticType:C1110554:patf	patf
+N716	Reference T21 Source:C0028778:LNC	LNC
+N717	Reference T21 SemanticType:C1947917:ftcn	ftcn
+N718	Reference T21 Source:C1947917:LNC	LNC
+N719	Reference T21 Source:C1947917:SNOMEDCT_US	SNOMEDCT_US
+N720	Reference T21 ConceptId:C0011382	Dental Occlusion
+N721	Reference T21 Source:C1947917:CHV	CHV
+N722	Reference T21 Source:C1947917:SNM	SNM
+N723	Reference T21 Source:C1947917:MTHICD9	MTHICD9
+N724	Reference T21 Source:C0028778:SNOMEDCT_US	SNOMEDCT_US
+N725	Reference T21 Source:C0011382:LCH	LCH
+N726	Reference T21 Source:C0028778:NCI	NCI
+N727	Reference T21 ConceptId:C0028778	Obstruction
+N728	Reference T21 Source:C0001168:SNM	SNM
+N729	Reference T21 ConceptId:C0001168	Complete obstruction
+N730	Reference T21 Source:C0001168:CHV	CHV
+N731	Reference T21 Source:C0011382:NCI	NCI
+N732	Reference T21 Source:C0011382:LCH_NW	LCH_NW
+N733	Reference T21 Source:C0011382:MSH	MSH
+N734	Reference T21 Source:C1110554:MTH	MTH
+N735	Reference T21 ConceptId:C1110554	Cardiovascular occlusion
+N736	Reference T21 ConceptId:C1947917	Occluded
+N737	Reference T21 Source:C0011382:CHV	CHV
+N738	Reference T21 Source:C0028778:LCH	LCH
+N739	Reference T21 Source:C0028778:SNMI	SNMI
+T22	MMLite 976 980	with
+N740	Reference T22 ConceptId:C1705690	With - dosing instruction fragment
+N741	Reference T22 Source:C0332287:MTH	MTH
+N742	Reference T22 Source:C0332287:SNMI	SNMI
+N743	Reference T22 SemanticType:C1705690:inpr	inpr
+N744	Reference T22 Source:C0332287:LNC	LNC
+N745	Reference T22 Source:C1705690:SNOMEDCT_US	SNOMEDCT_US
+N746	Reference T22 Source:C1705690:MTH	MTH
+N747	Reference T22 ConceptId:C0332287	In addition to
+N748	Reference T22 Source:C0332287:NCI	NCI
+N749	Reference T22 Source:C0332287:SNOMEDCT_US	SNOMEDCT_US
+N750	Reference T22 SemanticType:C0332287:ftcn	ftcn
+T23	MMLite 683 686	old
+N751	Reference T23 Source:C0677546:SNOMEDCT_US	SNOMEDCT_US
+N752	Reference T23 Source:C0677546:MTH	MTH
+N753	Reference T23 Source:C0580836:CHV	CHV
+N754	Reference T23 Source:C0580836:SNMI	SNMI
+N755	Reference T23 Source:C0580836:SNOMEDCT_US	SNOMEDCT_US
+N756	Reference T23 Source:C0580836:NCI	NCI
+N757	Reference T23 ConceptId:C0677546	Old episode
+N758	Reference T23 Source:C0580836:MTH	MTH
+N759	Reference T23 SemanticType:C0677546:tmco	tmco
+N760	Reference T23 ConceptId:C0580836	Old
+N761	Reference T23 SemanticType:C0580836:tmco	tmco
+T24	MMLite 1388 1392	gout
+N762	Reference T24 Source:C0018099:LCH_NW	LCH_NW
+N763	Reference T24 Source:C0018099:LNC	LNC
+N764	Reference T24 Source:C0018099:COSTAR	COSTAR
+N765	Reference T24 Source:C0018099:CCSR_10	CCSR_10
+N766	Reference T24 Source:C0018099:ICD9CM	ICD9CM
+N767	Reference T24 Source:C0018099:NCI	NCI
+N768	Reference T24 SemanticType:C0018099:dsyn	dsyn
+N769	Reference T24 Source:C0018099:LCH	LCH
+N770	Reference T24 Source:C0018099:AOD	AOD
+N771	Reference T24 Source:C0018099:ICD10CM	ICD10CM
+N772	Reference T24 Source:C0018099:MSH	MSH
+N773	Reference T24 Source:C0018099:MEDLINEPLUS	MEDLINEPLUS
+N774	Reference T24 ConceptId:C0018099	Gout
+N775	Reference T24 Source:C0018099:SNM	SNM
+N776	Reference T24 Source:C0018099:CHV	CHV
+N777	Reference T24 Source:C0018099:SNOMEDCT_US	SNOMEDCT_US
+N778	Reference T24 Source:C0018099:OMIM	OMIM
+N779	Reference T24 Source:C0018099:AIR	AIR
+N780	Reference T24 Source:C0018099:HPO	HPO
+N781	Reference T24 Source:C0018099:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N782	Reference T24 Source:C0018099:CSP	CSP
+N783	Reference T24 Source:C0018099:CST	CST
+N784	Reference T24 Source:C0018099:ICPC	ICPC
+N785	Reference T24 Source:C0018099:SNMI	SNMI
+N786	Reference T24 Source:C0018099:MTH	MTH
+N787	Reference T24 Source:C0018099:DXP	DXP
+T25	MMLite 340 350	PROCEDURES
+N788	Reference T25 Source:C3538935:NCI	NCI
+N789	Reference T25 SemanticType:C1550373:inpr	inpr
+N790	Reference T25 Source:C2700391:NCI	NCI
+N791	Reference T25 Source:C0184661:NCI_BRIDG_3_0_3	NCI_BRIDG_3_0_3
+N792	Reference T25 SemanticType:C0184661:topp	topp
+N793	Reference T25 Source:C0184661:MSH	MSH
+N794	Reference T25 Source:C2700391:HL7V3.0	HL7V3.0
+N795	Reference T25 ConceptId:C3538935	Procedure Domain
+N796	Reference T25 Source:C0184661:CHV	CHV
+N797	Reference T25 Source:C0025664:MSH	MSH
+N798	Reference T25 SemanticType:C3538935:inpr	inpr
+N799	Reference T25 Source:C1550373:MTH	MTH
+N800	Reference T25 SemanticType:C2700391:ftcn	ftcn
+N801	Reference T25 Source:C0184661:NCI	NCI
+N802	Reference T25 Source:C0184661:SNMI	SNMI
+N803	Reference T25 Source:C0184661:NCI_CDISC-GLOSS	NCI_CDISC-GLOSS
+N804	Reference T25 ConceptId:C0025664	Methods aspects
+N805	Reference T25 Source:C2700391:CHV	CHV
+N806	Reference T25 Source:C0184661:SNOMEDCT_US	SNOMEDCT_US
+N807	Reference T25 Source:C0025664:MTH	MTH
+N808	Reference T25 Source:C0184661:ICD9CM	ICD9CM
+N809	Reference T25 Source:C2700391:CCS_10	CCS_10
+N810	Reference T25 Source:C3538935:MTH	MTH
+N811	Reference T25 Source:C1550373:HL7V2.5	HL7V2.5
+N812	Reference T25 Source:C0184661:LNC	LNC
+N813	Reference T25 ConceptId:C1550373	Procedure Code
+N814	Reference T25 Source:C0184661:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N815	Reference T25 Source:C2700391:MTH	MTH
+N816	Reference T25 ConceptId:C0184661	Interventional procedure
+N817	Reference T25 Source:C0184661:SNM	SNM
+N818	Reference T25 Source:C1550373:NCI	NCI
+N819	Reference T25 SemanticType:C0025664:ftcn	ftcn
+N820	Reference T25 Source:C0184661:NCI_NICHD	NCI_NICHD
+N821	Reference T25 Source:C0184661:CSP	CSP
+N822	Reference T25 Source:C0184661:CCS	CCS
+N823	Reference T25 Source:C0184661:MTH	MTH
+N824	Reference T25 ConceptId:C2700391	Procedure (set of actions)
+N825	Reference T25 Source:C0184661:PDQ	PDQ
+N826	Reference T25 Source:C3538935:NCI_CDISC	NCI_CDISC
+T26	MMLite 2183 2196	complications
+N827	Reference T26 ConceptId:C1171258	Complication Aspects
+N828	Reference T26 Source:C0009566:NCI_NICHD	NCI_NICHD
+N829	Reference T26 Source:C1171258:MSH	MSH
+N830	Reference T26 Source:C0009566:MTHMST	MTHMST
+N831	Reference T26 Source:C0009566:NCI	NCI
+N832	Reference T26 Source:C0009566:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N833	Reference T26 Source:C0009566:SNMI	SNMI
+N834	Reference T26 ConceptId:C0009566	Complication
+N835	Reference T26 Source:C0009566:CSP	CSP
+N836	Reference T26 Source:C0009566:CCS	CCS
+N837	Reference T26 Source:C0009566:SNOMEDCT_US	SNOMEDCT_US
+N838	Reference T26 SemanticType:C1171258:ftcn	ftcn
+N839	Reference T26 Source:C0802632:LNC	LNC
+N840	Reference T26 Source:C0009566:MTH	MTH
+N841	Reference T26 ConceptId:C0802632	Complications:Type:Duration of the study:^Patient:Nominal
+N842	Reference T26 Source:C0802632:MTH	MTH
+N843	Reference T26 SemanticType:C0009566:patf	patf
+N844	Reference T26 Source:C0009566:CHV	CHV
+N845	Reference T26 Source:C0009566:SNM	SNM
+N846	Reference T26 Source:C1171258:MTH	MTH
+N847	Reference T26 Negated:complications	complications
+N848	Reference T26 Source:C0009566:LNC	LNC
+N849	Reference T26 SemanticType:C0802632:clna	clna
+T27	MMLite 2212 2215	RCA
+N850	Reference T27 Source:C4725622:NCI_EDQM-HC	NCI_EDQM-HC
+N851	Reference T27 SemanticType:C4725622:inpr	inpr
+N852	Reference T27 Source:C4725622:NCI	NCI
+N853	Reference T27 ConceptId:C4725622	EDQM-HC Release Characteristics Terminology
+T28	MMLite 3340 3344	STAT
+N854	Reference T28 Source:C0205548:HL7V3.0	HL7V3.0
+N855	Reference T28 Source:C0205548:LNC	LNC
+N856	Reference T28 Source:C1366753:MTH	MTH
+N857	Reference T28 ConceptId:C1366753	STAT protein
+N858	Reference T28 SemanticType:C1561443:idcn	idcn
+N859	Reference T28 ConceptId:C1335960	STAT family gene
+N860	Reference T28 SemanticType:C0805732:fndg	fndg
+N861	Reference T28 Source:C1335960:PDQ	PDQ
+N862	Reference T28 Source:C1335960:MTH	MTH
+N863	Reference T28 Source:C0805732:NCI_CDISC	NCI_CDISC
+N864	Reference T28 Source:C1561443:HL7V2.5	HL7V2.5
+N865	Reference T28 Source:C1548425:HL7V2.5	HL7V2.5
+N866	Reference T28 ConceptId:C1547583	Extended Priority Codes - Stat
+N867	Reference T28 Source:C0205548:NCI	NCI
+N868	Reference T28 SemanticType:C1547583:inpr	inpr
+N869	Reference T28 SemanticType:C1366753:bacs	bacs
+N870	Reference T28 ConceptId:C0805732	Completion Status
+N871	Reference T28 Negated:STAT	STAT
+N872	Reference T28 ConceptId:C1548425	Referral priority - STAT
+N873	Reference T28 SemanticType:C1366753:aapp	aapp
+N874	Reference T28 Source:C1561443:MTH	MTH
+N875	Reference T28 Source:C1547583:MTH	MTH
+N876	Reference T28 ConceptId:C0205548	Stat (do immediately)
+N877	Reference T28 Source:C0205548:SNMI	SNMI
+N878	Reference T28 Source:C0205548:CHV	CHV
+N879	Reference T28 Source:C1366753:NCI_CTRP	NCI_CTRP
+N880	Reference T28 Source:C1366753:NCI	NCI
+N881	Reference T28 SemanticType:C1548425:idcn	idcn
+N882	Reference T28 Source:C0805732:MTH	MTH
+N883	Reference T28 Source:C1335960:NCI_CTRP	NCI_CTRP
+N884	Reference T28 Source:C0805732:LNC	LNC
+N885	Reference T28 Source:C0205548:SNOMEDCT_US	SNOMEDCT_US
+N886	Reference T28 ConceptId:C1561443	Report priority - Stat
+N887	Reference T28 SemanticType:C1335960:gngm	gngm
+N888	Reference T28 SemanticType:C0205548:tmco	tmco
+N889	Reference T28 Source:C1547583:HL7V2.5	HL7V2.5
+N890	Reference T28 Source:C0205548:MTH	MTH
+N891	Reference T28 Source:C1335960:NCI	NCI
+N892	Reference T28 Source:C1548425:MTH	MTH
+N893	Reference T28 Source:C0805732:NCI	NCI
+N894	Reference T28 Source:C0205548:HL7V2.5	HL7V2.5
+T29	MMLite 850 854	only
+N895	Reference T29 Source:C0205171:SNOMEDCT_US	SNOMEDCT_US
+N896	Reference T29 SemanticType:C0205171:qnco	qnco
+N897	Reference T29 Source:C0205171:LNC	LNC
+N898	Reference T29 ConceptId:C0205171	Singular
+N899	Reference T29 Source:C0205171:SNMI	SNMI
+N900	Reference T29 ConceptId:C1720467	Only - dosing instruction fragment
+N901	Reference T29 Source:C1720467:MTH	MTH
+N902	Reference T29 Source:C0205171:CHV	CHV
+N903	Reference T29 SemanticType:C1720467:inpr	inpr
+N904	Reference T29 Source:C0205171:NCI_CDISC	NCI_CDISC
+N905	Reference T29 Source:C0205171:NCI	NCI
+N906	Reference T29 Source:C0205171:MTH	MTH
+N907	Reference T29 Source:C1720467:SNOMEDCT_US	SNOMEDCT_US
+T30	MMLite 703 739	acute inferior myocardial infarction
+N908	Reference T30 ConceptId:C0264700	Acute Inferior Myocardial Infarction
+N909	Reference T30 Source:C0264700:MTH	MTH
+N910	Reference T30 Source:C0264700:MTHICD9	MTHICD9
+N911	Reference T30 SemanticType:C0264700:dsyn	dsyn
+N912	Reference T30 Source:C0264700:SNOMEDCT_US	SNOMEDCT_US
+N913	Reference T30 Source:C0264700:SNMI	SNMI
+N914	Reference T30 Source:C0264700:MSH	MSH
+T31	MMLite 1249 1252	for
+N915	Reference T31 ConceptId:C0521125	Preposition For
+N916	Reference T31 Source:C0521125:NCI	NCI
+N917	Reference T31 SemanticType:C1421525:gngm	gngm
+N918	Reference T31 Source:C4321252:MTH	MTH
+N919	Reference T31 Source:C1421525:MTH	MTH
+N920	Reference T31 Source:C1421525:HGNC	HGNC
+N921	Reference T31 Source:C1562169:MTH	MTH
+N922	Reference T31 Source:C4321252:NCI	NCI
+N923	Reference T31 ConceptId:C1421525	WWOX gene
+N924	Reference T31 Source:C1421525:NCI_NCI-HGNC	NCI_NCI-HGNC
+N925	Reference T31 Source:C1562169:SNOMEDCT_US	SNOMEDCT_US
+N926	Reference T31 SemanticType:C0521125:qlco	qlco
+N927	Reference T31 Source:C0521125:SNOMEDCT_US	SNOMEDCT_US
+N928	Reference T31 ConceptId:C4321252	WWOX wt Allele
+N929	Reference T31 SemanticType:C1562169:topp	topp
+N930	Reference T31 Source:C0521125:SNMI	SNMI
+N931	Reference T31 Source:C1421525:OMIM	OMIM
+N932	Reference T31 Source:C0521125:MTH	MTH
+N933	Reference T31 Source:C1421525:NCI	NCI
+N934	Reference T31 Source:C1562169:AOT	AOT
+N935	Reference T31 SemanticType:C4321252:gngm	gngm
+N936	Reference T31 ConceptId:C1562169	Facilitated oscillatory release technique
+T32	MMLite 1841 1851	LABORATORY
+N937	Reference T32 Source:C4283904:HL7V3.0	HL7V3.0
+N938	Reference T32 ConceptId:C4283904	Laboratory observation
+N939	Reference T32 Source:C3244292:MTH	MTH
+N940	Reference T32 Source:C0022877:NCI	NCI
+N941	Reference T32 Source:C2598148:LNC	LNC
+N942	Reference T32 ConceptId:C0022877	Laboratory
+N943	Reference T32 Source:C0022877:HL7V3.0	HL7V3.0
+N944	Reference T32 Source:C1571737:HL7V2.5	HL7V2.5
+N945	Reference T32 Source:C4283904:MTH	MTH
+N946	Reference T32 SemanticType:C0022877:hcro	hcro
+N947	Reference T32 Source:C0022877:MTH	MTH
+N948	Reference T32 Source:C0022877:LNC	LNC
+N949	Reference T32 Source:C2598148:MTH	MTH
+N950	Reference T32 SemanticType:C3244292:ftcn	ftcn
+N951	Reference T32 Source:C0022877:LCH_NW	LCH_NW
+N952	Reference T32 Source:C0022877:CHV	CHV
+N953	Reference T32 ConceptId:C2598148	Laboratory:-:Point in time:^Patient:-
+N954	Reference T32 Source:C0022877:MSH	MSH
+N955	Reference T32 Source:C0022877:NCI_BRIDG_3_0_3	NCI_BRIDG_3_0_3
+N956	Reference T32 Source:C3244292:HL7V3.0	HL7V3.0
+N957	Reference T32 Source:C1571737:MTH	MTH
+N958	Reference T32 SemanticType:C2598148:clna	clna
+N959	Reference T32 ConceptId:C1548427	Referral type - Laboratory
+N960	Reference T32 SemanticType:C1548427:inpr	inpr
+N961	Reference T32 Source:C0022877:SNOMEDCT_US	SNOMEDCT_US
+N962	Reference T32 Source:C0022877:NCI_FDA	NCI_FDA
+N963	Reference T32 Source:C0022877:LCH	LCH
+N964	Reference T32 ConceptId:C3244292	Laboratory domain
+N965	Reference T32 SemanticType:C0022877:mnob	mnob
+N966	Reference T32 ConceptId:C1571737	Diagnostic Service Section ID - Laboratory
+N967	Reference T32 SemanticType:C1571737:inpr	inpr
+N968	Reference T32 Source:C1548427:MTH	MTH
+N969	Reference T32 SemanticType:C4283904:lbtr	lbtr
+N970	Reference T32 Source:C1548427:HL7V2.5	HL7V2.5
+T33	MMLite 1173 1181	duration
+N971	Reference T33 Source:C0449238:SNMI	SNMI
+N972	Reference T33 ConceptId:C0720099	Duration brand of oxymetazoline
+N973	Reference T33 ConceptId:C0449238	Duration (temporal concept)
+N974	Reference T33 Source:C0720099:CHV	CHV
+N975	Reference T33 Source:C0449238:CHV	CHV
+N976	Reference T33 SemanticType:C0720099:phsu	phsu
+N977	Reference T33 Source:C0449238:NCI_CPTAC	NCI_CPTAC
+N978	Reference T33 SemanticType:C2926735:phsu	phsu
+N979	Reference T33 Source:C0449238:LNC	LNC
+N980	Reference T33 ConceptId:C2926735	Duration
+N981	Reference T33 Source:C2926735:RXNORM	RXNORM
+N982	Reference T33 Source:C0449238:NCI_CDISC	NCI_CDISC
+N983	Reference T33 Source:C0449238:SNOMEDCT_US	SNOMEDCT_US
+N984	Reference T33 Source:C0449238:MTH	MTH
+N985	Reference T33 Source:C0449238:NCI_BRIDG_3_0_3	NCI_BRIDG_3_0_3
+N986	Reference T33 Source:C2926735:MTH	MTH
+N987	Reference T33 Source:C0449238:NCI	NCI
+N988	Reference T33 SemanticType:C0449238:tmco	tmco
+N989	Reference T33 SemanticType:C2926735:orch	orch
+N990	Reference T33 Source:C0720099:MTH	MTH
+T34	MMLite 2737 2741	next
+N991	Reference T34 Source:C2826246:NCI_CDISC	NCI_CDISC
+N992	Reference T34 ConceptId:C1552851	next - HtmlLinkType
+N993	Reference T34 Source:C1552851:MTH	MTH
+N994	Reference T34 Source:C0205117:SNMI	SNMI
+N995	Reference T34 Source:C0205117:NCI	NCI
+N996	Reference T34 SemanticType:C0332282:tmco	tmco
+N997	Reference T34 SemanticType:C0205117:spco	spco
+N998	Reference T34 Source:C0332282:CHV	CHV
+N999	Reference T34 Source:C0332282:SNMI	SNMI
+N1000	Reference T34 Source:C1883708:NCI	NCI
+N1001	Reference T34 ConceptId:C0205117	Adjacent
+N1002	Reference T34 SemanticType:C1552851:idcn	idcn
+N1003	Reference T34 Source:C0205117:MTH	MTH
+N1004	Reference T34 Source:C2826246:MTH	MTH
+N1005	Reference T34 Source:C0332282:MTH	MTH
+N1006	Reference T34 SemanticType:C2826246:resa	resa
+N1007	Reference T34 Source:C0332282:SNOMEDCT_US	SNOMEDCT_US
+N1008	Reference T34 Source:C0205117:CHV	CHV
+N1009	Reference T34 ConceptId:C0332282	Following
+N1010	Reference T34 Source:C0205117:SNOMEDCT_US	SNOMEDCT_US
+N1011	Reference T34 ConceptId:C1883708	Then
+N1012	Reference T34 ConceptId:C2826246	Subsequent Trial Activity
+N1013	Reference T34 Source:C2826246:NCI	NCI
+N1014	Reference T34 Source:C0332282:NCI	NCI
+N1015	Reference T34 SemanticType:C1883708:tmco	tmco
+N1016	Reference T34 Source:C1883708:MTH	MTH
+N1017	Reference T34 Source:C1552851:HL7V3.0	HL7V3.0
+T35	MMLite 1571 1578	Femoral
+N1018	Reference T35 Source:C0015811:LNC	LNC
+N1019	Reference T35 Source:C0015811:MSH	MSH
+N1020	Reference T35 Source:C0015811:CHV	CHV
+N1021	Reference T35 ConceptId:C0015811	Femur
+N1022	Reference T35 Source:C0015811:SNM	SNM
+N1023	Reference T35 Source:C0015811:NCI_CDISC	NCI_CDISC
+N1024	Reference T35 Source:C0015811:UWDA	UWDA
+N1025	Reference T35 Source:C0015811:SNMI	SNMI
+N1026	Reference T35 Source:C0015811:FMA	FMA
+N1027	Reference T35 Source:C0015811:CSP	CSP
+N1028	Reference T35 Source:C0015811:SNOMEDCT_US	SNOMEDCT_US
+N1029	Reference T35 Source:C0015811:LCH_NW	LCH_NW
+N1030	Reference T35 Source:C0015811:NCI	NCI
+N1031	Reference T35 SemanticType:C0015811:bpoc	bpoc
+N1032	Reference T35 Source:C0015811:HL7V2.5	HL7V2.5
+N1033	Reference T35 Source:C0015811:ICF-CY	ICF-CY
+N1034	Reference T35 Source:C0015811:MTH	MTH
+N1035	Reference T35 Source:C0015811:AOD	AOD
+N1036	Reference T35 Source:C0015811:ICF	ICF
+N1037	Reference T35 Source:C0015811:LCH	LCH
+T36	MMLite 2247 2260	left to right
+N1038	Reference T36 Source:C0439757:CHV	CHV
+N1039	Reference T36 Source:C0439757:SNOMEDCT_US	SNOMEDCT_US
+N1040	Reference T36 SemanticType:C0439757:ftcn	ftcn
+N1041	Reference T36 ConceptId:C0439757	Left to right
+T37	MMLite 310 322	Hypertension
+N1042	Reference T37 Source:C0020538:MTH	MTH
+N1043	Reference T37 Source:C0020538:DXP	DXP
+N1044	Reference T37 Source:C1963138:NCI_CTCAE_5	NCI_CTCAE_5
+N1045	Reference T37 Source:C0020538:PDQ	PDQ
+N1046	Reference T37 Source:C1963138:NCI	NCI
+N1047	Reference T37 Source:C0020538:SNMI	SNMI
+N1048	Reference T37 Source:C0020538:MEDLINEPLUS	MEDLINEPLUS
+N1049	Reference T37 SemanticType:C0020538:dsyn	dsyn
+N1050	Reference T37 Source:C0020538:CST	CST
+N1051	Reference T37 Source:C0020538:SNOMEDCT_VET	SNOMEDCT_VET
+N1052	Reference T37 Source:C0020538:CSP	CSP
+N1053	Reference T37 Source:C0020538:CCS	CCS
+N1054	Reference T37 Source:C0020538:HPO	HPO
+N1055	Reference T37 SemanticType:C1963138:fndg	fndg
+N1056	Reference T37 Source:C0020538:NCI_NICHD	NCI_NICHD
+N1057	Reference T37 Source:C0020538:COSTAR	COSTAR
+N1058	Reference T37 Source:C0020538:CHV	CHV
+N1059	Reference T37 Source:C0020538:SNM	SNM
+N1060	Reference T37 ConceptId:C0020538	Hypertensive disease
+N1061	Reference T37 Source:C0020538:NCI_FDA	NCI_FDA
+N1062	Reference T37 Source:C0020538:MSH	MSH
+N1063	Reference T37 Source:C0020538:OMIM	OMIM
+N1064	Reference T37 Source:C0020538:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N1065	Reference T37 Source:C0020538:LCH	LCH
+N1066	Reference T37 Source:C0020538:NCI_CTRP	NCI_CTRP
+N1067	Reference T37 Source:C0020538:AOD	AOD
+N1068	Reference T37 ConceptId:C1963138	Hypertension, CTCAE
+N1069	Reference T37 Source:C0020538:NCI_CTCAE	NCI_CTCAE
+N1070	Reference T37 Source:C0020538:ICD9CM	ICD9CM
+N1071	Reference T37 Source:C0020538:NCI	NCI
+N1072	Reference T37 Source:C0020538:NCI_CPTAC	NCI_CPTAC
+N1073	Reference T37 Source:C0020538:MTHICD9	MTHICD9
+N1074	Reference T37 Source:C0020538:ICD10CM	ICD10CM
+N1075	Reference T37 Source:C0020538:LCH_NW	LCH_NW
+N1076	Reference T37 Source:C0020538:LNC	LNC
+N1077	Reference T37 Source:C0020538:SNOMEDCT_US	SNOMEDCT_US
+N1078	Reference T37 Source:C1963138:MTH	MTH
+N1079	Reference T37 Source:C1963138:NCI_CTCAE_3	NCI_CTCAE_3
+T38	MMLite 2526 2553	right heart catheterization
+N1080	Reference T38 Source:C0189896:CHV	CHV
+N1081	Reference T38 Source:C0189896:SNM	SNM
+N1082	Reference T38 SemanticType:C0189896:diap	diap
+N1083	Reference T38 Source:C0189896:SNMI	SNMI
+N1084	Reference T38 Source:C0189896:NCI	NCI
+N1085	Reference T38 ConceptId:C0189896	Catheterization of right heart
+N1086	Reference T38 Source:C0189896:MTH	MTH
+N1087	Reference T38 Source:C0189896:SNOMEDCT_US	SNOMEDCT_US
+N1088	Reference T38 Source:C0189896:ICD9CM	ICD9CM
+T39	MMLite 1336 1345	pain free
+N1089	Reference T39 Source:C0908489:CHV	CHV
+N1090	Reference T39 SemanticType:C0908489:orch	orch
+N1091	Reference T39 ConceptId:C0908489	Pain-Free
+N1092	Reference T39 Source:C0908489:MSH	MSH
+T40	MMLite 571 577	Plavix
+N1093	Reference T40 Source:C0633084:MSH	MSH
+N1094	Reference T40 SemanticType:C0633084:phsu	phsu
+N1095	Reference T40 Source:C0633084:RXNORM	RXNORM
+N1096	Reference T40 SemanticType:C0633084:orch	orch
+N1097	Reference T40 Source:C0633084:PDQ	PDQ
+N1098	Reference T40 ConceptId:C0633084	Plavix
+N1099	Reference T40 Source:C0633084:CHV	CHV
+N1100	Reference T40 Source:C0633084:NCI	NCI
+T41	MMLite 160 163	333
+N1101	Reference T41 SemanticType:C4517724:qnco	qnco
+N1102	Reference T41 ConceptId:C4517724	333
+N1103	Reference T41 Source:C4517724:SNOMEDCT_US	SNOMEDCT_US
+T42	MMLite 2627 2631	mean
+N1104	Reference T42 SemanticType:C0444504:qnco	qnco
+N1105	Reference T42 Source:C2348143:NCI	NCI
+N1106	Reference T42 Source:C0444504:LNC	LNC
+N1107	Reference T42 Source:C0444504:SNOMEDCT_US	SNOMEDCT_US
+N1108	Reference T42 Source:C0444504:CHV	CHV
+N1109	Reference T42 SemanticType:C2347634:qnco	qnco
+N1110	Reference T42 ConceptId:C0444504	Statistical mean
+N1111	Reference T42 Source:C0444504:NCI	NCI
+N1112	Reference T42 Source:C2347634:NCI	NCI
+N1113	Reference T42 SemanticType:C2348143:qnco	qnco
+N1114	Reference T42 Source:C0444504:MTH	MTH
+N1115	Reference T42 Source:C0444504:NCI_CDISC-GLOSS	NCI_CDISC-GLOSS
+N1116	Reference T42 Source:C2347634:MTH	MTH
+N1117	Reference T42 Source:C2348143:MTH	MTH
+N1118	Reference T42 Source:C0444504:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N1119	Reference T42 ConceptId:C2347634	Population Mean
+N1120	Reference T42 ConceptId:C2348143	Sample Mean
+T43	MMLite 2102 2114	percutaneous
+N1121	Reference T43 Source:C0522523:SNOMEDCT_US	SNOMEDCT_US
+N1122	Reference T43 SemanticType:C1522243:ftcn	ftcn
+N1123	Reference T43 Source:C0522523:MTH	MTH
+N1124	Reference T43 Source:C1522243:SNOMEDCT_US	SNOMEDCT_US
+N1125	Reference T43 Source:C1522243:MTH	MTH
+N1126	Reference T43 Source:C1522243:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N1127	Reference T43 Source:C0522523:CHV	CHV
+N1128	Reference T43 Source:C1522243:NCI	NCI
+N1129	Reference T43 Source:C0522523:SNMI	SNMI
+N1130	Reference T43 Source:C1522243:NCI_CDISC	NCI_CDISC
+N1131	Reference T43 Source:C0522523:LNC	LNC
+N1132	Reference T43 Source:C1522243:NCI_FDA	NCI_FDA
+N1133	Reference T43 ConceptId:C0522523	Percutaneous
+N1134	Reference T43 SemanticType:C0522523:spco	spco
+N1135	Reference T43 ConceptId:C1522243	Percutaneous Route of Drug Administration
+T44	MMLite 2242 2246	good
+N1136	Reference T44 SemanticType:C1610541:idcn	idcn
+N1137	Reference T44 ConceptId:C0205170	Good
+N1138	Reference T44 Source:C1551023:MTH	MTH
+N1139	Reference T44 ConceptId:C1610541	Language Proficiency - Good
+N1140	Reference T44 ConceptId:C1551023	Language Ability Proficiency - Good
+N1141	Reference T44 Source:C0205170:SNOMEDCT_US	SNOMEDCT_US
+N1142	Reference T44 Source:C0205170:LNC	LNC
+N1143	Reference T44 Source:C1561563:MTH	MTH
+N1144	Reference T44 Source:C1551023:HL7V3.0	HL7V3.0
+N1145	Reference T44 SemanticType:C0205170:qlco	qlco
+N1146	Reference T44 Source:C0205170:CHV	CHV
+N1147	Reference T44 Source:C0205170:SNMI	SNMI
+N1148	Reference T44 Source:C0205170:NCI_FDA	NCI_FDA
+N1149	Reference T44 SemanticType:C1551023:idcn	idcn
+N1150	Reference T44 Source:C1561563:HL7V2.5	HL7V2.5
+N1151	Reference T44 Source:C1610541:MTH	MTH
+N1152	Reference T44 Source:C0205170:NCI	NCI
+N1153	Reference T44 ConceptId:C1561563	Specimen Quality - Good
+N1154	Reference T44 SemanticType:C1561563:qlco	qlco
+N1155	Reference T44 Source:C0205170:MTH	MTH
+N1156	Reference T44 Source:C1610541:HL7V2.5	HL7V2.5
+T45	MMLite 1006 1013	October
+N1157	Reference T45 ConceptId:C3828732	October
+N1158	Reference T45 SemanticType:C3828732:tmco	tmco
+N1159	Reference T45 Source:C3828732:NCI	NCI
+N1160	Reference T45 Source:C3828732:LNC	LNC
+T46	MMLite 83 96	Report Status
+N1161	Reference T46 Source:C0586177:MTH	MTH
+N1162	Reference T46 ConceptId:C4760061	Report status:Type:Point in time:Report:Nominal
+N1163	Reference T46 Source:C0586177:CHV	CHV
+N1164	Reference T46 Source:C4760061:LNC	LNC
+N1165	Reference T46 ConceptId:C0586177	Report status (finding)
+N1166	Reference T46 SemanticType:C0586177:fndg	fndg
+N1167	Reference T46 Source:C0586177:SNOMEDCT_US	SNOMEDCT_US
+N1168	Reference T46 Source:C4760061:MTH	MTH
+N1169	Reference T46 Source:C0586177:LNC	LNC
+N1170	Reference T46 SemanticType:C4760061:clna	clna
+T47	MMLite 1253 1276	cardiac catheterization
+N1171	Reference T47 Source:C0018795:MSH	MSH
+N1172	Reference T47 ConceptId:C1547981	Diagnostic Service Section ID - Cardiac Catheterization
+N1173	Reference T47 Source:C0018795:MTHICD9	MTHICD9
+N1174	Reference T47 Source:C0018795:CHV	CHV
+N1175	Reference T47 Source:C0018795:LCH	LCH
+N1176	Reference T47 Source:C0018795:NCI_CDISC	NCI_CDISC
+N1177	Reference T47 SemanticType:C1547981:inpr	inpr
+N1178	Reference T47 Source:C0018795:COSTAR	COSTAR
+N1179	Reference T47 Source:C0018795:MTH	MTH
+N1180	Reference T47 SemanticType:C1548828:hlca	hlca
+N1181	Reference T47 Source:C0018795:SNMI	SNMI
+N1182	Reference T47 Source:C1548828:MTH	MTH
+N1183	Reference T47 Source:C1547981:HL7V2.5	HL7V2.5
+N1184	Reference T47 Source:C0018795:SNM	SNM
+N1185	Reference T47 Source:C0018795:CSP	CSP
+N1186	Reference T47 Source:C0018795:CCS	CCS
+N1187	Reference T47 Source:C1548828:HL7V2.5	HL7V2.5
+N1188	Reference T47 ConceptId:C0018795	Cardiac Catheterization Procedures
+N1189	Reference T47 Source:C0018795:LCH_NW	LCH_NW
+N1190	Reference T47 Source:C0018795:SNOMEDCT_US	SNOMEDCT_US
+N1191	Reference T47 Source:C0018795:LNC	LNC
+N1192	Reference T47 Source:C1547981:MTH	MTH
+N1193	Reference T47 Source:C0018795:NCI	NCI
+N1194	Reference T47 SemanticType:C0018795:diap	diap
+N1195	Reference T47 ConceptId:C1548828	Consent Type - Cardiac Catheterization
+T48	MMLite 1583 1589	distal
+N1196	Reference T48 Source:C0205108:HPO	HPO
+N1197	Reference T48 SemanticType:C0205108:spco	spco
+N1198	Reference T48 Source:C0205108:NCI	NCI
+N1199	Reference T48 Source:C0205108:SNOMEDCT_US	SNOMEDCT_US
+N1200	Reference T48 Source:C4522154:MTH	MTH
+N1201	Reference T48 Source:C4522154:NCI	NCI
+N1202	Reference T48 Source:C0205108:CHV	CHV
+N1203	Reference T48 Source:C0205108:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N1204	Reference T48 SemanticType:C4522154:clna	clna
+N1205	Reference T48 Source:C0205108:HL7V2.5	HL7V2.5
+N1206	Reference T48 Source:C0205108:LNC	LNC
+N1207	Reference T48 ConceptId:C0205108	Distal (qualifier value)
+N1208	Reference T48 ConceptId:C4522154	Distal Resection Margin
+N1209	Reference T48 Source:C0205108:SNMI	SNMI
+N1210	Reference T48 Source:C0205108:NCI_CDISC	NCI_CDISC
+N1211	Reference T48 Source:C0205108:UWDA	UWDA
+N1212	Reference T48 Source:C0205108:MTH	MTH
+T49	MMLite 2163 2168	right
+N1213	Reference T49 Source:C0205090:MTH	MTH
+N1214	Reference T49 SemanticType:C0205090:spco	spco
+N1215	Reference T49 Source:C0205090:SNOMEDCT_US	SNOMEDCT_US
+N1216	Reference T49 Source:C0205090:UWDA	UWDA
+N1217	Reference T49 ConceptId:C0444532	Right sided
+N1218	Reference T49 ConceptId:C0205090	Right
+N1219	Reference T49 Source:C0205090:SNMI	SNMI
+N1220	Reference T49 Source:C0444532:SNOMEDCT_US	SNOMEDCT_US
+N1221	Reference T49 Source:C0444532:NCI_CDISC	NCI_CDISC
+N1222	Reference T49 Source:C1552823:MTH	MTH
+N1223	Reference T49 Source:C0205090:NCI	NCI
+N1224	Reference T49 Source:C0205090:CHV	CHV
+N1225	Reference T49 SemanticType:C1552823:ftcn	ftcn
+N1226	Reference T49 Source:C0205090:NCI_CPTAC	NCI_CPTAC
+N1227	Reference T49 ConceptId:C1552823	Table Cell Horizontal Align - right
+N1228	Reference T49 Source:C0444532:MTH	MTH
+N1229	Reference T49 Source:C0205090:LNC	LNC
+N1230	Reference T49 Source:C0444532:NCI	NCI
+N1231	Reference T49 Source:C0444532:HPO	HPO
+N1232	Reference T49 Source:C0205090:NCI_CDISC	NCI_CDISC
+N1233	Reference T49 Source:C0205090:HL7V2.5	HL7V2.5
+N1234	Reference T49 SemanticType:C0444532:spco	spco
+N1235	Reference T49 Source:C0444532:CHV	CHV
+N1236	Reference T49 Source:C1552823:HL7V3.0	HL7V3.0
+T50	MMLite 325 329	Gout
+N1237	Reference T50 Source:C0018099:LCH_NW	LCH_NW
+N1238	Reference T50 Source:C0018099:LNC	LNC
+N1239	Reference T50 Source:C0018099:COSTAR	COSTAR
+N1240	Reference T50 Source:C0018099:CCSR_10	CCSR_10
+N1241	Reference T50 Source:C0018099:ICD9CM	ICD9CM
+N1242	Reference T50 Source:C0018099:NCI	NCI
+N1243	Reference T50 SemanticType:C0018099:dsyn	dsyn
+N1244	Reference T50 Source:C0018099:LCH	LCH
+N1245	Reference T50 Source:C0018099:AOD	AOD
+N1246	Reference T50 Source:C0018099:ICD10CM	ICD10CM
+N1247	Reference T50 Source:C0018099:MSH	MSH
+N1248	Reference T50 Source:C0018099:MEDLINEPLUS	MEDLINEPLUS
+N1249	Reference T50 ConceptId:C0018099	Gout
+N1250	Reference T50 Source:C0018099:SNM	SNM
+N1251	Reference T50 Source:C0018099:CHV	CHV
+N1252	Reference T50 Source:C0018099:SNOMEDCT_US	SNOMEDCT_US
+N1253	Reference T50 Source:C0018099:OMIM	OMIM
+N1254	Reference T50 Source:C0018099:AIR	AIR
+N1255	Reference T50 Source:C0018099:HPO	HPO
+N1256	Reference T50 Source:C0018099:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N1257	Reference T50 Source:C0018099:CSP	CSP
+N1258	Reference T50 Source:C0018099:CST	CST
+N1259	Reference T50 Source:C0018099:ICPC	ICPC
+N1260	Reference T50 Source:C0018099:SNMI	SNMI
+N1261	Reference T50 Source:C0018099:MTH	MTH
+N1262	Reference T50 Source:C0018099:DXP	DXP
+T51	MMLite 2237 2241	with
+N1263	Reference T51 ConceptId:C1705690	With - dosing instruction fragment
+N1264	Reference T51 Source:C0332287:MTH	MTH
+N1265	Reference T51 Source:C0332287:SNMI	SNMI
+N1266	Reference T51 SemanticType:C1705690:inpr	inpr
+N1267	Reference T51 Source:C0332287:LNC	LNC
+N1268	Reference T51 Source:C1705690:SNOMEDCT_US	SNOMEDCT_US
+N1269	Reference T51 Source:C1705690:MTH	MTH
+N1270	Reference T51 ConceptId:C0332287	In addition to
+N1271	Reference T51 Source:C0332287:NCI	NCI
+N1272	Reference T51 Source:C0332287:SNOMEDCT_US	SNOMEDCT_US
+N1273	Reference T51 SemanticType:C0332287:ftcn	ftcn
+T52	MMLite 2828 2842	echocardiogram
+N1274	Reference T52 Source:C0013516:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N1275	Reference T52 Source:C0013516:HL7V2.5	HL7V2.5
+N1276	Reference T52 Source:C2243117:NCI_FDA	NCI_FDA
+N1277	Reference T52 Source:C2243117:NCI	NCI
+N1278	Reference T52 Source:C0013516:LNC	LNC
+N1279	Reference T52 Source:C0013516:PDQ	PDQ
+N1280	Reference T52 Source:C0013516:MEDLINEPLUS	MEDLINEPLUS
+N1281	Reference T52 Source:C0013516:CSP	CSP
+N1282	Reference T52 Source:C0013516:ICD9CM	ICD9CM
+N1283	Reference T52 Source:C0013516:NCI_CDISC	NCI_CDISC
+N1284	Reference T52 Source:C0013516:SNMI	SNMI
+N1285	Reference T52 Source:C0013516:SNOMEDCT_US	SNOMEDCT_US
+N1286	Reference T52 Source:C0013516:MTH	MTH
+N1287	Reference T52 Source:C2243117:MTH	MTH
+N1288	Reference T52 Source:C0013516:MSH	MSH
+N1289	Reference T52 Source:C0013516:LCH_NW	LCH_NW
+N1290	Reference T52 Source:C0013516:SNM	SNM
+N1291	Reference T52 ConceptId:C0013516	Echocardiography
+N1292	Reference T52 Source:C0013516:CHV	CHV
+N1293	Reference T52 Source:C0013516:MTHICD9	MTHICD9
+N1294	Reference T52 Source:C0013516:NCI_CTRP	NCI_CTRP
+N1295	Reference T52 SemanticType:C0013516:diap	diap
+N1296	Reference T52 Source:C0013516:NCI	NCI
+N1297	Reference T52 SemanticType:C2243117:inpr	inpr
+N1298	Reference T52 Source:C0013516:LCH	LCH
+N1299	Reference T52 ConceptId:C2243117	Echocardiogram (image)
+N1300	Reference T52 Source:C0013516:AOD	AOD
+T53	MMLite 2990 2997	patient
+N1301	Reference T53 ConceptId:C0030705	Patients
+N1302	Reference T53 Source:C1705908:MTH	MTH
+N1303	Reference T53 SemanticType:C1578481:idcn	idcn
+N1304	Reference T53 ConceptId:C1578483	Report source - Patient
+N1305	Reference T53 ConceptId:C1705908	Veterinary Patient
+N1306	Reference T53 Source:C0030705:LNC	LNC
+N1307	Reference T53 Source:C1578484:HL7V2.5	HL7V2.5
+N1308	Reference T53 Source:C0030705:NCI_DICOM	NCI_DICOM
+N1309	Reference T53 Source:C0030705:MTH	MTH
+N1310	Reference T53 Source:C1578485:HL7V2.5	HL7V2.5
+N1311	Reference T53 ConceptId:C1578481	Mail Claim Party - Patient
+N1312	Reference T53 Source:C1578481:HL7V2.5	HL7V2.5
+N1313	Reference T53 Source:C1578483:MTH	MTH
+N1314	Reference T53 SemanticType:C1578483:idcn	idcn
+N1315	Reference T53 ConceptId:C1578485	Specimen Source Codes - Patient
+N1316	Reference T53 ConceptId:C1578486	Disabled Person Code - Patient
+N1317	Reference T53 Source:C0030705:CHV	CHV
+N1318	Reference T53 Source:C0030705:SNOMEDCT_US	SNOMEDCT_US
+N1319	Reference T53 ConceptId:C1550655	Specimen Type - Patient
+N1320	Reference T53 Source:C0030705:NCI_CDISC-GLOSS	NCI_CDISC-GLOSS
+N1321	Reference T53 Source:C1705908:NCI	NCI
+N1322	Reference T53 SemanticType:C1578485:inpr	inpr
+N1323	Reference T53 Source:C1578486:HL7V2.5	HL7V2.5
+N1324	Reference T53 Source:C1578485:MTH	MTH
+N1325	Reference T53 Source:C0030705:NCI_FDA	NCI_FDA
+N1326	Reference T53 Source:C1578486:MTH	MTH
+N1327	Reference T53 Source:C1578484:MTH	MTH
+N1328	Reference T53 Source:C0030705:MSH	MSH
+N1329	Reference T53 Source:C1578481:MTH	MTH
+N1330	Reference T53 Source:C1578483:HL7V2.5	HL7V2.5
+N1331	Reference T53 Source:C0030705:AOD	AOD
+N1332	Reference T53 Source:C1550655:HL7V3.0	HL7V3.0
+N1333	Reference T53 Source:C0030705:LCH	LCH
+N1334	Reference T53 SemanticType:C1578484:idcn	idcn
+N1335	Reference T53 SemanticType:C1550655:bdsu	bdsu
+N1336	Reference T53 ConceptId:C1578484	Relationship modifier - Patient
+N1337	Reference T53 SemanticType:C0030705:podg	podg
+N1338	Reference T53 Source:C0030705:HL7V3.0	HL7V3.0
+N1339	Reference T53 Source:C0030705:LCH_NW	LCH_NW
+N1340	Reference T53 Source:C0030705:NCI	NCI
+N1341	Reference T53 Source:C1550655:MTH	MTH
+N1342	Reference T53 SemanticType:C1705908:orgm	orgm
+N1343	Reference T53 SemanticType:C1578486:inpr	inpr
+T54	MMLite 1639 1663	neurological examination
+N1344	Reference T54 Source:C0027853:SNM	SNM
+N1345	Reference T54 Source:C0027853:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N1346	Reference T54 Source:C0027853:LCH_NW	LCH_NW
+N1347	Reference T54 Source:C0027853:CHV	CHV
+N1348	Reference T54 Source:C0027853:AIR	AIR
+N1349	Reference T54 Source:C0027853:SNOMEDCT_US	SNOMEDCT_US
+N1350	Reference T54 ConceptId:C0027853	Neurologic Examination
+N1351	Reference T54 Source:C0027853:MSH	MSH
+N1352	Reference T54 Source:C0027853:SNMI	SNMI
+N1353	Reference T54 Source:C0027853:LNC	LNC
+N1354	Reference T54 Source:C0027853:NCI_CTRP	NCI_CTRP
+N1355	Reference T54 Source:C0027853:ICD9CM	ICD9CM
+N1356	Reference T54 Source:C0027853:LCH	LCH
+N1357	Reference T54 Source:C0027853:AOD	AOD
+N1358	Reference T54 Source:C0027853:MTH	MTH
+N1359	Reference T54 SemanticType:C0027853:diap	diap
+N1360	Reference T54 Source:C0027853:CSP	CSP
+N1361	Reference T54 Source:C0027853:NCI_NICHD	NCI_NICHD
+N1362	Reference T54 Source:C0027853:NCI	NCI
+T55	MMLite 2620 2624	with
+N1363	Reference T55 ConceptId:C1705690	With - dosing instruction fragment
+N1364	Reference T55 Source:C0332287:MTH	MTH
+N1365	Reference T55 Source:C0332287:SNMI	SNMI
+N1366	Reference T55 SemanticType:C1705690:inpr	inpr
+N1367	Reference T55 Source:C0332287:LNC	LNC
+N1368	Reference T55 Source:C1705690:SNOMEDCT_US	SNOMEDCT_US
+N1369	Reference T55 Source:C1705690:MTH	MTH
+N1370	Reference T55 ConceptId:C0332287	In addition to
+N1371	Reference T55 Source:C0332287:NCI	NCI
+N1372	Reference T55 Source:C0332287:SNOMEDCT_US	SNOMEDCT_US
+N1373	Reference T55 SemanticType:C0332287:ftcn	ftcn
+T56	MMLite 198 212	DISCHARGE DATE
+N1374	Reference T56 SemanticType:C2361122:clna	clna
+N1375	Reference T56 Source:C2361122:LNC	LNC
+N1376	Reference T56 ConceptId:C2361123	Discharge date
+N1377	Reference T56 Source:C2361123:SNOMEDCT_US	SNOMEDCT_US
+N1378	Reference T56 Source:C2361123:LNC	LNC
+N1379	Reference T56 Source:C2361122:MTH	MTH
+N1380	Reference T56 Source:C2361123:MTH	MTH
+N1381	Reference T56 SemanticType:C2361123:tmco	tmco
+N1382	Reference T56 ConceptId:C2361122	Discharge date:Time Stamp -- Date and Time:Point in time:^Patient:Quantitative
+T57	MMLite 1746 1751	small
+N1383	Reference T57 Source:C0700321:SNOMEDCT_US	SNOMEDCT_US
+N1384	Reference T57 Source:C0700321:CHV	CHV
+N1385	Reference T57 Source:C0700321:NCI_CDISC	NCI_CDISC
+N1386	Reference T57 SemanticType:C0700321:qnco	qnco
+N1387	Reference T57 Source:C0700321:SNMI	SNMI
+N1388	Reference T57 Source:C0700321:NCI	NCI
+N1389	Reference T57 Source:C0700321:LNC	LNC
+N1390	Reference T57 ConceptId:C0700321	Small
+N1391	Reference T57 Source:C0700321:MTH	MTH
+T58	MMLite 54 71	Discharge Summary
+N1392	Reference T58 Source:C0801840:MTH	MTH
+N1393	Reference T58 Source:C0743221:SNOMEDCT_US	SNOMEDCT_US
+N1394	Reference T58 Source:C0743221:MTH	MTH
+N1395	Reference T58 Source:C0743221:CHV	CHV
+N1396	Reference T58 ConceptId:C0743221	Discharge summary
+N1397	Reference T58 Source:C0801840:LNC	LNC
+N1398	Reference T58 SemanticType:C0801840:clna	clna
+N1399	Reference T58 SemanticType:C0743221:inpr	inpr
+N1400	Reference T58 Source:C0743221:LNC	LNC
+N1401	Reference T58 Source:C0743221:HL7V2.5	HL7V2.5
+N1402	Reference T58 ConceptId:C0801840	Discharge summarization note:Finding:Point in time:{Setting}:Document:{Provider}
+T59	MMLite 1590 1596	pulses
+N1403	Reference T59 Source:C0391850:MTH	MTH
+N1404	Reference T59 SemanticType:C0391850:phsf	phsf
+N1405	Reference T59 Source:C0034107:MSH	MSH
+N1406	Reference T59 Source:C0034107:SNMI	SNMI
+N1407	Reference T59 Source:C0034107:CHV	CHV
+N1408	Reference T59 Source:C0034107:SNM	SNM
+N1409	Reference T59 SemanticType:C0034107:hlca	hlca
+N1410	Reference T59 Source:C0391850:CHV	CHV
+N1411	Reference T59 Source:C0391850:SNMI	SNMI
+N1412	Reference T59 Source:C0391850:MEDLINEPLUS	MEDLINEPLUS
+N1413	Reference T59 ConceptId:C0034107	Pulse taking
+N1414	Reference T59 Source:C0034107:LCH	LCH
+N1415	Reference T59 Source:C0034107:LCH_NW	LCH_NW
+N1416	Reference T59 ConceptId:C0391850	Physiologic pulse
+N1417	Reference T59 Source:C0391850:SNOMEDCT_US	SNOMEDCT_US
+N1418	Reference T59 Source:C0391850:SNM	SNM
+N1419	Reference T59 Source:C0034107:MTH	MTH
+N1420	Reference T59 Source:C0034107:SNOMEDCT_US	SNOMEDCT_US
+T60	MMLite 698 702	with
+N1421	Reference T60 ConceptId:C1705690	With - dosing instruction fragment
+N1422	Reference T60 Source:C0332287:MTH	MTH
+N1423	Reference T60 Source:C0332287:SNMI	SNMI
+N1424	Reference T60 SemanticType:C1705690:inpr	inpr
+N1425	Reference T60 Source:C0332287:LNC	LNC
+N1426	Reference T60 Source:C1705690:SNOMEDCT_US	SNOMEDCT_US
+N1427	Reference T60 Source:C1705690:MTH	MTH
+N1428	Reference T60 ConceptId:C0332287	In addition to
+N1429	Reference T60 Source:C0332287:NCI	NCI
+N1430	Reference T60 Source:C0332287:SNOMEDCT_US	SNOMEDCT_US
+N1431	Reference T60 SemanticType:C0332287:ftcn	ftcn
+T61	MMLite 3006 3019	mental status
+N1432	Reference T61 Source:C0278060:SNOMEDCT_US	SNOMEDCT_US
+N1433	Reference T61 Source:C0488568:MTH	MTH
+N1434	Reference T61 Source:C0278060:MTH	MTH
+N1435	Reference T61 ConceptId:C0278060	Mental state
+N1436	Reference T61 ConceptId:C0488569	Mental status:Finding:Point in time:^Patient:Nominal:Observed
+N1437	Reference T61 SemanticType:C0488569:clna	clna
+N1438	Reference T61 Source:C0278060:LNC	LNC
+N1439	Reference T61 Source:C0278060:SNMI	SNMI
+N1440	Reference T61 Source:C0488569:LNC	LNC
+N1441	Reference T61 Source:C0488568:LNC	LNC
+N1442	Reference T61 Source:C2004284:NCI_CTCAE_3	NCI_CTCAE_3
+N1443	Reference T61 ConceptId:C2004284	Mental Status, CTCAE
+N1444	Reference T61 Source:C0278060:CHV	CHV
+N1445	Reference T61 Source:C2004284:MTH	MTH
+N1446	Reference T61 SemanticType:C0278060:fndg	fndg
+N1447	Reference T61 ConceptId:C0488568	Mental status:Finding:Point in time:^Patient:Narrative:Observed
+N1448	Reference T61 Source:C2004284:NCI	NCI
+N1449	Reference T61 SemanticType:C2004284:fndg	fndg
+N1450	Reference T61 Source:C0488569:MTH	MTH
+N1451	Reference T61 SemanticType:C0488568:clna	clna
+T62	MMLite 2448 2452	Duet
+N1452	Reference T62 SemanticType:C1170232:phsu	phsu
+N1453	Reference T62 Source:C1170232:CHV	CHV
+N1454	Reference T62 Source:C1537432:MTH	MTH
+N1455	Reference T62 ConceptId:C1170232	Duet, Prenatal Multivitamins
+N1456	Reference T62 SemanticType:C1170232:orch	orch
+N1457	Reference T62 ConceptId:C1537432	KALRN gene
+N1458	Reference T62 Source:C1537432:OMIM	OMIM
+N1459	Reference T62 Source:C1170232:MTH	MTH
+N1460	Reference T62 Source:C1537432:HGNC	HGNC
+N1461	Reference T62 SemanticType:C1537432:gngm	gngm
+T63	MMLite 1321 1328	patient
+N1462	Reference T63 ConceptId:C0030705	Patients
+N1463	Reference T63 SemanticType:C1578481:idcn	idcn
+N1464	Reference T63 Source:C1705908:MTH	MTH
+N1465	Reference T63 ConceptId:C1578483	Report source - Patient
+N1466	Reference T63 Source:C1578484:HL7V2.5	HL7V2.5
+N1467	Reference T63 ConceptId:C1705908	Veterinary Patient
+N1468	Reference T63 Source:C0030705:LNC	LNC
+N1469	Reference T63 Source:C0030705:NCI_DICOM	NCI_DICOM
+N1470	Reference T63 Source:C0030705:MTH	MTH
+N1471	Reference T63 Source:C1578485:HL7V2.5	HL7V2.5
+N1472	Reference T63 ConceptId:C1578481	Mail Claim Party - Patient
+N1473	Reference T63 Source:C1578481:HL7V2.5	HL7V2.5
+N1474	Reference T63 Source:C1578483:MTH	MTH
+N1475	Reference T63 SemanticType:C1578483:idcn	idcn
+N1476	Reference T63 ConceptId:C1578486	Disabled Person Code - Patient
+N1477	Reference T63 ConceptId:C1578485	Specimen Source Codes - Patient
+N1478	Reference T63 ConceptId:C1550655	Specimen Type - Patient
+N1479	Reference T63 Source:C0030705:CHV	CHV
+N1480	Reference T63 Source:C0030705:SNOMEDCT_US	SNOMEDCT_US
+N1481	Reference T63 Source:C0030705:NCI_CDISC-GLOSS	NCI_CDISC-GLOSS
+N1482	Reference T63 Source:C1705908:NCI	NCI
+N1483	Reference T63 Source:C1578486:HL7V2.5	HL7V2.5
+N1484	Reference T63 SemanticType:C1578485:inpr	inpr
+N1485	Reference T63 Source:C1578485:MTH	MTH
+N1486	Reference T63 Source:C1578486:MTH	MTH
+N1487	Reference T63 Source:C1578484:MTH	MTH
+N1488	Reference T63 Source:C0030705:NCI_FDA	NCI_FDA
+N1489	Reference T63 Source:C1578481:MTH	MTH
+N1490	Reference T63 Source:C0030705:MSH	MSH
+N1491	Reference T63 Source:C1578483:HL7V2.5	HL7V2.5
+N1492	Reference T63 Source:C1550655:HL7V3.0	HL7V3.0
+N1493	Reference T63 Source:C0030705:AOD	AOD
+N1494	Reference T63 SemanticType:C1578484:idcn	idcn
+N1495	Reference T63 Source:C0030705:LCH	LCH
+N1496	Reference T63 SemanticType:C1550655:bdsu	bdsu
+N1497	Reference T63 ConceptId:C1578484	Relationship modifier - Patient
+N1498	Reference T63 SemanticType:C0030705:podg	podg
+N1499	Reference T63 Source:C0030705:HL7V3.0	HL7V3.0
+N1500	Reference T63 Source:C0030705:LCH_NW	LCH_NW
+N1501	Reference T63 Source:C1550655:MTH	MTH
+N1502	Reference T63 Source:C0030705:NCI	NCI
+N1503	Reference T63 SemanticType:C1705908:orgm	orgm
+N1504	Reference T63 SemanticType:C1578486:inpr	inpr
+T64	MMLite 493 500	October
+N1505	Reference T64 ConceptId:C3828732	October
+N1506	Reference T64 SemanticType:C3828732:tmco	tmco
+N1507	Reference T64 Source:C3828732:NCI	NCI
+N1508	Reference T64 Source:C3828732:LNC	LNC
+T65	MMLite 912 915	Oct
+N1509	Reference T65 ConceptId:C0029279	ORNITHINE CARBAMOYLTRANSFERASE
+N1510	Reference T65 Source:C1882161:NCI	NCI
+N1511	Reference T65 Source:C0920367:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N1512	Reference T65 SemanticType:C1418661:gngm	gngm
+N1513	Reference T65 Source:C0920367:PDQ	PDQ
+N1514	Reference T65 Source:C1418661:MTH	MTH
+N1515	Reference T65 Source:C0920367:CSP	CSP
+N1516	Reference T65 ConceptId:C1418661	PLXNA2 gene
+N1517	Reference T65 Source:C0029279:LNC	LNC
+N1518	Reference T65 Source:C0920367:MTH	MTH
+N1519	Reference T65 Source:C0920367:NCI_CDISC	NCI_CDISC
+N1520	Reference T65 Source:C0029279:AOD	AOD
+N1521	Reference T65 Source:C0029279:LCH_NW	LCH_NW
+N1522	Reference T65 ConceptId:C1882161	Optimal Cutting Temperature Compound
+N1523	Reference T65 Source:C0920367:NCI	NCI
+N1524	Reference T65 Source:C0029279:SNMI	SNMI
+N1525	Reference T65 Source:C0920367:SNOMEDCT_US	SNOMEDCT_US
+N1526	Reference T65 SemanticType:C0029279:aapp	aapp
+N1527	Reference T65 Source:C0029279:SNOMEDCT_US	SNOMEDCT_US
+N1528	Reference T65 Source:C1418661:OMIM	OMIM
+N1529	Reference T65 SemanticType:C1882161:irda	irda
+N1530	Reference T65 Source:C0029279:CHV	CHV
+N1531	Reference T65 Source:C0029279:SNM	SNM
+N1532	Reference T65 Source:C0029279:MSH	MSH
+N1533	Reference T65 Source:C0920367:LCH_NW	LCH_NW
+N1534	Reference T65 Source:C0920367:NCI_CTRP	NCI_CTRP
+N1535	Reference T65 Source:C1418661:HGNC	HGNC
+N1536	Reference T65 Source:C0029279:MTH	MTH
+N1537	Reference T65 Source:C0920367:CHV	CHV
+N1538	Reference T65 SemanticType:C0029279:enzy	enzy
+N1539	Reference T65 ConceptId:C0920367	Tomography, Optical Coherence
+N1540	Reference T65 Source:C1882161:MTH	MTH
+N1541	Reference T65 Source:C0029279:CSP	CSP
+N1542	Reference T65 SemanticType:C0920367:diap	diap
+N1543	Reference T65 Source:C0920367:MSH	MSH
+T66	MMLite 3033 3041	baseline
+N1544	Reference T66 Source:C1442488:NCI	NCI
+N1545	Reference T66 ConceptId:C0168634	BaseLine dental cement
+N1546	Reference T66 Source:C1552824:HL7V3.0	HL7V3.0
+N1547	Reference T66 Source:C0168634:MSH	MSH
+N1548	Reference T66 Source:C1552824:NCI	NCI
+N1549	Reference T66 SemanticType:C0168634:bodm	bodm
+N1550	Reference T66 Source:C1442488:MTH	MTH
+N1551	Reference T66 Source:C0168634:CHV	CHV
+N1552	Reference T66 Source:C1552824:MTH	MTH
+N1553	Reference T66 ConceptId:C1442488	Baseline
+N1554	Reference T66 Source:C1552824:NCI_CDISC	NCI_CDISC
+N1555	Reference T66 Source:C1442488:LNC	LNC
+N1556	Reference T66 SemanticType:C1552824:idcn	idcn
+N1557	Reference T66 Source:C0168634:MTH	MTH
+N1558	Reference T66 Source:C1442488:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N1559	Reference T66 SemanticType:C1442488:qnco	qnco
+N1560	Reference T66 ConceptId:C1552824	baseline - TableCellVerticalAlign
+T67	MMLite 151 157	NUMBER
+N1561	Reference T67 SemanticType:C0237753:qnco	qnco
+N1562	Reference T67 Source:C0449788:CHV	CHV
+N1563	Reference T67 Source:C1554106:HL7V3.0	HL7V3.0
+N1564	Reference T67 ConceptId:C0237753	Numbers
+N1565	Reference T67 Source:C0449788:SNOMEDCT_US	SNOMEDCT_US
+N1566	Reference T67 Source:C0237753:MTH	MTH
+N1567	Reference T67 ConceptId:C0449788	Count of entities
+N1568	Reference T67 ConceptId:C1554106	MDF AttributeType - Number
+N1569	Reference T67 Source:C0237753:NCI	NCI
+N1570	Reference T67 Source:C1554106:MTH	MTH
+N1571	Reference T67 SemanticType:C1554106:idcn	idcn
+N1572	Reference T67 Source:C0237753:HL7V2.5	HL7V2.5
+N1573	Reference T67 Source:C0237753:NCI_UCUM	NCI_UCUM
+N1574	Reference T67 Source:C0237753:CHV	CHV
+N1575	Reference T67 Source:C0237753:SNMI	SNMI
+N1576	Reference T67 Source:C0237753:SNOMEDCT_US	SNOMEDCT_US
+N1577	Reference T67 SemanticType:C0449788:qnco	qnco
+N1578	Reference T67 Source:C0237753:LNC	LNC
+N1579	Reference T67 Source:C0449788:MTH	MTH
+T68	MMLite 226 245	PRINCIPAL DIAGNOSIS
+N1580	Reference T68 SemanticType:C2598194:clna	clna
+N1581	Reference T68 Source:C0332137:HL7V2.5	HL7V2.5
+N1582	Reference T68 Source:C0332137:SNMI	SNMI
+N1583	Reference T68 ConceptId:C0332137	Principal diagnosis
+N1584	Reference T68 Source:C0332137:LNC	LNC
+N1585	Reference T68 ConceptId:C2598194	Principal Diagnosis:-:Point in time:^Patient:-
+N1586	Reference T68 Source:C2598194:MTH	MTH
+N1587	Reference T68 SemanticType:C0332137:qlco	qlco
+N1588	Reference T68 Source:C0332137:SNOMEDCT_US	SNOMEDCT_US
+N1589	Reference T68 Source:C0332137:MTH	MTH
+N1590	Reference T68 Source:C2598194:LNC	LNC
+N1591	Reference T68 Source:C0332137:CHV	CHV
+T69	MMLite 2977 2981	next
+N1592	Reference T69 Source:C2826246:NCI_CDISC	NCI_CDISC
+N1593	Reference T69 ConceptId:C1552851	next - HtmlLinkType
+N1594	Reference T69 Source:C1552851:MTH	MTH
+N1595	Reference T69 Source:C0205117:SNMI	SNMI
+N1596	Reference T69 Source:C0205117:NCI	NCI
+N1597	Reference T69 SemanticType:C0332282:tmco	tmco
+N1598	Reference T69 SemanticType:C0205117:spco	spco
+N1599	Reference T69 Source:C0332282:CHV	CHV
+N1600	Reference T69 Source:C0332282:SNMI	SNMI
+N1601	Reference T69 Source:C1883708:NCI	NCI
+N1602	Reference T69 ConceptId:C0205117	Adjacent
+N1603	Reference T69 SemanticType:C1552851:idcn	idcn
+N1604	Reference T69 Source:C0205117:MTH	MTH
+N1605	Reference T69 Source:C2826246:MTH	MTH
+N1606	Reference T69 Source:C0332282:MTH	MTH
+N1607	Reference T69 SemanticType:C2826246:resa	resa
+N1608	Reference T69 Source:C0332282:SNOMEDCT_US	SNOMEDCT_US
+N1609	Reference T69 Source:C0205117:CHV	CHV
+N1610	Reference T69 ConceptId:C0332282	Following
+N1611	Reference T69 Source:C0205117:SNOMEDCT_US	SNOMEDCT_US
+N1612	Reference T69 ConceptId:C1883708	Then
+N1613	Reference T69 ConceptId:C2826246	Subsequent Trial Activity
+N1614	Reference T69 Source:C2826246:NCI	NCI
+N1615	Reference T69 Source:C0332282:NCI	NCI
+N1616	Reference T69 SemanticType:C1883708:tmco	tmco
+N1617	Reference T69 Source:C1883708:MTH	MTH
+N1618	Reference T69 Source:C1552851:HL7V3.0	HL7V3.0
+T70	MMLite 1985 1993	directly
+N1619	Reference T70 Source:C1947931:NCI	NCI
+N1620	Reference T70 ConceptId:C1947931	Direct (qualifier)
+N1621	Reference T70 SemanticType:C1947931:qlco	qlco
+N1622	Reference T70 Source:C1947931:MTH	MTH
+T71	MMLite 832 843	angioplasty
+N1623	Reference T71 Source:C1548817:HL7V2.5	HL7V2.5
+N1624	Reference T71 Source:C0162577:MTH	MTH
+N1625	Reference T71 SemanticType:C1548817:hlca	hlca
+N1626	Reference T71 Source:C1548817:MTH	MTH
+N1627	Reference T71 Source:C0162577:NCI_CPTAC	NCI_CPTAC
+N1628	Reference T71 Source:C0162577:CSP	CSP
+N1629	Reference T71 Source:C0162577:NCI	NCI
+N1630	Reference T71 ConceptId:C1548817	Angioplasty - Consent Type
+N1631	Reference T71 Source:C0162577:SNOMEDCT_US	SNOMEDCT_US
+N1632	Reference T71 ConceptId:C0162577	Angioplasty
+N1633	Reference T71 Source:C0162577:SNMI	SNMI
+N1634	Reference T71 Source:C0162577:LCH_NW	LCH_NW
+N1635	Reference T71 Source:C0162577:MSH	MSH
+N1636	Reference T71 Source:C0162577:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N1637	Reference T71 Source:C0162577:LNC	LNC
+N1638	Reference T71 SemanticType:C0162577:topp	topp
+N1639	Reference T71 Source:C0162577:CHV	CHV
+N1640	Reference T71 Source:C0162577:MEDLINEPLUS	MEDLINEPLUS
+N1641	Reference T71 Source:C0162577:SNM	SNM
+T72	MMLite 1446 1456	heart rate
+N1642	Reference T72 Source:C0018810:NCI_NICHD	NCI_NICHD
+N1643	Reference T72 Source:C0018810:CHV	CHV
+N1644	Reference T72 Source:C0018810:NCI_CDISC	NCI_CDISC
+N1645	Reference T72 Source:C0018810:MSH	MSH
+N1646	Reference T72 Source:C0018810:MEDLINEPLUS	MEDLINEPLUS
+N1647	Reference T72 ConceptId:C0018810	heart rate
+N1648	Reference T72 Source:C0018810:ICF-CY	ICF-CY
+N1649	Reference T72 Source:C0018810:LNC	LNC
+N1650	Reference T72 Source:C0488794:LNC	LNC
+N1651	Reference T72 Source:C0018810:SNMI	SNMI
+N1652	Reference T72 SemanticType:C0488794:clna	clna
+N1653	Reference T72 Source:C0018810:NCI_NCPDP	NCI_NCPDP
+N1654	Reference T72 Source:C0018810:ICF	ICF
+N1655	Reference T72 Source:C0018810:AOD	AOD
+N1656	Reference T72 SemanticType:C0018810:clna	clna
+N1657	Reference T72 Source:C0018810:MTH	MTH
+N1658	Reference T72 Source:C0018810:NCI	NCI
+N1659	Reference T72 Source:C0018810:CSP	CSP
+N1660	Reference T72 Source:C0018810:SNOMEDCT_US	SNOMEDCT_US
+N1661	Reference T72 Source:C0018810:SNM	SNM
+N1662	Reference T72 ConceptId:C0488794	Heart beat:Number = Count/Time:Point in time:To be specified in another part of the message:Quantitative
+N1663	Reference T72 Source:C0488794:MTH	MTH
+T73	MMLite 3114 3120	Signed
+N1664	Reference T73 SemanticType:C1519316:inpr	inpr
+N1665	Reference T73 SemanticType:C1561610:inpr	inpr
+N1666	Reference T73 Source:C1519316:LNC	LNC
+N1667	Reference T73 Source:C1519316:NCI	NCI
+N1668	Reference T73 ConceptId:C1561610	signed - ParticipationSignature
+N1669	Reference T73 Source:C1561610:HL7V3.0	HL7V3.0
+N1670	Reference T73 Source:C1561610:MTH	MTH
+N1671	Reference T73 ConceptId:C1519316	Signature
+N1672	Reference T73 Source:C1519316:MTH	MTH
+N1673	Reference T73 Source:C1519316:NCI_BRIDG_3_0_3	NCI_BRIDG_3_0_3
+T74	MMLite 391 394	RCA
+N1674	Reference T74 Source:C4725622:NCI_EDQM-HC	NCI_EDQM-HC
+N1675	Reference T74 SemanticType:C4725622:inpr	inpr
+N1676	Reference T74 Source:C4725622:NCI	NCI
+N1677	Reference T74 ConceptId:C4725622	EDQM-HC Release Characteristics Terminology
+T75	MMLite 607 621	Atenolol 50 mg
+N1678	Reference T75 Source:C0983889:RXNORM	RXNORM
+N1679	Reference T75 ConceptId:C0983889	Atenolol 50 MG
+N1680	Reference T75 SemanticType:C0983889:clnd	clnd
+T76	MMLite 2279 2282	LAD
+N1681	Reference T76 Source:C1414063:OMIM	OMIM
+N1682	Reference T76 Source:C0226032:FMA	FMA
+N1683	Reference T76 Source:C0226032:SNM	SNM
+N1684	Reference T76 Source:C1706333:NCI	NCI
+N1685	Reference T76 Source:C0226032:CHV	CHV
+N1686	Reference T76 SemanticType:C1706333:gngm	gngm
+N1687	Reference T76 Source:C1414063:HGNC	HGNC
+N1688	Reference T76 ConceptId:C0398738	Leukocyte adhesion deficiency type 1
+N1689	Reference T76 Source:C0226032:MTH	MTH
+N1690	Reference T76 Source:C0398738:MTH	MTH
+N1691	Reference T76 ConceptId:C4724478	Ladino Language
+N1692	Reference T76 SemanticType:C0226032:bpoc	bpoc
+N1693	Reference T76 Source:C0226032:NCI_CDISC	NCI_CDISC
+N1694	Reference T76 Source:C0226032:SNOMEDCT_US	SNOMEDCT_US
+N1695	Reference T76 Source:C1414063:MTH	MTH
+N1696	Reference T76 Source:C0226032:HCPCS	HCPCS
+N1697	Reference T76 Source:C0398738:MSH	MSH
+N1698	Reference T76 Source:C4724478:MTH	MTH
+N1699	Reference T76 SemanticType:C4724478:lang	lang
+N1700	Reference T76 Source:C4724478:NCI	NCI
+N1701	Reference T76 Source:C0226032:NCI	NCI
+N1702	Reference T76 ConceptId:C1706333	ITGB2 wt Allele
+N1703	Reference T76 Source:C0398738:NCI	NCI
+N1704	Reference T76 Source:C1706333:MTH	MTH
+N1705	Reference T76 SemanticType:C1414063:gngm	gngm
+N1706	Reference T76 Source:C1414063:LNC	LNC
+N1707	Reference T76 Source:C0398738:OMIM	OMIM
+N1708	Reference T76 Source:C1706333:NCI_CTRP	NCI_CTRP
+N1709	Reference T76 Source:C0226032:SNMI	SNMI
+N1710	Reference T76 Source:C0226032:UWDA	UWDA
+N1711	Reference T76 ConceptId:C1414063	DLD gene
+N1712	Reference T76 Source:C0398738:SNOMEDCT_US	SNOMEDCT_US
+N1713	Reference T76 SemanticType:C0398738:dsyn	dsyn
+N1714	Reference T76 ConceptId:C0226032	Anterior descending branch of left coronary artery
+N1715	Reference T76 Source:C0398738:NCI_CTRP	NCI_CTRP
+T77	MMLite 2750 2757	patient
+N1716	Reference T77 ConceptId:C0030705	Patients
+N1717	Reference T77 Source:C1705908:MTH	MTH
+N1718	Reference T77 SemanticType:C1578481:idcn	idcn
+N1719	Reference T77 ConceptId:C1578483	Report source - Patient
+N1720	Reference T77 ConceptId:C1705908	Veterinary Patient
+N1721	Reference T77 Source:C0030705:LNC	LNC
+N1722	Reference T77 Source:C1578484:HL7V2.5	HL7V2.5
+N1723	Reference T77 Source:C0030705:NCI_DICOM	NCI_DICOM
+N1724	Reference T77 Source:C0030705:MTH	MTH
+N1725	Reference T77 Source:C1578485:HL7V2.5	HL7V2.5
+N1726	Reference T77 ConceptId:C1578481	Mail Claim Party - Patient
+N1727	Reference T77 Source:C1578481:HL7V2.5	HL7V2.5
+N1728	Reference T77 Source:C1578483:MTH	MTH
+N1729	Reference T77 SemanticType:C1578483:idcn	idcn
+N1730	Reference T77 ConceptId:C1578485	Specimen Source Codes - Patient
+N1731	Reference T77 ConceptId:C1578486	Disabled Person Code - Patient
+N1732	Reference T77 Source:C0030705:CHV	CHV
+N1733	Reference T77 Source:C0030705:SNOMEDCT_US	SNOMEDCT_US
+N1734	Reference T77 ConceptId:C1550655	Specimen Type - Patient
+N1735	Reference T77 Source:C0030705:NCI_CDISC-GLOSS	NCI_CDISC-GLOSS
+N1736	Reference T77 Source:C1705908:NCI	NCI
+N1737	Reference T77 SemanticType:C1578485:inpr	inpr
+N1738	Reference T77 Source:C1578486:HL7V2.5	HL7V2.5
+N1739	Reference T77 Source:C1578485:MTH	MTH
+N1740	Reference T77 Source:C0030705:NCI_FDA	NCI_FDA
+N1741	Reference T77 Source:C1578486:MTH	MTH
+N1742	Reference T77 Source:C1578484:MTH	MTH
+N1743	Reference T77 Source:C0030705:MSH	MSH
+N1744	Reference T77 Source:C1578481:MTH	MTH
+N1745	Reference T77 Source:C1578483:HL7V2.5	HL7V2.5
+N1746	Reference T77 Source:C0030705:AOD	AOD
+N1747	Reference T77 Source:C1550655:HL7V3.0	HL7V3.0
+N1748	Reference T77 Source:C0030705:LCH	LCH
+N1749	Reference T77 SemanticType:C1578484:idcn	idcn
+N1750	Reference T77 SemanticType:C1550655:bdsu	bdsu
+N1751	Reference T77 ConceptId:C1578484	Relationship modifier - Patient
+N1752	Reference T77 SemanticType:C0030705:podg	podg
+N1753	Reference T77 Source:C0030705:HL7V3.0	HL7V3.0
+N1754	Reference T77 Source:C0030705:LCH_NW	LCH_NW
+N1755	Reference T77 Source:C0030705:NCI	NCI
+N1756	Reference T77 Source:C1550655:MTH	MTH
+N1757	Reference T77 SemanticType:C1705908:orgm	orgm
+N1758	Reference T77 SemanticType:C1578486:inpr	inpr
+T78	MMLite 1189 1199	chest pain
+N1759	Reference T78 ConceptId:C2926613	Chest pain:Finding:Point in time:^Patient:Ordinal
+N1760	Reference T78 Source:C2926613:MTH	MTH
+N1761	Reference T78 Source:C0008031:MEDLINEPLUS	MEDLINEPLUS
+N1762	Reference T78 SemanticType:C0008031:sosy	sosy
+N1763	Reference T78 Source:C0008031:NCI_FDA	NCI_FDA
+N1764	Reference T78 Source:C0008031:LCH_NW	LCH_NW
+N1765	Reference T78 Source:C0008031:SNOMEDCT_US	SNOMEDCT_US
+N1766	Reference T78 Source:C0008031:NCI_NICHD	NCI_NICHD
+N1767	Reference T78 Source:C0008031:NCI	NCI
+N1768	Reference T78 Source:C0008031:COSTAR	COSTAR
+N1769	Reference T78 Source:C0008031:LCH	LCH
+N1770	Reference T78 Source:C0008031:ICF	ICF
+N1771	Reference T78 Source:C0008031:CCSR_10	CCSR_10
+N1772	Reference T78 Source:C0008031:ICD9CM	ICD9CM
+N1773	Reference T78 Source:C2926613:LNC	LNC
+N1774	Reference T78 Source:C0008031:SNMI	SNMI
+N1775	Reference T78 Source:C0008031:MSH	MSH
+N1776	Reference T78 Source:C0008031:SNM	SNM
+N1777	Reference T78 Source:C0008031:CHV	CHV
+N1778	Reference T78 Source:C0008031:CST	CST
+N1779	Reference T78 Source:C0008031:CCS	CCS
+N1780	Reference T78 Source:C0008031:MTH	MTH
+N1781	Reference T78 Source:C0008031:OMIM	OMIM
+N1782	Reference T78 Source:C0008031:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N1783	Reference T78 Source:C0008031:DXP	DXP
+N1784	Reference T78 Source:C0008031:HPO	HPO
+N1785	Reference T78 Source:C0008031:ICD10CM	ICD10CM
+N1786	Reference T78 Source:C0008031:SNOMEDCT_VET	SNOMEDCT_VET
+N1787	Reference T78 SemanticType:C2926613:clna	clna
+N1788	Reference T78 ConceptId:C0008031	Chest Pain
+N1789	Reference T78 Source:C0008031:ICF-CY	ICF-CY
+N1790	Reference T78 Source:C0008031:LNC	LNC
+T79	MMLite 1550 1557	Abdomen
+N1791	Reference T79 Source:C0230168:FMA	FMA
+N1792	Reference T79 Source:C0230168:NCI_CDISC	NCI_CDISC
+N1793	Reference T79 Source:C0000726:MSH	MSH
+N1794	Reference T79 Source:C0000726:AOD	AOD
+N1795	Reference T79 SemanticType:C1508499:blor	blor
+N1796	Reference T79 Source:C0230168:MTH	MTH
+N1797	Reference T79 Source:C0000726:LCH	LCH
+N1798	Reference T79 Source:C0000726:OMIM	OMIM
+N1799	Reference T79 Source:C0230168:UWDA	UWDA
+N1800	Reference T79 Source:C0230168:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N1801	Reference T79 Source:C0000726:HL7V2.5	HL7V2.5
+N1802	Reference T79 Source:C0000726:SNOMEDCT_US	SNOMEDCT_US
+N1803	Reference T79 Source:C1508499:MTH	MTH
+N1804	Reference T79 SemanticType:C0000726:blor	blor
+N1805	Reference T79 SemanticType:C0230168:blor	blor
+N1806	Reference T79 Source:C0000726:SNMI	SNMI
+N1807	Reference T79 Source:C0230168:MSH	MSH
+N1808	Reference T79 Source:C0230168:CHV	CHV
+N1809	Reference T79 Source:C1508499:SNOMEDCT_US	SNOMEDCT_US
+N1810	Reference T79 Source:C0230168:SNM	SNM
+N1811	Reference T79 Source:C0000726:LCH_NW	LCH_NW
+N1812	Reference T79 ConceptId:C0230168	Abdominal Cavity
+N1813	Reference T79 Source:C1281594:MTH	MTH
+N1814	Reference T79 Source:C0000726:LNC	LNC
+N1815	Reference T79 Source:C0230168:NCI	NCI
+N1816	Reference T79 Source:C1508499:LNC	LNC
+N1817	Reference T79 Source:C0000726:MTH	MTH
+N1818	Reference T79 ConceptId:C1508499	Abdominopelvic structure
+N1819	Reference T79 Source:C0230168:AOD	AOD
+N1820	Reference T79 Source:C0000726:FMA	FMA
+N1821	Reference T79 ConceptId:C0000726	Abdomen
+N1822	Reference T79 Source:C0000726:CST	CST
+N1823	Reference T79 Source:C0230168:SNMI	SNMI
+N1824	Reference T79 Source:C0000726:CSP	CSP
+N1825	Reference T79 Source:C0000726:UWDA	UWDA
+N1826	Reference T79 SemanticType:C1281594:bpoc	bpoc
+N1827	Reference T79 ConceptId:C1281594	Entire abdomen
+N1828	Reference T79 Source:C0230168:SNOMEDCT_US	SNOMEDCT_US
+N1829	Reference T79 Source:C1281594:SNOMEDCT_US	SNOMEDCT_US
+N1830	Reference T79 Source:C0000726:CHV	CHV
+N1831	Reference T79 Source:C0000726:SNM	SNM
+T80	MMLite 368 383	Stent placement
+N1832	Reference T80 Source:C0522776:MTHMST	MTHMST
+N1833	Reference T80 SemanticType:C0522776:topp	topp
+N1834	Reference T80 ConceptId:C0522776	Placement of stent
+N1835	Reference T80 Source:C0522776:SNMI	SNMI
+N1836	Reference T80 Source:C0522776:SNOMEDCT_US	SNOMEDCT_US
+N1837	Reference T80 Source:C0522776:CHV	CHV
+T81	MMLite 2959 2970	hypokinesis
+N1838	Reference T81 Source:C0086439:HPO	HPO
+N1839	Reference T81 Source:C0086439:LCH_NW	LCH_NW
+N1840	Reference T81 Source:C0086439:NCI_NICHD	NCI_NICHD
+N1841	Reference T81 Source:C0086439:MTH	MTH
+N1842	Reference T81 Source:C0086439:SNM	SNM
+N1843	Reference T81 Source:C0086439:SNOMEDCT_US	SNOMEDCT_US
+N1844	Reference T81 Source:C0086439:NCI	NCI
+N1845	Reference T81 Source:C0086439:CST	CST
+N1846	Reference T81 Source:C0086439:OMIM	OMIM
+N1847	Reference T81 Source:C0086439:MSH	MSH
+N1848	Reference T81 ConceptId:C0086439	Hypokinesia
+N1849	Reference T81 Source:C0086439:CHV	CHV
+N1850	Reference T81 Source:C0086439:SNMI	SNMI
+N1851	Reference T81 Source:C0086439:LNC	LNC
+N1852	Reference T81 SemanticType:C0086439:fndg	fndg
+N1853	Reference T81 Source:C0086439:QMR	QMR
+T82	MMLite 1852 1856	DATA
+N1854	Reference T82 SemanticType:C3714741:euka	euka
+N1855	Reference T82 SemanticType:C3245479:medd	medd
+N1856	Reference T82 Source:C3245479:HL7V3.0	HL7V3.0
+N1857	Reference T82 Source:C3245479:MTH	MTH
+N1858	Reference T82 Source:C3714741:NCBI	NCBI
+N1859	Reference T82 ConceptId:C3714741	Data (eukaryote)
+N1860	Reference T82 ConceptId:C3245479	Data call receiving device
+N1861	Reference T82 Source:C3714741:MTH	MTH
+N1862	Reference T82 ConceptId:C1511726	Data
+N1863	Reference T82 Source:C1511726:NCI_CDISC-GLOSS	NCI_CDISC-GLOSS
+N1864	Reference T82 Source:C1511726:NCI	NCI
+N1865	Reference T82 SemanticType:C1511726:idcn	idcn
+N1866	Reference T82 Source:C1511726:MTH	MTH
+T83	MMLite 1937 1952	HOSPITAL COURSE
+N1867	Reference T83 Source:C0489547:LNC	LNC
+N1868	Reference T83 SemanticType:C0489547:fndg	fndg
+N1869	Reference T83 SemanticType:C0488549:clna	clna
+N1870	Reference T83 Source:C0489547:MTH	MTH
+N1871	Reference T83 ConceptId:C0488549	Hospital course:Finding:Point in time:^Patient:Narrative
+N1872	Reference T83 Source:C0488549:LNC	LNC
+N1873	Reference T83 Source:C0489547:CHV	CHV
+N1874	Reference T83 Source:C0488549:MTH	MTH
+N1875	Reference T83 ConceptId:C0489547	Hospital course
+T84	MMLite 1602 1606	full
+N1876	Reference T84 SemanticType:C0443225:qlco	qlco
+N1877	Reference T84 Source:C0443225:LNC	LNC
+N1878	Reference T84 Source:C0443225:NCI	NCI
+N1879	Reference T84 ConceptId:C0443225	Full
+N1880	Reference T84 Source:C0443225:CHV	CHV
+N1881	Reference T84 Source:C0443225:SNOMEDCT_US	SNOMEDCT_US
+T85	MMLite 1074 1088	Medical Center
+N1882	Reference T85 Source:C0565990:LCH	LCH
+N1883	Reference T85 Source:C0565990:CHV	CHV
+N1884	Reference T85 ConceptId:C0565990	Medical center
+N1885	Reference T85 SemanticType:C0565990:hcro	hcro
+N1886	Reference T85 SemanticType:C0565990:mnob	mnob
+N1887	Reference T85 Source:C0565990:MTH	MTH
+N1888	Reference T85 Source:C0565990:SNOMEDCT_US	SNOMEDCT_US
+N1889	Reference T85 Source:C0565990:AOD	AOD
+T86	MMLite 1204 1211	patient
+N1890	Reference T86 ConceptId:C0030705	Patients
+N1891	Reference T86 SemanticType:C1578481:idcn	idcn
+N1892	Reference T86 Source:C1705908:MTH	MTH
+N1893	Reference T86 ConceptId:C1578483	Report source - Patient
+N1894	Reference T86 Source:C0030705:LNC	LNC
+N1895	Reference T86 Source:C1578484:HL7V2.5	HL7V2.5
+N1896	Reference T86 ConceptId:C1705908	Veterinary Patient
+N1897	Reference T86 Source:C0030705:NCI_DICOM	NCI_DICOM
+N1898	Reference T86 Source:C0030705:MTH	MTH
+N1899	Reference T86 Source:C1578485:HL7V2.5	HL7V2.5
+N1900	Reference T86 ConceptId:C1578481	Mail Claim Party - Patient
+N1901	Reference T86 Source:C1578481:HL7V2.5	HL7V2.5
+N1902	Reference T86 Source:C1578483:MTH	MTH
+N1903	Reference T86 SemanticType:C1578483:idcn	idcn
+N1904	Reference T86 ConceptId:C1578485	Specimen Source Codes - Patient
+N1905	Reference T86 ConceptId:C1578486	Disabled Person Code - Patient
+N1906	Reference T86 Source:C0030705:CHV	CHV
+N1907	Reference T86 Source:C0030705:SNOMEDCT_US	SNOMEDCT_US
+N1908	Reference T86 ConceptId:C1550655	Specimen Type - Patient
+N1909	Reference T86 Source:C0030705:NCI_CDISC-GLOSS	NCI_CDISC-GLOSS
+N1910	Reference T86 Source:C1705908:NCI	NCI
+N1911	Reference T86 SemanticType:C1578485:inpr	inpr
+N1912	Reference T86 Source:C1578486:HL7V2.5	HL7V2.5
+N1913	Reference T86 Source:C1578485:MTH	MTH
+N1914	Reference T86 Source:C0030705:NCI_FDA	NCI_FDA
+N1915	Reference T86 Source:C1578484:MTH	MTH
+N1916	Reference T86 Source:C1578486:MTH	MTH
+N1917	Reference T86 Source:C0030705:MSH	MSH
+N1918	Reference T86 Source:C1578481:MTH	MTH
+N1919	Reference T86 Source:C1578483:HL7V2.5	HL7V2.5
+N1920	Reference T86 Source:C0030705:AOD	AOD
+N1921	Reference T86 Source:C1550655:HL7V3.0	HL7V3.0
+N1922	Reference T86 Source:C0030705:LCH	LCH
+N1923	Reference T86 SemanticType:C1578484:idcn	idcn
+N1924	Reference T86 ConceptId:C1578484	Relationship modifier - Patient
+N1925	Reference T86 SemanticType:C1550655:bdsu	bdsu
+N1926	Reference T86 SemanticType:C0030705:podg	podg
+N1927	Reference T86 Source:C0030705:HL7V3.0	HL7V3.0
+N1928	Reference T86 Source:C0030705:LCH_NW	LCH_NW
+N1929	Reference T86 Source:C0030705:NCI	NCI
+N1930	Reference T86 Source:C1550655:MTH	MTH
+N1931	Reference T86 SemanticType:C1705908:orgm	orgm
+N1932	Reference T86 SemanticType:C1578486:inpr	inpr
+T87	MMLite 2335 2345	circumflex
+N1933	Reference T87 Source:C1880089:NCI	NCI
+N1934	Reference T87 ConceptId:C1880089	Circumflex
+N1935	Reference T87 SemanticType:C1880089:spco	spco
+T88	MMLite 1119 1155	acute inferior myocardial infarction
+N1936	Reference T88 ConceptId:C0264700	Acute Inferior Myocardial Infarction
+N1937	Reference T88 Source:C0264700:MTH	MTH
+N1938	Reference T88 Source:C0264700:MTHICD9	MTHICD9
+N1939	Reference T88 SemanticType:C0264700:dsyn	dsyn
+N1940	Reference T88 Source:C0264700:SNOMEDCT_US	SNOMEDCT_US
+N1941	Reference T88 Source:C0264700:SNMI	SNMI
+N1942	Reference T88 Source:C0264700:MSH	MSH
+T89	MMLite 332 339	SPECIAL
+N1943	Reference T89 Source:C0205555:MTH	MTH
+N1944	Reference T89 Source:C0205555:SNOMEDCT_US	SNOMEDCT_US
+N1945	Reference T89 Source:C0205555:CHV	CHV
+N1946	Reference T89 Source:C0205555:SNMI	SNMI
+N1947	Reference T89 ConceptId:C0205555	Special
+N1948	Reference T89 SemanticType:C0205555:qlco	qlco
+N1949	Reference T89 Source:C0205555:NCI	NCI
+T90	MMLite 687 692	white
+N1950	Reference T90 Source:C0007457:SNOMEDCT_US	SNOMEDCT_US
+N1951	Reference T90 Source:C0220938:SNMI	SNMI
+N1952	Reference T90 Source:C0043157:MSH	MSH
+N1953	Reference T90 ConceptId:C0043157	Caucasians
+N1954	Reference T90 Source:C0007457:MSH	MSH
+N1955	Reference T90 Source:C0043157:CHV	CHV
+N1956	Reference T90 Source:C0220938:LCH	LCH
+N1957	Reference T90 Source:C0043157:HL7V3.0	HL7V3.0
+N1958	Reference T90 Source:C0007457:LCH_NW	LCH_NW
+N1959	Reference T90 Source:C0220938:AOD	AOD
+N1960	Reference T90 Source:C0007457:AOD	AOD
+N1961	Reference T90 ConceptId:C0220938	White color
+N1962	Reference T90 Source:C0220938:NCI_FDA	NCI_FDA
+N1963	Reference T90 Source:C0007457:MTH	MTH
+N1964	Reference T90 Source:C0007457:DXP	DXP
+N1965	Reference T90 Source:C0007457:CSP	CSP
+N1966	Reference T90 Source:C0043157:AOD	AOD
+N1967	Reference T90 Source:C0007457:SNMI	SNMI
+N1968	Reference T90 Source:C0043157:LCH	LCH
+N1969	Reference T90 Source:C0220938:NCI	NCI
+N1970	Reference T90 Source:C0007457:CHV	CHV
+N1971	Reference T90 SemanticType:C0007457:popg	popg
+N1972	Reference T90 Source:C0043157:LNC	LNC
+N1973	Reference T90 Source:C0007457:NCI_FDA	NCI_FDA
+N1974	Reference T90 Source:C0007457:NCI_CDISC	NCI_CDISC
+N1975	Reference T90 Source:C0007457:NCI_CDC	NCI_CDC
+N1976	Reference T90 SemanticType:C0220938:qlco	qlco
+N1977	Reference T90 Source:C0043157:SNOMEDCT_US	SNOMEDCT_US
+N1978	Reference T90 Source:C0043157:SNMI	SNMI
+N1979	Reference T90 Source:C0043157:HL7V2.5	HL7V2.5
+N1980	Reference T90 Source:C0007457:HL7V3.0	HL7V3.0
+N1981	Reference T90 SemanticType:C0043157:popg	popg
+N1982	Reference T90 ConceptId:C0007457	Caucasoid Race
+N1983	Reference T90 Source:C0043157:CSP	CSP
+N1984	Reference T90 Source:C0043157:DXP	DXP
+N1985	Reference T90 Source:C0220938:MTH	MTH
+N1986	Reference T90 Source:C0043157:MTH	MTH
+N1987	Reference T90 Source:C0220938:SNOMEDCT_US	SNOMEDCT_US
+N1988	Reference T90 Source:C0220938:CHV	CHV
+N1989	Reference T90 Source:C0007457:NCI	NCI
+T91	MMLite 1973 1980	patient
+N1990	Reference T91 ConceptId:C0030705	Patients
+N1991	Reference T91 SemanticType:C1578481:idcn	idcn
+N1992	Reference T91 Source:C1705908:MTH	MTH
+N1993	Reference T91 ConceptId:C1578483	Report source - Patient
+N1994	Reference T91 Source:C1578484:HL7V2.5	HL7V2.5
+N1995	Reference T91 ConceptId:C1705908	Veterinary Patient
+N1996	Reference T91 Source:C0030705:LNC	LNC
+N1997	Reference T91 Source:C0030705:NCI_DICOM	NCI_DICOM
+N1998	Reference T91 Source:C0030705:MTH	MTH
+N1999	Reference T91 Source:C1578485:HL7V2.5	HL7V2.5
+N2000	Reference T91 ConceptId:C1578481	Mail Claim Party - Patient
+N2001	Reference T91 Source:C1578481:HL7V2.5	HL7V2.5
+N2002	Reference T91 Source:C1578483:MTH	MTH
+N2003	Reference T91 SemanticType:C1578483:idcn	idcn
+N2004	Reference T91 ConceptId:C1578486	Disabled Person Code - Patient
+N2005	Reference T91 ConceptId:C1578485	Specimen Source Codes - Patient
+N2006	Reference T91 ConceptId:C1550655	Specimen Type - Patient
+N2007	Reference T91 Source:C0030705:CHV	CHV
+N2008	Reference T91 Source:C0030705:SNOMEDCT_US	SNOMEDCT_US
+N2009	Reference T91 Source:C0030705:NCI_CDISC-GLOSS	NCI_CDISC-GLOSS
+N2010	Reference T91 Source:C1705908:NCI	NCI
+N2011	Reference T91 Source:C1578486:HL7V2.5	HL7V2.5
+N2012	Reference T91 SemanticType:C1578485:inpr	inpr
+N2013	Reference T91 Source:C1578485:MTH	MTH
+N2014	Reference T91 Source:C1578486:MTH	MTH
+N2015	Reference T91 Source:C1578484:MTH	MTH
+N2016	Reference T91 Source:C0030705:NCI_FDA	NCI_FDA
+N2017	Reference T91 Source:C1578481:MTH	MTH
+N2018	Reference T91 Source:C0030705:MSH	MSH
+N2019	Reference T91 Source:C1578483:HL7V2.5	HL7V2.5
+N2020	Reference T91 Source:C1550655:HL7V3.0	HL7V3.0
+N2021	Reference T91 Source:C0030705:AOD	AOD
+N2022	Reference T91 SemanticType:C1578484:idcn	idcn
+N2023	Reference T91 Source:C0030705:LCH	LCH
+N2024	Reference T91 SemanticType:C1550655:bdsu	bdsu
+N2025	Reference T91 ConceptId:C1578484	Relationship modifier - Patient
+N2026	Reference T91 SemanticType:C0030705:podg	podg
+N2027	Reference T91 Source:C0030705:HL7V3.0	HL7V3.0
+N2028	Reference T91 Source:C0030705:LCH_NW	LCH_NW
+N2029	Reference T91 Source:C1550655:MTH	MTH
+N2030	Reference T91 Source:C0030705:NCI	NCI
+N2031	Reference T91 SemanticType:C1705908:orgm	orgm
+N2032	Reference T91 SemanticType:C1578486:inpr	inpr
+T92	MMLite 1479 1486	Carotid
+N2033	Reference T92 ConceptId:C0741968	carotid
+N2034	Reference T92 Source:C0741968:CHV	CHV
+N2035	Reference T92 SemanticType:C0741968:bpoc	bpoc
+N2036	Reference T92 Source:C0741968:HL7V2.5	HL7V2.5
+T93	MMLite 1433 1436	115
+N2037	Reference T93 ConceptId:C4517540	115
+N2038	Reference T93 Source:C4517540:SNOMEDCT_US	SNOMEDCT_US
+N2039	Reference T93 SemanticType:C4517540:qnco	qnco
+T94	MMLite 1917 1930	Triglycerides
+N2040	Reference T94 Source:C0041004:AOD	AOD
+N2041	Reference T94 Source:C0041004:LCH	LCH
+N2042	Reference T94 Source:C0202236:NCI	NCI
+N2043	Reference T94 ConceptId:C0041004	Triglycerides
+N2044	Reference T94 Source:C0202236:CHV	CHV
+N2045	Reference T94 Source:C0202236:SNMI	SNMI
+N2046	Reference T94 ConceptId:C0202236	Triglycerides measurement
+N2047	Reference T94 Source:C0041004:NCI	NCI
+N2048	Reference T94 Source:C0202236:MTH	MTH
+N2049	Reference T94 SemanticType:C0202236:lbpr	lbpr
+N2050	Reference T94 Source:C0041004:MTH	MTH
+N2051	Reference T94 SemanticType:C0041004:orch	orch
+N2052	Reference T94 Source:C0041004:LNC	LNC
+N2053	Reference T94 Source:C0041004:VANDF	VANDF
+N2054	Reference T94 Source:C0202236:SNM	SNM
+N2055	Reference T94 Source:C0202236:NCI_CDISC	NCI_CDISC
+N2056	Reference T94 Source:C0041004:NCI_CRCH	NCI_CRCH
+N2057	Reference T94 Source:C0041004:CHV	CHV
+N2058	Reference T94 Source:C0041004:SNM	SNM
+N2059	Reference T94 Source:C0041004:MSH	MSH
+N2060	Reference T94 Source:C0041004:MEDLINEPLUS	MEDLINEPLUS
+N2061	Reference T94 Source:C0041004:LCH_NW	LCH_NW
+N2062	Reference T94 Source:C0202236:SNOMEDCT_US	SNOMEDCT_US
+N2063	Reference T94 Source:C0041004:CSP	CSP
+N2064	Reference T94 Source:C0041004:SNMI	SNMI
+N2065	Reference T94 SemanticType:C0041004:bacs	bacs
+N2066	Reference T94 Source:C0041004:SNOMEDCT_US	SNOMEDCT_US
+T95	MMLite 2912 2923	fraction of
+N2067	Reference T95 Source:C1264633:LNC	LNC
+N2068	Reference T95 Source:C1264633:SNOMEDCT_US	SNOMEDCT_US
+N2069	Reference T95 Source:C1264633:NCI	NCI
+N2070	Reference T95 Source:C1264633:CHV	CHV
+N2071	Reference T95 Source:C1264633:SNMI	SNMI
+N2072	Reference T95 ConceptId:C1264633	Fraction of
+N2073	Reference T95 Source:C1264633:MTH	MTH
+N2074	Reference T95 SemanticType:C1264633:qnco	qnco
+T96	MMLite 2135 2138	RCA
+N2075	Reference T96 Source:C4725622:NCI_EDQM-HC	NCI_EDQM-HC
+N2076	Reference T96 SemanticType:C4725622:inpr	inpr
+N2077	Reference T96 Source:C4725622:NCI	NCI
+N2078	Reference T96 ConceptId:C4725622	EDQM-HC Release Characteristics Terminology
+T97	MMLite 1562 1568	benign
+N2079	Reference T97 Source:C0205183:LNC	LNC
+N2080	Reference T97 Source:C0205183:SNOMEDCT_US	SNOMEDCT_US
+N2081	Reference T97 ConceptId:C0205183	Benign
+N2082	Reference T97 Source:C0205183:SNMI	SNMI
+N2083	Reference T97 Source:C0205183:NCI_CTRP	NCI_CTRP
+N2084	Reference T97 Source:C0205183:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N2085	Reference T97 Source:C0205183:CHV	CHV
+N2086	Reference T97 Source:C0205183:NCI_CDISC	NCI_CDISC
+N2087	Reference T97 Source:C0205183:NCI	NCI
+N2088	Reference T97 SemanticType:C0205183:qlco	qlco
+T98	MMLite 1395 1415	PHYSICAL EXAMINATION
+N2089	Reference T98 Source:C0031809:MSH	MSH
+N2090	Reference T98 Source:C0031809:AIR	AIR
+N2091	Reference T98 Source:C0031809:NCI_CTRP	NCI_CTRP
+N2092	Reference T98 Source:C1744699:MTH	MTH
+N2093	Reference T98 Source:C0031809:CHV	CHV
+N2094	Reference T98 Source:C1744699:NCI	NCI
+N2095	Reference T98 Source:C0031809:SNM	SNM
+N2096	Reference T98 Source:C0031809:SNOMEDCT_US	SNOMEDCT_US
+N2097	Reference T98 SemanticType:C1744699:inpr	inpr
+N2098	Reference T98 Source:C0031809:NCI	NCI
+N2099	Reference T98 ConceptId:C0031809	Physical Examination
+N2100	Reference T98 Source:C0031809:AOT	AOT
+N2101	Reference T98 Source:C0031809:SNMI	SNMI
+N2102	Reference T98 Source:C0031809:NCI_NICHD	NCI_NICHD
+N2103	Reference T98 Source:C0031809:NCI_CDISC	NCI_CDISC
+N2104	Reference T98 ConceptId:C1744699	Physical Exam Domain
+N2105	Reference T98 Source:C0031809:MTH	MTH
+N2106	Reference T98 SemanticType:C0031809:hlca	hlca
+N2107	Reference T98 Source:C1744699:NCI_CDISC	NCI_CDISC
+N2108	Reference T98 Source:C0031809:AOD	AOD
+N2109	Reference T98 Source:C0031809:LCH	LCH
+N2110	Reference T98 Source:C0031809:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N2111	Reference T98 Source:C0031809:LNC	LNC
+N2112	Reference T98 Source:C0031809:ICD9CM	ICD9CM
+T99	MMLite 2220 2227	totally
+N2113	Reference T99 ConceptId:C4699603	Totally
+N2114	Reference T99 SemanticType:C4699603:fndg	fndg
+N2115	Reference T99 Source:C4699603:LNC	LNC
+T100	MMLite 437 464	Right heart catheterization
+N2116	Reference T100 Source:C0189896:CHV	CHV
+N2117	Reference T100 Source:C0189896:SNM	SNM
+N2118	Reference T100 SemanticType:C0189896:diap	diap
+N2119	Reference T100 Source:C0189896:SNMI	SNMI
+N2120	Reference T100 Source:C0189896:NCI	NCI
+N2121	Reference T100 ConceptId:C0189896	Catheterization of right heart
+N2122	Reference T100 Source:C0189896:MTH	MTH
+N2123	Reference T100 Source:C0189896:SNOMEDCT_US	SNOMEDCT_US
+N2124	Reference T100 Source:C0189896:ICD9CM	ICD9CM
+T101	MMLite 2489 2500	atmospheres
+N2125	Reference T101 Source:C0004178:CSP	CSP
+N2126	Reference T101 SemanticType:C0004178:npop	npop
+N2127	Reference T101 Source:C0004178:MTH	MTH
+N2128	Reference T101 ConceptId:C0004178	Atmosphere, planetary
+N2129	Reference T101 Source:C0004178:MSH	MSH
+N2130	Reference T101 Source:C0004178:LCH	LCH
+N2131	Reference T101 Source:C0004178:LCH_NW	LCH_NW
+N2132	Reference T101 Source:C0004178:CHV	CHV
+T102	MMLite 855 862	cardiac
+N2133	Reference T102 Source:C0018787:SNOMEDCT_US	SNOMEDCT_US
+N2134	Reference T102 Source:C0018787:AIR	AIR
+N2135	Reference T102 Source:C0018787:HL7V2.5	HL7V2.5
+N2136	Reference T102 Source:C0018787:ICF-CY	ICF-CY
+N2137	Reference T102 Source:C0018787:MSH	MSH
+N2138	Reference T102 ConceptId:C1522601	Cardiac - anatomy qualifier
+N2139	Reference T102 Source:C0018787:LCH_NW	LCH_NW
+N2140	Reference T102 Source:C0018787:AOD	AOD
+N2141	Reference T102 Source:C0018787:ICF	ICF
+N2142	Reference T102 Source:C0018787:LCH	LCH
+N2143	Reference T102 Source:C0018787:MTH	MTH
+N2144	Reference T102 Source:C0018787:CSP	CSP
+N2145	Reference T102 Source:C0018787:NCI_CDISC	NCI_CDISC
+N2146	Reference T102 Source:C0018787:FMA	FMA
+N2147	Reference T102 Source:C1522601:NCI	NCI
+N2148	Reference T102 ConceptId:C0018787	Heart
+N2149	Reference T102 Source:C0018787:UWDA	UWDA
+N2150	Reference T102 Source:C0018787:CHV	CHV
+N2151	Reference T102 Source:C0018787:SNM	SNM
+N2152	Reference T102 Source:C0018787:OMIM	OMIM
+N2153	Reference T102 Source:C0018787:LNC	LNC
+N2154	Reference T102 SemanticType:C1522601:qlco	qlco
+N2155	Reference T102 SemanticType:C0018787:bpoc	bpoc
+N2156	Reference T102 Source:C0018787:NCI	NCI
+N2157	Reference T102 Source:C0018787:SNMI	SNMI
+N2158	Reference T102 Source:C1522601:MTH	MTH
+N2159	Reference T102 Source:C1522601:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+T103	MMLite 2480 2485	up to
+N2160	Reference T103 Source:C0547043:SNMI	SNMI
+N2161	Reference T103 Source:C0547043:SNOMEDCT_US	SNOMEDCT_US
+N2162	Reference T103 Source:C0547043:MTH	MTH
+N2163	Reference T103 Source:C0547043:NCI	NCI
+N2164	Reference T103 SemanticType:C0547043:spco	spco
+N2165	Reference T103 ConceptId:C0547043	Up
+N2166	Reference T103 Source:C0547043:CHV	CHV
+T104	MMLite 1371 1383	Hypertension
+N2167	Reference T104 Source:C1963138:NCI_CTCAE_5	NCI_CTCAE_5
+N2168	Reference T104 Source:C0020538:MTH	MTH
+N2169	Reference T104 Source:C0020538:DXP	DXP
+N2170	Reference T104 Source:C0020538:PDQ	PDQ
+N2171	Reference T104 Source:C1963138:NCI	NCI
+N2172	Reference T104 Source:C0020538:SNMI	SNMI
+N2173	Reference T104 Source:C0020538:MEDLINEPLUS	MEDLINEPLUS
+N2174	Reference T104 SemanticType:C0020538:dsyn	dsyn
+N2175	Reference T104 Source:C0020538:CST	CST
+N2176	Reference T104 Source:C0020538:SNOMEDCT_VET	SNOMEDCT_VET
+N2177	Reference T104 Source:C0020538:CSP	CSP
+N2178	Reference T104 Source:C0020538:CCS	CCS
+N2179	Reference T104 SemanticType:C1963138:fndg	fndg
+N2180	Reference T104 Source:C0020538:HPO	HPO
+N2181	Reference T104 Source:C0020538:NCI_NICHD	NCI_NICHD
+N2182	Reference T104 Source:C0020538:COSTAR	COSTAR
+N2183	Reference T104 Source:C0020538:CHV	CHV
+N2184	Reference T104 Source:C0020538:SNM	SNM
+N2185	Reference T104 ConceptId:C0020538	Hypertensive disease
+N2186	Reference T104 Source:C0020538:NCI_FDA	NCI_FDA
+N2187	Reference T104 Source:C0020538:MSH	MSH
+N2188	Reference T104 Source:C0020538:OMIM	OMIM
+N2189	Reference T104 Source:C0020538:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N2190	Reference T104 Source:C0020538:LCH	LCH
+N2191	Reference T104 ConceptId:C1963138	Hypertension, CTCAE
+N2192	Reference T104 Source:C0020538:NCI_CTRP	NCI_CTRP
+N2193	Reference T104 Source:C0020538:AOD	AOD
+N2194	Reference T104 Source:C0020538:NCI_CTCAE	NCI_CTCAE
+N2195	Reference T104 Source:C0020538:ICD9CM	ICD9CM
+N2196	Reference T104 Source:C0020538:NCI	NCI
+N2197	Reference T104 Source:C0020538:NCI_CPTAC	NCI_CPTAC
+N2198	Reference T104 Source:C0020538:MTHICD9	MTHICD9
+N2199	Reference T104 Source:C0020538:ICD10CM	ICD10CM
+N2200	Reference T104 Source:C0020538:LCH_NW	LCH_NW
+N2201	Reference T104 Source:C0020538:LNC	LNC
+N2202	Reference T104 Source:C0020538:SNOMEDCT_US	SNOMEDCT_US
+N2203	Reference T104 Source:C1963138:MTH	MTH
+N2204	Reference T104 Source:C1963138:NCI_CTCAE_3	NCI_CTCAE_3
+T105	MMLite 548 562	Aspirin 325 mg
+N2205	Reference T105 SemanticType:C0992015:clnd	clnd
+N2206	Reference T105 Source:C0992015:RXNORM	RXNORM
+N2207	Reference T105 ConceptId:C0992015	Aspirin 325 MG
+T106	MMLite 903 908	night
+N2208	Reference T106 Source:C0240526:AOD	AOD
+N2209	Reference T106 Source:C0240526:SNOMEDCT_US	SNOMEDCT_US
+N2210	Reference T106 Source:C0240526:CHV	CHV
+N2211	Reference T106 Source:C0240526:SNMI	SNMI
+N2212	Reference T106 Source:C0240526:NCI	NCI
+N2213	Reference T106 Source:C0240526:LNC	LNC
+N2214	Reference T106 Source:C0240526:HPO	HPO
+N2215	Reference T106 Source:C0240526:MTH	MTH
+N2216	Reference T106 Source:C0240526:DXP	DXP
+N2217	Reference T106 ConceptId:C0240526	Night time
+N2218	Reference T106 SemanticType:C0240526:tmco	tmco
+T107	MMLite 2453 2457	with
+N2219	Reference T107 Source:C0332287:MTH	MTH
+N2220	Reference T107 Source:C0332287:SNMI	SNMI
+N2221	Reference T107 ConceptId:C1705690	With - dosing instruction fragment
+N2222	Reference T107 Source:C0332287:LNC	LNC
+N2223	Reference T107 SemanticType:C1705690:inpr	inpr
+N2224	Reference T107 Source:C1705690:SNOMEDCT_US	SNOMEDCT_US
+N2225	Reference T107 ConceptId:C0332287	In addition to
+N2226	Reference T107 Source:C1705690:MTH	MTH
+N2227	Reference T107 Source:C0332287:NCI	NCI
+N2228	Reference T107 Source:C0332287:SNOMEDCT_US	SNOMEDCT_US
+N2229	Reference T107 SemanticType:C0332287:ftcn	ftcn
+T108	MMLite 170 184	ADMISSION DATE
+N2230	Reference T108 Source:C1302393:LNC	LNC
+N2231	Reference T108 Source:C2598112:LNC	LNC
+N2232	Reference T108 Source:C1302393:SNOMEDCT_US	SNOMEDCT_US
+N2233	Reference T108 SemanticType:C2598112:clna	clna
+N2234	Reference T108 ConceptId:C2598112	Admission date:Time Stamp -- Date and Time:Point in time:^Patient:Quantitative
+N2235	Reference T108 ConceptId:C1302393	Date of admission
+N2236	Reference T108 Source:C1302393:MTH	MTH
+N2237	Reference T108 Source:C2598112:MTH	MTH
+N2238	Reference T108 SemanticType:C1302393:tmco	tmco
+T109	MMLite 3270 3284	Medical Center
+N2239	Reference T109 Source:C0565990:LCH	LCH
+N2240	Reference T109 Source:C0565990:CHV	CHV
+N2241	Reference T109 ConceptId:C0565990	Medical center
+N2242	Reference T109 SemanticType:C0565990:hcro	hcro
+N2243	Reference T109 SemanticType:C0565990:mnob	mnob
+N2244	Reference T109 Source:C0565990:MTH	MTH
+N2245	Reference T109 Source:C0565990:SNOMEDCT_US	SNOMEDCT_US
+N2246	Reference T109 Source:C0565990:AOD	AOD
+T110	MMLite 287 297	ASSOCIATED
+N2247	Reference T110 SemanticType:C0332281:qlco	qlco
+N2248	Reference T110 Source:C0332281:CHV	CHV
+N2249	Reference T110 ConceptId:C0332281	Associated with
+N2250	Reference T110 Source:C0332281:MTH	MTH
+N2251	Reference T110 Source:C0332281:NCI	NCI
+N2252	Reference T110 Source:C0332281:LNC	LNC
+N2253	Reference T110 Source:C0332281:SNOMEDCT_US	SNOMEDCT_US
+N2254	Reference T110 Source:C0332281:SNMI	SNMI
+T111	MMLite 2982 2985	day
+N2255	Reference T111 Source:C0332173:SNMI	SNMI
+N2256	Reference T111 Source:C0332173:MTH	MTH
+N2257	Reference T111 Source:C0439228:NCI	NCI
+N2258	Reference T111 Source:C0332173:CHV	CHV
+N2259	Reference T111 Source:C0439228:NCI_ICH	NCI_ICH
+N2260	Reference T111 Source:C1561539:HL7V2.5	HL7V2.5
+N2261	Reference T111 Source:C0439228:NCI_NCPDP	NCI_NCPDP
+N2262	Reference T111 Source:C0332173:LNC	LNC
+N2263	Reference T111 ConceptId:C0439228	day
+N2264	Reference T111 ConceptId:C0332173	Daily
+N2265	Reference T111 SemanticType:C0332173:tmco	tmco
+N2266	Reference T111 Source:C0439228:NCI_UCUM	NCI_UCUM
+N2267	Reference T111 Source:C0439228:AOD	AOD
+N2268	Reference T111 Source:C0332173:NCI_UCUM	NCI_UCUM
+N2269	Reference T111 Source:C0332173:NCI	NCI
+N2270	Reference T111 SemanticType:C1561538:inpr	inpr
+N2271	Reference T111 ConceptId:C1561539	Precision - day
+N2272	Reference T111 Source:C0439228:CHV	CHV
+N2273	Reference T111 Source:C0439228:SNOMEDCT_US	SNOMEDCT_US
+N2274	Reference T111 SemanticType:C1561539:idcn	idcn
+N2275	Reference T111 Source:C0439228:LNC	LNC
+N2276	Reference T111 ConceptId:C1561538	Transaction counts and value totals - day
+N2277	Reference T111 Source:C0332173:SNOMEDCT_US	SNOMEDCT_US
+N2278	Reference T111 Source:C0332173:HL7V3.0	HL7V3.0
+N2279	Reference T111 Source:C0439228:NCI_CDISC	NCI_CDISC
+N2280	Reference T111 Source:C1561538:MTH	MTH
+N2281	Reference T111 Source:C1561539:MTH	MTH
+N2282	Reference T111 Source:C0332173:NCI_CDISC	NCI_CDISC
+N2283	Reference T111 Source:C0439228:MTH	MTH
+N2284	Reference T111 Source:C1561538:HL7V3.0	HL7V3.0
+N2285	Reference T111 SemanticType:C0439228:tmco	tmco
+T112	MMLite 1542 1547	clear
+N2286	Reference T112 Source:C1550016:MTH	MTH
+N2287	Reference T112 SemanticType:C4761489:inpr	inpr
+N2288	Reference T112 ConceptId:C1709157	Negative Surgical Margin
+N2289	Reference T112 Source:C2963144:SNMI	SNMI
+N2290	Reference T112 Source:C4761489:MTH	MTH
+N2291	Reference T112 Source:C2963144:SNOMEDCT_US	SNOMEDCT_US
+N2292	Reference T112 Source:C1709157:MSH	MSH
+N2293	Reference T112 SemanticType:C1550016:idcn	idcn
+N2294	Reference T112 Source:C2963144:CHV	CHV
+N2295	Reference T112 ConceptId:C4761489	Epidermal cGVHD Score 0
+N2296	Reference T112 ConceptId:C2963144	Clear
+N2297	Reference T112 ConceptId:C1550016	Remote control command - Clear
+N2298	Reference T112 Source:C2963144:LNC	LNC
+N2299	Reference T112 Source:C1709157:NCI	NCI
+N2300	Reference T112 Source:C1550016:HL7V2.5	HL7V2.5
+N2301	Reference T112 SemanticType:C1709157:fndg	fndg
+N2302	Reference T112 Source:C4761489:NCI	NCI
+N2303	Reference T112 Source:C1709157:MTH	MTH
+N2304	Reference T112 SemanticType:C2963144:qlco	qlco
+N2305	Reference T112 Source:C2963144:MTH	MTH
+T113	MMLite 3066 3072	angina
+N2306	Reference T113 Source:C0002962:LNC	LNC
+N2307	Reference T113 Source:C0002962:NCI_NICHD	NCI_NICHD
+N2308	Reference T113 Source:C0002962:SNMI	SNMI
+N2309	Reference T113 Source:C2926611:MTH	MTH
+N2310	Reference T113 Source:C0002962:NCI_FDA	NCI_FDA
+N2311	Reference T113 SemanticType:C0002962:sosy	sosy
+N2312	Reference T113 ConceptId:C0002962	Angina Pectoris
+N2313	Reference T113 Source:C0002962:CST	CST
+N2314	Reference T113 Source:C2926611:LNC	LNC
+N2315	Reference T113 Source:C0002962:CSP	CSP
+N2316	Reference T113 Source:C0002962:CCS	CCS
+N2317	Reference T113 Source:C0002962:HPO	HPO
+N2318	Reference T113 Source:C0002962:MTH	MTH
+N2319	Reference T113 Source:C0002962:NCI_CTCAE	NCI_CTCAE
+N2320	Reference T113 Source:C0002962:DXP	DXP
+N2321	Reference T113 ConceptId:C2926611	Ever told by doctor that you had angina:Finding:Point in time:^Patient:Ordinal
+N2322	Reference T113 Source:C0002962:MEDLINEPLUS	MEDLINEPLUS
+N2323	Reference T113 Source:C0002962:OMIM	OMIM
+N2324	Reference T113 Source:C0002962:QMR	QMR
+N2325	Reference T113 SemanticType:C2926611:clna	clna
+N2326	Reference T113 Negated:angina	angina
+N2327	Reference T113 Source:C0002962:LCH_NW	LCH_NW
+N2328	Reference T113 Source:C0002962:MSH	MSH
+N2329	Reference T113 Source:C0002962:COSTAR	COSTAR
+N2330	Reference T113 Source:C0002962:ICPC	ICPC
+N2331	Reference T113 Source:C0002962:ICD9CM	ICD9CM
+N2332	Reference T113 Source:C0002962:CHV	CHV
+N2333	Reference T113 Source:C0002962:SNOMEDCT_US	SNOMEDCT_US
+N2334	Reference T113 Source:C0002962:SNM	SNM
+N2335	Reference T113 Source:C0002962:MTHICD9	MTHICD9
+N2336	Reference T113 Source:C0002962:ICD10CM	ICD10CM
+N2337	Reference T113 Source:C0002962:NCI	NCI
+N2338	Reference T113 Source:C0002962:AOD	AOD
+N2339	Reference T113 Source:C0002962:LCH	LCH
+T114	MMLite 2321 2328	segment
+N2340	Reference T114 Source:C0441635:NCI_CDISC	NCI_CDISC
+N2341	Reference T114 SemanticType:C0441635:spco	spco
+N2342	Reference T114 Source:C0441635:FMA	FMA
+N2343	Reference T114 Source:C0441635:SNOMEDCT_US	SNOMEDCT_US
+N2344	Reference T114 Source:C0441635:CHV	CHV
+N2345	Reference T114 Source:C0441635:UWDA	UWDA
+N2346	Reference T114 Source:C0441635:MTH	MTH
+N2347	Reference T114 ConceptId:C0441635	Anatomical segmentation
+N2348	Reference T114 Source:C0441635:NCI	NCI
+N2349	Reference T114 Source:C0441635:LNC	LNC
+T115	MMLite 599 604	weeks
+N2350	Reference T115 Source:C0439230:LNC	LNC
+N2351	Reference T115 Source:C0439230:NCI_UCUM	NCI_UCUM
+N2352	Reference T115 Source:C0439230:NCI	NCI
+N2353	Reference T115 Source:C0439230:SNOMEDCT_US	SNOMEDCT_US
+N2354	Reference T115 Source:C0439230:MTH	MTH
+N2355	Reference T115 ConceptId:C0439230	week
+N2356	Reference T115 Source:C0439230:CHV	CHV
+N2357	Reference T115 Source:C0439230:NCI_CDISC	NCI_CDISC
+N2358	Reference T115 SemanticType:C0439230:tmco	tmco
+T116	MMLite 2681 2685	wave
+N2359	Reference T116 ConceptId:C1421479	WASF1 gene
+N2360	Reference T116 Source:C1421479:MTH	MTH
+N2361	Reference T116 Source:C0678544:MTH	MTH
+N2362	Reference T116 Source:C1421479:HGNC	HGNC
+N2363	Reference T116 Source:C1421479:OMIM	OMIM
+N2364	Reference T116 Source:C0678544:CHV	CHV
+N2365	Reference T116 Source:C0678544:AOD	AOD
+N2366	Reference T116 ConceptId:C0678544	wave - physical agent
+N2367	Reference T116 SemanticType:C0678544:npop	npop
+N2368	Reference T116 SemanticType:C1421479:gngm	gngm
+T117	MMLite 1803 1816	ST Depression
+N2369	Reference T117 ConceptId:C0520887	ST segment depression (finding)
+N2370	Reference T117 Source:C0520887:SNMI	SNMI
+N2371	Reference T117 Source:C0520887:NCI	NCI
+N2372	Reference T117 Source:C0520887:NCI_FDA	NCI_FDA
+N2373	Reference T117 Source:C0520887:CST	CST
+N2374	Reference T117 Source:C0520887:HPO	HPO
+N2375	Reference T117 SemanticType:C0520887:fndg	fndg
+N2376	Reference T117 Source:C0520887:MTH	MTH
+N2377	Reference T117 Source:C0520887:CHV	CHV
+N2378	Reference T117 Source:C0520887:NCI_CDISC	NCI_CDISC
+N2379	Reference T117 Source:C0520887:SNOMEDCT_US	SNOMEDCT_US
+N2380	Reference T117 Source:C0520887:SNOMEDCT_VET	SNOMEDCT_VET
+T118	MMLite 1158 1164	Due to
+N2381	Reference T118 Source:C0678226:MTH	MTH
+N2382	Reference T118 Source:C0678226:CHV	CHV
+N2383	Reference T118 ConceptId:C0678226	Due to
+N2384	Reference T118 SemanticType:C0678226:ftcn	ftcn
+N2385	Reference T118 Source:C0678226:SNMI	SNMI
+N2386	Reference T118 Source:C0678226:SNOMEDCT_US	SNOMEDCT_US
+N2387	Reference T118 Source:C0678226:NCI	NCI
+T119	MMLite 884 896	hypertension
+N2388	Reference T119 Source:C0020538:MTH	MTH
+N2389	Reference T119 Source:C0020538:DXP	DXP
+N2390	Reference T119 Source:C1963138:NCI_CTCAE_5	NCI_CTCAE_5
+N2391	Reference T119 Source:C0020538:PDQ	PDQ
+N2392	Reference T119 Source:C1963138:NCI	NCI
+N2393	Reference T119 Source:C0020538:SNMI	SNMI
+N2394	Reference T119 Source:C0020538:MEDLINEPLUS	MEDLINEPLUS
+N2395	Reference T119 SemanticType:C0020538:dsyn	dsyn
+N2396	Reference T119 Source:C0020538:CST	CST
+N2397	Reference T119 Source:C0020538:SNOMEDCT_VET	SNOMEDCT_VET
+N2398	Reference T119 Source:C0020538:CSP	CSP
+N2399	Reference T119 Source:C0020538:CCS	CCS
+N2400	Reference T119 Source:C0020538:HPO	HPO
+N2401	Reference T119 SemanticType:C1963138:fndg	fndg
+N2402	Reference T119 Source:C0020538:NCI_NICHD	NCI_NICHD
+N2403	Reference T119 Source:C0020538:COSTAR	COSTAR
+N2404	Reference T119 Source:C0020538:CHV	CHV
+N2405	Reference T119 Source:C0020538:SNM	SNM
+N2406	Reference T119 ConceptId:C0020538	Hypertensive disease
+N2407	Reference T119 Source:C0020538:NCI_FDA	NCI_FDA
+N2408	Reference T119 Source:C0020538:MSH	MSH
+N2409	Reference T119 Source:C0020538:OMIM	OMIM
+N2410	Reference T119 Source:C0020538:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N2411	Reference T119 Source:C0020538:LCH	LCH
+N2412	Reference T119 Source:C0020538:NCI_CTRP	NCI_CTRP
+N2413	Reference T119 Source:C0020538:AOD	AOD
+N2414	Reference T119 ConceptId:C1963138	Hypertension, CTCAE
+N2415	Reference T119 Source:C0020538:NCI_CTCAE	NCI_CTCAE
+N2416	Reference T119 Source:C0020538:ICD9CM	ICD9CM
+N2417	Reference T119 Source:C0020538:NCI	NCI
+N2418	Reference T119 Source:C0020538:NCI_CPTAC	NCI_CPTAC
+N2419	Reference T119 Source:C0020538:MTHICD9	MTHICD9
+N2420	Reference T119 Source:C0020538:ICD10CM	ICD10CM
+N2421	Reference T119 Source:C0020538:LCH_NW	LCH_NW
+N2422	Reference T119 Source:C0020538:LNC	LNC
+N2423	Reference T119 Source:C0020538:SNOMEDCT_US	SNOMEDCT_US
+N2424	Reference T119 Source:C1963138:MTH	MTH
+N2425	Reference T119 Source:C1963138:NCI_CTCAE_3	NCI_CTCAE_3
+T120	MMLite 298 307	DIAGNOSIS
+N2426	Reference T120 ConceptId:C0011900	Diagnosis
+N2427	Reference T120 Source:C0011900:HL7V3.0	HL7V3.0
+N2428	Reference T120 Source:C0011900:NCI	NCI
+N2429	Reference T120 SemanticType:C1704656:resa	resa
+N2430	Reference T120 SemanticType:C1550350:inpr	inpr
+N2431	Reference T120 Source:C1550350:NCI	NCI
+N2432	Reference T120 Source:C1704656:NCI	NCI
+N2433	Reference T120 Source:C0011900:LCH	LCH
+N2434	Reference T120 Source:C0011900:AOD	AOD
+N2435	Reference T120 Source:C0945731:MTH	MTH
+N2436	Reference T120 ConceptId:C1546899	Diagnosis Classification - Diagnosis
+N2437	Reference T120 SemanticType:C0945731:clna	clna
+N2438	Reference T120 Source:C1704338:MSH	MSH
+N2439	Reference T120 Source:C0011900:LNC	LNC
+N2440	Reference T120 SemanticType:C0011900:diap	diap
+N2441	Reference T120 ConceptId:C0945731	Diagnosis:Impression/interpretation of study:Point in time:^Patient:Nominal
+N2442	Reference T120 ConceptId:C1704656	Diagnosis Study
+N2443	Reference T120 Source:C1550350:HL7V2.5	HL7V2.5
+N2444	Reference T120 Source:C0011900:MTH	MTH
+N2445	Reference T120 Source:C1704338:MTH	MTH
+N2446	Reference T120 Source:C0011900:CSP	CSP
+N2447	Reference T120 Source:C0011900:CCS	CCS
+N2448	Reference T120 Source:C1550350:MTH	MTH
+N2449	Reference T120 SemanticType:C1546899:clas	clas
+N2450	Reference T120 Source:C0011900:SNOMEDCT_US	SNOMEDCT_US
+N2451	Reference T120 Source:C0011900:NCI_NICHD	NCI_NICHD
+N2452	Reference T120 Source:C0011900:NCI_CDISC	NCI_CDISC
+N2453	Reference T120 Source:C0945731:LNC	LNC
+N2454	Reference T120 ConceptId:C1704338	diagnosis aspect
+N2455	Reference T120 Source:C1704656:MTH	MTH
+N2456	Reference T120 Source:C1704656:NCI_CDISC	NCI_CDISC
+N2457	Reference T120 ConceptId:C1550350	Diagnosis Code
+N2458	Reference T120 Source:C0011900:MCM	MCM
+N2459	Reference T120 Source:C0011900:MSH	MSH
+N2460	Reference T120 Source:C0011900:LCH_NW	LCH_NW
+N2461	Reference T120 Source:C1546899:MTH	MTH
+N2462	Reference T120 Source:C1546899:HL7V2.5	HL7V2.5
+N2463	Reference T120 Source:C0011900:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N2464	Reference T120 Source:C0011900:CHV	CHV
+N2465	Reference T120 SemanticType:C1704338:ftcn	ftcn
+T121	MMLite 948 964	chest discomfort
+N2466	Reference T121 SemanticType:C0235710:sosy	sosy
+N2467	Reference T121 Source:C0235710:CHV	CHV
+N2468	Reference T121 Source:C0235710:SNOMEDCT_US	SNOMEDCT_US
+N2469	Reference T121 ConceptId:C0235710	Chest discomfort
+N2470	Reference T121 Source:C0235710:CST	CST
+N2471	Reference T121 Source:C0235710:MTHICD9	MTHICD9
+T122	MMLite 3058 3065	free of
+N2472	Reference T122 Source:C0332296:MTH	MTH
+N2473	Reference T122 ConceptId:C0332296	Free of (attribute)
+N2474	Reference T122 Source:C0332296:CHV	CHV
+N2475	Reference T122 Source:C0332296:SNOMEDCT_US	SNOMEDCT_US
+N2476	Reference T122 SemanticType:C0332296:ftcn	ftcn
+N2477	Reference T122 Source:C0332296:SNMI	SNMI
+T123	MMLite 663 669	Factor
+N2478	Reference T123 Source:C2827422:NCI	NCI
+N2479	Reference T123 Source:C1521761:MTH	MTH
+N2480	Reference T123 SemanticType:C2827422:cnce	cnce
+N2481	Reference T123 Source:C1521761:NCI	NCI
+N2482	Reference T123 Source:C1521761:LNC	LNC
+N2483	Reference T123 ConceptId:C1521761	Factor
+N2484	Reference T123 ConceptId:C2827422	Mathematical Factor
+N2485	Reference T123 SemanticType:C1521761:ftcn	ftcn
+N2486	Reference T123 Source:C2827422:MTH	MTH
+T124	MMLite 791 794	for
+N2487	Reference T124 ConceptId:C0521125	Preposition For
+N2488	Reference T124 Source:C0521125:NCI	NCI
+N2489	Reference T124 SemanticType:C1421525:gngm	gngm
+N2490	Reference T124 Source:C4321252:MTH	MTH
+N2491	Reference T124 Source:C1421525:MTH	MTH
+N2492	Reference T124 Source:C1562169:MTH	MTH
+N2493	Reference T124 Source:C1421525:HGNC	HGNC
+N2494	Reference T124 Source:C4321252:NCI	NCI
+N2495	Reference T124 ConceptId:C1421525	WWOX gene
+N2496	Reference T124 Source:C1421525:NCI_NCI-HGNC	NCI_NCI-HGNC
+N2497	Reference T124 Source:C1562169:SNOMEDCT_US	SNOMEDCT_US
+N2498	Reference T124 SemanticType:C0521125:qlco	qlco
+N2499	Reference T124 Source:C0521125:SNOMEDCT_US	SNOMEDCT_US
+N2500	Reference T124 ConceptId:C4321252	WWOX wt Allele
+N2501	Reference T124 SemanticType:C1562169:topp	topp
+N2502	Reference T124 Source:C0521125:SNMI	SNMI
+N2503	Reference T124 Source:C1421525:OMIM	OMIM
+N2504	Reference T124 Source:C0521125:MTH	MTH
+N2505	Reference T124 Source:C1562169:AOT	AOT
+N2506	Reference T124 Source:C1421525:NCI	NCI
+N2507	Reference T124 SemanticType:C4321252:gngm	gngm
+N2508	Reference T124 ConceptId:C1562169	Facilitated oscillatory release technique
+T125	MMLite 106 123	DISCHARGE SUMMARY
+N2509	Reference T125 Source:C0801840:MTH	MTH
+N2510	Reference T125 Source:C0743221:SNOMEDCT_US	SNOMEDCT_US
+N2511	Reference T125 Source:C0743221:MTH	MTH
+N2512	Reference T125 Source:C0743221:CHV	CHV
+N2513	Reference T125 ConceptId:C0743221	Discharge summary
+N2514	Reference T125 Source:C0801840:LNC	LNC
+N2515	Reference T125 SemanticType:C0801840:clna	clna
+N2516	Reference T125 SemanticType:C0743221:inpr	inpr
+N2517	Reference T125 ConceptId:C0801840	Discharge summarization note:Finding:Point in time:{Setting}:Document:{Provider}
+N2518	Reference T125 Source:C0743221:LNC	LNC
+N2519	Reference T125 Source:C0743221:HL7V2.5	HL7V2.5
+T126	MMLite 2047 2067	Coronary angiography
+N2520	Reference T126 Source:C0085532:NCI_CDISC	NCI_CDISC
+N2521	Reference T126 Source:C0085532:SNM	SNM
+N2522	Reference T126 Source:C0085532:SNOMEDCT_US	SNOMEDCT_US
+N2523	Reference T126 Source:C0085532:SNMI	SNMI
+N2524	Reference T126 Source:C0085532:MTHICD9	MTHICD9
+N2525	Reference T126 Source:C0085532:CHV	CHV
+N2526	Reference T126 Source:C0085532:MTH	MTH
+N2527	Reference T126 SemanticType:C1548829:hlca	hlca
+N2528	Reference T126 Source:C0085532:NCI	NCI
+N2529	Reference T126 Source:C0085532:CCS	CCS
+N2530	Reference T126 Source:C1548829:HL7V2.5	HL7V2.5
+N2531	Reference T126 ConceptId:C0085532	Coronary angiography
+N2532	Reference T126 ConceptId:C1548829	Consent Type - Coronary Angiography
+N2533	Reference T126 Source:C0085532:AOD	AOD
+N2534	Reference T126 Source:C0085532:MSH	MSH
+N2535	Reference T126 SemanticType:C0085532:diap	diap
+N2536	Reference T126 Source:C0085532:LNC	LNC
+N2537	Reference T126 Source:C1548829:MTH	MTH
+T127	MMLite 823 831	possible
+N2538	Reference T127 ConceptId:C1705910	Possibly Related to Intervention
+N2539	Reference T127 Source:C0332149:MTH	MTH
+N2540	Reference T127 ConceptId:C2362652	Possible diagnosis
+N2541	Reference T127 Source:C0332149:SNOMEDCT_US	SNOMEDCT_US
+N2542	Reference T127 Source:C2362652:MTH	MTH
+N2543	Reference T127 Source:C0332149:LNC	LNC
+N2544	Reference T127 Source:C2362652:SNMI	SNMI
+N2545	Reference T127 ConceptId:C0332149	Possible
+N2546	Reference T127 Source:C1705910:NCI	NCI
+N2547	Reference T127 Source:C1705910:MTH	MTH
+N2548	Reference T127 Source:C2362652:SNOMEDCT_US	SNOMEDCT_US
+N2549	Reference T127 SemanticType:C0332149:fndg	fndg
+N2550	Reference T127 SemanticType:C2362652:qlco	qlco
+N2551	Reference T127 Source:C0332149:CHV	CHV
+N2552	Reference T127 SemanticType:C1705910:qlco	qlco
+N2553	Reference T127 Source:C0332149:NCI_FDA	NCI_FDA
+N2554	Reference T127 Source:C0332149:NCI	NCI
+T128	MMLite 539 545	ORDERS
+N2555	Reference T128 Source:C3244315:HL7V3.0	HL7V3.0
+N2556	Reference T128 SemanticType:C3244315:inpr	inpr
+N2557	Reference T128 Source:C3244315:MTH	MTH
+N2558	Reference T128 ConceptId:C3244315	orders - HL7PublishingDomain
+T129	MMLite 2175 2182	without
+N2559	Reference T129 Source:C0332288:SNOMEDCT_US	SNOMEDCT_US
+N2560	Reference T129 Source:C0332288:CHV	CHV
+N2561	Reference T129 ConceptId:C0332288	Without
+N2562	Reference T129 Source:C0332288:MTH	MTH
+N2563	Reference T129 Source:C0332288:NCI	NCI
+N2564	Reference T129 Source:C0332288:SNMI	SNMI
+N2565	Reference T129 SemanticType:C0332288:qlco	qlco
+T130	MMLite 1864 1867	CPK
+N2566	Reference T130 Source:C0010287:CSP	CSP
+N2567	Reference T130 Source:C0201973:SNMI	SNMI
+N2568	Reference T130 Source:C0201973:NCI_CDISC	NCI_CDISC
+N2569	Reference T130 Source:C0010287:SNM	SNM
+N2570	Reference T130 Source:C0010287:CHV	CHV
+N2571	Reference T130 SemanticType:C0010287:aapp	aapp
+N2572	Reference T130 ConceptId:C0201973	Creatine kinase measurement
+N2573	Reference T130 Source:C0010287:MSH	MSH
+N2574	Reference T130 Source:C0010287:LNC	LNC
+N2575	Reference T130 Source:C0010287:NCI_CTRP	NCI_CTRP
+N2576	Reference T130 SemanticType:C0201973:lbpr	lbpr
+N2577	Reference T130 Source:C0201973:SNOMEDCT_US	SNOMEDCT_US
+N2578	Reference T130 SemanticType:C0010287:enzy	enzy
+N2579	Reference T130 Source:C0201973:SNM	SNM
+N2580	Reference T130 Source:C0201973:CHV	CHV
+N2581	Reference T130 Source:C0010287:MTH	MTH
+N2582	Reference T130 ConceptId:C0010287	Creatine Kinase
+N2583	Reference T130 ConceptId:C1418571	PIK3C2A gene
+N2584	Reference T130 Source:C0010287:NCI	NCI
+N2585	Reference T130 Source:C0201973:MTH	MTH
+N2586	Reference T130 Source:C1418571:MTH	MTH
+N2587	Reference T130 Source:C0010287:SNMI	SNMI
+N2588	Reference T130 Source:C1418571:OMIM	OMIM
+N2589	Reference T130 Source:C0201973:NCI	NCI
+N2590	Reference T130 Source:C0010287:LCH	LCH
+N2591	Reference T130 SemanticType:C1418571:gngm	gngm
+N2592	Reference T130 Source:C0010287:AOD	AOD
+N2593	Reference T130 Source:C1418571:HGNC	HGNC
+N2594	Reference T130 Source:C0010287:LCH_NW	LCH_NW
+N2595	Reference T130 Source:C0010287:SNOMEDCT_US	SNOMEDCT_US
+T131	MMLite 79 82	DIS
+N2596	Reference T131 Source:C0451119:CHV	CHV
+N2597	Reference T131 ConceptId:C0012634	Disease
+N2598	Reference T131 Source:C0012634:NCI_CDISC-GLOSS	NCI_CDISC-GLOSS
+N2599	Reference T131 Source:C0012634:NCI	NCI
+N2600	Reference T131 Source:C1444662:NCI	NCI
+N2601	Reference T131 Source:C0012634:SNOMEDCT_US	SNOMEDCT_US
+N2602	Reference T131 ConceptId:C0451119	Diagnostic interview schedule
+N2603	Reference T131 Source:C0451119:AOD	AOD
+N2604	Reference T131 Source:C1970187:OMIM	OMIM
+N2605	Reference T131 Source:C0012634:LNC	LNC
+N2606	Reference T131 SemanticType:C0451119:inpr	inpr
+N2607	Reference T131 Source:C0012634:SNMI	SNMI
+N2608	Reference T131 SemanticType:C1444662:fndg	fndg
+N2609	Reference T131 Source:C0012634:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N2610	Reference T131 Source:C1970187:SNOMEDCT_US	SNOMEDCT_US
+N2611	Reference T131 Source:C0012634:SNM	SNM
+N2612	Reference T131 Source:C0012634:CHV	CHV
+N2613	Reference T131 Source:C0012634:LCH_NW	LCH_NW
+N2614	Reference T131 Source:C1444662:MTH	MTH
+N2615	Reference T131 Source:C0012634:NCI_CTRP	NCI_CTRP
+N2616	Reference T131 ConceptId:C1444662	Discontinued
+N2617	Reference T131 ConceptId:C1970187	Deafness, Sensorineural, And Male Infertility
+N2618	Reference T131 Source:C0012634:CSP	CSP
+N2619	Reference T131 Source:C1970187:MSH	MSH
+N2620	Reference T131 Source:C1444662:NCI_CDISC	NCI_CDISC
+N2621	Reference T131 Source:C0012634:MTH	MTH
+N2622	Reference T131 Source:C0012634:LCH	LCH
+N2623	Reference T131 SemanticType:C1970187:dsyn	dsyn
+N2624	Reference T131 Source:C1970187:MTH	MTH
+N2625	Reference T131 Source:C0451119:MTH	MTH
+N2626	Reference T131 Source:C0012634:MSH	MSH
+N2627	Reference T131 Source:C1444662:SNOMEDCT_US	SNOMEDCT_US
+N2628	Reference T131 Source:C0012634:NCI_NICHD	NCI_NICHD
+N2629	Reference T131 Source:C1444662:LNC	LNC
+N2630	Reference T131 SemanticType:C0012634:dsyn	dsyn
+N2631	Reference T131 Source:C0451119:SNOMEDCT_US	SNOMEDCT_US
+T132	MMLite 784 790	Factor
+N2632	Reference T132 Source:C2827422:NCI	NCI
+N2633	Reference T132 Source:C1521761:MTH	MTH
+N2634	Reference T132 SemanticType:C2827422:cnce	cnce
+N2635	Reference T132 Source:C1521761:NCI	NCI
+N2636	Reference T132 Source:C1521761:LNC	LNC
+N2637	Reference T132 ConceptId:C1521761	Factor
+N2638	Reference T132 ConceptId:C2827422	Mathematical Factor
+N2639	Reference T132 SemanticType:C1521761:ftcn	ftcn
+N2640	Reference T132 Source:C2827422:MTH	MTH
+T133	MMLite 2458 2462	post
+N2641	Reference T133 ConceptId:C3469826	SLC35G1 gene
+N2642	Reference T133 SemanticType:C0687676:tmco	tmco
+N2643	Reference T133 SemanticType:C1704687:mnob	mnob
+N2644	Reference T133 Source:C0687676:LNC	LNC
+N2645	Reference T133 ConceptId:C1704687	Post Device
+N2646	Reference T133 SemanticType:C3469826:gngm	gngm
+N2647	Reference T133 Source:C0687676:MTH	MTH
+N2648	Reference T133 Source:C1704687:MTH	MTH
+N2649	Reference T133 Source:C1704687:NCI_FDA	NCI_FDA
+N2650	Reference T133 Source:C0687676:NCI_CDISC	NCI_CDISC
+N2651	Reference T133 Source:C0687676:NCI	NCI
+N2652	Reference T133 Source:C3469826:OMIM	OMIM
+N2653	Reference T133 ConceptId:C0687676	Post
+N2654	Reference T133 Source:C3469826:MTH	MTH
+N2655	Reference T133 Source:C1704687:NCI	NCI
+N2656	Reference T133 Source:C0687676:CHV	CHV
+N2657	Reference T133 Source:C3469826:HGNC	HGNC
+N2658	Reference T133 Source:C0687676:SNOMEDCT_US	SNOMEDCT_US
+T134	MMLite 2742 2745	day
+N2659	Reference T134 Source:C0332173:SNMI	SNMI
+N2660	Reference T134 Source:C0332173:MTH	MTH
+N2661	Reference T134 Source:C0439228:NCI	NCI
+N2662	Reference T134 Source:C0332173:CHV	CHV
+N2663	Reference T134 Source:C0439228:NCI_ICH	NCI_ICH
+N2664	Reference T134 Source:C1561539:HL7V2.5	HL7V2.5
+N2665	Reference T134 Source:C0439228:NCI_NCPDP	NCI_NCPDP
+N2666	Reference T134 Source:C0332173:LNC	LNC
+N2667	Reference T134 ConceptId:C0439228	day
+N2668	Reference T134 ConceptId:C0332173	Daily
+N2669	Reference T134 SemanticType:C0332173:tmco	tmco
+N2670	Reference T134 Source:C0439228:NCI_UCUM	NCI_UCUM
+N2671	Reference T134 Source:C0439228:AOD	AOD
+N2672	Reference T134 Source:C0332173:NCI_UCUM	NCI_UCUM
+N2673	Reference T134 Source:C0332173:NCI	NCI
+N2674	Reference T134 SemanticType:C1561538:inpr	inpr
+N2675	Reference T134 ConceptId:C1561539	Precision - day
+N2676	Reference T134 Source:C0439228:CHV	CHV
+N2677	Reference T134 Source:C0439228:SNOMEDCT_US	SNOMEDCT_US
+N2678	Reference T134 SemanticType:C1561539:idcn	idcn
+N2679	Reference T134 Source:C0439228:LNC	LNC
+N2680	Reference T134 ConceptId:C1561538	Transaction counts and value totals - day
+N2681	Reference T134 Source:C0332173:SNOMEDCT_US	SNOMEDCT_US
+N2682	Reference T134 Source:C0332173:HL7V3.0	HL7V3.0
+N2683	Reference T134 Source:C0439228:NCI_CDISC	NCI_CDISC
+N2684	Reference T134 Source:C1561538:MTH	MTH
+N2685	Reference T134 Source:C1561539:MTH	MTH
+N2686	Reference T134 Source:C0332173:NCI_CDISC	NCI_CDISC
+N2687	Reference T134 Source:C0439228:MTH	MTH
+N2688	Reference T134 Source:C1561538:HL7V3.0	HL7V3.0
+N2689	Reference T134 SemanticType:C0439228:tmco	tmco
+T135	MMLite 2469 2479	dilatation
+N2690	Reference T135 Source:C0700124:CHV	CHV
+N2691	Reference T135 Source:C0002940:NCI_FDA	NCI_FDA
+N2692	Reference T135 Source:C0002940:DXP	DXP
+N2693	Reference T135 Source:C1322279:NCI	NCI
+N2694	Reference T135 ConceptId:C0012359	Pathological Dilatation
+N2695	Reference T135 Source:C0012359:MSH	MSH
+N2696	Reference T135 Source:C0012359:SNM	SNM
+N2697	Reference T135 Source:C0002940:SNOMEDCT_US	SNOMEDCT_US
+N2698	Reference T135 SemanticType:C1322279:topp	topp
+N2699	Reference T135 Source:C1322279:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N2700	Reference T135 Source:C0002940:CHV	CHV
+N2701	Reference T135 Source:C0012359:NCI	NCI
+N2702	Reference T135 SemanticType:C0700124:fndg	fndg
+N2703	Reference T135 Source:C0002940:CST	CST
+N2704	Reference T135 Source:C1322279:SNOMEDCT_US	SNOMEDCT_US
+N2705	Reference T135 Source:C0002940:CSP	CSP
+N2706	Reference T135 Source:C0002940:SNMI	SNMI
+N2707	Reference T135 Source:C0002940:AOD	AOD
+N2708	Reference T135 Source:C0700124:MTHMST	MTHMST
+N2709	Reference T135 ConceptId:C0002940	Aneurysm
+N2710	Reference T135 Source:C1322279:CHV	CHV
+N2711	Reference T135 Source:C1322279:MSH	MSH
+N2712	Reference T135 Source:C0012359:SNMI	SNMI
+N2713	Reference T135 Source:C0002940:COSTAR	COSTAR
+N2714	Reference T135 Source:C0012359:NCI_CDISC	NCI_CDISC
+N2715	Reference T135 Source:C0002940:ICD9CM	ICD9CM
+N2716	Reference T135 Source:C0012359:MTH	MTH
+N2717	Reference T135 Source:C0700124:NCI_CDISC	NCI_CDISC
+N2718	Reference T135 Source:C0002940:HPO	HPO
+N2719	Reference T135 Source:C0002940:MTH	MTH
+N2720	Reference T135 SemanticType:C0002940:patf	patf
+N2721	Reference T135 Source:C0002940:MEDLINEPLUS	MEDLINEPLUS
+N2722	Reference T135 Source:C0002940:OMIM	OMIM
+N2723	Reference T135 Source:C0002940:LNC	LNC
+N2724	Reference T135 Source:C0012359:CHV	CHV
+N2725	Reference T135 SemanticType:C0012359:patf	patf
+N2726	Reference T135 Source:C0002940:MSH	MSH
+N2727	Reference T135 ConceptId:C1322279	Dilate procedure
+N2728	Reference T135 Source:C0002940:SNM	SNM
+N2729	Reference T135 Source:C1322279:LCH	LCH
+N2730	Reference T135 Source:C0002940:NCI_NICHD	NCI_NICHD
+N2731	Reference T135 Source:C0002940:NCI_CDISC	NCI_CDISC
+N2732	Reference T135 Source:C0002940:LCH_NW	LCH_NW
+N2733	Reference T135 Source:C0012359:AOD	AOD
+N2734	Reference T135 Source:C0700124:MTH	MTH
+N2735	Reference T135 Source:C0700124:SNMI	SNMI
+N2736	Reference T135 ConceptId:C0700124	Dilated
+N2737	Reference T135 Source:C0002940:ICD10CM	ICD10CM
+N2738	Reference T135 Source:C0002940:LCH	LCH
+N2739	Reference T135 Source:C0700124:LNC	LNC
+N2740	Reference T135 Source:C1322279:LNC	LNC
+N2741	Reference T135 Source:C0012359:SNOMEDCT_US	SNOMEDCT_US
+N2742	Reference T135 Source:C0700124:NCI	NCI
+N2743	Reference T135 Source:C0002940:NCI	NCI
+N2744	Reference T135 Source:C1322279:MTH	MTH
+N2745	Reference T135 Source:C0700124:SNOMEDCT_US	SNOMEDCT_US
+T136	MMLite 424 434	PROCEDURES
+N2746	Reference T136 Source:C3538935:NCI	NCI
+N2747	Reference T136 SemanticType:C1550373:inpr	inpr
+N2748	Reference T136 Source:C0184661:NCI_BRIDG_3_0_3	NCI_BRIDG_3_0_3
+N2749	Reference T136 Source:C2700391:NCI	NCI
+N2750	Reference T136 SemanticType:C0184661:topp	topp
+N2751	Reference T136 Source:C0184661:MSH	MSH
+N2752	Reference T136 Source:C2700391:HL7V3.0	HL7V3.0
+N2753	Reference T136 ConceptId:C3538935	Procedure Domain
+N2754	Reference T136 Source:C0184661:CHV	CHV
+N2755	Reference T136 Source:C0025664:MSH	MSH
+N2756	Reference T136 SemanticType:C3538935:inpr	inpr
+N2757	Reference T136 Source:C1550373:MTH	MTH
+N2758	Reference T136 Source:C0184661:NCI	NCI
+N2759	Reference T136 SemanticType:C2700391:ftcn	ftcn
+N2760	Reference T136 Source:C0184661:SNMI	SNMI
+N2761	Reference T136 Source:C0184661:NCI_CDISC-GLOSS	NCI_CDISC-GLOSS
+N2762	Reference T136 ConceptId:C0025664	Methods aspects
+N2763	Reference T136 Source:C2700391:CHV	CHV
+N2764	Reference T136 Source:C0184661:SNOMEDCT_US	SNOMEDCT_US
+N2765	Reference T136 Source:C0025664:MTH	MTH
+N2766	Reference T136 Source:C0184661:ICD9CM	ICD9CM
+N2767	Reference T136 Source:C2700391:CCS_10	CCS_10
+N2768	Reference T136 Source:C3538935:MTH	MTH
+N2769	Reference T136 Source:C0184661:LNC	LNC
+N2770	Reference T136 Source:C1550373:HL7V2.5	HL7V2.5
+N2771	Reference T136 Source:C0184661:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N2772	Reference T136 ConceptId:C1550373	Procedure Code
+N2773	Reference T136 Source:C2700391:MTH	MTH
+N2774	Reference T136 ConceptId:C0184661	Interventional procedure
+N2775	Reference T136 Source:C0184661:SNM	SNM
+N2776	Reference T136 Source:C1550373:NCI	NCI
+N2777	Reference T136 SemanticType:C0025664:ftcn	ftcn
+N2778	Reference T136 Source:C0184661:NCI_NICHD	NCI_NICHD
+N2779	Reference T136 Source:C0184661:CSP	CSP
+N2780	Reference T136 Source:C0184661:CCS	CCS
+N2781	Reference T136 Source:C0184661:MTH	MTH
+N2782	Reference T136 Source:C0184661:PDQ	PDQ
+N2783	Reference T136 ConceptId:C2700391	Procedure (set of actions)
+N2784	Reference T136 Source:C3538935:NCI_CDISC	NCI_CDISC
+T137	MMLite 2768 2776	confused
+N2785	Reference T137 Source:C0009676:NCI_NICHD	NCI_NICHD
+N2786	Reference T137 SemanticType:C1547301:inpr	inpr
+N2787	Reference T137 ConceptId:C1547301	Precaution Code - Confused
+N2788	Reference T137 Source:C0683369:AOD	AOD
+N2789	Reference T137 Source:C0009676:OMIM	OMIM
+N2790	Reference T137 Source:C1547301:HL7V2.5	HL7V2.5
+N2791	Reference T137 Source:C0009676:LNC	LNC
+N2792	Reference T137 ConceptId:C0683369	Clouded consciousness
+N2793	Reference T137 Source:C0009676:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N2794	Reference T137 Source:C0009676:AOD	AOD
+N2795	Reference T137 Source:C0009676:NCI	NCI
+N2796	Reference T137 Source:C1547301:MTH	MTH
+N2797	Reference T137 Source:C0009676:NCI_FDA	NCI_FDA
+N2798	Reference T137 Source:C0009676:COSTAR	COSTAR
+N2799	Reference T137 Source:C0683369:MTH	MTH
+N2800	Reference T137 SemanticType:C0009676:mobd	mobd
+N2801	Reference T137 Source:C0009676:CHV	CHV
+N2802	Reference T137 ConceptId:C0009676	Confusion
+N2803	Reference T137 Source:C0009676:SNMI	SNMI
+N2804	Reference T137 Source:C0009676:SNM	SNM
+N2805	Reference T137 Source:C0009676:MSH	MSH
+N2806	Reference T137 Source:C0009676:MTH	MTH
+N2807	Reference T137 Source:C0009676:DXP	DXP
+N2808	Reference T137 Source:C0009676:SNOMEDCT_US	SNOMEDCT_US
+N2809	Reference T137 Source:C0009676:ICD10CM	ICD10CM
+N2810	Reference T137 Source:C0009676:NCI_CTCAE	NCI_CTCAE
+N2811	Reference T137 Source:C0009676:CST	CST
+N2812	Reference T137 Source:C0683369:SNMI	SNMI
+N2813	Reference T137 Source:C0683369:SNOMEDCT_US	SNOMEDCT_US
+N2814	Reference T137 Source:C0009676:HPO	HPO
+N2815	Reference T137 SemanticType:C0683369:fndg	fndg
+T138	MMLite 2513 2525	intervention
+N2816	Reference T138 Source:C0184661:NCI_BRIDG_3_0_3	NCI_BRIDG_3_0_3
+N2817	Reference T138 SemanticType:C0184661:topp	topp
+N2818	Reference T138 Source:C0184661:MSH	MSH
+N2819	Reference T138 Source:C1273869:LNC	LNC
+N2820	Reference T138 Source:C0184661:CHV	CHV
+N2821	Reference T138 Source:C0886296:CHV	CHV
+N2822	Reference T138 Source:C0184661:NCI	NCI
+N2823	Reference T138 ConceptId:C1273869	Intervention regimes
+N2824	Reference T138 Source:C0184661:SNMI	SNMI
+N2825	Reference T138 Source:C0184661:NCI_CDISC-GLOSS	NCI_CDISC-GLOSS
+N2826	Reference T138 Source:C0886296:MTH	MTH
+N2827	Reference T138 Source:C0886296:CSP	CSP
+N2828	Reference T138 Source:C1273869:MTH	MTH
+N2829	Reference T138 Source:C0184661:SNOMEDCT_US	SNOMEDCT_US
+N2830	Reference T138 Source:C0184661:ICD9CM	ICD9CM
+N2831	Reference T138 Source:C0184661:LNC	LNC
+N2832	Reference T138 Source:C0184661:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N2833	Reference T138 SemanticType:C1273869:hlca	hlca
+N2834	Reference T138 Source:C1273869:SNOMEDCT_US	SNOMEDCT_US
+N2835	Reference T138 ConceptId:C0184661	Interventional procedure
+N2836	Reference T138 Source:C0184661:SNM	SNM
+N2837	Reference T138 ConceptId:C0886296	Nursing interventions
+N2838	Reference T138 SemanticType:C0886296:hlca	hlca
+N2839	Reference T138 Source:C0184661:NCI_NICHD	NCI_NICHD
+N2840	Reference T138 Source:C0184661:CSP	CSP
+N2841	Reference T138 Source:C0184661:CCS	CCS
+N2842	Reference T138 Source:C0184661:MTH	MTH
+N2843	Reference T138 Source:C0184661:PDQ	PDQ
+T139	MMLite 1293 1302	Aggrastat
+N2844	Reference T139 Source:C0656369:CHV	CHV
+N2845	Reference T139 Source:C0656369:MSH	MSH
+N2846	Reference T139 ConceptId:C0656369	Aggrastat
+N2847	Reference T139 Source:C0656369:NCI	NCI
+N2848	Reference T139 SemanticType:C0656369:phsu	phsu
+N2849	Reference T139 SemanticType:C0656369:orch	orch
+N2850	Reference T139 Source:C0656369:RXNORM	RXNORM
+T140	MMLite 2312 2320	proximal
+N2851	Reference T140 Source:C0205107:SNMI	SNMI
+N2852	Reference T140 Source:C0205107:UWDA	UWDA
+N2853	Reference T140 Source:C0205107:SNOMEDCT_US	SNOMEDCT_US
+N2854	Reference T140 Source:C0205107:NCI	NCI
+N2855	Reference T140 Source:C0205107:CHV	CHV
+N2856	Reference T140 ConceptId:C4489236	Proximal Resection Margin
+N2857	Reference T140 Source:C4489236:NCI	NCI
+N2858	Reference T140 SemanticType:C0205107:spco	spco
+N2859	Reference T140 SemanticType:C4489236:clna	clna
+N2860	Reference T140 Source:C4489236:MTH	MTH
+N2861	Reference T140 Source:C0205107:NCI_CDISC	NCI_CDISC
+N2862	Reference T140 ConceptId:C0205107	Proximal
+N2863	Reference T140 Source:C0205107:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N2864	Reference T140 Source:C0205107:MTH	MTH
+N2865	Reference T140 Source:C4489236:LNC	LNC
+N2866	Reference T140 Source:C0205107:HPO	HPO
+N2867	Reference T140 Source:C0205107:HL7V2.5	HL7V2.5
+T141	MMLite 2169 2174	groin
+N2868	Reference T141 Source:C0018246:LNC	LNC
+N2869	Reference T141 Source:C0018246:SNOMEDCT_US	SNOMEDCT_US
+N2870	Reference T141 Source:C0816951:UWDA	UWDA
+N2871	Reference T141 ConceptId:C0018246	Inguinal region
+N2872	Reference T141 Source:C0816951:FMA	FMA
+N2873	Reference T141 Source:C0018246:HL7V2.5	HL7V2.5
+N2874	Reference T141 Source:C0018246:NCI	NCI
+N2875	Reference T141 Source:C0816951:MTH	MTH
+N2876	Reference T141 Source:C0018246:SNOMEDCT_VET	SNOMEDCT_VET
+N2877	Reference T141 SemanticType:C0816951:blor	blor
+N2878	Reference T141 Source:C1279151:SNOMEDCT_US	SNOMEDCT_US
+N2879	Reference T141 SemanticType:C1279151:blor	blor
+N2880	Reference T141 Source:C1279151:MTH	MTH
+N2881	Reference T141 Source:C0018246:MSH	MSH
+N2882	Reference T141 Source:C0018246:AOD	AOD
+N2883	Reference T141 Source:C0018246:SNMI	SNMI
+N2884	Reference T141 Source:C0018246:LCH_NW	LCH_NW
+N2885	Reference T141 Source:C0018246:UWDA	UWDA
+N2886	Reference T141 Source:C0018246:LCH	LCH
+N2887	Reference T141 Source:C0018246:NCI_CDISC	NCI_CDISC
+N2888	Reference T141 Source:C0018246:MTH	MTH
+N2889	Reference T141 Source:C0018246:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N2890	Reference T141 Source:C0018246:CHV	CHV
+N2891	Reference T141 SemanticType:C0018246:blor	blor
+N2892	Reference T141 ConceptId:C1279151	Entire groin (surface region)
+N2893	Reference T141 ConceptId:C0816951	Inguinal part of abdomen
+N2894	Reference T141 Source:C0018246:FMA	FMA
+N2895	Reference T141 Source:C0018246:SNM	SNM
+T142	MMLite 981 1000	shortness of breath
+N2896	Reference T142 Source:C0013404:OMIM	OMIM
+N2897	Reference T142 Source:C0013404:NCI	NCI
+N2898	Reference T142 SemanticType:C4084763:inpr	inpr
+N2899	Reference T142 Source:C0013404:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N2900	Reference T142 Source:C2707305:MTH	MTH
+N2901	Reference T142 Source:C0013404:ICPC	ICPC
+N2902	Reference T142 Source:C3274920:MTH	MTH
+N2903	Reference T142 Source:C2707305:LNC	LNC
+N2904	Reference T142 Source:C0013404:NCI_CDISC	NCI_CDISC
+N2905	Reference T142 Source:C0013404:ICD9CM	ICD9CM
+N2906	Reference T142 Source:C0013404:NCI_NICHD	NCI_NICHD
+N2907	Reference T142 Source:C0013404:CSP	CSP
+N2908	Reference T142 Source:C0013404:CST	CST
+N2909	Reference T142 Source:C0013404:SNOMEDCT_US	SNOMEDCT_US
+N2910	Reference T142 Source:C0013404:HPO	HPO
+N2911	Reference T142 SemanticType:C0013404:sosy	sosy
+N2912	Reference T142 Source:C0013404:LCH_NW	LCH_NW
+N2913	Reference T142 ConceptId:C4084764	How Much Distress Shortness of Breath
+N2914	Reference T142 Source:C3274920:NCI	NCI
+N2915	Reference T142 Source:C0013404:MTH	MTH
+N2916	Reference T142 Source:C0013404:DXP	DXP
+N2917	Reference T142 Source:C0013404:NCI_FDA	NCI_FDA
+N2918	Reference T142 SemanticType:C4084762:inpr	inpr
+N2919	Reference T142 SemanticType:C3274920:inpr	inpr
+N2920	Reference T142 Source:C4084763:NCI	NCI
+N2921	Reference T142 ConceptId:C4553552	Shortness of Breath Visual Analogue Scale
+N2922	Reference T142 Source:C4553552:MTH	MTH
+N2923	Reference T142 ConceptId:C0013404	Dyspnea
+N2924	Reference T142 ConceptId:C4084762	Usual Severity Shortness of Breath
+N2925	Reference T142 Source:C0013404:AOD	AOD
+N2926	Reference T142 SemanticType:C2707305:clna	clna
+N2927	Reference T142 Source:C0013404:LCH	LCH
+N2928	Reference T142 Source:C0013404:NCI_CTCAE	NCI_CTCAE
+N2929	Reference T142 Source:C4084764:MTH	MTH
+N2930	Reference T142 Source:C4084763:MTH	MTH
+N2931	Reference T142 Source:C4084762:MTH	MTH
+N2932	Reference T142 Source:C0013404:LNC	LNC
+N2933	Reference T142 Source:C4553552:NCI	NCI
+N2934	Reference T142 Source:C0013404:SNMI	SNMI
+N2935	Reference T142 ConceptId:C4084763	How Often Shortness of Breath
+N2936	Reference T142 Source:C0013404:PDQ	PDQ
+N2937	Reference T142 ConceptId:C3274920	Have Shortness of Breath question
+N2938	Reference T142 Source:C0013404:COSTAR	COSTAR
+N2939	Reference T142 ConceptId:C2707305	Shortness of breath:-:Point in time:^Patient:-
+N2940	Reference T142 SemanticType:C4553552:inpr	inpr
+N2941	Reference T142 Source:C0013404:MSH	MSH
+N2942	Reference T142 Source:C0013404:ICD10CM	ICD10CM
+N2943	Reference T142 Source:C0013404:CHV	CHV
+N2944	Reference T142 SemanticType:C4084764:inpr	inpr
+N2945	Reference T142 Source:C0013404:NCI_CTRP	NCI_CTRP
+N2946	Reference T142 Source:C0013404:SNM	SNM
+N2947	Reference T142 Source:C0013404:MEDLINEPLUS	MEDLINEPLUS
+N2948	Reference T142 Source:C4084762:NCI	NCI
+N2949	Reference T142 Source:C4084764:NCI	NCI
+T143	MMLite 594 598	four
+N2950	Reference T143 Source:C0205450:SNMI	SNMI
+N2951	Reference T143 Source:C0205450:NCI	NCI
+N2952	Reference T143 ConceptId:C0205450	Four
+N2953	Reference T143 SemanticType:C0205450:qnco	qnco
+N2954	Reference T143 Source:C0205450:MTH	MTH
+N2955	Reference T143 Source:C0205450:SNOMEDCT_US	SNOMEDCT_US
+T144	MMLite 2463 2468	stent
+N2956	Reference T144 Source:C0038257:CHV	CHV
+N2957	Reference T144 Source:C0038257:MSH	MSH
+N2958	Reference T144 SemanticType:C0038257:medd	medd
+N2959	Reference T144 Source:C0038257:NCI_CTRP	NCI_CTRP
+N2960	Reference T144 Source:C0038257:LNC	LNC
+N2961	Reference T144 Source:C0038257:NCI_FDA	NCI_FDA
+N2962	Reference T144 Source:C0038257:SNMI	SNMI
+N2963	Reference T144 Source:C0038257:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N2964	Reference T144 Source:C0038257:SNOMEDCT_US	SNOMEDCT_US
+N2965	Reference T144 ConceptId:C0038257	Stent, device
+N2966	Reference T144 Source:C0038257:MTH	MTH
+N2967	Reference T144 Source:C0038257:CSP	CSP
+N2968	Reference T144 Source:C0038257:NCI	NCI
+T145	MMLite 2723 2730	infarct
+N2969	Reference T145 Source:C0021308:LCH	LCH
+N2970	Reference T145 Source:C0021308:LCH_NW	LCH_NW
+N2971	Reference T145 ConceptId:C0021308	Infarction
+N2972	Reference T145 Source:C0021308:SNOMEDCT_US	SNOMEDCT_US
+N2973	Reference T145 Source:C0021308:CSP	CSP
+N2974	Reference T145 Source:C0021308:MTH	MTH
+N2975	Reference T145 Source:C0021308:SNMI	SNMI
+N2976	Reference T145 Source:C0021308:CHV	CHV
+N2977	Reference T145 Source:C0021308:SNM	SNM
+N2978	Reference T145 Source:C0021308:NCI_NICHD	NCI_NICHD
+N2979	Reference T145 Source:C0021308:OMIM	OMIM
+N2980	Reference T145 Source:C0021308:NCI_CDISC	NCI_CDISC
+N2981	Reference T145 Source:C0021308:NCI	NCI
+N2982	Reference T145 Source:C0021308:CST	CST
+N2983	Reference T145 Source:C0021308:LNC	LNC
+N2984	Reference T145 Source:C0021308:MSH	MSH
+N2985	Reference T145 SemanticType:C0021308:patf	patf
+T146	MMLite 1418 1432	Blood pressure
+N2986	Reference T146 Source:C0005824:MTH	MTH
+N2987	Reference T146 Source:C0005823:MTH	MTH
+N2988	Reference T146 Source:C0005823:MEDLINEPLUS	MEDLINEPLUS
+N2989	Reference T146 Source:C1271104:MTH	MTH
+N2990	Reference T146 Source:C0005823:LCH_NW	LCH_NW
+N2991	Reference T146 SemanticType:C1271104:fndg	fndg
+N2992	Reference T146 ConceptId:C0005824	Blood pressure determination
+N2993	Reference T146 Source:C0005824:LCH_NW	LCH_NW
+N2994	Reference T146 ConceptId:C1271104	Blood pressure finding
+N2995	Reference T146 Source:C0005824:SNMI	SNMI
+N2996	Reference T146 Source:C0005823:LNC	LNC
+N2997	Reference T146 Source:C0005823:MSH	MSH
+N2998	Reference T146 Source:C0005824:MSH	MSH
+N2999	Reference T146 Source:C0005824:SNM	SNM
+N3000	Reference T146 Source:C1272641:CHV	CHV
+N3001	Reference T146 Source:C0005824:CHV	CHV
+N3002	Reference T146 Source:C0005823:NCI_NICHD	NCI_NICHD
+N3003	Reference T146 Source:C0005823:CHV	CHV
+N3004	Reference T146 Source:C0005823:SNM	SNM
+N3005	Reference T146 Source:C1272641:MTH	MTH
+N3006	Reference T146 Source:C0005823:CSP	CSP
+N3007	Reference T146 SemanticType:C1272641:fndg	fndg
+N3008	Reference T146 Source:C0005823:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N3009	Reference T146 Source:C0005823:AOD	AOD
+N3010	Reference T146 Source:C0005824:AOD	AOD
+N3011	Reference T146 Source:C0005823:LCH	LCH
+N3012	Reference T146 Source:C1271104:SNOMEDCT_US	SNOMEDCT_US
+N3013	Reference T146 Source:C1272641:MSH	MSH
+N3014	Reference T146 Source:C0005824:SNOMEDCT_US	SNOMEDCT_US
+N3015	Reference T146 Source:C0005823:SNOMEDCT_US	SNOMEDCT_US
+N3016	Reference T146 Source:C1272641:SNOMEDCT_US	SNOMEDCT_US
+N3017	Reference T146 ConceptId:C0005823	Blood Pressure
+N3018	Reference T146 ConceptId:C1272641	Systemic arterial pressure
+N3019	Reference T146 SemanticType:C0005823:orgf	orgf
+N3020	Reference T146 SemanticType:C0005824:hlca	hlca
+N3021	Reference T146 Source:C0005823:SNMI	SNMI
+N3022	Reference T146 Source:C0005823:NCI	NCI
+N3023	Reference T146 Source:C1271104:NCI	NCI
+T147	MMLite 2673 2678	clear
+N3024	Reference T147 Source:C1550016:MTH	MTH
+N3025	Reference T147 SemanticType:C4761489:inpr	inpr
+N3026	Reference T147 ConceptId:C1709157	Negative Surgical Margin
+N3027	Reference T147 Source:C2963144:SNMI	SNMI
+N3028	Reference T147 Source:C4761489:MTH	MTH
+N3029	Reference T147 Source:C2963144:SNOMEDCT_US	SNOMEDCT_US
+N3030	Reference T147 Source:C1709157:MSH	MSH
+N3031	Reference T147 SemanticType:C1550016:idcn	idcn
+N3032	Reference T147 Source:C2963144:CHV	CHV
+N3033	Reference T147 ConceptId:C4761489	Epidermal cGVHD Score 0
+N3034	Reference T147 ConceptId:C2963144	Clear
+N3035	Reference T147 ConceptId:C1550016	Remote control command - Clear
+N3036	Reference T147 Source:C2963144:LNC	LNC
+N3037	Reference T147 Source:C1550016:HL7V2.5	HL7V2.5
+N3038	Reference T147 Source:C1709157:NCI	NCI
+N3039	Reference T147 SemanticType:C1709157:fndg	fndg
+N3040	Reference T147 Source:C4761489:NCI	NCI
+N3041	Reference T147 Source:C1709157:MTH	MTH
+N3042	Reference T147 SemanticType:C2963144:qlco	qlco
+N3043	Reference T147 Source:C2963144:MTH	MTH
+T148	MMLite 2070 2097	right heart catheterization
+N3044	Reference T148 Source:C0189896:CHV	CHV
+N3045	Reference T148 Source:C0189896:SNM	SNM
+N3046	Reference T148 SemanticType:C0189896:diap	diap
+N3047	Reference T148 Source:C0189896:SNMI	SNMI
+N3048	Reference T148 Source:C0189896:NCI	NCI
+N3049	Reference T148 ConceptId:C0189896	Catheterization of right heart
+N3050	Reference T148 Source:C0189896:MTH	MTH
+N3051	Reference T148 Source:C0189896:SNOMEDCT_US	SNOMEDCT_US
+N3052	Reference T148 Source:C0189896:ICD9CM	ICD9CM
+T149	MMLite 1727 1743	beats per minute
+N3053	Reference T149 Source:C0439385:SNOMEDCT_US	SNOMEDCT_US
+N3054	Reference T149 SemanticType:C0439385:qnco	qnco
+N3055	Reference T149 Source:C0439385:MTH	MTH
+N3056	Reference T149 Source:C0439385:NCI_UCUM	NCI_UCUM
+N3057	Reference T149 Source:C0439385:CHV	CHV
+N3058	Reference T149 Source:C0439385:NCI	NCI
+N3059	Reference T149 ConceptId:C0439385	beats per minute
+N3060	Reference T149 Source:C0439385:NCI_NCPDP	NCI_NCPDP
+N3061	Reference T149 Source:C0439385:NCI_CDISC	NCI_CDISC
+T150	MMLite 2876 2884	function
+N3062	Reference T150 Source:C0031843:MSH	MSH
+N3063	Reference T150 Source:C1705273:MTH	MTH
+N3064	Reference T150 Source:C0542341:NCI	NCI
+N3065	Reference T150 Source:C0700205:SNM	SNM
+N3066	Reference T150 Source:C1315032:MTH	MTH
+N3067	Reference T150 SemanticType:C0700205:orga	orga
+N3068	Reference T150 ConceptId:C0031843	physiological aspects
+N3069	Reference T150 SemanticType:C1315032:inpr	inpr
+N3070	Reference T150 Source:C1315032:LNC	LNC
+N3071	Reference T150 Source:C0542341:LNC	LNC
+N3072	Reference T150 SemanticType:C0542341:ftcn	ftcn
+N3073	Reference T150 Source:C0542341:SNOMEDCT_US	SNOMEDCT_US
+N3074	Reference T150 Source:C0542341:CHV	CHV
+N3075	Reference T150 ConceptId:C0700205	Function Axis
+N3076	Reference T150 SemanticType:C1705273:inpr	inpr
+N3077	Reference T150 ConceptId:C0542341	Function (attribute)
+N3078	Reference T150 SemanticType:C0031843:phsf	phsf
+N3079	Reference T150 Source:C0700205:SNMI	SNMI
+N3080	Reference T150 ConceptId:C1705273	Mathematical Operator
+N3081	Reference T150 Source:C0700205:MTH	MTH
+N3082	Reference T150 Source:C1705273:NCI	NCI
+N3083	Reference T150 Source:C0542341:MTH	MTH
+N3084	Reference T150 Source:C0031843:MTH	MTH
+N3085	Reference T150 ConceptId:C1315032	Functional status scoring systems
+T151	MMLite 2583 2590	infarct
+N3086	Reference T151 Source:C0021308:LCH	LCH
+N3087	Reference T151 Source:C0021308:LCH_NW	LCH_NW
+N3088	Reference T151 ConceptId:C0021308	Infarction
+N3089	Reference T151 Source:C0021308:SNOMEDCT_US	SNOMEDCT_US
+N3090	Reference T151 Source:C0021308:CSP	CSP
+N3091	Reference T151 Source:C0021308:MTH	MTH
+N3092	Reference T151 Source:C0021308:SNMI	SNMI
+N3093	Reference T151 Source:C0021308:CHV	CHV
+N3094	Reference T151 Source:C0021308:SNM	SNM
+N3095	Reference T151 Source:C0021308:NCI_NICHD	NCI_NICHD
+N3096	Reference T151 Source:C0021308:OMIM	OMIM
+N3097	Reference T151 Source:C0021308:NCI_CDISC	NCI_CDISC
+N3098	Reference T151 Source:C0021308:NCI	NCI
+N3099	Reference T151 Source:C0021308:CST	CST
+N3100	Reference T151 Source:C0021308:LNC	LNC
+N3101	Reference T151 Source:C0021308:MSH	MSH
+N3102	Reference T151 SemanticType:C0021308:patf	patf
+T152	MMLite 2358 2373	atherosclerotic
+N3103	Reference T152 SemanticType:C0333482:ftcn	ftcn
+N3104	Reference T152 Source:C0333482:CHV	CHV
+N3105	Reference T152 ConceptId:C0333482	atherosclerotic
+N3106	Reference T152 Source:C0333482:SNMI	SNMI
+T153	MMLite 355 365	OPERATIONS
+N3107	Reference T153 Source:C0038895:MSH	MSH
+N3108	Reference T153 ConceptId:C3244305	ActInformationPrivacyReason <operations>
+N3109	Reference T153 Source:C3244306:MTH	MTH
+N3110	Reference T153 Source:C3244305:MTH	MTH
+N3111	Reference T153 ConceptId:C0038895	Surgical aspects
+N3112	Reference T153 Source:C0038895:MTH	MTH
+N3113	Reference T153 SemanticType:C3244305:ftcn	ftcn
+N3114	Reference T153 SemanticType:C3244306:inpr	inpr
+N3115	Reference T153 ConceptId:C3244306	HL7PublishingSubSection <operations>
+N3116	Reference T153 SemanticType:C0038895:ftcn	ftcn
+N3117	Reference T153 Source:C3244305:HL7V3.0	HL7V3.0
+N3118	Reference T153 Source:C3244306:HL7V3.0	HL7V3.0
+T154	MMLite 1899 1902	LDL
+N3119	Reference T154 Source:C0202117:CHV	CHV
+N3120	Reference T154 Source:C0023823:MEDLINEPLUS	MEDLINEPLUS
+N3121	Reference T154 Source:C0023823:UWDA	UWDA
+N3122	Reference T154 Source:C0202117:NCI_CDISC	NCI_CDISC
+N3123	Reference T154 Source:C0023823:SNMI	SNMI
+N3124	Reference T154 Source:C0023823:NCI	NCI
+N3125	Reference T154 Source:C0202117:SNMI	SNMI
+N3126	Reference T154 Source:C1325353:GO	GO
+N3127	Reference T154 Source:C0023823:AOD	AOD
+N3128	Reference T154 Source:C0202117:MTH	MTH
+N3129	Reference T154 Source:C0023823:LNC	LNC
+N3130	Reference T154 SemanticType:C1325353:moft	moft
+N3131	Reference T154 ConceptId:C0023823	Low-Density Lipoproteins
+N3132	Reference T154 ConceptId:C1325353	low-density lipoprotein activity
+N3133	Reference T154 SemanticType:C0202117:lbpr	lbpr
+N3134	Reference T154 Source:C0023823:CSP	CSP
+N3135	Reference T154 ConceptId:C0202117	Low density lipoprotein cholesterol measurement
+N3136	Reference T154 Source:C1325353:MTH	MTH
+N3137	Reference T154 SemanticType:C0023823:orch	orch
+N3138	Reference T154 Source:C0023823:FMA	FMA
+N3139	Reference T154 Source:C0202117:NCI	NCI
+N3140	Reference T154 Source:C0023823:CST	CST
+N3141	Reference T154 Source:C0023823:MTH	MTH
+N3142	Reference T154 SemanticType:C0023823:bacs	bacs
+N3143	Reference T154 Source:C0023823:MSH	MSH
+N3144	Reference T154 Source:C0023823:SNOMEDCT_US	SNOMEDCT_US
+N3145	Reference T154 Source:C0023823:CHV	CHV
+N3146	Reference T154 Source:C0023823:SNM	SNM
+N3147	Reference T154 Source:C0023823:LCH_NW	LCH_NW
+N3148	Reference T154 Source:C0202117:SNOMEDCT_US	SNOMEDCT_US
+T155	MMLite 2010 2044	cardiac catheterization laboratory
+N3149	Reference T155 Source:C1707294:NCI	NCI
+N3150	Reference T155 SemanticType:C1707294:hcro	hcro
+N3151	Reference T155 ConceptId:C1707294	Cardiac Catheterization Laboratory
+T156	MMLite 2656 2660	note
+N3152	Reference T156 Source:C1317574:MTH	MTH
+N3153	Reference T156 ConceptId:C1317574	Note (document)
+N3154	Reference T156 ConceptId:C1316572	Evaluation and management note:Finding:Point in time:{Setting}:Document:{Provider}
+N3155	Reference T156 SemanticType:C1316572:clna	clna
+N3156	Reference T156 Source:C1317574:LNC	LNC
+N3157	Reference T156 Source:C1317574:NCI	NCI
+N3158	Reference T156 Source:C1316572:MTH	MTH
+N3159	Reference T156 Source:C1317574:CHV	CHV
+N3160	Reference T156 SemanticType:C1317574:inpr	inpr
+N3161	Reference T156 Source:C1316572:LNC	LNC
+T157	MMLite 1500 1506	normal
+N3162	Reference T157 ConceptId:C0205307	Normal
+N3163	Reference T157 Source:C1873497:MTH	MTH
+N3164	Reference T157 ConceptId:C1553406	normal Entity Status
+N3165	Reference T157 Source:C0205307:CHV	CHV
+N3166	Reference T157 SemanticType:C1553406:qlco	qlco
+N3167	Reference T157 Source:C1550469:HL7V3.0	HL7V3.0
+N3168	Reference T157 Source:C1704701:NCI_FDA	NCI_FDA
+N3169	Reference T157 SemanticType:C1550469:idcn	idcn
+N3170	Reference T157 Source:C4553972:NCI	NCI
+N3171	Reference T157 Source:C1553386:HL7V3.0	HL7V3.0
+N3172	Reference T157 ConceptId:C1873497	Normal assessment finding
+N3173	Reference T157 Source:C0558145:SNOMEDCT_US	SNOMEDCT_US
+N3174	Reference T157 Source:C1704701:MTH	MTH
+N3175	Reference T157 Source:C0558145:MTH	MTH
+N3176	Reference T157 SemanticType:C1873497:fndg	fndg
+N3177	Reference T157 Source:C2698497:NCI_NICHD	NCI_NICHD
+N3178	Reference T157 Source:C2698497:NCI_CDISC	NCI_CDISC
+N3179	Reference T157 Source:C0205307:NCI_CDISC	NCI_CDISC
+N3180	Reference T157 Source:C1551394:HL7V3.0	HL7V3.0
+N3181	Reference T157 SemanticType:C0558145:fndg	fndg
+N3182	Reference T157 ConceptId:C0558145	Skin appearance normal (finding)
+N3183	Reference T157 ConceptId:C5202633	Normal Immune Presence
+N3184	Reference T157 SemanticType:C0205307:qlco	qlco
+N3185	Reference T157 Source:C1553386:MTH	MTH
+N3186	Reference T157 Source:C1551394:MTH	MTH
+N3187	Reference T157 SemanticType:C1553399:idcn	idcn
+N3188	Reference T157 Source:C0558145:NCI	NCI
+N3189	Reference T157 Source:C0205307:NCI	NCI
+N3190	Reference T157 ConceptId:C1550457	Normal Observation Interpretation
+N3191	Reference T157 SemanticType:C2698497:inpr	inpr
+N3192	Reference T157 Source:C1550457:MTH	MTH
+N3193	Reference T157 Source:C1553399:MTH	MTH
+N3194	Reference T157 Source:C0205307:MTH	MTH
+N3195	Reference T157 SemanticType:C1553402:idcn	idcn
+N3196	Reference T157 SemanticType:C5200925:fndg	fndg
+N3197	Reference T157 ConceptId:C5200925	Normal Gait
+N3198	Reference T157 Source:C2698497:MTH	MTH
+N3199	Reference T157 Source:C1704701:NCI	NCI
+N3200	Reference T157 Source:C5202633:NCI	NCI
+N3201	Reference T157 Source:C0205307:LNC	LNC
+N3202	Reference T157 Source:C1553402:HL7V3.0	HL7V3.0
+N3203	Reference T157 Source:C0205307:HL7V2.5	HL7V2.5
+N3204	Reference T157 Source:C1873497:OMIM	OMIM
+N3205	Reference T157 Source:C5202633:MTH	MTH
+N3206	Reference T157 Source:C1553399:HL7V3.0	HL7V3.0
+N3207	Reference T157 ConceptId:C1553399	normal Managed Participation Status
+N3208	Reference T157 Source:C0558145:CHV	CHV
+N3209	Reference T157 SemanticType:C1550457:fndg	fndg
+N3210	Reference T157 SemanticType:C5202633:fndg	fndg
+N3211	Reference T157 ConceptId:C1553386	normal Act Status
+N3212	Reference T157 Source:C2698497:NCI	NCI
+N3213	Reference T157 SemanticType:C1553386:inpr	inpr
+N3214	Reference T157 ConceptId:C1551394	normal Device Alert Level
+N3215	Reference T157 ConceptId:C2698497	Normal Reference Range
+N3216	Reference T157 Source:C5200925:NCI	NCI
+N3217	Reference T157 ConceptId:C1704701	Normal, Unit of Concentration
+N3218	Reference T157 Source:C1550469:MTH	MTH
+N3219	Reference T157 Source:C0205307:SNOMEDCT_US	SNOMEDCT_US
+N3220	Reference T157 Source:C0558145:NCI_CDISC	NCI_CDISC
+N3221	Reference T157 Source:C4553972:MTH	MTH
+N3222	Reference T157 SemanticType:C4553972:inpr	inpr
+N3223	Reference T157 SemanticType:C1704701:qnco	qnco
+N3224	Reference T157 Source:C1553406:HL7V3.0	HL7V3.0
+N3225	Reference T157 SemanticType:C1551394:fndg	fndg
+N3226	Reference T157 Source:C1550457:HL7V3.0	HL7V3.0
+N3227	Reference T157 Source:C2698497:NCI_CPTAC	NCI_CPTAC
+N3228	Reference T157 Source:C1553402:MTH	MTH
+N3229	Reference T157 Source:C1553406:MTH	MTH
+N3230	Reference T157 Source:C5200925:MTH	MTH
+N3231	Reference T157 ConceptId:C1550469	normal Confidentiality
+N3232	Reference T157 Source:C0558145:OMIM	OMIM
+N3233	Reference T157 ConceptId:C4553972	How Often Felt Normal question
+N3234	Reference T157 ConceptId:C1553402	normal Role Status
+N3235	Reference T157 Source:C0205307:SNMI	SNMI
+T158	MMLite 1348 1368	PAST MEDICAL HISTORY
+N3236	Reference T158 Source:C0262926:NCI	NCI
+N3237	Reference T158 Source:C0455458:CHV	CHV
+N3238	Reference T158 ConceptId:C0262926	Medical History
+N3239	Reference T158 Source:C0262926:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N3240	Reference T158 ConceptId:C0455458	PMH - past medical history
+N3241	Reference T158 Source:C0455458:SNOMEDCT_US	SNOMEDCT_US
+N3242	Reference T158 Source:C0262926:AIR	AIR
+N3243	Reference T158 Source:C0262926:CHV	CHV
+N3244	Reference T158 Source:C0262926:LNC	LNC
+N3245	Reference T158 Source:C0455458:HPO	HPO
+N3246	Reference T158 Source:C0455458:MTH	MTH
+N3247	Reference T158 Source:C0262926:NCI_CPTAC	NCI_CPTAC
+N3248	Reference T158 Source:C0262926:SNOMEDCT_US	SNOMEDCT_US
+N3249	Reference T158 Source:C0262926:MTH	MTH
+N3250	Reference T158 SemanticType:C0455458:fndg	fndg
+N3251	Reference T158 SemanticType:C0262926:fndg	fndg
+N3252	Reference T158 Source:C0262926:NCI_NICHD	NCI_NICHD
+N3253	Reference T158 Source:C0262926:AOD	AOD
+N3254	Reference T158 Source:C0455458:LNC	LNC
+T159	MMLite 2203 2211	proximal
+N3255	Reference T159 Source:C0205107:SNMI	SNMI
+N3256	Reference T159 Source:C0205107:UWDA	UWDA
+N3257	Reference T159 Source:C0205107:SNOMEDCT_US	SNOMEDCT_US
+N3258	Reference T159 Source:C0205107:NCI	NCI
+N3259	Reference T159 Source:C0205107:CHV	CHV
+N3260	Reference T159 ConceptId:C4489236	Proximal Resection Margin
+N3261	Reference T159 Source:C4489236:NCI	NCI
+N3262	Reference T159 SemanticType:C0205107:spco	spco
+N3263	Reference T159 SemanticType:C4489236:clna	clna
+N3264	Reference T159 Source:C4489236:MTH	MTH
+N3265	Reference T159 Source:C0205107:NCI_CDISC	NCI_CDISC
+N3266	Reference T159 ConceptId:C0205107	Proximal
+N3267	Reference T159 Source:C0205107:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N3268	Reference T159 Source:C0205107:MTH	MTH
+N3269	Reference T159 Source:C4489236:LNC	LNC
+N3270	Reference T159 Source:C0205107:HPO	HPO
+N3271	Reference T159 Source:C0205107:HL7V2.5	HL7V2.5
+T160	MMLite 2296 2304	stenosis
+N3272	Reference T160 Source:C1261287:MTH	MTH
+N3273	Reference T160 Source:C0678234:MTH	MTH
+N3274	Reference T160 Source:C1261287:LCH_NW	LCH_NW
+N3275	Reference T160 ConceptId:C1261287	Stenosis
+N3276	Reference T160 Source:C2632116:NCBI	NCBI
+N3277	Reference T160 Source:C1261287:LNC	LNC
+N3278	Reference T160 Source:C1261287:MTHMST	MTHMST
+N3279	Reference T160 Source:C1261287:SNOMEDCT_US	SNOMEDCT_US
+N3280	Reference T160 Source:C1261287:SNM	SNM
+N3281	Reference T160 Source:C1261287:SNMI	SNMI
+N3282	Reference T160 Source:C1261287:CHV	CHV
+N3283	Reference T160 ConceptId:C0678234	Stenosis Morphology
+N3284	Reference T160 SemanticType:C0678234:qlco	qlco
+N3285	Reference T160 Source:C1261287:NCI_FDA	NCI_FDA
+N3286	Reference T160 Source:C1261287:LCH	LCH
+N3287	Reference T160 Source:C1261287:AOD	AOD
+N3288	Reference T160 SemanticType:C1261287:patf	patf
+N3289	Reference T160 SemanticType:C2632116:euka	euka
+N3290	Reference T160 Source:C1261287:MSH	MSH
+N3291	Reference T160 ConceptId:C2632116	Stenosis (invertebrate)
+N3292	Reference T160 Source:C2632116:MTH	MTH
+N3293	Reference T160 Source:C0678234:CHV	CHV
+N3294	Reference T160 Source:C0678234:SNOMEDCT_US	SNOMEDCT_US
+N3295	Reference T160 Source:C1261287:OMIM	OMIM
+N3296	Reference T160 Source:C1261287:NCI	NCI
+N3297	Reference T160 Source:C1261287:NCI_NICHD	NCI_NICHD
+T161	MMLite 1772 1784	ST elevation
+N3298	Reference T161 Source:C0520886:CST	CST
+N3299	Reference T161 Source:C0520886:NCI	NCI
+N3300	Reference T161 Source:C0520886:HPO	HPO
+N3301	Reference T161 Source:C0520886:SNOMEDCT_VET	SNOMEDCT_VET
+N3302	Reference T161 Source:C0520886:SNMI	SNMI
+N3303	Reference T161 Source:C0520886:DXP	DXP
+N3304	Reference T161 Source:C0520886:MTH	MTH
+N3305	Reference T161 Source:C0520886:SNOMEDCT_US	SNOMEDCT_US
+N3306	Reference T161 SemanticType:C0520886:fndg	fndg
+N3307	Reference T161 Source:C0520886:NCI_FDA	NCI_FDA
+N3308	Reference T161 ConceptId:C0520886	ST segment elevation (finding)
+N3309	Reference T161 Source:C0520886:CHV	CHV
+N3310	Reference T161 Source:C0520886:NCI_CDISC	NCI_CDISC
+T162	MMLite 2115 2127	intervention
+N3311	Reference T162 Source:C0184661:NCI_BRIDG_3_0_3	NCI_BRIDG_3_0_3
+N3312	Reference T162 SemanticType:C0184661:topp	topp
+N3313	Reference T162 Source:C0184661:MSH	MSH
+N3314	Reference T162 Source:C1273869:LNC	LNC
+N3315	Reference T162 Source:C0184661:CHV	CHV
+N3316	Reference T162 Source:C0886296:CHV	CHV
+N3317	Reference T162 Source:C0184661:NCI	NCI
+N3318	Reference T162 ConceptId:C1273869	Intervention regimes
+N3319	Reference T162 Source:C0184661:SNMI	SNMI
+N3320	Reference T162 Source:C0184661:NCI_CDISC-GLOSS	NCI_CDISC-GLOSS
+N3321	Reference T162 Source:C0886296:MTH	MTH
+N3322	Reference T162 Source:C0886296:CSP	CSP
+N3323	Reference T162 Source:C0184661:SNOMEDCT_US	SNOMEDCT_US
+N3324	Reference T162 Source:C1273869:MTH	MTH
+N3325	Reference T162 Source:C0184661:ICD9CM	ICD9CM
+N3326	Reference T162 Source:C0184661:LNC	LNC
+N3327	Reference T162 Source:C0184661:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N3328	Reference T162 SemanticType:C1273869:hlca	hlca
+N3329	Reference T162 Source:C1273869:SNOMEDCT_US	SNOMEDCT_US
+N3330	Reference T162 ConceptId:C0184661	Interventional procedure
+N3331	Reference T162 Source:C0184661:SNM	SNM
+N3332	Reference T162 ConceptId:C0886296	Nursing interventions
+N3333	Reference T162 SemanticType:C0886296:hlca	hlca
+N3334	Reference T162 Source:C0184661:NCI_NICHD	NCI_NICHD
+N3335	Reference T162 Source:C0184661:CSP	CSP
+N3336	Reference T162 Source:C0184661:CCS	CCS
+N3337	Reference T162 Source:C0184661:MTH	MTH
+N3338	Reference T162 Source:C0184661:PDQ	PDQ
+T163	MMLite 795 818	cardiac catheterization
+N3339	Reference T163 Source:C0018795:MSH	MSH
+N3340	Reference T163 ConceptId:C1547981	Diagnostic Service Section ID - Cardiac Catheterization
+N3341	Reference T163 Source:C0018795:MTHICD9	MTHICD9
+N3342	Reference T163 Source:C0018795:CHV	CHV
+N3343	Reference T163 Source:C0018795:LCH	LCH
+N3344	Reference T163 Source:C0018795:NCI_CDISC	NCI_CDISC
+N3345	Reference T163 SemanticType:C1547981:inpr	inpr
+N3346	Reference T163 Source:C0018795:COSTAR	COSTAR
+N3347	Reference T163 Source:C0018795:MTH	MTH
+N3348	Reference T163 SemanticType:C1548828:hlca	hlca
+N3349	Reference T163 Source:C0018795:SNMI	SNMI
+N3350	Reference T163 Source:C1548828:MTH	MTH
+N3351	Reference T163 Source:C0018795:SNM	SNM
+N3352	Reference T163 Source:C1547981:HL7V2.5	HL7V2.5
+N3353	Reference T163 Source:C0018795:CSP	CSP
+N3354	Reference T163 Source:C0018795:CCS	CCS
+N3355	Reference T163 Source:C1548828:HL7V2.5	HL7V2.5
+N3356	Reference T163 ConceptId:C0018795	Cardiac Catheterization Procedures
+N3357	Reference T163 Source:C0018795:LCH_NW	LCH_NW
+N3358	Reference T163 Source:C0018795:SNOMEDCT_US	SNOMEDCT_US
+N3359	Reference T163 Source:C0018795:LNC	LNC
+N3360	Reference T163 Source:C0018795:NCI	NCI
+N3361	Reference T163 Source:C1547981:MTH	MTH
+N3362	Reference T163 SemanticType:C0018795:diap	diap
+N3363	Reference T163 ConceptId:C1548828	Consent Type - Cardiac Catheterization
+T164	MMLite 2928 2932	with
+N3364	Reference T164 ConceptId:C1705690	With - dosing instruction fragment
+N3365	Reference T164 Source:C0332287:MTH	MTH
+N3366	Reference T164 Source:C0332287:SNMI	SNMI
+N3367	Reference T164 SemanticType:C1705690:inpr	inpr
+N3368	Reference T164 Source:C0332287:LNC	LNC
+N3369	Reference T164 Source:C1705690:SNOMEDCT_US	SNOMEDCT_US
+N3370	Reference T164 Source:C1705690:MTH	MTH
+N3371	Reference T164 ConceptId:C0332287	In addition to
+N3372	Reference T164 Source:C0332287:NCI	NCI
+N3373	Reference T164 Source:C0332287:SNOMEDCT_US	SNOMEDCT_US
+N3374	Reference T164 SemanticType:C0332287:ftcn	ftcn
+T165	MMLite 3325 3339	Medical Center
+N3375	Reference T165 Source:C0565990:LCH	LCH
+N3376	Reference T165 Source:C0565990:CHV	CHV
+N3377	Reference T165 ConceptId:C0565990	Medical center
+N3378	Reference T165 SemanticType:C0565990:hcro	hcro
+N3379	Reference T165 SemanticType:C0565990:mnob	mnob
+N3380	Reference T165 Source:C0565990:MTH	MTH
+N3381	Reference T165 Source:C0565990:SNOMEDCT_US	SNOMEDCT_US
+N3382	Reference T165 Source:C0565990:AOD	AOD
+T166	MMLite 1683 1707	electrocardiogram normal
+N3383	Reference T166 ConceptId:C0522054	ECG normal
+N3384	Reference T166 Source:C0522054:CHV	CHV
+N3385	Reference T166 Source:C0522054:SNMI	SNMI
+N3386	Reference T166 Source:C0522054:DXP	DXP
+N3387	Reference T166 Source:C0522054:SNOMEDCT_US	SNOMEDCT_US
+N3388	Reference T166 SemanticType:C0522054:fndg	fndg
+T167	MMLite 248 284	Acute inferior myocardial infarction
+N3389	Reference T167 ConceptId:C0264700	Acute Inferior Myocardial Infarction
+N3390	Reference T167 Source:C0264700:MTH	MTH
+N3391	Reference T167 Source:C0264700:MTHICD9	MTHICD9
+N3392	Reference T167 SemanticType:C0264700:dsyn	dsyn
+N3393	Reference T167 Source:C0264700:SNOMEDCT_US	SNOMEDCT_US
+N3394	Reference T167 Source:C0264700:SNMI	SNMI
+N3395	Reference T167 Source:C0264700:MSH	MSH
+T168	MMLite 469 489	coronary angiography
+N3396	Reference T168 Source:C0085532:NCI_CDISC	NCI_CDISC
+N3397	Reference T168 Source:C0085532:SNM	SNM
+N3398	Reference T168 Source:C0085532:SNOMEDCT_US	SNOMEDCT_US
+N3399	Reference T168 Source:C0085532:SNMI	SNMI
+N3400	Reference T168 Source:C0085532:MTHICD9	MTHICD9
+N3401	Reference T168 Source:C0085532:CHV	CHV
+N3402	Reference T168 SemanticType:C1548829:hlca	hlca
+N3403	Reference T168 Source:C0085532:MTH	MTH
+N3404	Reference T168 Source:C0085532:NCI	NCI
+N3405	Reference T168 Source:C0085532:CCS	CCS
+N3406	Reference T168 Source:C1548829:HL7V2.5	HL7V2.5
+N3407	Reference T168 ConceptId:C1548829	Consent Type - Coronary Angiography
+N3408	Reference T168 ConceptId:C0085532	Coronary angiography
+N3409	Reference T168 Source:C0085532:AOD	AOD
+N3410	Reference T168 Source:C0085532:MSH	MSH
+N3411	Reference T168 SemanticType:C0085532:diap	diap
+N3412	Reference T168 Source:C1548829:MTH	MTH
+N3413	Reference T168 Source:C0085532:LNC	LNC
+T169	MMLite 1908 1911	HDL
+N3414	Reference T169 Source:C0392885:NCI	NCI
+N3415	Reference T169 Source:C1325339:GO	GO
+N3416	Reference T169 ConceptId:C0023821	High Density Lipoproteins
+N3417	Reference T169 SemanticType:C3715113:gngm	gngm
+N3418	Reference T169 Source:C0023821:NCI	NCI
+N3419	Reference T169 Source:C0023821:MEDLINEPLUS	MEDLINEPLUS
+N3420	Reference T169 Source:C0023821:AOD	AOD
+N3421	Reference T169 Source:C3715113:MTH	MTH
+N3422	Reference T169 Source:C0023821:SNMI	SNMI
+N3423	Reference T169 Source:C0392885:SNOMEDCT_US	SNOMEDCT_US
+N3424	Reference T169 Source:C0023821:LNC	LNC
+N3425	Reference T169 Source:C0392885:NCI_CDISC	NCI_CDISC
+N3426	Reference T169 SemanticType:C0023821:bacs	bacs
+N3427	Reference T169 Source:C0392885:SNMI	SNMI
+N3428	Reference T169 ConceptId:C3715113	HSD11B1 wt Allele
+N3429	Reference T169 Source:C0023821:FMA	FMA
+N3430	Reference T169 Source:C0023821:SNM	SNM
+N3431	Reference T169 SemanticType:C0023821:aapp	aapp
+N3432	Reference T169 Source:C0023821:CSP	CSP
+N3433	Reference T169 Source:C0023821:MTH	MTH
+N3434	Reference T169 Source:C0392885:MTH	MTH
+N3435	Reference T169 SemanticType:C0392885:lbpr	lbpr
+N3436	Reference T169 Source:C0023821:SNOMEDCT_US	SNOMEDCT_US
+N3437	Reference T169 Source:C0023821:UWDA	UWDA
+N3438	Reference T169 Source:C0023821:LCH_NW	LCH_NW
+N3439	Reference T169 ConceptId:C0392885	High density lipoprotein measurement
+N3440	Reference T169 ConceptId:C1325339	high-density lipoprotein activity
+N3441	Reference T169 Source:C0392885:CHV	CHV
+N3442	Reference T169 Source:C0023821:MSH	MSH
+N3443	Reference T169 Source:C3715113:NCI	NCI
+N3444	Reference T169 Source:C0023821:CHV	CHV
+N3445	Reference T169 Source:C1325339:MTH	MTH
+N3446	Reference T169 SemanticType:C1325339:moft	moft
+T170	MMLite 2903 2920	ejection fraction
+N3447	Reference T170 Source:C0489482:CHV	CHV
+N3448	Reference T170 Source:C2700378:MTH	MTH
+N3449	Reference T170 Source:C2700378:LNC	LNC
+N3450	Reference T170 Source:C0489482:MTH	MTH
+N3451	Reference T170 SemanticType:C2700378:fndg	fndg
+N3452	Reference T170 ConceptId:C2700378	Ejection fraction (finding)
+N3453	Reference T170 ConceptId:C0489482	Ejection fraction (procedure)
+N3454	Reference T170 SemanticType:C0489482:diap	diap
+T171	MMLite 146 150	UNIT
+N3455	Reference T171 Source:C1519795:NCI	NCI
+N3456	Reference T171 Source:C0439453:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N3457	Reference T171 Source:C1509845:NCI	NCI
+N3458	Reference T171 Source:C0439453:CHV	CHV
+N3459	Reference T171 Source:C3853603:NCI_CRCH	NCI_CRCH
+N3460	Reference T171 Source:C1704753:NCI	NCI
+N3461	Reference T171 Source:C1880519:NCI_UCUM	NCI_UCUM
+N3462	Reference T171 Source:C0439148:LNC	LNC
+N3463	Reference T171 Source:C2347274:MTH	MTH
+N3464	Reference T171 Source:C0439148:MTH	MTH
+N3465	Reference T171 Source:C0439453:SNOMEDCT_US	SNOMEDCT_US
+N3466	Reference T171 ConceptId:C2347274	CDISC SDTM Unit of Measure Terminology
+N3467	Reference T171 ConceptId:C1880519	Enzyme Unit
+N3468	Reference T171 Source:C1880519:NCI	NCI
+N3469	Reference T171 Source:C1519795:NCI_NICHD	NCI_NICHD
+N3470	Reference T171 SemanticType:C1509845:medd	medd
+N3471	Reference T171 Source:C0439148:NCI_NCPDP	NCI_NCPDP
+N3472	Reference T171 Source:C0439453:NCI_NCPDP	NCI_NCPDP
+N3473	Reference T171 ConceptId:C1519795	Unit of Measure
+N3474	Reference T171 Source:C2347274:NCI_CDISC	NCI_CDISC
+N3475	Reference T171 Source:C0439453:NCI	NCI
+N3476	Reference T171 Source:C1509845:NCI_FDA	NCI_FDA
+N3477	Reference T171 Source:C1519795:NCI_ICH	NCI_ICH
+N3478	Reference T171 ConceptId:C1509845	Unit device
+N3479	Reference T171 SemanticType:C0439148:qnco	qnco
+N3480	Reference T171 Source:C1880519:MTH	MTH
+N3481	Reference T171 SemanticType:C1519795:qnco	qnco
+N3482	Reference T171 ConceptId:C3853603	Unit - NCI Thesaurus Property
+N3483	Reference T171 SemanticType:C1880519:qnco	qnco
+N3484	Reference T171 Source:C1704753:MTH	MTH
+N3485	Reference T171 Source:C0439148:NCI_UCUM	NCI_UCUM
+N3486	Reference T171 Source:C0439148:CHV	CHV
+N3487	Reference T171 SemanticType:C0439453:qnco	qnco
+N3488	Reference T171 ConceptId:C0439148	Unit
+N3489	Reference T171 Source:C0439453:MTH	MTH
+N3490	Reference T171 Source:C0439453:NCI_UCUM	NCI_UCUM
+N3491	Reference T171 SemanticType:C3853603:qnco	qnco
+N3492	Reference T171 Source:C0439148:SNOMEDCT_US	SNOMEDCT_US
+N3493	Reference T171 Source:C0439453:NCI_ICH	NCI_ICH
+N3494	Reference T171 Source:C3853603:MTH	MTH
+N3495	Reference T171 Source:C1509845:MTH	MTH
+N3496	Reference T171 Source:C0439453:NCI_CDISC	NCI_CDISC
+N3497	Reference T171 SemanticType:C2347274:inpr	inpr
+N3498	Reference T171 Source:C0439148:NCI	NCI
+N3499	Reference T171 Source:C1519795:MTH	MTH
+N3500	Reference T171 ConceptId:C1704753	Storage Unit
+N3501	Reference T171 Source:C1880519:NCI_CDISC	NCI_CDISC
+N3502	Reference T171 Source:C0439148:NCI_CDISC	NCI_CDISC
+N3503	Reference T171 SemanticType:C1704753:mnob	mnob
+N3504	Reference T171 Source:C2347274:NCI	NCI
+N3505	Reference T171 Source:C0439148:NCI_FDA	NCI_FDA
+N3506	Reference T171 Source:C1519795:SNOMEDCT_US	SNOMEDCT_US
+N3507	Reference T171 Source:C1519795:NCI_UCUM	NCI_UCUM
+N3508	Reference T171 ConceptId:C0439453	International Unit
+N3509	Reference T171 Source:C3853603:NCI	NCI
+N3510	Reference T171 Source:C0439453:NCI_FDA	NCI_FDA
+T172	MMLite 1531 1536	lungs
+N3511	Reference T172 Source:C0024109:OMIM	OMIM
+N3512	Reference T172 Source:C0024109:FMA	FMA
+N3513	Reference T172 Source:C0024109:CSP	CSP
+N3514	Reference T172 Source:C0024109:NCI	NCI
+N3515	Reference T172 Source:C0024109:LCH	LCH
+N3516	Reference T172 Source:C0024109:ICF	ICF
+N3517	Reference T172 Source:C0024109:UWDA	UWDA
+N3518	Reference T172 Source:C0024109:SNMI	SNMI
+N3519	Reference T172 Source:C0024109:MTH	MTH
+N3520	Reference T172 Source:C0024109:SNOMEDCT_US	SNOMEDCT_US
+N3521	Reference T172 Source:C0024109:AOD	AOD
+N3522	Reference T172 Source:C0024109:LNC	LNC
+N3523	Reference T172 Source:C0024109:NCI_CDISC	NCI_CDISC
+N3524	Reference T172 Source:C0024109:MSH	MSH
+N3525	Reference T172 Source:C0024109:HL7V2.5	HL7V2.5
+N3526	Reference T172 Source:C0024109:LCH_NW	LCH_NW
+N3527	Reference T172 SemanticType:C0024109:bpoc	bpoc
+N3528	Reference T172 Source:C0024109:SNM	SNM
+N3529	Reference T172 Source:C0024109:NCI_CPTAC	NCI_CPTAC
+N3530	Reference T172 ConceptId:C0024109	Lung
+N3531	Reference T172 Source:C0024109:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N3532	Reference T172 Source:C0024109:CHV	CHV
+N3533	Reference T172 Source:C0024109:ICF-CY	ICF-CY
+T173	MMLite 2706 2719	suggestive of
+N3534	Reference T173 Source:C0332299:SNOMEDCT_US	SNOMEDCT_US
+N3535	Reference T173 Source:C0332299:CHV	CHV
+N3536	Reference T173 Source:C0332299:SNMI	SNMI
+N3537	Reference T173 SemanticType:C0332299:ftcn	ftcn
+N3538	Reference T173 ConceptId:C0332299	Suggestive of
+T174	MMLite 1094 1111	electrocardiogram
+N3539	Reference T174 Source:C0013798:SNOMEDCT_US	SNOMEDCT_US
+N3540	Reference T174 ConceptId:C1623258	Electrocardiography
+N3541	Reference T174 ConceptId:C0013798	Electrocardiogram
+N3542	Reference T174 Source:C1623258:MTH	MTH
+N3543	Reference T174 Source:C1623258:NCI_CTRP	NCI_CTRP
+N3544	Reference T174 SemanticType:C0013798:diap	diap
+N3545	Reference T174 Source:C1623258:CSP	CSP
+N3546	Reference T174 Source:C1623258:SNM	SNM
+N3547	Reference T174 Source:C0013798:LNC	LNC
+N3548	Reference T174 Source:C1623258:HCPCS	HCPCS
+N3549	Reference T174 Source:C0013798:CHV	CHV
+N3550	Reference T174 Source:C0013798:SNM	SNM
+N3551	Reference T174 Source:C1623258:LNC	LNC
+N3552	Reference T174 Source:C0013798:CCS	CCS
+N3553	Reference T174 Source:C0013798:MTH	MTH
+N3554	Reference T174 Source:C1623258:SNOMEDCT_US	SNOMEDCT_US
+N3555	Reference T174 Source:C1623258:LCH_NW	LCH_NW
+N3556	Reference T174 Source:C1623258:NCI	NCI
+N3557	Reference T174 Source:C0013798:ICD9CM	ICD9CM
+N3558	Reference T174 Source:C1623258:SNMI	SNMI
+N3559	Reference T174 SemanticType:C1623258:diap	diap
+N3560	Reference T174 Source:C0013798:MSH	MSH
+N3561	Reference T174 Source:C1623258:MSH	MSH
+N3562	Reference T174 Source:C0013798:CCS_10	CCS_10
+N3563	Reference T174 Source:C1623258:NCI_NCI-GLOSS	NCI_NCI-GLOSS
+N3564	Reference T174 Source:C1623258:AOD	AOD
+N3565	Reference T174 Source:C1623258:MTHICD9	MTHICD9
+N3566	Reference T174 Source:C1623258:LCH	LCH
+T175	MMLite 630 656	HISTORY OF PRESENT ILLNESS
+N3567	Reference T175 Source:C0488508:LNC	LNC
+N3568	Reference T175 Source:C0262512:CHV	CHV
+N3569	Reference T175 SemanticType:C0262512:fndg	fndg
+N3570	Reference T175 Source:C0262512:MTH	MTH
+N3571	Reference T175 ConceptId:C0262512	History of present illness
+N3572	Reference T175 Source:C0262512:LNC	LNC
+N3573	Reference T175 Source:C0262512:COSTAR	COSTAR
+N3574	Reference T175 SemanticType:C0488508:clna	clna
+N3575	Reference T175 Source:C0262512:SNMI	SNMI
+N3576	Reference T175 ConceptId:C0488508	History of present illness:Finding:Point in time:^Patient:Nominal:Reported
+N3577	Reference T175 Source:C0488508:MTH	MTH
+N3578	Reference T175 Source:C0262512:SNOMEDCT_US	SNOMEDCT_US
+T176	MMLite 3249 3255	Factor
+N3579	Reference T176 Source:C2827422:NCI	NCI
+N3580	Reference T176 Source:C1521761:MTH	MTH
+N3581	Reference T176 SemanticType:C2827422:cnce	cnce
+N3582	Reference T176 Source:C1521761:NCI	NCI
+N3583	Reference T176 Source:C1521761:LNC	LNC
+N3584	Reference T176 ConceptId:C1521761	Factor
+N3585	Reference T176 ConceptId:C2827422	Mathematical Factor
+N3586	Reference T176 SemanticType:C1521761:ftcn	ftcn
+N3587	Reference T176 Source:C2827422:MTH	MTH
+T177	MMLite 1875 1892	Total cholesterol
+N3588	Reference T177 Source:C0201950:AOD	AOD
+N3589	Reference T177 Source:C0201950:MTH	MTH
+N3590	Reference T177 Source:C0543421:MTH	MTH
+N3591	Reference T177 SemanticType:C1445957:lbpr	lbpr
+N3592	Reference T177 Source:C1445957:SNM	SNM
+N3593	Reference T177 Source:C0201950:NCI	NCI
+N3594	Reference T177 Source:C0201950:SNMI	SNMI
+N3595	Reference T177 Source:C1445957:SNOMEDCT_US	SNOMEDCT_US
+N3596	Reference T177 Source:C0201950:CHV	CHV
+N3597	Reference T177 Source:C1445957:CHV	CHV
+N3598	Reference T177 Source:C0543421:CHV	CHV
+N3599	Reference T177 Source:C0201950:NCI_CDISC	NCI_CDISC
+N3600	Reference T177 Source:C0201950:SNOMEDCT_US	SNOMEDCT_US
+N3601	Reference T177 Source:C1445957:MTH	MTH
+N3602	Reference T177 Source:C1445957:NCI	NCI
+N3603	Reference T177 ConceptId:C0543421	Total cholesterol
+N3604	Reference T177 Source:C0543421:LNC	LNC
+N3605	Reference T177 Source:C0543421:SNOMEDCT_US	SNOMEDCT_US
+N3606	Reference T177 ConceptId:C0201950	Cholesterol measurement test
+N3607	Reference T177 ConceptId:C1445957	Serum total cholesterol measurement
+N3608	Reference T177 SemanticType:C0201950:lbpr	lbpr
+N3609	Reference T177 SemanticType:C0543421:lbtr	lbtr
+T178	MMLite 2380 2383	RCA
+N3610	Reference T178 Source:C4725622:NCI_EDQM-HC	NCI_EDQM-HC
+N3611	Reference T178 SemanticType:C4725622:inpr	inpr
+N3612	Reference T178 Source:C4725622:NCI	NCI
+N3613	Reference T178 ConceptId:C4725622	EDQM-HC Release Characteristics Terminology
