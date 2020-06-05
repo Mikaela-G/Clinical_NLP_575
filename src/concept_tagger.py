@@ -16,6 +16,7 @@ from sklearn_crfsuite import scorers
 from sklearn_crfsuite import metrics
 from sklearn.model_selection import cross_validate
 from sklearn.metrics import make_scorer, confusion_matrix
+from itertools import chain
 
 def format_df(data, feature_set):
     """
@@ -71,7 +72,7 @@ def main():
     # convert features and IOB labels to expected python-crfsuite format
     train = df.loc[df['data_type']=='train']
     test = df.loc[df['data_type']=='test']
-   
+
     # baseline -> preliminary features
     X_train_base, y_train_base = format_df(train, ['context-based', 'morphological'])
     X_test, y_test = format_df(test, ['context-based', 'morphological'])
@@ -123,16 +124,15 @@ def main():
     # generate predictions and confusion matrix on train set (using best model features)
     y_pred_train = crf.predict(best_model_X)
     print('CONFUSION MATRIX FOR BEST MODEL ON TRAIN SET:')
-    print(confusion_matrix(best_model_y, y_pred_train, labels=labels))
+    print(confusion_matrix(list(chain.from_iterable(best_model_y)), list(chain.from_iterable(y_pred_train)), labels=labels))
     print('\n')
 
     # generate predictions and confusion matrix on test set
-    ##labels = list(crf.classes_) ## temporarily commented out, moved upwards, delete this one?
     y_pred = crf.predict(X_test)
     print('final eval f-score: ' + str(metrics.flat_f1_score(y_test, y_pred, average='weighted', labels=labels)))
     print('\n')
     print('CONFUSION MATRIX FOR BEST MODEL ON TEST SET:')
-    print(confusion_matrix(y_test, y_pred, labels=labels))
+    print(confusion_matrix(list(chain.from_iterable(y_test)), list(chain.from_iterable(y_pred)), labels=labels))
     print('\n')
 
     # evaluate best model performance on all tags
