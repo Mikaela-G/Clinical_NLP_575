@@ -15,8 +15,6 @@ Goals:
 """
 
 import pandas as pd
-###import pymysql???
-###import argparse???
 import os
 import sys
 import re
@@ -118,7 +116,6 @@ class DataLoader:
                 IOB_tags = ['I-'+concept_type for token in concept]
                 IOB_tags[0] = 'B-'+concept_type
 
-                ## THIS NEXT PARAGRAPH IS SUPER SLOW
                 # update self.data for each token in concept
                 IOB_idx = 0
                 for i in range(word_ID_start, word_ID_end+1):
@@ -128,7 +125,6 @@ class DataLoader:
                     IOB_idx += 1
 
 def main():
-
     # ## load small example training data (just to test out code on small subset)
     # example = DataLoader(sys.argv[1], sys.argv[2], 'train')
     # df = example.data

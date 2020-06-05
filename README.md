@@ -1,2 +1,3 @@
 # Clinical_NLP_575
-Final Project for LING 575 - 2010 i2b2 Challenge
+## LING 575 Final Project: 2010 i2b2 Concepts Task
+## Replication of Gurulingappa et al. (2010)

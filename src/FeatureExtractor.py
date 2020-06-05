@@ -4,8 +4,6 @@ Methods:
 - Extract grammatical features
 - Extract context-based features
 - Extract MetaMap-based features
-- Extract sentence-level features
-- Extract skip-gram features
 """
 import nltk
 from nltk.stem import WordNetLemmatizer
@@ -28,11 +26,8 @@ class FeatureExtractor:
         self.gram_feats()
         self.cont_feats()
         self.metamap_feats()
-        self.sent_feats() ## delete
-        self.skipgram_feats() ## delete
 
     def morph_feats(self):
-        #tokens = list(self.data['token'])
         prefix_lists = [[] for i in range(4)] 
         suffix_lists = [[] for i in range(4)] 
         lemma_list = []
@@ -109,8 +104,6 @@ class FeatureExtractor:
         self.data['POS'] = pos_list
     
     def cont_feats(self):
-        # get tokens from dataframe as list
-        #tokens = list(self.data['token'])
         # set up list for context features
         prev2_list = []
         prev_list = []
@@ -120,23 +113,23 @@ class FeatureExtractor:
         # get context features for each token
         for i in range(len(self.tokens)):
             if i > 0:
-                prev_list.append(self.tokens[i-1]) ##
+                prev_list.append(self.tokens[i-1])
             else:
                 prev_list.append('')
             if i > 1:
-                prev2_list.append(self.tokens[i-2]) ##
+                prev2_list.append(self.tokens[i-2])
             else:
                 prev2_list.append('')
-            if i < len(self.tokens) - 1: ##
-                next_list.append(self.tokens[i+1]) ##
+            if i < len(self.tokens) - 1:
+                next_list.append(self.tokens[i+1])
             else:
                 next_list.append('')
-            if i < len(self.tokens) - 2: ##
-                next2_list.append(self.tokens[i+2]) ##
+            if i < len(self.tokens) - 2:
+                next2_list.append(self.tokens[i+2])
             else:
                 next2_list.append('')
 
-        #add all context features to dataframe
+        # add all context features to dataframe
         self.data['Prev2'] = prev2_list
         self.data['Prev'] = prev_list
         self.data['Next'] = next_list
@@ -156,9 +149,3 @@ class FeatureExtractor:
             metamap_concepts = set(metamap_concepts)
         # mark True/False if token is exact match for any metamap concept token
         self.data['MetaMap'] = self.data['token'].isin(metamap_concepts)
-    
-    def sent_feats(self):
-        pass ###
-    
-    def skipgram_feats(self):
-        pass ###
